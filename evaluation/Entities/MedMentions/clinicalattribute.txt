@@ -1,0 +1,542 @@
+( BMI )
+( grade 2 - 3 , endometrioid , myometrial invasion < 1 / 2
+ABI
+ABI values
+ABR
+AMR
+AP
+Antimicrobial resistance
+BMD
+BMI
+BMI 30 - 40
+BMIs
+Biomarker
+Biomarkers
+Bleeding
+Body Fat
+Body Mass Index
+Body mass index
+Bone Mineral Density
+Bone mineral density
+CCT
+CIMT
+CO
+CVD
+Central Corneal Thickness
+Cl / F
+Clearance
+Composition
+DBMI
+DBP
+DVA
+DXA T - scores
+ECOG PS
+EFLV
+ET
+Eastern Cooperative Oncology Group ( ECOG ) performance status ( PS )
+Eastern Cooperative Oncology Group performance status
+Elson grade
+Emotional Well - Being
+Esophageal
+Exercise Tolerance
+FFR
+GRV
+HER2 / neu
+HER2 / neu positive
+HER2 status
+HR
+Heart Rate
+Heart rate
+Histologically
+ICOAS
+IMT
+Immunocompetent
+LBM
+LS
+LVEF
+Lean body mass
+Left ventricular ejection fraction
+Longer survival times
+MBV
+MD
+MFR
+MVPA
+Marker
+Markers
+Mean deviations
+OHS
+OHS score
+OKS
+Outlook
+Oxford knee
+Oxford knee score
+P / R
+P wave
+PG
+POP Cant
+PS
+PT
+Patient Characteristic
+Photophysical Properties
+Predictive biomarkers
+Prognostic Determinant
+Prognostic Factors
+Prognostic factors
+Prognostic significance
+Pupil Sizes
+QRS axis
+QRS duration
+QT
+QT interval
+Quick Disabilities of the Arm , Shoulder and Hand
+RFS
+ROM
+RR
+Renoprotective Effect
+Response
+SAP
+SBP
+SGRQ - score
+SPB
+Seminal
+Shadow
+Significant Prognostic Factor
+Successful treatment
+Susceptibilities
+Susceptibility
+SysBP
+Systolic BP
+Systolic blood pressure
+T
+T waves
+TES
+TP
+Therapeutic Effect
+Therapeutic Effects
+Toe Pressure
+Treatment Response
+Treatment response
+Triggers
+Undetectable
+Unresectable
+Urine osmolality
+VA
+VAS
+VAS score
+VAS scores
+VHI scores
+VISA
+VO2
+VO2 gas
+Ventilatory Response
+Visual Analog Scale score
+Visual Analog Scale scores
+Visual acuity
+Voice Handicap Index ( VHI ) scores
+WC
+WHO grade
+WR
+Waist Circumference
+aBMD
+abdominal circumference
+absorbance
+absorbance readings
+acoustic shadow
+activation markers
+acuity
+advanced stage
+advanced tumor stages
+adverse prognostic factor
+agreement
+airway pressure
+ankle - brachial index
+ankle pressure
+anthropometrics
+antimicrobial defense
+antimicrobial resistance
+appropriate treatment
+areal BMD
+areal bone mineral density
+assessment of response
+auditory brainstem response
+autoimmune markers
+bio - indicators
+biological marker
+biological signature
+biomarker
+biomarker kits
+biomarkers
+biomarkers )
+biopsy site
+birth outcomes
+bleeding
+blood pressure response
+blood type
+blood types
+blood volume
+body composition measured
+body composition measurements
+body fat
+body mass index
+body mass index value
+bone density
+bone mass
+bone mineral density
+breathing rates
+cFFR
+calcium
+carbohydrate intake
+cardiac biomarkers
+cardiac output
+cardiovascular death
+carotid IMT
+carotid intima - media thickness
+cell morphology
+cellular markers
+cellular morphology
+center stage
+central blood volume
+central corneal thickness
+centric occlusion
+challenges
+chemosensitizing effect
+chondrodegenerative biomarkers
+chondrodegenerative markers
+clarity
+clearance
+clearance of
+clearances
+clinical
+clinical challenges
+clinical endpoint
+clinical examination
+clinical findings
+clinical history
+clinical stage
+clinicopathological features
+compact differential signatures
+complaint
+composition
+compositional
+compositions
+contrast FFR
+crown rump length
+debatable
+density
+density index
+depth
+detectability
+detectable
+diagnostic
+diagnostic factor
+diagnostic marker
+diagnostic markers
+diastolic
+diastolic BP
+diastolic blood pressure
+diastolic pressure
+diastolic pressures
+discharge disposition
+disease - associated biomarkers
+disease indicator
+disease risk
+disease susceptibility
+distance
+distant metastasis
+donor
+duration of survival
+echo structure
+echogenicity
+ejection time
+elastic properties
+emotional impact
+emotional well - being
+end - diastolic
+endpoint
+epigenetic biomarkers
+esophageal
+estrogen receptor ( ER ) status
+exchange
+exchanges
+exercise capacity
+extent of invasion
+extracardiac biomarkers
+fast response
+fat
+flexible exchange
+flow reserve
+fluid intake
+fluorescent and drug selection markers
+forced vital capacity
+fractional flow reserve
+global field indices
+grade 3 , non - endometrioid , myometrial invasion ≥1 / 2
+guidance
+hand proportions
+head circumference
+heart rate
+heart rate response
+heart rates
+hematocrit
+hip circumference
+hip circumferences
+hip score
+histologic
+histologic features
+histologic subtype
+histological
+histological criteria
+histological differentiation
+histological picture
+histological subtype
+histological type
+histological types
+history of hospitalization
+histotype
+imaging biomarkers
+immune compromised
+immune compromised conditions
+immune status
+immunocompetent
+independent prognostic factors
+indicator
+infectious trigger
+inflammatory
+inflammatory marker
+inflammatory markers
+inhalation flow rate
+intensity
+internal organ fat
+international index of erectile function - 5 score
+international index of erectile function - 5 scores
+key biomarkers
+kidney size
+labor duration
+labor length
+lean body mass
+lean mass
+left ventricle ejection fraction
+left ventricular EF
+left ventricular ejection fraction
+left ventricular ejection fraction values
+left ventricular ejection function
+length of labour
+lifestyle factors
+local background of the patient
+local skin reaction
+longer survival times
+lumbar
+lumbar movements
+marker
+marker candidates
+markers
+maximal oxygen consumption
+mean Beck score
+mean OKS
+mean left ventricular ejection fraction values
+mean oxygen consumption
+medical problems
+medical records
+menopausal status
+metabolic features
+microbial biomarkers
+microbial marker
+microbial markers
+microbiomarkers
+microbiome markers
+mineral density
+minimum angle of resolution
+moderate - to - vigorous physical activity
+molecular biomarkers
+molecular marker
+molecular markers
+motor
+motor response
+motor responses
+mucociliary clearance
+multiple doses
+multiple markers
+myocardial blood volume
+myocardial flow reserve
+naive
+narrow - margin
+neuroimaging biomarkers
+neurological
+neurotrophic responses
+non - diagnostic molecular markers
+non - invasive continuous blood pressure inference
+normal weight
+number of attempts
+observable
+oncogenicity
+osmolality
+osmolarity
+osteogenic biomarker
+oxford hip score
+oxygen consumed per distance traveled
+oxygen consumption
+oxygen delivery
+oxygen supply
+pain intensity
+partial response
+patient characteristics
+patient demographics
+performance status
+phenotypic composition
+physical
+physical properties
+polyp size
+pool - sequenced samples
+pools
+postdiagnostic marker
+postoperative visual acuities
+potential biomarkers
+potential disease biomarkers
+predictive biomarkers
+predictive marker
+prepregnancy body mass index
+primary site
+prior treatment
+procedure type
+progesterone receptor ( PR ) status
+prognosis
+prognosis factors
+prognosis of the cancer
+prognostic
+prognostic factor
+prognostic factors
+prognostic features
+prognostic indicator
+prognostic value
+prolonged survival
+prothrombin time
+pulmonary artery wedge pressure
+pulse
+pupil size
+pupil sizes
+putative marker
+range of motion
+ranges of motion
+reading acuity
+recurrence - free survival
+redox marker
+renal features
+renal size
+renoprotective effect
+report
+residual volume
+respiration rate
+respiratory quotient
+respiratory rate
+responded to treatment
+responded well to treatment
+responding
+response
+response to the treatment
+response to therapies
+response to treatment
+responses
+responses to particular treatments
+responsive
+responsiveness
+retention
+risk
+rotation angle
+seminal
+serostatus
+serum protein biomarkers
+signature
+signatures
+single - dose
+skin reactions
+small blue round cell morphology
+small plasma volume
+smoking status
+smooth surface
+speech reception threshold
+stage
+stage - matched
+stage I
+stage I - II
+stage III - IV
+stage IIIC / IV
+stage IV
+stage IV disease
+staged
+standard mean difference
+standardized mean difference
+state markers
+stroke volume
+strong skin reactions
+subchondral bone mass
+successful treatment
+surface marker
+survival
+survival time
+survival times
+susceptibility
+susceptibility involves
+susceptibility to infection
+susceptibility to the disease
+systolic
+systolic BP
+systolic arterial pressure
+systolic blood pressure
+systolic blood pressures
+systolic bloods pressure
+therapeutic effect
+therapeutic effects
+therapeutic response
+therapeutic responses
+thoracic volume
+thoracic volumes
+time of delivery
+toe pressure
+translation
+trapezoidal
+treatable stage
+treatment - naïve
+treatment naïve
+treatment response
+treatment responses
+triceps
+triceps skinfolds
+trigger
+trigger factor for seizure
+triggering
+triggers
+tumor margins
+ultrasonographic features
+ultrasonographical
+uncorrected
+undetectable
+unresectable
+unveil potential biomarkers
+urine osmolality
+urine output
+useful marker
+valuable prognostic significance
+vascular function
+vascular functions
+velocity
+ventilatory
+ventilatory response
+vertical cup - to - disc ratio
+visual ability
+visual acuity
+visual analog scale
+visual analog scale ( VAS ) scores
+visual analog scores
+visual analogue scale scores
+visual cue
+visual linear analogue scale score
+vital capacity
+vital sign
+vital signs
+volume
+volume status
+volumetric BMD
+vulnerability
+waist
+waist circumference
+∆WR

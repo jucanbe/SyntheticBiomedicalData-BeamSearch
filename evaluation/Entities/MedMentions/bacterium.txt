@@ -1,0 +1,889 @@
+( M . tb ) DK9897
+03 - 84 UFLA
+19A
+3
+6B
+6B strain
+8
+= DSM 100491T = KCTC 39 592 T
+A .
+A . salmonicida subsp .
+AK3 ( ST - 5 SCCmecIV
+AOB
+AU0158
+Acidithiobacillus thiooxidans
+Acidobacteria
+Acinetobacter
+Acinetobacter Baumannii
+Acinetobacter baumannii
+Acinetobacter calcoaceticus
+Acinetobacter calcoaceticus - Acinetobacter baumannii complex
+Acinetobacter calcoaceticus - Acinetobacter baumannii complex bacteria
+Acinetobacter johnsonii
+Acinetobacter nosocomialis
+Acinetobacter parvus HANDI 309
+Acinetobacter pittii
+Acinetobacter seifertii
+Acinetobacter species
+Acinetobacter spp .
+Actinobacillus pleuropneumoniae
+Actinobacillus succinogenes
+Actinobacteria
+Actinomyces neuii
+Actinomyces species
+Actinomyces strain
+Aer .
+Aeromonas hydrophila
+Aeromonas salmonicida
+Aeromonas salmonicida subsp .
+Agrobacterium
+Agrobacterium fabrum
+Agrobacterium tumefaciens
+Agrobacterium tumefaciens KYC55
+Aliivibrio fischeri
+Alphaproteobacteria
+Altererythrobacter
+Altererythrobacter aestiaquae
+Altererythrobacter confluentis sp .
+Altererythrobacter gangjinensis
+Altererythrobacter luteolus
+Altererythrobacter species
+Anabaena
+Anabaena sp .
+Ancylomarina subtilis
+Ancylomarina subtilis gen .
+Arthrobacter
+Arthrobacter ginkgonis sp .
+Arthrobacter halodurans JSM 078085 T
+Aurantimonas coralicida DSM 14790 T
+Aurantimonas endophytica sp .
+Aurantimonas manganoxydans DSM 21871 T
+Aureimonas
+B .
+BCG - 1173
+BCG - SH
+BR 3262
+BR 3262 diazotroph
+BR 3262 diazotrophs
+BR 3267
+BR 3299
+BURKHOLDERIA DOLOSA
+BV - 2
+BXF1
+Bacille Calmette - Guerin
+Bacillus
+Bacillus aerius
+Bacillus altitudinis
+Bacillus anthracis
+Bacillus anthracis pXO1
+Bacillus cereus
+Bacillus cereus LA2007
+Bacillus ginsengisoli
+Bacillus pumilus
+Bacillus safensis
+Bacillus stratosphericus
+Bacillus subtilis
+Bacillus subtilis K - 18
+Bacillus subtilis UD1022
+Bacillus tequilensis
+Bacillus thermocopriae
+Bacillus thuringiensis
+Bacillus toyonensis
+Bacteria
+Bacterial
+Bacterium Gordonia sp .
+Bacteroidales
+Bacteroidetes
+Basfia succiniciproducens
+Basilus subtilus
+Betaproteobacteria
+Bifidobacterium
+Bifidobacterium adolescentis
+Bifidobacterium bifidum
+Bilophila wadsworthia
+Biofilms
+Bordetella pertussis
+Borrelia burgdorferi
+Borrelia spp .
+Bradyrhizobium japonicum strain 113 - 2
+Brevibacillus agri strain
+Brucella abortus
+Brucella melitensis
+Burkholderia dolosa
+Burkholderia pseudomallei
+Burkholderia sp .
+Burkholderia sp . strain CCA53
+Burkholderia species
+Burkholderia strains
+Butyrivibrio
+C .
+C . burnetii
+C . pneumoniae
+CB1
+CB2
+CB3
+CCA53
+CICC 10902 T
+CPCC 100904 T
+CT
+Campylobacter
+Campylobacter jejuni
+Campylobacter species
+Carnobacteriaceae
+Carnobacterium
+Carnobacterium inhibens K1 ( T )
+Carnobacterium inhibens subsp .
+Caulobacter
+Caulobacter crescentus
+Chitinibacter
+Chitinibacter fontanus sp .
+Chitinibacter tainanensis S1 T
+Chlamydia
+Chlamydia pneumoniae
+Chlamydia trachomatis
+Chloroflexi
+Chromobacterium violaceum CV026
+Citrobacter freundii
+Clostridium
+Clostridium botulinum group III
+Clostridium difficile
+Clostridium perfringens
+Clostridium perfringens type A
+Clostridium species
+CoNS
+Coagulase - Negative Staphylococci
+Coprococcus
+Corynebacterium aurimucosum
+Corynebacterium kroppenstedtii
+Corynebacterium striatum
+Coxiella burnetii
+Cyanobacteria
+Cyanobacterial
+D
+D .
+D7630
+D7631
+D7632
+DSM 28825 T
+Deinococcus radiodurans
+Desulfovibrio
+Dichelobacter nodosus
+E .
+E . coli
+ECC
+EGI 6500337 T
+EMRSA - 15 ( ST22 SCCmecIV
+EN23
+EN27
+ESKAPE
+Endofungal Bacterium
+Enterobacter
+Enterobacter cloacae
+Enterobacter cloacae complex
+Enterobacter species
+Enterobacteriaceae
+Enterococcus
+Enterococcus faecalis
+Enterococcus faecium
+Enterococcus spp .
+Epsilonproteobacterium
+Escherichia
+Escherichia .
+Escherichia coli
+Escherichia coli ATCC 25922
+Escherichia coli BL21 ( DE3 )
+Escherichia coli HGT
+Escherichia coli K - 12
+Eukaryotic Fibrolytic Communities
+F .
+FA102 T
+FIB
+Faecalibacterium
+Faecalibacterium prausnitzii
+Ferrovum " sp .
+Fibrobacter
+Filifactor
+Firmicutes
+Formosa agariphila
+Formosa bacteria
+Formosa sp .
+Fusobacteria
+Fusobacterium
+G .
+GC2
+Gammaproteobacteria
+Gemmata
+Gemmatimonadetes
+Geobacter spp
+Geobacter sulfurreducens
+Gordonia sp .
+Gram - Negative Bacteria
+Gram - Negative ESKAPE
+Gram - Positive Rods
+Gram - negative
+Gram - negative ESKAPE
+Gram - negative bacteria
+Gram - negative bacterial strains
+Gram - negative bacterium
+Gram - negative organisms
+Gram - negative pathogens
+Gram - positive
+Gram - positive bacteria
+Gram - positive bacterium
+Gram - positive rods
+Gram - stain - negative
+Gram - staining - negative , aerobic
+Gram negative
+Gram negative isolates
+Gram positive
+Gram positive bacteria
+Group B Streptococcus
+Group G Streptococcus
+H .
+H . pylori
+HAP bacteria
+HMKP
+HP
+Haemophilus
+Haemophilus influenzae
+Haemophilus influenzae strain
+Haemophilus influenzae type B
+Haemophilus isolates
+Hafnia alvei H4
+Helicobacter pylori
+Hypermucoviscous Klebsiella pneumoniae
+INPA 03 - 11B
+Inactivated Bacteria
+Iron - oxidizing Bacterium
+Isosphaera
+JA12
+JPM1
+Janibacter sp .
+K .
+K . pneumoniae
+KCTC 42257 T
+KCTC 52296 T
+KPC - Kp
+KX423734
+KX423735
+KX881940
+Klebsiella
+Klebsiella pneumoniae
+Klebsiella pneumoniae ST147
+Klebsiella pneumoniae strains
+L .
+L . plantarum
+L . rhamnosus
+LA - MRSA
+LA2007
+LAB
+LGG
+Lactobacilli
+Lactobacillus
+Lactobacillus casei
+Lactobacillus gasseri
+Lactobacillus kefiranofaciens
+Lactobacillus paraplantarum
+Lactobacillus plantarum
+Lactobacillus plantarum C88
+Lactobacillus rhamnosus
+Lactobacillus rhamnosus GG
+Lactobacillus salivarius
+Lactobacillus species
+Lactobacillus strain D - 3
+Legionella pneumophila
+Leptospira spp
+Leptospirillum
+Leptospirillum Group II CF - 1
+Leptospirillum group II strain CF - 1
+Leptospirillum strain CF - 1
+Leuconostoc
+Listeria
+Listeria monocytogenes
+Listeria monocytogenes Serotype 1 / 2a
+Listeria monocytogenes strains
+Lysinibacillus boronitolerans
+Lysinibacillus fusiformis M5
+Lysinibacillus fusiformis strain M5
+Lysinibacillus pakistanensis
+Lysinibacillus sphaericus
+M .
+M . tuberculosis
+MDR
+MDR strains
+MDRPA
+MO
+MRSA
+MS6671
+MU
+MU 1615
+MU N2
+Marinifilaceae
+Marinifilum fragile JCM 15579 T
+Marinilabiliaceae
+Marinilabiliales
+Marinilabiliales ord .
+Marinilabiliales ord . nov .
+Methicillin - Resistant Staphylococcus aureus Strains
+Methicillin - resistant Staphylococcus aureus
+Methicillin - susceptible S .
+Microbacterium paraoxydans JPM1
+Microbial Flora
+Micrococcus luteus
+Micrococcus yunnanensis
+Micromonospora
+Moraxella nonliquefaciens
+Moraxella species
+Morganella morganii
+Multidrug - Resistant Pseudomonas aeruginosa
+Mycobacterial
+Mycobacterium Tuberculosis
+Mycobacterium abscessus
+Mycobacterium avium subspecies paratuberculosis
+Mycobacterium bovis
+Mycobacterium bovis BCG
+Mycobacterium bovis BCG - 1173
+Mycobacterium leprae
+Mycobacterium smegmatis mc ( 2 ) 155
+Mycobacterium tuberculosis
+Mycobacterium ulcerans
+Mycoplasma
+Mycoplasma ovipneumoniae
+Mycoplasma pneumoniae
+Myxococcus xanthus
+NFGNB
+NG
+NTM
+NTMs
+NTPn
+Neisseria meningitidis
+Non - fermenting Gram - negative bacilli
+Nonlabens dokdonensis
+Nontuberculous Mycobacteria
+O .
+Oenococcus oeni
+Orientia tsutsugamushi
+P .
+P . donghuensis
+P . gingivalis
+P aeruginosa
+PCC 6803
+PCC 7120
+Pa
+Pa14
+Parvimonas micra ATCC 33270
+Peptostrptococcus
+Phycisphaera - related group WD2101
+Phytoplasma
+Phytoplasmas
+Planctomycetaceae
+Planctomycetes
+Planctomycetia
+Planctopirus
+Planktonic
+Planococcus rifietoensis
+Pneumococcal
+Porphyromonas
+Porphyromonas gingivalis
+Porphyromonus gingivalis
+Prevotella
+Probiotic Strain
+Probiotics
+Prochlorococcus
+Prolixibacteraceae
+Propionibacterium acnes
+Propionibacterium species
+Proteobacteria
+Proteus mirabilis
+Providencia species
+Providencia stuartii
+Providencia stuartii PS71
+Ps .
+Pseudobutyrivibrio
+Pseudomonas
+Pseudomonas aeruginosa
+Pseudomonas aeruginosa ATCC 27853
+Pseudomonas aeruginosa Pa14
+Pseudomonas donghuensis
+Pseudomonas fluorescens
+Pseudomonas putida
+Pseudomonas putida A ( ATCC 12633 )
+Pseudomonas spp .
+Pseudomonas stutzeri A1501
+Pseudomonas syringae pv .
+Pst - AvrRpm1
+Pylori
+QH - 12
+R .
+RB51
+Rhine Hesse ( ST5 SCCmecII
+Rhizobium radiobacter
+Rhodobacter capsulatus
+Rhodobacter capsulatus DSM 1710
+Roseburia
+Roseburia hominis
+Rothia
+Rothia dentocariosa
+Rothia strains
+Rubinisphaera
+Ruminocccus
+Ruminococcus
+S .
+S . Typhi
+S . aureus
+S . coelicolor
+S . flexneri
+S . mutans
+S aureus
+SYP - A7299 T
+Salmonella
+Salmonella enterica
+Salmonella enterica serovar Typhi
+Salmonella enterica serovar Typhimurium
+Salmonella enterica subsp .
+Salmonella enteritidis strains
+Salmonella mutant strains
+Salmonella strains
+Salmonella typhi
+Salmonella typhi ATCC 14028
+Salmonella typhimurium
+Serotype 6A
+Serotype 6C
+Serotype 7F
+Serratia marcescens
+Serratia quinivorans BXF1
+Serratia rubidaea
+Shewanella oneidensis MR - 1
+Shigella
+Shigella flexneri
+Singulisphaera - like bacteria
+Singulisphaera group
+Sinomonas mesophila
+Spirochaetes
+Sporolactobacillus inulinus YBS1 - 5
+Staphylococcus
+Staphylococcus areous
+Staphylococcus aureus
+Staphylococcus aureus ATCC 209P
+Staphylococcus aureus ATCC 25923
+Staphylococcus carnosus ( S . carnosus ) TM300
+Staphylococcus carnosus TM300
+Staphylococcus condimenti F - 2 T
+Staphylococcus epidermidis
+Staphylococcus genera
+Staphylococcus pseudintermedius
+Staphylococcus saprophyticus
+Staphylococcus sp
+Staphylococcus spp .
+Stationary - phase cells
+Stationary cells
+Strain EGI 6500337 T
+Strain QH - 12
+Strains EN16
+Streptococcus
+Streptococcus agalactiae
+Streptococcus anginosus
+Streptococcus gallolyticus subsp .
+Streptococcus gordonii
+Streptococcus iniae
+Streptococcus mutans
+Streptococcus pneumoniae
+Streptococcus pneumoniae serotype 3
+Streptococcus pyogenes
+Streptococcus pyogenes CICC 10464
+Streptococcus salivarius
+Streptococcus sanguinis
+Streptomyces Strains EN16
+Streptomyces ahygroscopicus
+Streptomyces ahygroscopicus var .
+Streptomyces coelicoflavus ( S . coelicoflavus ) SRBVIT13
+Streptomyces coelicoflavus SRBVIT13
+Streptomyces coelicolor
+Streptomyces coelicolor A3 ( 2 )
+Streptomyces griseus NBRC 13350
+Streptomyces species
+Synechococcus
+Synechococcus elongatus PCC 7942
+Synechococcus elongatus PCC7942
+Synechocystis
+Synechocystis sp .
+Syntrophobacter fumaroxidans
+Syntrophomonas wolfei
+T .
+Taylorella ( T . ) equigenitalis
+Taylorella equigenitalis
+Tepidisphaerales
+Thermus aquaticus
+Thermus thermophilus
+Thiomonas
+Thiomonas sp .
+Thiomonas spp .
+Thiomonas strains
+Treponema pallidum
+Tuberculosis
+Turicibacter
+Typhi
+Typhimurium
+USA500 ( ST8 SCCmecIV
+V .
+VGS
+Variovorax paradoxus
+Vibrio cholerae
+Vibrio cholerae O1
+Vibrio harveyi
+Vibrio ichthyoenteri
+W .
+WSPP ( ST30 SCCmecIV
+Wolinella succinogenes
+X .
+XDR
+Xylella fastidiosa
+Y .
+Yersinia ruckeri
+Z .
+Z . mobilis
+ZM4
+Zymomonas mobilis
+abortus
+abscessus
+abscessus ATCC 19977
+acI
+acetic acid bacteria
+acid - fast mycobacterium tuberculosis bacilli
+acnes
+actinobacteria
+actinobacterial
+actinobacterial strain
+actinomyces
+actinomycete
+aeruginosa
+aeruginosa K2733 - PAO1
+aeruginosa PAO1
+aeruginosa PAO1 wild - type
+agrobacterium
+ahygroscopicus
+alvei
+alvei H4
+ammonia - oxidizing bacteria
+anaerobic bacterium
+anginosus
+arthropod - borne bacteria
+asinigenitalis
+aureus
+aureus ATCC 25923
+aureus clones
+bacille calmette - guerin
+bacilli
+bacillus
+bacteria
+bacteria cells
+bacterial
+bacterial biofilms
+bacterial cell
+bacterial cells
+bacterial cocci
+bacterial community
+bacterial microflora
+bacterial phyla
+bacterial species
+bacterial strain
+bacterial strain QH - 12
+bacterial strains
+bacterial taxa
+bacterium
+baumannii
+biofilm
+biofilm community
+biofilm fluid
+biofilm samples
+biofilms
+biosensor strains
+black - pigmented bacilli
+borreliae
+botulinum strains
+bovis BCG
+brevis
+burgdorferi
+burnetii
+carbapenem - resistant A .
+carbapenem - resistant Acinetobacter baumannii
+carnosus
+carnosus TM300
+casei
+cells
+cenocepacia strains
+cereus
+cereus family
+cholerae
+cholerae O1
+clade
+class Bacilli
+clone
+coagulase - negative Staphylococcus
+coagulase - negative staphylococci
+coelicolor
+coli
+coli 83972
+coli ATCC 25922
+coli BL21
+coli C600
+coli CFT073
+coli HGT
+coli K - 12
+commensal bacteria
+commensal species of Clostridia
+commensals
+condimenti
+condimenti strain F - 2 ( T ) ( DSM 11674 )
+curvatus
+cyanobacteria
+cyanobacterial
+dNTM
+diarrheagenic Escherichia coli
+diazotrophic bacteria strains
+difficile
+diphtheroid
+diphtheroids
+dolosa
+dolosa AU0158
+dolosa strain
+dolosa strains
+donghuensis
+drug - resistant targets
+electroactive biofilms
+elongatus
+elongatus PCC 7942
+embedded bacteria
+endobacteria
+endobacterium
+endofungal bacterium
+endospore - forming soil dwelling bacteria
+enterica
+enterica Serovar Orion Strain CRJJGF _ 00093
+enterica serovar Orion strain CRJJGF _ 00093
+epidermidis
+epidermidis DSMZ 20044
+equigenitalis
+exponential and stationary planktonic cells
+exponential cells
+extensively drug - resistant
+extragenital Neisseria gonorrhoeae
+facultatively anaerobic
+faecal indicator bacteria
+faecium
+family Aurantimonadaceae
+family Enterobacteriaceae
+fastidiosa
+fibrolytic bacteria
+fibrolytic bacterial community
+fisheri
+flavobacteria
+flexneri
+fructivorans
+fusiformis M5 .
+gallolyticus subsp .
+genera Aurantimonas
+genital
+genus Aurantimonas
+genus Borrelia
+genus Sinomonas
+gingivalis
+gram - negative
+gram - negative bacteria
+gram - positive
+gram - positive bacteria
+gram - positive fluoranthene - degrading bacterial
+gram negative bacteria
+gram negative bacterium
+gram positive
+group III C .
+growth - promoting bacteria
+gut commensal bacteria
+hVISA
+halodurans JSM 078085 T
+halotolerant rhizobacteria
+hydrophila
+hyper ammonia producing ( HAP ) bacteria
+hypermucoviscous Klebsiella pneumoniae
+inactivated E .
+inactivated bacteria
+inactivated cells
+inhibens strain K1 ( T )
+iniae
+inoculum
+insect vectored mollicutes
+inulinus YB1 - 5
+iron - oxidizing bacteria
+iron - oxidizing bacterium
+iron oxidizer
+isolate
+isolates
+jejuni
+lactic acid bacteria
+lactic acid bacterium
+lactobacilli
+leprae
+listerial
+living bacterial cells
+marcescens
+marine pelagic Actinobacteria
+methicillin - resistant S aureus
+methicillin - resistant Staphylococcus aureus
+methicillin - susceptible S .
+microbiological
+mirabilis
+mixed biofilm
+mixed biofilms
+mobilis
+monocytogenes
+monocytogenes ATCC 7644
+monocytogenes L12 strain
+mosaic type C
+muciniphila
+multidrug - resistant
+multidrug - resistant Pseudomonas aeruginosa
+multidrug - resistant microbes
+multidrug resistant Acinetobacter spp
+multidrug resistant member
+mutans
+mycobacteria
+mycobacterial
+mycobacterium
+mycoplasma pneumoniae
+next - generation probiotics
+nitrogen - fixing bacterial
+nodosus
+non - HMKP
+non - aureus staphylococci
+non - fermenting Gram - negative bacilli
+non - motile
+non - motile bacterium
+non - susceptible VGS
+nonliquefaciens
+nontuberculous mycobacteria
+nontuberculous mycobacterial
+nontypeable pneumococci
+nov .
+nov . , sp .
+nov strain Hel1 _ 33 _ 131
+obligate intracellular bacteria
+oeni
+oral bacteria
+organism
+pallidum
+parabuchneri
+paracasei
+paraplantarum D3
+parvus HANDI 309
+pasterianus
+pasteurianus
+pathogenic bacteria
+perfringens
+persister
+persister cells
+persisters
+phyla
+phylum Bacteroidetes
+phylum Nitrospira
+phytopathogenic Pectobacterium spp .
+phytoplasma
+planctomycetes
+planktonic
+plantarum
+plantarum C88
+pleuropneumoniae
+pneumococcal
+pneumococci
+pneumococcus
+pneumoniae
+pneumoniae ST147 isolates
+pneumophila
+prausnitizii
+prausnitzii
+probiotic
+probiotic genus
+probiotics
+producers
+pseudintermedius
+pseudomallei
+putida
+putida A ( ATCC 12633 )
+putida KT2440
+pylori
+pyogenes
+rBCG
+rBCG - 1173 : A
+rBCGs
+radiobacter
+radiodurans
+rectale
+resistant bacteria
+rhamnosus
+rhizobacteria
+rhizobia
+rhizobium strain
+rod - coccus growth lifecycle
+rod - shaped bacterium
+ruckeri
+salmonicida
+salmonicida subsp .
+salt - stressed soil - borne bacteria
+serogroup 6
+serotype 6C
+serotype 7F
+short - rods bacterial strain
+smegmatis
+species of bacteria
+specific bacteria
+spore
+spore forming bacteria
+spores
+staph
+staphylococcal
+staphylococcal bacteria
+staphylococci
+strain
+strain 's
+strain BXF1
+strain CCA53
+strain CF - 1
+strain EGI 6500337 T
+strain QH - 12
+strain STM - 7 T
+strain SYP - A7299 T
+strains
+strains of diazotrophs
+strains of staphylococci
+streptococcal
+streptococcal strains
+streptococci
+streptococcus
+stuartii strain
+stutzeri A1501
+subspecies
+subtilis DSMZ 1971
+succiniciproducens
+succinogenes
+sulfurreducens
+syntrophic bacteria
+tb
+tb DK9897
+tb H37Rv
+thermophilus
+tomato AvrRpm1
+tuberculosis
+tuberculosis H37Rv
+tuberculosis populations
+type E
+types C
+typhi
+typhimurium SL 1344
+uropathogenic Escherichia coli ( E . coli ) strains
+uropathogenic strain E .
+vancomycin - intermediate Staphylococcus aureus ( hVISA ) strains
+veillonellae
+viridans streptococcal
+wuyiensis
+zoonotic agent
+zoonotic γ - proteobacterium
+γ - Proteobacteria

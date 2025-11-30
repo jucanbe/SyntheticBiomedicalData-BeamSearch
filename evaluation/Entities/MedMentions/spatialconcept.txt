@@ -1,0 +1,3717 @@
+" PYNT " sequence
+" cauliflower " - like structure
+( COI ) sequence
+( FPC )
+( pre ) molar region
+-1082 ( A > G )
+-1082 A > G
+-592 ( C > A )
+-592 C > A
+-819 ( C > T )
+-819 C > T
+-hairpin conformation
+11 - loci barcode
+11q
+17p
+2 - bp
+2 - dimensional
+2000 - bp homologous flanking regions
+2D
+3 ' - UTR
+3 ' - UTR region
+3 ' - end nucleotide sequence
+3 ' - untranslated region
+3 ' UTR
+3 ' UTRs
+3 ' untranslated region
+3 ( ' ) UTR
+3 - D
+3 - D structure
+3 - Dimensional
+3 - dimenational structure
+3 - dimensional
+30 - mer
+347 ( Ser - 346 / 7 )
+382 - 392
+3D
+3D field
+3D fold
+3D structure
+3D structures
+4 . 1 - ezrin - ridixin - moesin ( FERM ) domain
+4D
+5 ' - CCGG - 3 ' sequences
+5 ' - RTGT * AY
+5 ' - RTGT * AY sequence
+5 ' - TCGT * AT
+5 ' - YYGT * AW
+63 nt upstream of the normal site
+753 bp
+8q
+8q24 rs13281615 polymorphism
+9 - bp sequences
+A
+A - 1438 G
+A - 1438 G single nucleotide polymorphism
+A / P
+A1
+A6986 G
+AAC
+AACTG
+AAR
+AC
+ACTinsCATGTTGTG
+AGC
+AOC
+AOCs
+AP
+AT
+ATPase domain
+ATPcap
+ATTT
+Abdominal
+Access
+Addresses
+Adelaide
+Adrenal corticomedullary
+Afghan
+Afghanistan
+Africa
+African
+African countries
+Afrotropical region
+Agricultural
+Ahvaz
+Al Ain
+Alabama
+Alaska
+Albanian
+Alberta
+Alberta 's
+Alexandria
+Algerian
+Algerian biotope
+Alps
+Amazon Region
+Amazon basin
+Amazon region
+Amazonian
+America
+American West
+Americas
+Amsterdam
+Andalusia
+Andalusia ( South Spain )
+Andalusia , Spain ,
+Andes
+Anechoic Space
+Angle
+Angles
+Angular
+Anhui
+Animal permanent environment
+Ankle
+Antarctic
+Anterior
+Anterior Hard Palate
+Anterior Regions
+Anterolateral
+Anteroposterior
+Aortic Root
+ApMat and GS sequences
+Apicobasal Polarity
+Appalachians
+Approach
+Approaches
+Apulia
+Aqueductal
+Arabian Peninsula
+Arabian Sea
+Arauca
+Arctic
+Arctic Ocean
+Area
+Areas
+Argentina
+Arid Desert
+Arizona
+Arkansas
+Armenia
+Ashland
+Asia
+Asia .
+Asian
+Asians countries
+Asn19 / 23 / 1006Gln
+Asn19 / 23Gln
+Asn19 / 23Gln / Tyr920Glu / Ser921Glu
+Asn19 / Asn23
+Asub subdomain
+Asymmetric
+Asymmetry
+Athens
+Atlantic
+Australia
+Australian
+Austria
+Axial
+Axially
+Axis
+Azores
+B
+B motifs
+BA 24
+BC
+Balaton
+Balatonfüred City
+Bald Head Island
+Balkans
+Baltimore
+Baltimore City
+Bangalore
+Bangalore urban
+Bangkok , Thailand
+Bangladesh
+Basal
+Baviaanskloof Nature Reserve
+Bay of Quinte
+Bay of Quinte Lake reference site
+Beijing
+Belfast
+Belgium
+Bergamo
+Bifurcation
+Bihar
+Bilateral
+Bissau
+Body regions
+Bogota
+Bogotá
+Bolivia
+Brain regions
+Brazil
+Brazil 's
+Brazilian
+Brazilian territory
+British Columbia
+Brittany
+Broad
+Brod - Posavina County
+Bronx
+Builsa District
+Bulgaria
+Burkina Faso
+Byzantine
+C
+C - 28 position
+C - 5 stereochemistry
+C - Terminal Domain
+C - Terminal Tail
+C - rich sequence
+C - rich sequences
+C - terminal
+C - terminal 182 amino acids
+C - terminal domain
+C - terminal domains
+C - terminal end
+C - terminal helices
+C - terminal region
+C - terminal tail
+C - terminus
+C / C
+C / T
+C terminal region
+C1 domain
+C1236 T
+C3435 T
+CA
+CA1
+CA1 region
+CAZYme sequences
+CCA
+CCA sequence
+CCGG sites
+CCS
+CD
+CDSs
+CMF
+COI long sequences
+COI sequence
+CON
+CRD
+CS
+CSA
+CT - BR
+CTD
+CTTT
+CV
+CZ
+Calcareous grasslands
+California
+California 's
+Cambodia
+Cameroon
+Campania
+Canada
+Canadian
+Canadian Areas
+Canadian city
+Canary Islands
+Canberra
+Cardiometabolic
+Cardiovascular
+Caribbean
+Caribbean coast
+Carpal Tunnel
+Caxiuanã CAX
+Cayenne region
+Central
+Central America
+Central Asia
+Central Australia
+Central Germany
+Cephalocaudal dimension
+Cervical
+Chapel Hill
+Charleston
+Chest
+Chicago
+Chile
+Chile ,
+China
+China 's
+Chinese
+Chinese mainland
+Cholistan
+Cholistan desert
+Chondral
+Circular
+Circumferential
+Cities
+Cleveland
+Coastal
+Coastal Watershed
+Codon
+Cofactor - binding loop 2
+Coiling
+Colombia
+Columbus , OH
+Complete Genome Sequence
+Concepción
+Concepciόn
+Conformation
+Conformers
+Connectivity
+Contact points
+Contours
+Contralateral
+Contrasting Patterns
+Copy number variation
+Core
+Corresponding Overlaps
+Cortical
+Costa Rica
+Costa Rica Dome
+Counties
+Countries
+Country
+County
+Crevicular
+Croatia
+Cross - Sectional Area
+Cross - sectional area
+Cuba
+Cuban
+Cutaneous
+Czech Republic
+Côte d ' Ivoire
+D1 / D2 domain
+D12 - L1
+D228
+DA
+DAA
+DAs
+DEATH domain
+DH
+DNA Motif
+DNA barcodes
+DNA binding domain
+DNA binding domains
+DNA marker
+DNA markers
+DNA motif
+DNA regions
+DNA sequence
+DNA sequences
+Dalian
+Danish
+Deep
+Deep Posterior Perianal Spaces
+Degueche
+Denizli
+Denmark
+Department
+Destination
+Dhaka
+Diebu ( Tewo ) county
+Diffuse
+Direct anterior approach
+Direction
+Distal
+Distribution patterns
+Domain
+Domains
+Domed
+Dominican Republic
+Donor - site
+Donor site
+Dorsal
+Draft Genome Sequence
+Draft Genome Sequences
+Dubai
+Durham , NC
+E
+EC2
+EC2 domain
+EC2 domains
+ECD
+EIEKFDKSKLK
+EMR
+EMR countries
+ENVIRONMENTAL
+EU
+EU - 27
+EZ
+Earth
+East China
+East parts
+Eastern European Countries
+Eastern European countries
+Eastern Mediterranean Region
+Eastern Pacific
+Eastern countries
+Ectodomain
+Ectopic
+Ecuador
+Egypt
+El Sidrón
+Emilia Romagna
+England
+Enteric
+Environment
+Environmental
+Environments
+Epicardial
+Epidural
+Estonia
+Ethiopia
+Eurasia
+Eurasian
+Europe
+European
+European city
+European countries
+European sites
+Evolutionary approaches
+Expansion
+Extended
+Extending
+Extends
+Extracellular
+FPA
+FPAs
+FPC
+FR
+Face
+Facial
+Faisalabad
+Far Eastern areas
+Fc - binding domains
+Fianarantsoa Province
+Fiji
+Fine structure
+Finland
+Finnish Lapland
+Florida
+Focal
+Foci
+Foggia
+Four - Dimensional
+France
+French
+French Guiana
+French county
+French regions
+Fringe pattern
+Friuli - Venezia Giulia
+Furthermore
+G - quadruplex
+G - quadruplex DNA
+G - quadruplexes
+G - tetrad
+G - tetrads
+G2677 T
+GAAAGIVAG
+GB
+GH5 catalytic domain
+GI
+GQ DNA
+GQs
+GTTT
+Gabon
+Galveston , Texas
+Gannan Tibetan Autonomous Region
+Gansu
+Gaps
+Gastrocnemius muscle - tendon
+Gastrointestinal
+Gaya
+Genome - wide transcriptome
+Genome Sequence
+Genome Sequences
+Geolocalization
+German
+Germany
+Ghana
+Gilan Province
+Gingival sulcus
+Glenoid
+Global
+Glu138Pro
+Grassland
+Great Basin
+Great Britain
+Great Lakes
+Greece
+Greek
+Groningen
+Grosseto
+Group of Latin America and Caribbean Countries ( GRULAC ) region
+Guangdong province
+Guangxi
+Guangxi Zhuang Autonomous Region
+Guayas
+Guayas region
+Guinea - Bissau
+Guizhou
+Gujarat
+Gulf countries
+Guwahati , Assam
+H5 sequence PQREKRGLF
+HACS
+HDF area
+HDT
+HLE
+Habitat
+Haiti
+Haitian
+Hanzhong prefecture
+Hawai ' i
+Head
+Head - down tilt
+Heads
+Helix - turn - helix motif
+Henan
+Henan Province
+Henan province
+Hepatic
+Hidalgo
+High Density SNPs
+Hillsborough
+Hilo
+Himachal Pradesh
+Hispaniola
+Hokkaido
+Home
+Hong Kong
+Hooghly district of West Bengal
+Hortus
+Hotspots
+Houston , Texas
+Houston Texas
+Huashan Watershed
+Huashan watershed
+Hub
+Humber
+Hunan
+Hungary
+Huzou
+I domain
+I domain 's
+I domain binding
+IBPv domains
+IC
+ICV
+ID
+IG side
+IL
+IMF
+IPD
+IPS
+IQ domain
+IRES - CreER ( T2 ) sequence
+IV
+IV access
+Iberia
+Iberian refugium
+Iceland
+Icv
+Idaho
+Ilam
+Illinois
+Implant deviations
+In - plane radial displacements
+In Situ
+In Vivo
+In situ
+In vivo
+India
+India 's
+Indian
+Indian subcontinent
+Indiana
+Indonesia
+Inferred copy number variations
+Inframammary Fold
+Inlet
+Inner Mongolian steppes
+Interlobar
+Intermediate
+Intra - abdominal
+Intra - articular
+Intracameral
+Intracavitary
+Intracellular
+Intracerebral
+Intracranial
+Intramuscular
+Intramyocardial
+Intranasal
+Intraorally
+Intraretinal
+Intratumoral
+Intravascular
+Intravenous
+Intrinsic
+Iowa
+Iran
+Iranian
+Iraq
+Ireland
+Ireland 's
+Isfahan Province
+Islamabad
+Island
+Island of Hawai ' i
+Israel
+Italian
+Italian Regions
+Italy
+Italy 's
+JZB
+Japan
+Japanese
+Japanese regions
+Jiaozhou Bay
+Jiaozhou Bay , North China
+Jinan
+Jinzhou
+Joint
+Joints
+Jordan
+K .
+KY
+Kanas river valley
+Kano
+Kano 's
+Kano state
+Kansas
+Kanthararom District
+Kassena - Nankana District
+Kebelli
+Kent
+Kentucky
+Kenya
+Kenya 's
+Kenyan
+Knee Joint
+Knee joint
+Korea
+Korean
+Kyushu - Okinawa Districts
+L27 domain
+L3
+LA
+LDS populous states
+LEV
+LFJ
+LH
+LH area
+LKA
+LMIC
+LMICs
+LOOP
+LR
+LRR
+LV
+LV free wall
+Lahore
+Lake
+Lao PDR
+Lao People 's Democratic Republic
+Late arterial
+Lateral
+Lateral Hypothalamus
+Laterally
+Latin America
+Latin American Region
+Latina
+Latvia
+Laurel Highlands of Pennsylvania
+Left parapharyngeal
+Leiden
+Leu232Pro
+León
+Lima
+Linear
+Linearity
+Linköping , Sweden
+Lithuania
+Local
+Localized
+Localizing
+Locally
+Lombardy
+London
+Longitudinal
+Loop 2 Region
+Los Alamos
+Los Angeles
+Los Angeles County
+Louisiana
+Lower Left Posterior Teeth Region
+Lower Yangtze River floodplain
+Luapula Province
+Lumbar
+Lumen
+Luminal area
+Lusaka
+M1
+MA
+MAMPs
+MBD
+MCP joint
+MELF - Pattern
+MELF - pattern
+MELF pattern
+MF - CA3 synapse
+MG
+MOD
+MTU
+Madagascar
+Madrid
+Malawi
+Malaysia
+Manasbal Lake
+Manaus K34
+Manitoba
+Maputo Province
+Maricopa County
+Marine
+Markers
+Marlborough
+Mau Forest
+Mauritian
+Mbeya
+Mean hallux valgus angle
+Mean size
+Medellin
+Medellín
+Medial
+Median
+Mediterranean
+Mediterranean Sea
+Mediterranean scrub
+Mekelle
+Mekelle city
+Melbourne
+Mesenteric
+Mexican states
+Mexico
+Međimurje
+Međimurje County
+Michigan
+Microfocus
+Micropatterns
+Microsphere - shaped
+Microstructure
+Middle
+Middle - East
+Midwest
+Midwest regions
+Midwestern United States
+Minas Gerais State
+Minnesota
+Mississippi
+Mixed - layer
+Mock oral
+Modulates
+Modulating
+Modulation
+Mojave Desert
+Molecular
+Molecular Confirmation
+Molecular structure
+Monrovia
+Moon
+Morocco
+Morphological
+Morphology
+Motor
+Motor Cortex
+Mountain region
+Mozambique
+Multi - Subunit Structure
+Multifocal
+Myanmar
+Myocardial
+Myometrial
+México
+N - Terminal
+N - terminal
+N - terminal amino acid residues
+N - terminal domain
+N - terminal domains
+N - terminus
+N terminal domain
+N termini
+NIR region
+NJ
+NLR
+NZ
+Nafta
+Nagano Prefecture
+Nallampatti
+Nanyang city
+Naples
+Natal
+Nationwide
+Near East
+Nebraska
+Neck
+Neighbor
+Neighborhoods
+Neighboring
+Neotropical region
+Nepal
+Netherlands
+Netherlands .
+Nevada
+New Delhi
+New Mexico
+New South Wales
+New World
+New York
+New York City
+New York State
+New Zealand
+Newcastle upon Tyne
+Nicaragua
+Nigeria
+Nigerian
+Njoro River Watershed
+Nodal
+Nodule size
+Nontorsed Inguinal
+Nordic countries
+North
+North - Eastern India
+North - western Province
+North America
+North American
+North Atlantic
+North Atlantic rocky intertidal zone
+North Carolina
+North East England
+North England
+North London
+North Russia
+North Sea
+North West England
+North central
+North of England
+Northeast
+Northeast Brazil
+Northeast region
+Northeastern
+Northern
+Northern Europe
+Northern Finland
+Northern Israel
+Northern Rockies
+Northern Togo
+Northwest
+Northwest Ethiopia
+Northwestern
+Northwestern Italy
+Norway
+Nottingham
+Nuevo Leon
+Nuevo Leon State
+Nunavut
+Nyanza Province
+OAR
+OARs
+OH
+OLVG
+OPD
+OR
+Obturator
+Ocean
+Oceania
+Odisha
+Off - site
+Ohalo II
+Ohalo II , Israel
+Oklahoma
+Old World
+Olmsted County , Minnesota
+Oman
+On - Site
+Ontario
+Onze Lieve Vrouwe Gasthuis
+Open
+Opening
+Oral
+Oral Cavity
+Orally
+Orange
+Orientation
+Osijek - Baranja
+Osijek - Baranja County
+Osogbo , Nigeria
+Ouagadougou , Burkina Faso
+PA
+PCP
+PCP domain
+PHD finger
+PHD fingers
+PP - CA1
+PS amplitude
+PTD
+PYNT sequence
+PYNTTQFLM
+PYSQESVLSADSQNQK
+Pacific
+Pacific Island
+Pacific region
+Pakistan
+Palampur
+Palestine
+Palo Alto
+Palo Verde
+Panama
+Papua New Guinea
+Paraguay
+Paris
+Part
+Pará state
+Pasture
+Patellofemoral
+Pattern
+Patterns
+PaxC
+Pelvic Cavity
+Peninsulas of Iberia
+Pennsylvania
+Percutaneous
+Percutaneous access
+Percutaneous remote access
+Periapical
+Peripapillary
+Peripheral
+Peritoneal
+Peritumoral
+Perivascular
+Peru
+Peñamiller
+Philippines
+Pisa
+Planar Cell Polarity
+Planar cell polarity
+Plazuela
+Poland
+Polarity
+Polish
+Polymorphisms
+Popliteal
+Porous
+Portugal
+Position A
+Positional supine
+Positioned
+Posterior
+Posterior Condylar
+Posterior condylar
+PrP - like ectodomains
+Prince Edward Bay
+Prone
+Protein Sequences
+Proximal Femur
+Proximity
+Puebla
+Puerto Rico
+Purnea
+Pyrenees
+QC
+Quebec
+Queensland
+Quetta
+R1628P polymorphism
+REP
+RHD
+RNA - seq
+RNA - sequencing
+RNA - sequencing profiles
+RNA motifs
+RNA sequence
+RNA sequences
+RNA sequencing
+ROI
+ROIs
+RPA70A subdomain
+RRm6ACH
+RVOT
+Ra
+Raleigh metropolitan area
+Rawalpindi
+Rb
+Redlands
+Redmond
+Region - of - interests
+Regional
+Regions
+Remote
+Repeats
+Republic of Korea
+Residential locations
+Reykjavik
+Rhode Island
+Right ventricle outflow tract
+Riyadh , Saudi Arabia
+Rochester
+Romania
+Rome
+Root Canal
+Rostrocaudal
+Roswell , Ga
+Route
+Routes
+Rural Block in West Bengal , India
+Rural China
+Rural Greece
+Russia
+Russian
+S
+S .
+S / T ) xSSCxGR
+S116R Phosphorylation Site
+SA
+SH3 domain
+SK
+SNP
+SNP - 3951C / T
+SNP 3951C / T
+SNPs
+SOF
+SP
+SRSRY chemotactic sequence
+SRSRY sequence
+SSA
+STG
+STR
+STS
+SV1
+Sacramento Valley
+Safe
+Sagalla
+Sagalla Hill
+Sagamu
+Sagittal
+Sagittal plane
+Salivary
+Sampling site
+San Clemente Island
+San Diego
+San Diego , CA
+San Francisco
+Santa Clara , CA
+Santarem K67
+Santiago
+Saudi
+Saudi Arabia
+Schlemm 's canal
+Scotland
+Scotland 's
+Scottish
+Sea of Galilee
+Sealed environments
+Selangor
+Semistructured
+Sentinel Country
+Seoul
+Sequence
+Sequences
+Ser - 346 / 7
+Ser921
+Serbia
+Set3
+Set4
+Set4 paralogs
+Seychelles
+Shaanxi
+Shaanxi Province , China
+Shandong , China
+Shandong province
+Shandong province of China
+Shanghai
+Shape
+Shiraz
+Shoshone Ponds Natural Area
+Shoulder
+Siberia
+Sichuan
+Signature
+Singapore
+Single - Nucleotide Polymorphism
+Single - cell RNA - seq
+Sinus
+Sisaket Province
+Site
+Sites
+Size
+Skeletal
+Slovak
+Slovenia
+Slovenian
+Smoothed percentile curves
+Society Island
+Society Island valley
+Soconusco
+Solomon Islands
+Sorocaba
+South
+South - Asian
+South - West Nigeria
+South - south
+South Africa
+South America
+South Australia
+South China
+South India
+South Indian
+South Italy
+South Korea
+South Korean
+South Wollo
+Southeast - Asian countries
+Southeast Asia
+Southeast Asian
+Southeast Spain
+Southeastern
+Southern
+Southern Altay Mountains
+Southern Europe
+Southern Italy
+Southwest
+Spaces
+Spain
+Spanish
+Spatial change
+Sphere
+Spinal
+Spinal involvement
+Spine angles
+Split Domain
+Spokane , Washington
+Spring Mountain Ranch State Park
+Standing
+State
+State of Queretaro
+States
+Stepwise approach
+Stereochemistry
+Structural
+Structural features
+Structure
+Structured
+Styria
+Sub - Arctic
+Sub - Saharan Africa
+Subcutaneous
+Subepidermal
+Sudan
+Sultanate of Oman
+Sunnyvale
+Superior
+Surface
+Surface Modulus
+Surfaces
+Surrey
+Sussex
+Sweden
+Swedish
+Swine Farms
+Swiss
+Switzerland
+Sydney
+Synapses
+Synaptic
+Synovial joints
+Syria
+São Miguel Island
+São Paulo , Brazil
+T - shaped distal
+T / T
+TEM
+TIR domain
+TMJ
+TPJ
+TR
+Tahiti
+Tailoring domains
+Taipei
+Taita Hills
+Taiwan
+Tajikistan
+Tamil Nadu state
+Tanzania
+Tanzanian
+Tel22
+Temporal
+Temuco
+Tennessee
+Terminal
+Testicular
+Tewo County
+Texas
+Thai
+Thailand
+Thailand 's
+The Netherlands
+Three - Dimensional
+Three - dimensional
+Thriasio Plain
+Thriasio Plain , near Athens
+Thumb MCP
+Thuringia , Germany
+Tibet
+Tibetan
+Tibetan Plateau
+Tibetan areas
+Tl02C
+Togo
+Tokyo
+Top
+Topical
+Toronto and Region AOC
+Tozeur
+TpCpW
+Tracking
+Trajectories
+Trans - oral
+Transcatheter
+Transcriptome
+Transcriptomic
+Transhepatic
+Transplacental
+Transtentorial
+Trenton and Belleville
+Trifurcation pattern
+Trunk
+Tumor size
+Tunisia
+Turkey
+Turkman Sahra , Northeastern Iran
+Turkmen Sahra , Golestan Province
+Turku
+Tuscany
+Tuscany Region
+Two - dimensional
+Tyr920
+Tyr920 / Ser921
+U .
+U . S
+UAA
+UAE
+UH
+UK
+UK - based
+UL22 - 23
+UL3 - 4
+UL3 - 4 region
+UL45 - 46
+US
+US Virgin Islands
+US states
+US10
+US10 - SORF3
+USA
+UT
+UTR
+Uganda
+Ukraine
+Ukrainian
+Unilateral
+Union Territories
+Unipolar
+United Arab Emirates
+United Kingdom
+United States
+United States of America
+Upper
+Upper Midwestern United States
+Upper Peninsula of Michigan
+Urban
+Urban , Pakistan
+Urban and Rural Areas
+Urumqi
+Utah
+V1
+V3
+VDSWNVLVAG
+VESWNVLVAG
+Vagal Projections
+Vancouver
+Venezuela
+Venoarterial
+Venous
+Veracruz
+Vertebral Level
+Vestibular
+Vieste - Pugnochiuso
+Vietnam
+Volar
+Volumetric
+Vostok Station , Antarctica
+Vukovar - Srijem
+Vukovar - Srijem County
+WA
+WD40 repeat
+WM regions
+WW domain
+Wales
+Walker A
+Washington
+Washington State
+Washington state
+Weihai , China
+West
+West Africa
+West African
+West Bengal , India
+West Columbia , SC , USA
+West Indies
+West Virginia
+Western
+Western Australia
+Western Cambodia
+Western Europe
+Western European countries
+Western Kenya
+Western Province
+Western US
+Western country
+Western states
+White Sea
+Winchester
+Wisconsin
+Workplace
+World Heritage Site protected area
+Worldwide
+Wyoming
+X - STR
+Xi ' an
+Xinjiang
+Xinjiang province
+Y - shaped distal
+Yazd
+Yellow Sea
+Yorkshire
+Zambia
+Zhagana
+Zhengzhou
+Ziarat
+Zimbabwe
+Zone
+aa120 - 440
+abdomen
+abdominal
+abdominal region
+abdominopelvic
+abiotic surfaces
+abnormally positioned
+above
+above - ground
+absolute stereochemistry
+access
+access site
+accessed
+accessible
+accessing
+accurate DNA - protein - binding sequence
+acetabular
+acetyl
+acidic habitat
+acidic luminal
+acidic microenvironments
+acinar
+activation domain
+activation loop
+active conformation
+activity patterns
+address
+addresses
+adhesion molecules markers
+adjacency matrix
+adjacent
+adjacent countries
+adjoin
+advanced
+affected
+afferent
+afferents
+agricultural
+agricultural environments
+agricultural fields
+agricultural soils
+agrosystems
+alpha
+alpha - helices
+alternative splice transcripts
+alveolar barrier
+alveolar crest
+alveolar mucosa
+amino - acid
+amino - acid residues
+amino - acid sites
+amino acid C - terminal loop
+amino acid membrane domain
+amino acid residues K92
+amino acid sequence
+amino acid sequences
+amino acids sequences
+amplification products
+amplitude
+amplitudes
+anatomic sites
+anatomical basis
+anatomical features
+anatomical finding
+anatomical landmarks
+anatomical location
+anatomical locations
+anatomical position
+anatomical region
+anatomical sites
+ancestral environment
+anechoic space
+anechoic spaces
+angle
+angles
+angular
+angular deviation
+anisotropic matrix
+ankle
+ankle joint
+ankle joints
+ankles
+annular
+anoxic environments
+antegrade
+anterior
+anterior - posterior
+anterior alveolar cleft
+anterior clinoid process
+anterior region
+anterior segment
+anteriorly
+antero - lateral surface
+antero - lateral surface of the neck
+anterolateral
+anteroposterior
+anteroposteriorly
+aortic regions
+aortic root
+aperture
+apertures
+apical
+apical four
+apical thirds
+application site
+approach
+approaches
+approaching
+aquatic
+aqueduct
+aqueductal
+arable - sensitive areas
+archaeological sites
+architectures
+arctic setting .
+area
+area ( urban or rural )
+area of India
+area under the transverse arch
+area under the transverse arch ( AUTA )
+areas
+arid desert
+arising from
+arm
+arrangement
+array
+arrays
+arterial
+artery lumen
+arthroscopic
+articular
+articular bone surface
+assembly
+asymmetric
+asymmetrical
+asymmetry
+at least
+at the center
+atlantoaxial joint
+atmospheric environment
+atom proximity
+atpF - atpH
+attachment site
+average size
+axes
+axial
+axial obliquity
+axially
+axilla
+axillary
+axis
+axosomatic terminals
+back
+back - to - front
+backbone
+background site
+backward
+backyard
+band - like
+barcode
+barcoded long read sequences
+barcodes
+basal
+basal area
+basal article
+basally
+bean size
+bed
+below
+beta bands
+beta sheet
+between
+bi - alar width
+bifocal patterns
+bifurcation
+bilateral
+bilateral calcarine sulcus
+bilateral knee
+bilaterality
+bilaterally
+bile duct lumen
+binding domain
+binding loop
+binding loops
+binding motif
+binding sequence
+binding site
+binding sites
+bio - cultural approach
+biodistribution
+biodiversity hotspot
+biogeographical areas
+biogeographical regions
+biological surfaces
+biomimetic
+biosafe
+biosafety
+biotopes
+bipartite architecture
+bipolar
+block size
+blood - gas barrier
+body
+body cavities
+body cavity
+body sites
+bona fide
+bone surface
+bony union
+bordered
+borders
+bottom
+bound
+bound by
+bound conformation
+bp
+brachial
+brain - region
+brain area
+brain areas
+brain connectivity patterns
+brain region
+brain regions
+branch
+branch of
+branched
+branches
+branching
+branching pattern
+breaks
+broad
+broad range
+broaden
+broadening
+broadly
+buccal
+buccal facets
+bulbospinal
+buttocks
+c / o bilateral
+calcaneocuboid facet
+calcareous grassland
+camps
+canalled
+canals
+candidate regions
+cannulation sites
+cap - like macrostructures
+cape cod
+capsular
+cardiac
+cardiopulmonary
+cardiovascular
+carpal
+carpal joint
+carpal tunnel
+cartilage lacunae
+cartilage surface
+catalytic domain
+catalytic substrate - interacting sites
+catalytic subunit
+catalytic subunits
+catchment
+catchment areas
+caudal
+cavernous sinus
+cavernous structures
+cavities
+cavity
+cavity walls
+cell polarity
+cellular compartments
+center
+center of foot pressure displacement
+center region
+center regions
+centers
+central
+central Africa
+central Australia
+central China
+central India
+central Mexico
+central Spain
+central and northern Greece
+central area
+central hydrophobic core
+central part
+central portion
+central region
+central sequence
+centre
+centres
+cephalad
+cephalic
+cerebral aqueduct
+cerebral motor
+cervical
+cervix
+chain length distribution
+challenges
+challenging view
+channel
+channeling
+channels
+cheek
+cheek wall
+cheeks
+chest
+chondral
+chromatin marks
+ciliary margin
+circular
+circumferential
+cis - acting enhancer
+cities
+cities nationwide
+citrus orchards
+city
+clean India
+cleavage motif ( 112 ) R - R - Q - K - R - F ( 117 )
+cleavage site
+cleavage sites
+cleave
+cleaved
+cleaving
+cleft
+clinical catchment area
+close proximity
+closed
+closed conformation
+closest
+coast
+coastal
+coastal California
+coastal Cayenne
+coastal area around Cayenne
+coastal areas
+coastal plain
+coastal sediment
+coastal waters
+coastline regions
+coating surface
+coding
+coding DNA sequences
+codon
+codon 232
+codons
+coelomic
+cofactor - binding loop 1
+coffee farms
+coiled
+coiled structure
+coiling
+cold
+collateral
+collateralization
+collision cross section
+colocalize
+colocalized
+colonic location
+colorectal
+columellar
+combat zone
+common trunk of segment
+compact structure
+compartment
+compartments
+computed HDF regions
+concentric
+conditions
+configuration
+configurations
+conformation
+conformationa
+conformational
+conformations
+conformations of the peptide
+conformers
+conjugated
+connection
+connections
+connectivity
+consensus DNA sequence
+consensus motif sequence
+consensus sequence
+conserved
+conserved Type IA core domains
+conserved coil
+conserved domains
+conserved interrogating residues
+conserved molecular regions
+conserved part
+conserved regions
+conserved residues
+conserved segments
+contact angles
+contact area
+contact areas
+contact matrices
+contigs
+contiguous
+continent
+continuity
+continuum
+contour
+contours
+contralatera
+contralateral
+contralateral arm
+contralateral hemisphere
+contralateral normal sites
+contralateral regions
+contralateral side
+contralateral trunk lean
+contrary
+controls , intravenous administration
+convergence
+conversed
+copy number variant
+copy number variation
+cord - like structures
+core
+core regions
+cores
+coronal
+coronal plane
+coronary
+corresponding overlaps
+cortex regions of brains
+cortical
+cortical glutamatergic synapses
+cortical regions
+cortico - subcortical
+cortico - subcortical region
+counterpart
+counties
+countries
+country
+country 's
+county
+county of Västerbotten
+cranial
+craniomaxillofacial
+creative access
+cross - country
+cross - orientation
+cross - sectional
+cross - sectional area
+cross - sectional areas
+cross - β - sheet quaternary structure
+cross section
+cross sectional area
+cross sections
+crossed
+crowded places
+cube
+cubic
+curvature
+curve
+curves
+cutaneous
+cutaneous cover
+cutaneous sites
+cylindrical
+dACC
+ddRADseq
+decidual
+deep
+deep perianal space
+deep postanal space
+deep posterior
+deep posterior perianal spaces
+deeper
+deeper pocket depths
+deepest spring fed valley lake
+deepest valley lake
+deeply
+deflection
+del17p
+demarcation line
+department
+depth
+depths
+dermatoglyphic
+desert
+destination
+detection zones
+deviates
+deviation
+deviations
+di - domain
+diaphragmatic transversal area
+difference in size
+diffuse
+diffusely
+diffusible
+dimension of cephalocaudal consolidation
+dimensional coordinates
+dimensionality
+dimorphism
+direct anterior approach
+directed
+direction
+directional
+directional asymmetry
+directions
+disadvantaged areas
+disc space
+disk
+dispersal
+dispersal abilities
+dispersed
+dispersing
+dispersion
+displaced
+displacement
+displacements
+disseminate
+disseminated
+disseminating
+dissemination
+dissipates
+distal
+distal end
+distal ileum
+distal joints
+distal part
+distal portion
+distal region
+distal sides
+distal third of the esophagus
+distally
+distant
+distributed
+distribution
+distribution pattern
+distribution patterns
+distributions
+district
+disulfide bond
+disulfide bonds
+divergence
+divergences
+divergent
+division
+domain
+domain - V
+domain B
+domain I
+domains
+domains 6 / 6
+domains 9 / 10
+domains to substrate binding
+domed
+domestic settings
+donor - site
+donor site
+donor sites
+dopaminergic synapse
+dorsal
+dorsal anterior cingulate
+dorsal anterior cingulate cortex
+dorsal midline
+dorsal regions
+dorsal side
+dorsolateral
+dorsum of the abdomen
+double - flap
+double - stranded stems
+double digested Restriction Associated DNA sequencing
+double helical structures
+down
+downhill
+downstream
+downstream flap
+downward
+downwind site
+draft genome sequence
+draft genome sequences
+droplet - size
+droplet sizes
+dumbbell
+dumbbell shaped
+duplex
+east
+east - west axis
+eastern
+eastern China
+eastern Kentucky
+eastern coast of North America
+eastern provinces
+ecological
+ecological niche
+ecological niches
+ecological structures
+ecologically - challenged area
+ectodermal
+ectodomain
+ectopic
+ectopically
+edge
+edges
+efferent
+elastomeric structure
+elbow
+electronic states
+electronic structure
+element sequences
+elements
+elevation
+elevation areas
+elevations
+elliptical - shaped
+elliptical shapes
+encode
+encompassed
+end
+endangered habitats
+endemic areas
+endemic regions
+endocanalar approach
+endometrial
+endonasal
+endoscopic
+endoscopic approach
+endoscopically
+endosomal compartments
+ends
+enteric
+entire lumbar spine
+entire maxillary posterior segment
+entrance
+entry
+environment
+environmental
+environmental challenges
+environmental drivers
+environmental friendly
+environmental samples
+environmentally
+environments
+epicardial
+epidural
+epileptogenic zone
+epithelial barrier
+equatorial Amazon
+esophageal
+esthetic areas
+evolutionary approach
+evolutionary patterns
+executive region
+exit
+exiting
+exogenous
+expand
+expanded
+expanding
+expands
+expansion
+experimental locations
+extend
+extended
+extending
+extends
+extension / flexion
+extension and flexion
+extensor
+extent
+extents
+external
+external environment
+externally
+extra - hepatic
+extra - luminal
+extracardiac
+extracellular
+extracellular - 2
+extracellular domain
+extracellular space
+extracted surface
+extradural
+extrahepatic
+extraneous
+extranodal
+extraoral
+extravascular area
+eye - region
+face
+faces
+facet joint
+facet joints
+facets
+facial
+farm
+farm situations
+farming
+farms
+fascial
+favourable position
+femoral canal
+femoral portion
+femoral region
+femoral surfaces
+feral farm
+fiberoptic view
+field
+fields
+fine structure
+finger - like projection
+finger - like projections
+first ray
+fixation sites
+flat
+flat canal
+flat conformations
+flat luminal surface
+flat topography
+flexion - extension
+floor of the mouth
+focal
+focal intracellular
+focal spot
+focally
+foci
+focus
+fold
+folded
+folds
+foraging arena
+foramen rotundum
+forbidden exploitation areas
+forehead
+foreign country
+forelimb
+foretrunk
+forward
+found in
+four - dimensional
+fractal
+fractal topographical cues
+fractal topographies
+fractal topography
+fragile sites
+free environments
+free surface
+frequency bands
+friendly environment
+front
+frontal
+frontal plane
+frontoparietal regions
+frontopolar cortex
+frontopolar cortices
+frontotemporal hairline
+functional domains
+funnel
+further
+further distal
+future approaches
+gag and pol sequences
+gap
+gap junctions
+gap size
+gap sizes
+gap structure
+gape
+gaps
+gastric cardia
+gastric involvement
+gastrocnemius muscle - tendon
+gastrocnemius musculo - tendinous unit
+gastrointestinal
+gene loci
+gene sequence
+gene sequences
+general
+generalisability
+generalised
+generalist
+generalizable
+generalized
+genetic barcode
+genitourinary
+genome assembly
+genome sequence
+genome sequences
+genomic arrangement
+genomic location
+genomic sequences
+genomic sites
+geographic
+geographic extent
+geographic location
+geographic patterns
+geographical
+geographical origin
+geographical region
+geographical regions
+geographical regions of Colombia
+geographically
+geographically distant regions
+geographically isolated country
+geolocalization
+geolocated
+geometric structures
+geometry
+geopolitical zones
+gingival
+gingival margin
+gingival sulcus
+gingival walls
+glenoid
+global
+global biodiversity hotspot
+globally
+glottis
+glucose - conjugated
+gluteal region
+grassland
+grassland sites
+grasslands
+gratings
+great agricultural Doukkala region
+green approach
+groin
+groin region
+groove
+grooves
+ground
+ground state
+ground surface
+ground water bodies
+groundwater
+grouped
+guided approach
+gut - brain axis
+gut lumen
+gynecologic
+habitat
+habitat type
+habitat types
+habitats
+haemagglutinin cleavage site
+hair - bearing areas
+hand dorsum
+head
+head - down tilt
+head region
+heads
+healed sites
+health area
+health clinic catchment areas
+heavily LDS areas
+heel
+helical
+helical structure
+helices
+helix
+helix 5
+hemisphere contralateral
+hemispheric
+hemithoraces
+hemithorax
+hepatic
+hepatic flexure
+heptanucleotide ' slippery ' sequence
+hexagonal
+hexahedra
+hexahedron
+hexameric core
+high - income countries
+high - resolution three - dimensional structure
+high affinity site
+high priority districts
+higher - order cortical regions
+highly conserved domain
+hilly terrain
+hind
+hindpaw
+hip
+hip joint
+hip joints
+hippocampal
+hippocampal CA1
+hippocampal regions
+histone mark
+historical macro - ecological approach
+historical states
+holes
+hollow
+home
+home environments
+home literacy environment
+homes
+homoeologous sequences
+homogeneous
+homogeneous monolithic structure
+homogenous
+homogenously
+homologous gene sequences
+homologs
+homologues
+horizontal
+hot spots
+hotspot
+hotspots
+housed
+hub
+humanitarian environment
+hydrophilic
+hyper - endemic cities
+hyperechoic areas
+hypersensitive sites
+hypervariable region E
+hypointense foci
+hypopharyngeal
+hypopharynx
+hypothalamic slices
+i - Motif Forming DNA Sequences
+i - motif
+i - motif forming DNA sequences
+i - motif forming sequences
+ice - binding domains
+icv
+ileocaecal
+imaginary hexahedra
+impacted areas
+implant - bone interface
+implant projection
+implantation site
+in - depth
+in - frame
+in - home
+in - site
+in - vivo
+in Situ
+in position
+in situ
+in the field
+in vivo
+incongruous
+incubation environment
+indigenous
+industrial sites
+inferior
+inferior angle of the scapula
+inferior frontal cortex
+inferonasal
+inferonasal sectors
+inferotemporal sectors
+inframammary fold
+infrarenal position
+infratentorial
+infratentorially
+infusion sites
+inguinal
+inhabiting
+inherent
+inland
+inland region
+inland sites
+inlet
+inner
+inner - directed
+inner city
+innermost
+inpatient department
+insertion site
+insertion sites
+inside
+insular
+integral
+integrated networks
+inter - arm
+inter - side
+inter - trochanteric
+inter digital spaces
+intercellular
+interconnected
+interdental
+interdigital space
+interfollicular regions
+interior
+intermediary
+intermediate
+intermediate -
+intermediate sequences
+intermediates
+internal
+internal and external rotation
+internal domains
+internal ring
+internally
+interregional
+interscapular
+intersection gap
+intersphincteric space
+interstitial
+intertrochanteric
+intervertebral
+intervillous space
+intestinal lumen
+intestine transcriptome
+intra
+intra - abdominal
+intra - abdominal structures
+intra - abdominally
+intra - articular
+intra - articularly
+intra - capsular
+intra - hepatic
+intra - luminal
+intraabdominal
+intracameral
+intracavitary
+intracellular
+intracellular levels
+intracellular niche
+intracellular space
+intracellularly
+intracerebral
+intracerebroventricular
+intracranial
+intraepithelial
+intrafarm
+intragastric
+intrahepatic
+intralaminar
+intraluminal
+intramedullary
+intramuscular
+intramuscularly
+intramyocardial
+intranasal
+intranasally
+intraoral
+intraparietal sulcus
+intraperitoneal
+intraperitoneally
+intraretinal
+intrasinusoidal
+intraspinal
+intrathecal
+intratumoral
+intrauterine
+intravascular
+intravascular space
+intravascularly
+intravenous
+intravenous ( IV ) access
+intravenous ( IV ) administration
+intravenous administration
+intravenously
+intricate arrangement
+intrinsic
+intrinsic quality
+intrinsically
+inverse U - shaped pattern
+inverted
+inward
+ipsilatera
+ipsilateral
+ipsilateral hemisphere
+ipsilateral side
+ipsilaterality
+ischioanal
+island
+island of Mallorca
+isocenter
+isocenters
+joint
+joint - line
+joint angle
+joint compartments
+joints
+junction
+kebelli
+kenya
+kinase domain
+knee
+knee joint
+knee joints
+knuckle
+knuckles
+laboratory foraging arena
+lake
+land
+landfill
+landfills
+landmark
+landmarks
+landscape
+landscape of the cell
+landscapes
+language areas
+laparoscopic
+laparoscopic application
+laparoscopic approach
+large cities
+large city
+large single - copy ( LSC ) region
+large tumor size
+larger area
+last section
+latch - helix
+lateral
+lateral anal region
+lateral compartments of the knee
+lateral gaze
+lateral hypothalamus
+lateral nasal wall
+lateral surface
+lateral ventricle
+lateral ventricles
+lateral wall
+lateral wall of the orbit
+laterally
+laterals
+latero - inferior
+layered structure
+layout
+lead sites
+leads V1
+leads V2
+left
+left -
+left - right
+left - sided
+left / right
+left abdomen
+left acetabular contours
+left cervical region
+left hemithorax
+left hip joint
+left lateral position
+left mandibular
+left mandibular condyle
+left mid - FG
+left parapharyngeal
+left perisylvian eloquent areas
+left side
+left sided
+left ventricle
+length
+lesion size
+let - 7
+leucine - rich repeat
+leucine to proline ( L232P )
+level
+ligand - binding I domain
+ligand - binding site
+ligand binding domains
+limited size
+line
+linear
+linearity
+linearized
+linearly
+lingual
+link
+linked
+lived
+liver zone 2 areas
+living
+living in
+living in northern latitudes
+living inside
+local
+local areas
+local environment
+local water
+localised
+localities
+localization
+localize
+localized
+localizes
+localizing
+locally
+locally advanced stage
+located
+located in
+located within
+location
+location of death
+locations
+loci
+locoregional
+locus
+long and straight segment
+long axis
+long read sequences
+long tangential rows
+longitudinal
+looking like a checkerboar
+loop
+loop 2
+loop 2 region
+loops
+low
+low - and middle - income countries
+low affinity site
+lower
+lower back
+lower border of the mandible
+lower chest
+lower division
+lower jaws
+lower left posterior teeth region
+lumbar
+lumbar - pelvic angle
+lumbar - pelvic angles
+lumbar angle
+lumbar curve
+lumbar facet joint
+lumbar facet joints
+lumbar segment of the dura mater
+lumbar spine
+lumbopelvic
+lumen
+luminal
+luminal side
+luminal surface
+lung barrier
+lysosomal compartments
+mRNA sequence
+macrostructures
+main area
+main areas
+mainland China
+mal - positioned
+malleolar
+malpositioned
+malpositioning
+mandibular
+mandibular angle
+mandibular rest position
+manner
+margin
+margin region
+marginal
+marginal connections
+marginally
+margins
+marine
+marine samples
+marker
+markers
+market
+master curve
+matrices
+matrix
+maxillary sinus
+maximum zone
+mean reference vessel diameter
+mean size
+mechanical indentation
+medial
+medial - lateral axes
+medial - to - lateral
+medial - to - lateral in - plane
+medial angle of the scapula
+medial border of the scapula
+medial femur
+medial frontal networks
+medial part
+median
+mediastinal
+mediolateral
+medium - sized
+medullary cavity
+member of
+mentolabial
+merging regions
+mesenteric
+mesentery
+mesial
+mesio - occluso - distal
+mesostructures
+metastatic foci
+methodological gap
+methyl - CpG - binding domain
+methylated regions
+miRNA recognition elements ( MREs )
+micellar core
+micro
+micro - structure
+micro - structures
+micro - topographical
+microbe - associated molecular patterns
+microchannel
+microcores
+microenvironment
+microfocus
+microhabitats
+micropatterned
+microscopical structure
+microsphere - shaped
+microstructure
+mid
+mid -
+middle
+middle , west and south of China
+middle article
+middle division
+middle ear
+middle of the segment
+middle third
+midfoot
+midline
+migration paths
+mild elevation
+milieu
+mixed - layer
+mixed methods approach
+mock oral
+model
+modular structure
+modular structures
+modulate
+modulated
+modulates
+modulating
+modulation
+modulations
+molecular configuration
+molecular conformation
+molecular conformations
+molecular environment
+molecular features
+molecular identification
+molecular sieve structures
+molecular structure
+molecular structures
+morphologic
+morphological
+morphologically
+morphology
+mosaics
+most inferior rib
+motif
+motif B
+motif F
+motifs
+motifs F
+motion direction
+motor
+motor cortex
+motor cortices
+mountain
+mountain ranges
+mountains
+mouth
+mucocutaneous
+multi - scale structural
+multi - subunit nature
+multicellular structure
+multicountry
+multidimensional
+multidisciplinary approach
+multifaceted
+multifocal
+multiloculated
+multimeric structures
+multiple head positions
+multiple sites
+municipal
+municipalities
+municipality
+muscular
+mushroom - like shapes
+mushroom - like spines
+mutated regulatory regions
+mutational hotspots
+myocardial
+myometrial
+myriad conformers
+n - fold symmetry
+nano
+nano - topographical surfaces
+nanodomains
+nanofilter arrays
+nanoscale topography
+nanosheet - shaped
+nanosized pores
+nasal cavities
+nasomaxillary complex
+natal
+nations
+native conformation
+natural environment
+natural environments
+natural habitat
+near - infrared ( NIR ) region
+near - infrared region
+near the retina
+nearshore habitats
+nearside oblique
+neck
+neck - extended position
+neck - worn
+neck axis
+neck worn
+neighborhood
+neighborhoods
+neighboring
+neighboring province Sichuan
+neighbouring
+network
+neuraxis
+neuroanatomical pattern
+neurogenic niche
+neuronal polarity
+neurospecific helix - loop - helix
+niche
+nodal
+node
+nodes
+nodes of Ranvier
+nodule size
+nodules
+non - consensus species
+non - conserved carboxyl - terminal domain
+non - inferiority margin
+non - spherical
+noncrop areas
+nonsynonymous
+nonsynonymous changes
+nonsynonymous polymorphism rs2306235
+nontorsed inguinal
+north
+north - central Wisconsin
+north - west China
+north - west Scotland
+northeast
+northeast Italy
+northeastern
+northern
+northern Cambodia
+northern Ghana
+northern Iran
+northern Rocky Mountains
+northern Swedish
+northern latitudes
+northern part
+northwest region of China
+northwestern
+northwestern regions
+novel approach
+nuclear
+nuclear localization
+nuclear spaces
+nucleotide sequence
+nucleotide sequences
+null environment
+obstruction level
+obturator
+occipital
+occipitocervical
+occiput
+occlusal
+occlusal surface
+ocean
+off - axis
+off - axis configurations
+off - site
+offsite
+oligoarticular
+on - axis
+on - farm
+on - site
+one - dimensional structure
+one - leg standing
+one quadrant
+onsite
+open
+open - cell spaces
+opened
+opening
+opposite
+opposite flanks
+oppositely
+optic
+oral
+oral cavity
+oral cavity floor
+oral commissure
+oral regions
+orally
+orbit
+orbital
+orbital bony walls
+orbital cavity
+orbital fissure
+orbito - frontal
+orbitofrontal cortex
+orchards
+organic - rich anaerobic sedimentary habitats
+organs at risk
+orient
+oriental
+orientation
+orientations
+oriented
+oropharyngeal
+oropharynx
+orthostatic
+orthotopic
+orthotopically
+osteochondral
+osteocyte lacunae
+ostial
+other prefectures
+out
+outdoors
+outer
+outer ( sun - exposed ) side
+outer diameter
+outermost
+outflow
+outpatient department
+outside
+over
+overlaid gratings
+overlapped section
+overlaps
+ovoid
+p . Thr346Thrfs * 5
+paddy fields
+palm
+palmitoylation site
+palms of the hands
+pancreaticobiliary duct
+pancreaticobiliary system
+papillary region
+parameatal - based
+parameters
+parametrial
+parapharyngeal space
+parasternal
+paravertebral
+parenchymal organs
+parental sequences
+parietal
+parks
+part
+part I
+part II
+part III
+part of
+partial sites
+particular focus
+parts
+parvalbuminergic synapses
+passage
+pasture
+patch size
+patellofemoral
+patellofemoral articulation
+patellofemoral joint
+patency
+patent
+path
+paths
+pattern
+patterning
+patterns
+pelvic cavity
+peptide conformations
+per cent diameter stenosis
+percutaneous
+percutaneous groin
+percutaneous maneuvers
+percutaneous remote access
+peri - lacunar region
+peri - lacunar regions
+periacinar
+periapical
+periapical area
+periapical status
+perimeters
+perineum
+peripapillary
+peripheral
+peripheral part
+peripheral zone
+peripherally
+periphery
+perirhinal cortex
+perisomatic parvalbuminergic synapses
+peritesticular
+peritoneal
+peritoneal cavity
+peritubular
+peritumoral
+periumbilical
+periurethral
+peroneal
+perpendicular
+perpendicularly
+perspective
+perspectives
+pervasive
+phosphorylation sites
+phylogenetic marker
+physical
+physical environment
+pinpricked rumps
+pinpricked sites
+place
+place of residence
+places
+plain near Athens
+planar cell polarity
+plant homeodomain ( PHD ) finger
+plantar
+plantar side
+plots
+point
+points
+pol sequence
+polarity
+poly ( U ) stretch
+polygonal
+polyhedral
+polyhedral structures
+polymorphism
+polymorphisms
+pond
+population distribution
+poration
+porous
+porous structure
+portion
+portions
+position
+positional
+positioned
+positioned prone
+positioning
+positions
+posterior
+posterior - anterior
+posterior LA wall
+posterior abdominal wall
+posterior ankle
+posterior left atrium
+posterior surface of the thigh
+posteriorly
+postero - superior regions
+prairie boundary
+pre ) molar region
+prehistoric environments
+premature stop
+prethalamic
+prevalent
+prevalent form
+prevalent today
+primary auditory cortex
+primary motor cortex
+primary position
+primary sites
+primary structure
+principal patterns
+pro - active approach
+prodomain
+production systems
+products
+profile
+profiles
+projection
+projections
+prompt circulatory access
+prone
+prone position
+proper sequence
+protected areas
+protein
+protein binding sites
+protein domain
+protein motifs
+protein regions
+protein sequence
+protein sequences
+protein transduction domain
+proteolytic site
+prothorax
+province
+provinces
+provincial
+proximal
+proximal femoral
+proximal femur
+proximal femurs
+proximal interphalangeal joint
+proximally
+proximity
+psbK - psbI
+pulp chamber
+pulp chamber wall
+pulpal wall
+pulse sequence
+putative
+putative homologues
+putative transmembrane domains
+pyrin domain
+quadrant
+quadruplex
+quadruplexes
+qualitative exploratory descriptive approach
+rabbitries
+radioopaque contour
+rearfoot
+recognition sequence
+recognition sites
+rectal
+rectovesical pouch
+recurrent copy number variants
+redo groin
+redo groins
+reduced conformations
+refolds
+refugee camps
+region
+region of interest
+region of the brain
+regional
+regional French
+regions
+regions - of - interest
+regions of interest
+regions proximal
+regulated conditions
+regulatory DNA
+relative stereochemistry
+release sites
+remote
+remote areas
+remote regions
+remotely
+repeat copies
+repeat structure
+repeated sequences
+repeats
+replicated origins
+reservoir
+reservoirs
+residence
+residential
+residential regions
+residues 185 - 192
+residues 2027 - 2055
+restriction site
+retrograde
+retroperitoneal
+reward regions
+rhodanese domain
+ribbon synapses
+ridge
+righ
+right
+right - sided
+right IPS
+right abdomen
+right antero - lateral surface of the neck
+right central sulci
+right cerebellum posterior lobe
+right heart
+right hemithorax
+right hepatic duct
+right inguinal
+right lower back
+right orbitofrontal area
+right parieto - occipital regions
+right postero - lateral surface of the neck
+right side
+right sided
+right ventricle free walls
+rim
+ring - like array
+rings
+risky area
+river basin
+rod - like shape
+rod - shaped
+room
+root
+root canal
+root canal surface
+root canals
+root entry zone
+rostral
+rostrocaudal
+rotated
+rotates
+rotating
+rotational
+rotor location
+rotor positions
+rough irregular surface
+round
+round canal
+route
+routes
+rs1017119
+rs1205 SNP
+rs1205 Single Nucleotide Polymorphism ( SNP )
+rs12237774
+rs13281615
+rs17611
+rs17611 polymorphism
+rs2229634 C / T polymorphisms
+rs33949390
+rs3748079 A / G
+rs3757247 SNP
+rs3757247 single nucleotide polymorphism
+rs4837805
+rs6983267
+rs6983267 polymorphism
+rs7026551
+rs9939609 site
+rural / urban settings
+rural China
+rural India
+rural Iowa
+rural Tamil Nadu
+rural West Bengal
+rural catchment areas
+s sectional
+s473
+saccular
+sacral
+sacroiliac joints
+sacrum
+saddle - node cycle bifurcation
+safe
+safe approach
+safer
+sagittal
+sagittal plane
+salivary
+salivary media
+sampling sites
+sampling stations
+sandwich structure
+scattered
+scene
+sea
+seas
+second domain
+secondary
+secondary root
+secondary structure
+section
+sections
+sector
+sectoral
+sectors
+segment
+segmental
+segmental architectural
+segmentation
+segmented
+segments
+self - limited
+semi - natural zones
+semiarid habitats
+semiremote regions
+sentinel country
+septal
+septohypothalamic
+sequence
+sequence MHKPTVHIKGPT
+sequence RKKKCKGNCCYTPQ
+sequences
+sequencing
+serines ( Ser ) 346
+service area
+setting
+settings
+several anatomic sites
+shafts
+shallow acidic peatland
+shape
+shape of a ring
+shaped
+shapes
+shaping
+sheath size
+sheets
+shore
+short arm of chromosome 17
+short arm of the X chromosome
+short axis
+short sequence
+short tandem repeat
+shoulder
+shoulders
+shrink
+side
+sides
+signal amplitude
+signal enhancement factors
+signal peptides
+signaling domain
+signature
+similar sequences
+single - cell RNA - seq
+single - isocenter
+single - nucleotide polymorphism
+single - nucleotide polymorphisms
+single - rooted
+single - stranded loops
+single base
+single centre
+single contig genome assembly
+single isocenter
+single nucleotide polymorphism
+single nucleotide polymorphisms
+single nucleotide variations
+single polymorphisms
+single survey area
+sinus
+sinus area
+sinuses
+sinusoidal
+sinusoids
+site
+site - I
+site - II
+site - specific
+site - specific sgRNA sequences
+site 3
+site of injection
+site of tumor
+site specific
+sites
+six dimensions
+size
+size distribution
+size of lesion
+size of the primary tumor
+size of the tumor
+size of tumor
+sized
+sized nodules
+sizes
+skeletal
+skeletal sites
+skin features
+skin site
+skin sites
+skin surface
+slippery sequence
+small - amplitude
+small domains
+small single - copy ( SSC ) region
+smooth surfaces
+sn - 2 position
+sole of the foot
+sole of the right foot
+solid shape
+somatostatinergic
+some areas
+south
+south - eastern Asia
+south - west coast
+south central Minnesota
+southeast
+southeastern
+southern
+southern Amazon
+southern Amazonia
+southern Argentina
+southern California
+southern China
+southern Europe
+southern France
+southern Italy
+southern Mexico
+southern states
+southwest
+southwestern
+space
+spaces
+spans 1852 base pairs
+sparsely populated counties
+spatial
+spatial arrangement
+spatial broadening
+spatial distribution
+spatial distributions
+spatial gaps
+spatial position
+spatial properties
+spatially
+spatially distributed
+spatiotemporal distribution
+specific DNA sequences
+specific binding sequence
+specific sites
+spheres
+spherical
+spherical in shape
+spherical morphology
+spherical shape
+spherical structures
+spiking
+spinal
+spine shapes
+splice site
+spongy structure
+spontaneous eye opening
+square
+stack
+stacked
+staining patterns
+stance
+stance phase
+stand
+standard approach
+standing
+standing still
+start codon
+state
+state 's
+state of Sergipe
+state of Washington
+states
+statewide
+stemness markers
+step - wise approach
+steppe
+steppe grassland
+stereo structure
+stereochemistry
+sternoclavicular joint
+stifle
+stifles
+stimulation site
+stood
+stop codons
+straight
+strategies
+stripe structure
+structural
+structural elements
+structural feature
+structural homologue
+structural motifs ( A - G )
+structurally
+structure
+structure conservation
+structure domain
+structured
+structures
+study site
+sub
+sub - Saharan Africa
+sub - arctic zone
+sub - hippocampal
+subcutaneous
+subcutaneously
+subdivisions
+subdural
+subepidermal
+subhippocampal areas
+subhippocampal regions
+sublingual
+subregions
+subsite
+subsites
+substernal space
+substitution pattern
+substrate
+subtalar
+subthalamic
+subxiphoid
+sulcus
+super - enhancers
+superficial
+superficially
+superior
+superior angle of the scapula
+superiority
+superonasal
+superotemporal
+supervision areas
+supine
+supine position
+supplementary motor area
+supralevator
+suprascapular notch
+supratentorial
+supratentorially
+surface
+surface area
+surface epithelium
+surface of the small and large bowel
+surfaces
+surgical site
+surrounded
+surrounding
+surrounding sites
+surroundings
+suture line
+swine farms
+symphysis pubis
+symptomatogenic regions
+synapse
+synapses
+synaptic
+synaptically
+synonymous nucleotide diversity
+synonymous nucleotide site diversity
+synovial joints
+tag sequence
+tailoring domain
+target
+target area
+target site
+target vessel
+tarsal joints
+tarsus
+temperate regions
+template loop
+temporal outer ( TO ) macular quadrant
+temporomandibular joint
+temporoparietal junction
+terminal
+terminus
+terrestrial
+terrestrial environment
+territory
+tertiary architecture
+tertiary structure
+testicular
+the Alps
+thigh
+third intracellular
+thoracic
+thoracoabdominal
+thoracolumbar
+thoracolumbar junction
+thoracoscopic
+thorax
+thorough the country
+three - dimensional
+three - dimensional ( 3D )
+three - dimensional fold
+three dimensional
+three dimensional structures
+three dimensions
+three locations
+three residues
+thumb MCP
+thumb MCP joint
+thumb metacarpophalangeal ( MCP ) joint
+tibiofemoral joint
+tibiotalar joints
+tight junction
+tight junctional complex
+tight junctional components
+tight junctions
+tissue - implant interface
+tooth surface
+top
+top surface
+topical
+topically
+topological
+topological signature
+torso
+torus
+track
+tracked
+tracking
+trajectories
+trajectory
+trans - oral
+trans - oral route
+trans - superior
+transcanially
+transcatheter
+transconjunctival approach
+transcriptome
+transcriptome assembly
+transcriptomes
+transcriptomic
+transgene expression patterns
+transgluteal
+transgluteal approach
+transnasal
+transoral
+transsphenoidal approach
+transvenous access
+transvenous options
+transverse
+transverse arch
+transversely
+treatment sites
+trigger points
+trnH - psbA
+trochlear
+tropical regions
+tructural
+trunk
+trunk joint
+tumor location
+tumor site
+tumor sites
+tumor size
+tumor sizes
+tumour size
+tundra
+tunnel angles
+tunnels
+twist
+two - chamber views
+two - dimensional
+two domains
+two sides
+typical arid region
+ulnar
+ultraoligotrophic aerobic sedimentary habitats
+under - and over - reamed cavities
+underlying area
+underlying rating area
+uneven terrain
+unexposed inner side
+uni
+unidimensionality
+unidirectional orientation
+unidirectionally
+uniformly dispersed
+unilateral
+unilaterally
+unipolar
+unique structures
+unusual site
+up
+uphill
+upper
+upper Midwest
+upper Midwestern US
+upper airways
+upper chest
+upper division
+upper lip vermilion
+upstream
+upstream flap
+upward
+upwardly
+upwind site
+urban
+urban and rural areas
+urban or rural areas
+urbanised places
+ureteral orifice
+ureteral orifices
+urrounding sites
+vaginal approach
+vaginal introitus
+valley
+valleys
+variation
+vascular space
+vectors
+venoarterial
+venous
+venous sinus
+ventral
+ventricular
+vermilion
+version
+vertebral body levels
+vertebral level
+vertex
+vertical
+vertical midline reference
+vertical position
+vessel
+vestibular
+vestibules
+vicinity
+view
+viewing
+views
+village
+villages
+vineyards
+visceral
+visual field
+visual fields
+visualize
+void
+voids
+volar
+volume
+volumetric
+vulnerable provinces
+walls
+waste water
+wastewater
+watershed region
+wave morphology
+way
+wearer 's face
+wedge
+well
+well - dispersed
+well plate
+well plate format
+well plate platform
+wells
+west China
+west of China
+west provinces
+western
+western Atlantic side
+western Cambodia
+western European countries
+western Iran
+western Japan
+western Mexico
+western United States
+western countries
+western of parts of Europe
+western part of Japan
+western part of the main island of Japan
+western provinces
+whole - genome sequence
+wide
+wide angle
+wide array
+wide pulp chamber
+wide range
+wider
+widespread
+wintering area
+within
+work environment
+work place
+workplace
+workplaces
+worldwide
+wound helically
+wrinkled coating surface
+wrist
+wrists
+x - ray structure
+zinc - finger
+zinc finger
+zone
+zones
+α - gliadin sequences
+α - helices
+α - helix
+α - helix structure
+αC - helix
+β - sheet
+β - sheets
+β - strand conformational
+β - strand structures
+β - strands
+β strands
+β3 - strand
+πN
+πS
+πS doubles

@@ -1,0 +1,3185 @@
+( insulin-dependent ) diabetes mellitus
+) ,
+ABS
+AD
+ADHD
+ADSD
+AF
+AFL
+AGC
+AHF
+AIDS
+AIN
+AKI
+AL
+ALF
+ALF=0/35
+ALL
+AMI
+AMI/GI
+AMI/GI bleeding
+AML
+ANCA positive vasculitis
+ANT-MI
+APL
+ARF
+ARI
+ATIN
+AV block
+AVRT
+Abnormal involuntary movements
+Abnormal movements
+Accelerated junctional rhythms
+Acromegaly
+Acute encephalopathy
+Acute experimental models of renal damage
+Acute kidney injury
+Acute liver failure
+Acute neurologic dysfunction
+Acute psychosis
+Acute renal failure
+Acute renal insufficiency
+Acute tubulo-interstitial nephritis
+Adrenaline arrhythmia
+Aggressive behaviors
+Agranulocytosis
+Akathisia
+Albuminuria
+Allergic reaction
+Alopecia
+Alternating sinus rhythm
+Alzheimer 's disease
+Alzheimer-like
+Amnesia
+Amnestic syndrome
+Anaphylaxis
+Anemia
+Anencephaly
+Angina
+Anginal
+Angioedema
+Angiosarcoma
+Antineutrophil cytoplasmic antibody ( ANCA ) -- associated vasculitis
+Anxiety
+Apnea
+Argentine hemorrhagic fever
+Arteritis
+Ascites
+Asterixis
+Atherosclerosis
+Atrial
+Atrial Fibrillation
+Atrial fibrillation
+Atrial thrombosis
+Atypical sensations
+Auditory toxicity
+Autism
+Autoimmune diseases
+Azotemia
+B-cell non-Hodgkin 's lymphoma
+BP reduction
+Baboon syndrome
+Bilateral optic neuropathy
+Bilateral visual field abnormalities
+Binasal visual field defects
+Birth Defects
+Bleeding
+Blepharoconjunctivitis
+Bradycardia
+Brain damage
+Brain injury
+Brainstem dysgenesis
+Burkitt lymphoma
+Burkitt-type malignant lymphoma
+Butyrylcholinesterase deficiency
+CAD
+CAN
+CHC
+CHF
+CIMD
+CIN
+CIP
+CIPS
+CLD
+CLD=2/34
+CLE
+CM
+CML
+CML-associated
+CMV infection
+CNS damage
+CRF
+CVA
+CVD
+CVDs
+Cancer
+Candidiasis
+Cardiac arrest
+Cardiac arrhythmias
+Cardiac disturbances
+Cardiac toxicity
+Cardiomyopathy
+Cardiotoxic
+Cardiotoxicity
+Cardiovascular alterations
+Cardiovascular complications
+Cardiovascular diseases
+Cardiovascular dysfunction
+Catalepsy
+Cataract
+Cauda equina syndrome
+Central nervous system ( CNS ) complications
+Central nervous system complications
+Central nervous system toxicity
+Cerebral edema
+Cerebral haemorrhage
+Cerebral hemorrhage
+Cerebral infarction
+Cerebral microbleeds
+Cerebral sinus thrombosis
+Cerebral vasculitis
+Chest pain
+Chiari malformation
+Cholestasis
+Cholestatic
+Cholestatic jaundice
+Chorea
+Choreoathetoid movements
+Chronic active hepatitis
+Chronic infection with hepatitis C virus
+Cluster headache
+Cognitive deterioration
+Cognitive impairment
+Confusion
+Congestive heart failure
+Conjunctival blanching
+Convulsion
+Convulsions
+Convulsive
+Corneal ulcers
+Coronary aneurysm
+Coronary artery spasm
+Coronary heart disease
+Coronary vasospasm
+Cortical dysplasia
+Crohn 's disease
+Cushing 's syndrome
+Cutaneous leucocytoclastic vasculitis
+Cystitis
+Cytomegalovirus infections
+DBP reduction
+DCM
+DH
+DI
+DILI
+DM
+DSM-IV bipolar I
+DVT
+Damage of substantia nigra pars reticulata
+Death
+Decreased renal function
+Decreases in systolic blood pressure
+Degenerating myelinated fibers
+Dehydrated
+Delayed free recall was also impaired
+Delirium
+Depressed mood
+Depression
+Deterioration of vision
+DiGeorge syndrome
+Diabetes
+Diabetes mellitus
+Diabetic
+Diabetic nephropathy
+Diarrhea
+Diarrhoea-predominant
+Dilated cardiomyopathy
+Diseases of peripheral nerves
+Dizziness
+Downbeat nystagmus
+Drowsiness
+Drug abuse
+Drug-Induced Acute Liver Injury
+Drug-induced liver injury
+Drug-induced parkinsonism
+Duchenne dystrophy
+Dupuytren 's contracture
+Dysfunctional overnight memory
+Dysguesia
+Dyskinesia
+Dyskinetic
+Dysosmia
+EDDs
+EPS
+EPS-related
+EPSs
+ESRD
+Eating disorders
+Ebstein 's anomaly
+Ehrlich ascites tumor
+Encephalopathy
+End-Stage Liver Disease
+End-stage renal disease
+Endometrial cancers
+Endometrial carcinoma
+Endophthalmitis
+Epileptic
+Epileptic seizures
+Epstein Barr Virus infection
+Erectile Dysfunction
+Erectile dysfunction
+Erythema multiforme
+Erythema nodosum
+Excitotoxicity
+Extrapyramidal Symptom
+Extrapyramidal symptom
+Extrapyramidal symptoms
+Extrapyramidal syndrome
+FHF
+FSGS
+Facial dysmorphism
+Failure of kidney function
+Fanconi 's anemia
+Fanconi 's syndrome
+Fanconi syndrome
+Fasciculations
+Fatty liver
+Fever
+Fibrous myopathy
+Flushing
+GBM
+GI AEs
+GI bleeding
+GI toxicity
+GTCS
+GVHD
+Gastrointestinal abnormalities
+Gastrointestinal bleed
+Gastrointestinal toxicosis
+Generalised and focal seizures
+Gerstmann syndrome
+Glioblastoma
+Glomerular and tubular injury
+Graft-versus-host disease
+Granulosa cell tumor of the ovary
+Graves ' disease
+Growth retardation
+Guillain-Barr syndrome
+Gustatory hyperhidrosis
+HBV infected
+HBV infection
+HBV mono-infected
+HC
+HCV infection
+HEM
+HEM-induced
+HIT
+HIT II
+HIT type II
+HITT
+HIV antibody-positive
+HIV co-infection
+HIV disease
+HIV infection
+HIV seroconversion
+HIV-1 infection
+HIV-infected
+HL
+HUS
+Haematological toxicity
+Haemodilution
+Haemolytic-uraemic syndrome
+Hallucinations
+Headache
+Heart failure
+Hematologic toxicity
+Hemolysis
+Hemolytic Uremic Syndrome
+Hemolytic anemia
+Hemolytic-uremic syndrome
+Hemorrhage
+Henoch-Schonlein nephritis
+Hepatic dysfunction
+Hepatic veno-occlusive disease
+Hepatitis
+Hepatitis B
+Hepatitis B virus ( HBV ) infection
+Hepatocellular carcinoma
+Hepatonecrosis
+Hepatotoxicity
+Hiccups
+Hodgkin disease
+Hodgkin lymphoma
+Huntington 's disease
+Hyperalgesia
+Hypercalcemia
+Hyperglycemic
+Hyperkalemia
+Hyperosmolar nonketotic coma
+Hyperprolactinemia
+Hypersensitivity
+Hypersensitivity myocarditis
+Hypertension
+Hypertensive
+Hypokalemia
+Hypomania-like
+Hyponatremia
+Hypotension
+Hypothyroidism
+Hypoxaemia
+Hypoxia
+IBS
+ICH
+IDDM
+IE
+IGE
+INF-MI
+IOP rise
+IS
+IS/TIA
+IST
+IUGR
+Idiopathic subjective tinnitus
+IgA nephropathy
+Impaired fear recognition
+Impairment of cognitive function
+Impotence
+Impulsiveness
+Infarct-avid
+Infarcts in substantia nigra pars reticulata
+Injury to the kidney
+Intracerebral hemorrhage
+Intracranial aneurysms
+Iridocyclitis
+Irritable bowel syndrome
+Ischemic colitis
+Jaundice
+Kaposi 's sarcoma
+Kearns-Sayre syndrome
+Kidney cancer
+L1210 leukemia
+LID
+LIDs
+LV
+LV Cutaneous lesions
+LV dysfunction
+LV hypertrophy
+Left Ventricular Dysfunction
+Leg and back pain
+Leg and/or back pain
+Leucocytoclastic vasculitis
+Leukemia
+Leukocytoclastic vasculitis
+Leukocytosis
+Leukopenia
+Liver Tumors
+Liver disease
+Liver enlargement
+Liver injuries
+Liver toxicity
+Localized scleroderma
+Long QT syndrome
+Loss of consciousness
+Loss of kidney function
+Low back pain
+MAHA
+MB
+MBC
+MC
+MCAO
+MCL
+MD
+MDM
+MDP
+MDS
+MDs
+MI
+MJ
+MM
+MP
+MR
+Macroprolactinemia
+Major depressive disorder
+Malignant Mesenchymal Tumor
+Mania
+Manic
+Mantle cell lymphoma
+Masseter muscle rigidity
+Mastodynia
+Memory deficit
+Menstrual Disorders
+Menstrual abnormalities
+Mental Disorders
+Microangiopathic hemolytic anemia
+Migraine
+Migraine with aura
+Milk-alkali syndrome
+Mitochondrial abnormalities
+Mitochondrial impairment
+Morton 's neuralgia
+Muscle degeneration
+Muscle rigidity
+Musculoskeletal pain
+Myasthenia gravis
+Myelosuppression
+Myocardial hypertrophy
+Myocardial infarction
+Myocardial ischemia
+Myocarditis
+Myoclonic movements
+Myoclonus
+Myoglobinuria
+Myopathy
+Myositis
+Myotonia
+Myotonia congenita
+NAFLD
+NCSE
+NDI
+NIN
+NIN-induced
+NMS
+NMS-like
+NS
+NSCLC
+NSVT
+Nasal hypoplasia
+Nausea
+Necrotising fasciitis
+Nephrolithiasis
+Nephropathy
+Nephrosis
+Nephrotic syndrome
+Nephrotoxic
+Nephrotoxicity
+Neuroinflammation
+Neuroleptic malignant syndrome
+Neurologic toxicities
+Neurologic toxicity
+Neurological complications
+Neuromuscular blockade
+Neuropathy
+Neurotoxic
+Neurotoxicity
+Neutropenia
+Non-Hodgkin 's Lymphoma
+Nonalcoholic fatty liver disease
+Nonketotic hyperglycinemia
+OAB
+OB
+OCD
+OCD-like
+OIH
+OMD
+Organic mental disorder
+Oromandibular dystonia
+Orthostatic hypotension
+Osteoporosis
+Ototoxicity
+Overdose
+PA
+PAs
+PCOS
+PCP
+PD
+PHN
+POAG
+PPH
+PSP
+PTLD
+PVC
+Pain
+Palpebral twitching
+Papillomas
+Paraplegia
+Parkinson 's Disease
+Parkinson 's disease
+Parkinson disability
+Parkinson disease
+Parkinsonism
+Pb poisoning
+Pericarditis
+Peripheral neuropathy
+Pheochromocytoma
+Philadelphia chromosome
+Pituitary tumors
+Pneumocystis carinii pneumonia
+Pneumocystis pneumonia
+Pneumonia
+Pneumonitis
+Poisoning
+Polymyositis/dermatomyositis
+Polyuria
+Posterior leukoencephalopathy
+Posterior reversible encephalopathy syndrome
+Postoperative delirium
+Postoperative myalgia
+Postrenal failure
+Potter 's facies
+Potter-type IIa polycystic kidney
+Priapism
+Primary hyperparathyroidism
+Primary pulmonary hypertension
+Prinzmetal 's angina
+Prolongation of QT interval
+Prolongation of the QT interval
+Proteinuria
+Proteus mirabilis infection
+Pseudoacromegaly
+Pseudomonas infections
+Pulmonary edema
+Pulmonary hypertension
+Pupillary dilation
+Pure red cell aplasia
+Q-T prolongation
+QT interval prolongation
+QT prolongation
+QT-interval prolongation
+QTC prolongation
+QTc interval prolongation
+Quincke 's disease
+RA
+REM sleep deprivation
+REMD
+RIHA
+RLS
+RPGN
+RPN
+RS
+Rabbit syndrome
+Raynaud 's phenomenon
+Renal Fanconi syndrome
+Renal Toxicity
+Renal damage
+Renal dysfunction
+Renal failure
+Renal function significantly deteriorated
+Renal lesions
+Renal papillary necrosis
+Respiratory failure
+Respiratory insufficiency
+Reye
+Reye syndrome
+Rhabdomyolysis
+S-A block
+SAH
+SD
+SE
+SE-induced
+SIADH
+SIAT
+SLE
+SLE-induced
+SN lesion
+SNHL
+SOS
+SRC
+SRS
+SS
+SSc
+SVC syndrome
+Schizophrenia
+Scleroderma renal crisis
+Secondary hyperalgesia
+Seizure
+Seizure-Prone
+Seizures
+Sensori-motor neuropathy
+Serotonin syndrome
+Sexual dysfunction
+Sexual dysfunctions
+Sinus arrest
+Sinus node dysfunction
+Skin rash
+Skin rashes
+Somnolence
+Spasm
+Spinal Cord Injury
+Spinal cord ischemia
+Spontaneous recurrent seizures
+St. Anthony 's fire
+Staphylococcal infections
+Status epilepticus
+Steinert 's disease
+Stevens-Johnson syndrome
+Stevens-Johnson syndromes
+Stroke
+Structural and functional impairment of mitochondria
+Sudden Cardiac Death
+Supraventricular tachycardia
+Swallowing abnormalities
+Swelling
+Syncope
+Syndrome of inappropriate antidiuretic hormone
+Syndrome of inappropriate secretion of antidiuretic hormone
+T-cell lymphoblastic lymphoma
+TAA
+TD
+TDFS
+TDP
+TG
+TIA
+TLE
+TLS
+TMA
+TNSs
+TS
+Takotsubo cardiomyopathy
+Takotsubo syndrome
+Taussig-Bing malformation
+TdP
+Tdp
+Tetany
+Thoracic hematomyelia
+Thrombocytopenia
+Thromboemboli
+Thromboembolic
+Thromboembolism
+Thrombophlebitis
+Thrombosis
+Thrombotic
+Thrombotic microangiopathy
+Thyroid disorders
+Tic disorders
+Tonic-clonic seizures
+Torsade de Pointes
+Torsade de pointes
+Torsades de Pointes
+Torsades de pointes
+Toxic hepatitis
+Toxicities
+Toxicity
+Transient neurologic symptoms
+Transplantation-associated microangiopathy
+Tremor
+Tricuspid valve regurgitation
+Tumor
+Tumors
+Turner Syndrome
+Turner syndrome
+Type B hepatitis
+Ureteric obstruction
+Urinary bladder cancer
+VF
+VFD
+VSD
+VSDs
+VT
+VTE
+Valvular heart abnormalities
+Valvular heart disease
+Vasovagal syncope
+Veno-occlusive liver disease
+Venous complications
+Ventricular arrhythmias
+Ventricular fibrillation
+Ventricular tachyarrhythmias
+Visual hallucinations
+Visual loss
+Visual toxicity
+WPW syndrome
+Waldenstrom macroglobulinaemia
+Water intoxication
+Wegener 's granulomatosis
+Wernicke 's encephalopathy
+Wernicke-Korsakoff syndrome
+Wilms tumor
+Wilson 's disease
+Wilson disease
+Wiskott-Aldrich syndrome
+Wolff-Parkinson-White syndrome
+XDR-TB
+Zollinger-Ellison syndrome
+a falling platelet count
+a loss of visual acuity
+a reduced locomotor activity
+a significant rise in systolic blood pressure
+abdominal infections
+abdominal pain
+abnormal audiograms with deficits mostly in the high frequency range of 4,000 to 8,000 Hz
+abnormal involuntary motor movements
+abnormal involuntary movement
+abnormal involuntary movements
+abnormal left ventricular filling
+abnormal liver function
+abnormal movements
+abnormal ocular motility
+abnormalities in neuronal systems
+abnormalities in the cortex , hippocampus , white matter , and ventricles
+abnormalities of liver function
+abortion
+abortions
+absence epilepsy
+absence seizure
+absence seizures
+absent kidneys and ureters
+accelerated junctional rhythms
+acidosis
+acne
+acquired immunodeficiency syndrome
+acrodermatitis enteropathica
+acromegalic
+acromegaly
+acute T-lymphocytic leukemia
+acute alcohol intoxication
+acute cardiac syndrome
+acute cardiovascular failure
+acute cholecystitis
+acute coronary insufficiency
+acute coronary syndrome
+acute declines in renal function
+acute encephalopathy
+acute hepatic necrosis
+acute hepatitis
+acute hepatitis-like illness
+acute hepatitis-like syndrome
+acute kidney injury
+acute leukemia
+acute liver failure
+acute liver injury
+acute liver insult
+acute lymphoblastic leucemia
+acute lymphoblastic leukemia
+acute lymphocytic leukemia
+acute myeloblastic leukemia
+acute myeloid leukemia
+acute myocardial infarction
+acute nephrotoxicity
+acute nonlymphocytic leukemia
+acute pain
+acute prerenal failure
+acute promyelocytic leukemia
+acute renal artery thrombosis
+acute renal dysfunction
+acute renal failure
+acute renal injury
+acute renal insufficiency
+acute stroke
+acute tubular necrosis
+adductor spasmodic dysphonia
+adenocarcinoma
+adenohypophyseal tumors
+adenoma
+adenomas
+adenomatous polyps
+adenomyosis
+adenovirus disease
+adenovirus infection
+adult respiratory distress syndrome
+adult-onset diabetes
+advanced disease
+adverse drug
+adverse drug reaction
+adverse drug reactions
+adverse effect on the proximal eighth nerve
+adynamic bone disease
+affection of the musculoskeletal system
+affective disorder
+affective disorders
+aggression
+aggressive behavior
+aggressive behaviors
+aggressiveness
+agitation
+agoraphobia
+agranulocytosis
+airway obstruction
+akathisia
+akinesia
+akinesis
+akinetic
+albuminuria
+alcohol abuse
+alcohol dependence
+alcoholic cirrhosis
+alcoholic hepatitis
+alkalosis
+allergic
+allergic reaction
+allergic reactions
+allergy
+allodynia
+allodynic
+alopecia
+altered taste perception
+alternating rhythm
+amblyopia
+amenorrhea
+amenorrhea/galactorrhea
+amenorrhea/oligomenorrhea
+aminoaciduria
+amnesia
+amnesic-like
+amphetamine abuse
+amygdala dysfunction
+amyloidosis
+anaemia
+analgesia
+analgesia-
+anaphylaxis
+anemia
+anemia-induced
+anemia-related
+anemia/thrombocytopenia/emesis/rash
+anemic
+anencephaly
+aneurysm
+aneurysmal
+aneurysmal rupture
+aneurysmal subarachnoid hemorrhage
+aneurysms
+angina
+angina pectoris
+anginal
+anginal attacks
+angio-oedema
+angioedema
+angioneurotic edema
+angiopathy
+anophthalmia
+anorexia
+anotia
+anterior infarction
+antibiomania
+antiphospholipid syndrome
+antisocial disorder
+antisocial personality
+antisocial personality disorder
+anuria
+anxiety
+anxiety disorders
+anxiety neurosis
+anxiety-like
+anxious behaviour
+aortic insufficiency
+aortic occlusion
+aortic regurgitation
+aphasia
+aphtous ulcers
+apical ballooning
+apical ballooning syndrome
+aplastic anaemia
+aplastic anemia
+apnea
+apnoea
+arrhythmia
+arrhythmias
+arrhythmic
+arterial dysfunction
+arterial hypotension
+arterial injury
+arterial occlusion
+arteriopathic
+arteriovenous malformations
+arteritis
+artery aneurysms
+artery calcification
+arthralgia
+arthralgia-myalgia
+arthralgias/myalgias
+arthritis
+arthrogryposis
+ascites
+asphyxia
+asterixis
+asthenia
+asthma
+asthmatic
+asthmatics
+astrocytomas
+asystole
+asystolic
+ataxia
+ataxic movements
+atherosclerosis
+atherosclerotic
+atherosclerotic lesion
+atherosclerotic obstruction
+atherosclerotic vascular disease
+atopic dermatitis
+atrial fibrillation
+atrial flutter
+atrial septal defects
+atrial tachyarrhythmia
+atrial tachycardia
+atrial thrombosis
+atrio-ventricular dissociation
+atrioventricular ( AV ) block
+atrioventricular block
+atrioventricular conduction delay
+atrioventricular reentrant tachycardia
+atrophy
+attention deficit disorder
+attention problems
+attention-deficit hyperactivity disorder
+attention-deficit/hyperactivity disorder
+audiogenic tonic convulsions
+audiovisual toxicity
+auditory abnormality
+auditory dysfunction
+auditory hallucinations
+auditory loss
+auditory neurotoxicity
+autism
+autism spectrum disorders
+autistic disorder
+autoimmune disease
+autoimmune diseases
+autoimmune hemolytic anemia
+autoimmune thyroiditis
+autoimmunity
+autonomic neuropathy
+avascular necrosis
+axonal damage
+axonal degeneration
+axonal injury
+axonal neuropathy
+azotemia
+baboon syndrome
+bacteremia
+bacteremias
+bacterial infections
+bad breath
+band keratopathy
+basal cell carcinoma
+basal ganglia infarcts
+behavior disorder
+behavioral abnormalities
+behavioral cross-sensitization
+behavioral depression
+behavioral deterioration
+behavioral disorder
+behavioral disorders
+behavioral dyscontrol
+behavioral impairment
+behavioral inflexibility
+beta-thalassemia
+beta-thalassemic
+bicuspid aortic valve
+bilateral retrobulbar neuropathy
+bile duct destruction
+bile duct injury
+biliary atresia
+biliary pseudolithiasis
+bipolar
+bipolar I
+bipolar I disorder
+bipolar II
+bipolar depression
+bipolar disorder
+bipolar mania
+birdshot retinochoroidopathy
+birth defect
+birth defects
+bitemporal hemianopia
+biventricular dysfunction
+biventricular failure
+bladder
+bladder calculi
+bladder cancer
+bladder carcinomas
+bladder damage
+bladder hyperactivity
+bladder inflammation
+bladder irritation
+bladder tumor
+bladder tumors
+bladder tumours
+bleeding
+blind
+blindness
+blood coagulation
+blood dyscrasias
+blood loss
+blurred vision
+bone marrow depression
+bone marrow hypoplasia
+bone marrow necrosis
+bone marrow suppression
+bone marrow toxicity
+bone tumor
+bone tumors
+brachial neuritis
+brachial plexitis
+bradyarrhythmia
+bradyarrhythmias
+bradycardia
+bradycardiac
+bradycardias
+bradycardic
+bradydysrhythmias
+bradykinesia
+brain damage
+brain edema
+brain injury
+brain ischemic
+brain trauma
+brain tumor
+brain tumors
+brain tumour
+brainstem dysgenesis
+breast cancer
+breast carcinoma
+breast tumors
+breast-cancer
+broken heart syndrome
+bronchial asthma
+bronchiectasis
+bronchio-alveolar carcinoma
+bronchiolitis obliterans
+bronchitis
+bronchopneumonia
+bronchorrhoea
+bronchospasm
+bruising
+bundle branch block
+burn
+burns
+calcification
+calcification of the artery
+calculus
+callosal lesion
+cancer
+cancer of the ureter
+cancers
+candidiasis
+capillary leak
+capillary leak syndrome
+carcinogenesis
+carcinoma
+carcinoma of the breast
+carcinoma of the oral cavity
+carcinoma of the peritoneum
+carcinoma of the prostate
+carcinoma of the renal pelvis
+carcinoma of the urinary tract
+carcinomas of the urinary bladder
+cardiac abnormalities
+cardiac and skeletal myopathies
+cardiac apoptosis
+cardiac arrest
+cardiac arrhythmia
+cardiac arrhythmias
+cardiac asystole
+cardiac complications
+cardiac damage
+cardiac death
+cardiac dilation
+cardiac disarrangement
+cardiac disease
+cardiac diseases
+cardiac disorders
+cardiac disturbances
+cardiac dysfunction
+cardiac dysrhythmias
+cardiac failure
+cardiac hypertrophy
+cardiac infarction
+cardiac injury
+cardiac inotropic
+cardiac malformations
+cardiac morphological alterations
+cardiac remodelling
+cardiac symptoms
+cardiac tamponade
+cardiac toxicity
+cardiogenic shock
+cardiomegaly
+cardiomyocyte damage
+cardiomyocyte degeneration
+cardiomyopathic disorder
+cardiomyopathy
+cardiomyopathy-induced
+cardiopulmonary arrest
+cardiorespiratory arrest
+cardiotoxic
+cardiotoxicity
+cardiotoxity
+cardiovascular alterations
+cardiovascular arrhythmias
+cardiovascular collapse
+cardiovascular complications
+cardiovascular depression
+cardiovascular disease
+cardiovascular diseases
+cardiovascular impairments
+cardiovascular malformations
+cardiovascular toxicities
+cardiovascular toxicity
+caries
+carious episodes
+carious lesions
+catalepsy
+cataleptic
+cataract
+cataracts
+catatonia
+cauda equina syndrome
+central nervous system disease
+central nervous system leukemia
+central nervous system toxicity
+cerebellar atrophy
+cerebellar disorders
+cerebellar dysfunction
+cerebellum damage
+cerebral abnormalities
+cerebral aneurysm
+cerebral aneurysms
+cerebral anoxia
+cerebral damage
+cerebral edema
+cerebral haemorrhage
+cerebral haemorrhages
+cerebral hemorrhage
+cerebral hypoperfusion
+cerebral hypoxia
+cerebral infarction
+cerebral ischaemia
+cerebral ischemia
+cerebral ischemic infarction
+cerebral ischemic injury
+cerebral lesions
+cerebral microbleeds
+cerebral palsy
+cerebral sinus thrombosis
+cerebral vascular accident
+cerebral vasculitis
+cerebral vasospasm
+cerebrovascular accident
+cerebrovascular accidents
+cerebrovascular disease
+ceroid lipofuscinosis
+cervical carcinoma
+chest pain
+chest wall rigidity
+chill
+choanal atresia
+cholangitis
+cholecystitis
+cholestasis
+cholestatic
+cholestatic disease
+cholestatic injury
+cholestatic jaundice
+cholestatic syndrome
+chondrodysplasia punctata
+chorea
+choreatic dyskinesias
+choreoathetoid
+choreoathetoid movements
+choreoathetosis
+choriocarcinoma
+chorioretinal atrophy
+chorioretinopathy
+chronic active ( aggressive ) hepatitis
+chronic active hepatitis
+chronic airflow obstruction
+chronic allograft nephropathy
+chronic disease
+chronic hepatic enzyme dysfunction
+chronic hepatitis
+chronic hepatitis B
+chronic hepatitis B virus infection
+chronic hepatitis C
+chronic kidney disease
+chronic liver disease
+chronic myeloid leukemia
+chronic obstructive pulmonary disease
+chronic pain
+chronic renal damage
+chronic renal failure
+chronic renal insufficiency
+chronically infected with hepatitis C virus
+circulatory failure
+cirrhosis
+cirrhosis of the liver
+cirrhotic
+cirrhotic diseases
+clear cell adenocarcinoma
+cleft lip
+cleft palate
+clonic fits
+clonic seizure
+clonic seizures
+clonic-tonic convulsions
+clumsiness
+cluster headache
+coagulopathy
+coarctation of the aorta
+cocaine abuse
+cocaine addiction
+cocaine overdose
+cocaine-addicted
+coccidioidomycosis
+cognition deficits
+cognitive , motivational , or creative deficits
+cognitive and functional deficits
+cognitive and functional impairments
+cognitive decline
+cognitive deficits
+cognitive deterioration
+cognitive disorders
+cognitive dysfunction
+cognitive dysfunctions
+cognitive impairment
+collagen vascular disease
+colon cancer
+colon carcinoma
+colorectal adenomas
+colorectal cancer
+colorectal carcinoma
+coma
+comatose
+compartment syndrome
+compression neuropathy
+conduction disorder
+confusion
+congenital abnormalities
+congenital anomalies
+congenital heart disease
+congenital heart diseases
+congestive heart failure
+conjunctivitis
+connective tissue disorders
+constipating
+constipation
+constipation-predominant
+consumption coagulopathies
+contracture
+contractures
+contralateral rotation
+convulsants
+convulsion
+convulsions
+convulsive
+cor pulmonale
+cord damage
+corneal abrasion
+corneal disease
+corneal opacities
+corneal ulcers
+coronary aneurysm
+coronary arterial disease
+coronary arterial stenosis
+coronary arteriosclerosis
+coronary artery disease
+coronary artery spasm
+coronary artery stenosis
+coronary artery vasospasm
+coronary disease
+coronary heart disease
+coronary occlusion
+coronary spasm
+coronary spastic angina
+coronary stenoses
+coronary stenosis
+coronary thrombosis
+coronary vasospasm
+cortical dysplasia
+cortical laminar necrosis
+corticosteroid glaucoma
+corticostriatal dysfunction
+cough
+cramps
+cranial hemorrhage
+cranial nerve deficits
+cranial nerve dysfunction
+cranial neuropathy
+critically ill
+cryptococcal meningitis
+cutaneous lupus erythematosus
+cutaneous reactions
+cutaneous small vessel vasculitis
+cutis verticis gyrata
+cyanosis
+cystic renal diseases
+cystitis
+cystoid macular edema
+cysts
+cytopenia
+cytopenias
+cytotoxic oedema within cerebral white matter
+cytotoxicity
+damage of SNR
+damage of neuronal cells
+damage to the muscle
+daytime sleepiness
+deafness
+death
+deaths
+decline of cognitive function
+decrease in arterial blood pressure
+decrease in cardiac output
+decrease in sexual desire
+decreased appetite
+decreased auditory function
+decreased basal ganglia perfusion
+decreased cardiac output
+decreased cranial to body growth
+decreased renal function
+decreased the locomotor activity
+decreased thymus ( P < 0.001 ) and bodyweights
+decreased visual acuity
+decreases in arterial blood pressure
+decreases of TEOAEs amplitudes
+deep venous thrombosis
+deep-vein thrombosis
+deficit in fear recognition
+deficit of associative memory
+deficits in auditory discrimination
+deficits in communication and social skills
+deformations
+degeneration of dopaminergic neurons
+dehydration
+delayed puberty
+delirium
+delusional parasitosis
+delusions
+dementia
+demyelinating disorder
+depressed
+depressed mood
+depression
+depression disorder
+depression-inducer
+depressions
+depressive
+depressive disorder
+depressive disorders
+depressive episode
+depressive illness
+depressive symptoms
+depressive-like
+dermatitis
+desaturation
+desquamation
+deterioration in visual field
+deterioration of LV systolic and diastolic performance
+deterioration of cognitive functions
+deterioration of left ventricular ( LV ) systolic function
+deterioration of renal function
+deterioration of vision
+developmental anomalies
+diabetes
+diabetes complications
+diabetes insipidus
+diabetes mellitus
+diabetes-insipidus-like syndrome
+diabetic
+diabetic autonomic neuropathy
+diabetic hyperalgesia
+diabetic nephropathy
+diabetic neuropathy
+diabetics
+diaphragmatic hernia
+diarrhea
+diarrheas
+diarrhoea
+diarrhoea-predominant
+diastolic dysfunction
+diastolic hypertension
+dilated cardiomyopathy
+diplopia
+diseased kidney
+dislocation
+disorder of amino acid metabolism
+disorder of neuromuscular transmission
+disordered gastrointestinal motility
+disorders of the central nervous system
+disorientation
+disruptive behaviors
+dissecting aneurysm
+disseminated intravascular coagulation
+disturbances of sleep-wake rhythm
+disturbances within the cardiovascular system
+dizziness
+dopaminergic deficits
+dopaminergic terminal damage
+downbeat nystagmus
+downbeating nystagmus
+drop in blood pressure
+drowsiness
+drug abuse
+drug allergies
+drug dependence
+drug dependency
+drug hypersensitivity
+drug toxicity
+drug-induced acute liver injury
+drug-induced allergic reaction
+drug-induced dyskinesias
+drug-induced hepatitis
+drug-induced liver damage
+drug-induced liver injury
+dry eyes
+dry month
+dry mouth
+dysarthria
+dyschromatopsy
+dyserythropoiesis
+dysfunction
+dysguesia
+dyskinesia
+dyskinesias
+dyskinetic
+dyskinetic movements
+dyslipidemia
+dysmenorrhea
+dysmetria
+dysmyelopoiesis
+dysosmia
+dysphagia
+dysphonia
+dysphoric reaction
+dysplasia of fetal kidneys
+dyspnea
+dyspnoea
+dysrhythmia
+dysrhythmias
+dystonia
+dystonia-like
+dystonias
+dystonic
+eating disorders
+eczema
+edema
+edematous
+elastosis perforans serpiginosa
+electrolyte disorder
+elevated ICP
+elevated blood pressures
+elevated intraocular pressure
+embolic events
+embolism
+embryolethality
+embryonal rhabdomyosarcoma
+embryonic death
+embryopathy
+emergency department
+emesis
+encephalitis
+encephalopathic
+encephalopathy
+end-stage hepatic failure
+end-stage liver disease
+end-stage renal disease
+endocrine disorder
+endometrial cancer
+endometrial carcinoma
+endometrial disease
+endometrial hyperplasia
+endophthalmitis
+endothelial injury
+endotoxemia
+enlargement of pulse pressure
+enlargement of the liver
+entropion
+enuresis
+eosinophilia
+eosinophilic
+epicardial coronary disease
+epilepsies
+epilepsy
+epilepsy-associated
+epilepsy-induced
+epilepsy-related
+epileptic
+epileptic seizure
+epileptic seizures
+epileptiform activity
+epistaxis
+epithelial defects
+epithelial hyperplasia
+epitheliotropic lymphoma
+erectile dysfunction
+eruptions
+erythema
+erythema multiforme
+erythema nodosum
+erythematous nodules
+erythroblastocytopenia
+erythroderma
+erythrodysesthesia
+esophageal carcinoma
+esophageal squamous cell carcinoma
+essential hypertension
+exanthema
+excessive flexion or extension of one or more toes
+excitotoxicity
+excretion of proteins
+exencephalic
+exencephaly
+extensive hepatocellular necrosis
+extensively drug-resistant tuberculosis
+extrahepatic cholestasis
+extrapyramidal concomitant symptoms
+extrapyramidal signs
+extrapyramidal symptoms
+extrapyramidal syndrome
+facial dermatitis
+facial dysmorphism
+facial flush
+facial inflammatory dermatoses
+failing left ventricle
+fasciculation
+fasciculations
+fatiguability
+fatigue
+fatty change
+fatty liver
+febrile illness
+febrile neutropenia
+fecal occult blood
+femoral nerve palsy
+fetal anomalies
+fever
+fibrillation
+fibrosis
+fibrous myopathy
+filariasis
+fistula
+fits
+flank pain
+flatulence
+flushing
+flushing of the face
+focal glomerulosclerosis
+focal nodular hyperplasia
+focal segmental glomerular sclerosis
+focal segmental glomerulosclerosis
+folate deficiency
+follicular cell lymphoma
+foot deformities
+forestomach carcinogenesis
+forestomach tumorigenesis
+forestomach tumors
+fracture
+fractures
+frontal lobe syndrome
+fulminant eosinophilic
+fulminant hepatic failure
+fulminant hepatitis
+fulminant liver failure
+functional impairments
+fungal infection
+fungal infections
+gall bladder stones
+gall stone
+gall stone disease
+gall stones
+gallbladder disease
+gallbladder dysfunction
+gallstone
+gallstones
+gangrene
+gastric adenocarcinoma
+gastric cancer
+gastric hemorrhage
+gastric hemorrhagic
+gastric lymphoma
+gastroenteritis
+gastroesophageal reflux disorder
+gastrointestinal ( GI ) bleeding
+gastrointestinal ( GI ) toxicity
+gastrointestinal bleeding
+gastrointestinal disorder
+gastrointestinal disorders
+gastrointestinal haemorrhage
+gastrointestinal motility disorders
+gastrointestinal problems
+gastrointestinal symptoms
+gastrointestinal toxicity
+generalized seizures
+genotoxicity
+gestational trophoblastic disease
+giddiness
+gingival hyperplasia
+glaucoma
+glaucomatous
+glioblastoma
+glioblastoma multiforme
+glioblastomas
+glioma
+gliomas
+gliosis
+globus pallidus infarctions
+glomerular and late-onset tubular lesions
+glomerular and tubular injury
+glomerular and tubular lesions
+glomerular damage
+glomerular disease
+glomerular diseases
+glomerular dysfunction
+glomerular hypertrophy
+glomerular injury
+glomerular lesions
+glomerular or tubular dysfunction
+glomerular sclerosis
+glomerulonephritis
+glomerulopathies
+glomerulopathy
+glomerulosclerosis
+glucose hypometabolism
+glucose tolerance curves
+glucosuria
+glutamatergic dysfunction
+glycosuria
+gout
+gouty arthritis
+graft-versus-host disease
+gram-negative bacillary infections
+grand mal seizures
+granulocytopenia
+granulomas
+granulosa cell tumor of the ovary
+granulosa cell tumors
+growth failure
+growth impairment
+growth retardation
+gustatory hyperhidrosis
+gynecologic and testicular cancers
+gynecomastia
+haematological malignancies
+haematuria
+haemodilution
+haemolysis
+haemolytic anaemia
+haemolytic-uraemic syndrome
+haemopericardium
+haemorrhage
+haemorrhages
+haemorrhagic
+hallucinations
+hallucinatory
+hallucinosis
+halothane hepatitis
+hamartoma
+hand-foot syndrome
+hay fever
+head and neck cancer
+head and neck cancers
+head and neck carcinoma
+head and neck carcinomas
+head injury
+head trauma
+head twitches
+headache
+headache-free
+headaches
+hearing impairment
+hearing loss
+heart block
+heart damage
+heart disease
+heart diseases
+heart failure
+heart hypertrophy
+hematologic disturbances
+hematologic malignancies
+hematologic syndrome
+hematologic toxicities
+hematologic toxicity
+hematological abnormalities
+hematological disorders
+hematological malignancies
+hematoma
+hematomas
+hematotoxicity
+hematuria
+hemiparesis
+hemiplegic migraine
+hemodilution
+hemoglobinuria
+hemolysis
+hemolytic
+hemolytic anemia
+hemolytic anemias
+hemolytic uremic syndrome
+hemolytic-uremic syndrome
+hemoptysis
+hemorrhage
+hemorrhages
+hemorrhagic
+hemorrhagic bronchopneumonia
+hemorrhaging
+hemosiderin
+hemosiderosis
+hemosiderotic
+hepatic adverse effects
+hepatic complication
+hepatic damage
+hepatic dysfunction
+hepatic failure
+hepatic impairment
+hepatic injury
+hepatic insufficiency syndrome
+hepatic neoplasms
+hepatic toxicity
+hepatic tumors
+hepatic veno-occlusive disease
+hepatitis
+hepatitis B
+hepatitis B infection
+hepatitis B virus ( HBV ) infected
+hepatitis C
+hepatitis C virus infected
+hepatitis C virus infection
+hepatitis E
+hepatitis virus infection
+hepatocarcinogenesis
+hepatocarcinogens
+hepatocellular carcinoma
+hepatocellular carcinomas
+hepatocellular damage
+hepatocellular injury
+hepatocellular necrosis
+hepatoma
+hepatomas
+hepatomegaly
+hepatorenal syndrome
+hepatotoxic
+hepatotoxicity
+hereditary angioedema
+hernias
+heroin abuse
+hiccups
+high-frequency hearing loss
+hip fracture
+hippocampal damage
+hippocampal injury
+hirsutism
+histiocytic tumours
+hoarding
+hoarseness
+homonymous hemianopsia
+human immunodeficiency virus
+human immunodeficiency virus ( HIV ) -infected
+human immunodeficiency virus ( HIV ) co-infection
+human immunodeficiency virus infection
+human immunodeficiency virus type 1-infected
+hydrocephalus
+hydronephrosis
+hydrothorax
+hydroureteronephrosis
+hyper
+hyper- or dyskinetic
+hyper- or hypotension
+hyperCKaemia
+hyperactive
+hyperactivity
+hyperaldosteronism
+hyperalgesia
+hyperalgesia/myoclonus
+hyperalgesic
+hyperammonemia
+hyperammonemic
+hyperbilirubinemia
+hypercalcaemia
+hypercalcemia
+hypercalcemias
+hypercalcemic
+hypercalcemic emergency
+hypercapnia
+hypercapnic
+hypercholesterolaemia
+hypercholesterolemia
+hypercoagulability
+hyperemia
+hyperemic
+hypereosinophilia
+hyperesthesia
+hyperglycaemia
+hyperglycemia
+hyperglyceridemic effect
+hyperhidrosis
+hyperinsulinemia
+hyperkalaemia
+hyperkalemia
+hyperkinesia
+hyperkinesis
+hyperkinetic
+hyperlipemia
+hyperlipidemia
+hyperlipoproteinemias
+hyperlocomotion
+hyperosmolar , nonketotic coma
+hyperparathyroidism
+hyperphosphatemia
+hyperplasia
+hyperplastic marrow
+hyperprolactinemia
+hyperprolactinemic
+hypersalivation
+hypersensitivity
+hypersensitivity myocarditis
+hypertelorism
+hypertension
+hypertension-related
+hypertensive
+hypertensive eyes
+hypertensives
+hyperthermia
+hyperthermia-induced
+hyperthyroidism
+hypertriglyceridaemia
+hypertrophic
+hypertrophic cardiomyopathy
+hypertrophic hearts
+hypertrophied
+hypertrophied hearts
+hypertrophy
+hypertrophy/cytomegaly
+hyperuricemia
+hyperventilation
+hypoactivity
+hypoalbuminemia
+hypoaldosteronism
+hypocalcaemia
+hypocalcemia
+hypocellular marrow
+hypoglycaemia
+hypoglycemia
+hypogonadism
+hypokalaemia
+hypokalemia
+hypokinesis
+hypolocomotion
+hypomagnesemia
+hypomania
+hypomanic
+hyponatraemia
+hyponatremia
+hypoparathyroidism
+hypophosphatemia
+hypoplastic left heart syndrome
+hypoplastic lungs
+hyporeninemic hypoaidosteronism
+hypotension
+hypotension-mediated
+hypotensive
+hypothalamic dysfunction
+hypothermia
+hypothermic
+hypothyroid
+hypothyroidism
+hypotonia
+hypotony
+hypoventilation
+hypovolemia
+hypoxaemia
+hypoxemia
+hypoxia
+hypoxia-responsive
+hypoxia-sensing
+hypoxic
+hypoxic-ischemic encephalopathy
+icterus
+idiopathic Parkinson 's disease
+idiopathic cardiomyopathy
+idiopathic dilated cardiomyopathy
+idiopathic epilepsy
+idiopathic generalized epilepsies
+idiopathic orthostatic hypotension
+immune reconstitution syndrome
+immunocytoma
+immunocytoma-bearing
+immunodeficiencies
+immunodeficiency
+immunodeficient
+immunologic injury
+impaired auditory location discrimination
+impaired blood clotting
+impaired cognitive functions
+impaired consciousness
+impaired fear recognition
+impaired glucose tolerance
+impaired heart function
+impaired immediate free recall
+impaired memory
+impaired memory functioning
+impaired memory performance
+impaired novel word learning
+impaired overnight memory
+impaired renal function
+impaired social and emotional judgement processes
+impaired the memory
+impaired word fluency , psychomotor speed and working memory
+impairment in auditory discrimination
+impairment in auditory location discrimination
+impairment in word recall
+impairment of attention and memory
+impairment of hepatic function
+impairment of learning
+impairment of learning and memory
+impairment of renal reabsorption
+impairment of the renal function
+impairment of ventricular function
+impairs associative learning
+impotence
+impulsiveness
+inability to repeat words
+inability to sleep
+inappetence
+inappropriate antidiuretic hormone secretion
+inattention
+incomprehensible shouts
+incontinence
+incoordination
+increase in MAP
+increase in blood pressure
+increase in heart rate and cardiac output
+increase in locomotor activity
+increase of external and skeletal variations
+increased SBP
+increased cardiac output
+increased intraocular pressure
+increases in blood pressure
+increases in dural and cortical blood flow
+increases in dural blood flow
+infantile spasms
+infarct
+infarct-avid
+infarction
+infarcts
+infected with hepatitis C virus
+infection
+infection by hepatitis B virus
+infection with hemorrhagic fever viruses
+infections
+infectious mononucleosis
+infective endocarditis
+inferior colliculus lesion
+inferior colliculus lesions
+inferior infarction
+infertility
+inflammation
+inflammatory bowel disease
+inflammatory diseases
+inflammatory facial dermatoses
+inflammatory myopathy
+inhibition of lactation
+initiation induced by carcinogens
+initiation of carcinogenic process
+injury in the cortex
+injury to different regions of the kidney
+injury to the brain
+insomnia
+insulin resistance
+insulin sensitivity
+intermittent claudication
+interstitial cystitis
+interstitial fibrosis
+interstitial nephritis
+intestinal tumors
+intra-Hisian block
+intraarterial lesions
+intracerebral hemorrhage
+intracranial aneurysms
+intracranial bleeding
+intracranial hemorrhage
+intracranial hypertension
+intracranial vascular disturbances
+intracranial vascular thrombosis
+intrahepatic cholestasis
+intrauterine growth retardation
+intravascular coagulation
+intraventricular conduction abnormalities
+involuntary eye-blinking movements
+involuntary movements
+ion channel disorders
+ipsilateral circling
+iridocyclitis
+irregular heart beat
+irregular heartbeat
+irritability
+irritable bowel syndrome
+irritation of the urinary tract
+ischaemia
+ischaemic
+ischaemic heart disease
+ischaemic injury
+ischaemic stroke
+ischaemic strokes
+ischemia
+ischemia of the globus pallidus
+ischemia-reperfusion injury
+ischemic
+ischemic attack
+ischemic brain injury
+ischemic colitis
+ischemic hemisphere
+ischemic injury
+ischemic lesions
+ischemic myocardium
+ischemic optic neuropathies
+ischemic stroke
+isotretinoin embryopathy
+itchiness
+itching
+jaundice
+jaw of steel
+jaw stiffness
+juvenile rheumatoid arthritis
+keratoconjunctivitis
+ketosis
+kidney cancer
+kidney damage
+kidney disease
+kidney diseases
+kidney dysfunction
+kidney injury
+kidney lesions
+kidney stones
+kidney tubular dysfunction
+lactic acidosis
+language delay
+lateral epicondylitis
+learning and post-training consolidation deficits
+learning impairment
+left bundle branch block
+left ventricular apical ballooning syndrome
+left ventricular dysfunction
+left ventricular end-diastolic volume falls
+left ventricular systolic and diastolic dysfunction
+leg cramps
+legs paralysis
+leiomyosarcoma
+leprosy
+lesioned SNR
+lesions of the urinary bladder
+lesions within the subcortical white matter
+lethargy
+leucocytoclastic vasculitis
+leucopenia
+leukaemia
+leukemia
+leukemic
+leukemic infiltration
+leukemoid reaction
+leukocytoclastic vasculitis
+leukocytosis
+leukocyturia
+leukoencephalopathy
+leukopenia
+leukopenic
+lichenoid dermatitis
+lipidemia
+liver abscess
+liver cancer
+liver cirrhosis
+liver damage
+liver disease
+liver dysfunction
+liver failure
+liver injury
+liver lesions
+liver mass
+liver neoplasms
+liver toxicity
+liver tumors
+localized scleroderma
+locked-in syndrome
+locomotor hyperactivity
+locomotor hypoactivity
+loiasis
+long QT syndrome
+long-QT syndrome
+loss in body weight
+loss of appetite
+loss of central visual acuity , colour vision ( Ishihara ) and visual field
+loss of consciousness
+loss of creativity
+loss of hearing
+loss of myelination
+loss of pinprick sensation
+loss of sensation
+loss of taste sensation
+loss of thick , myosin filaments
+loss of vision
+loss of visual function
+low back pain
+low bone turnover
+low sexual desire
+lower extremity weakness
+lung cancer
+lung mass
+lung toxicity
+lupus
+lupus erythematosus
+lupus nephritis
+lupus syndrome
+lupus-like syndrome
+lymphadenitis
+lymphadenopathy
+lymphoblastic lymphoma
+lymphoma
+lymphomas
+lymphopenia
+lymphoplasmacytic lymphoma
+lymphoproliferative disorder
+macro-papular rash
+macrocytic anemia
+macroprolactinemia
+macroprolactinoma
+maculopapular eruption
+major depression
+major depression disorder
+malaise
+malaria
+male impotence
+malformations
+malignancies
+malignancy
+malignant glioma
+malignant gliomas
+malignant hypertension
+malignant hyperthermia
+malignant mesenchymal tumors
+malignant tumor
+malnutrition
+mania
+mania-like
+manic
+manic depression
+manic-like
+mantle cell lymphoma
+marrow suppression
+marrow toxicity
+masseter muscle rigidity
+masseter spasm
+massive hepatic necrosis
+massive hepatocellular necrosis
+mast cell tumour
+mastitis
+mastocytosis
+mastodynia
+mechanical hyperalgesia
+megaloblastosis
+melanoma
+membranoproliferative glomerulopathy
+membranous glomerulonephritis
+memory
+memory deficiency
+memory deficits
+memory deterioration
+memory dissociation
+memory impaired
+memory impairment
+memory impairments
+meningeal disease
+meningeal leukemia
+meningioma
+meningitis
+menopausal symptoms
+menorrhagia
+mental retardation
+mental slowing
+mental slowness
+mesangial dysfunction
+mesangial proliferation
+mesenchymal tumors
+mesothelioma
+metabolic abnormalities
+metabolic acidosis
+metabolic alkalosis
+metabolic derangement
+metabolic disturbances
+metabolic-endocrine failure
+metastases
+metastasis
+meth mouth
+methemoglobinemia
+microangiopathic hemolytic anemia
+microangiopathies
+microangiopathy
+microfilaremia
+microphthalmos
+microprolactinoma
+middle cerebral artery occlusion
+midline defects
+migraine
+migraine headache
+migraine with aura
+migraine without aura
+migraine-inducing
+migraines
+migraineurs
+migraineurs ( without aura )
+milk fever
+milk-alkali syndrome
+miosis
+mitochondrial abnormalities
+mitochondrial cytopathy
+mitochondrial damage
+mitochondrial defect
+mitochondrial disorders
+mitochondrial dysfunction
+mitochondrial impairment
+mitochondrial injury
+mitochondrial oxidative damage
+mitochondrial structural and functional impairment
+mitochondrial toxicity
+mitral regurgitation
+mitral valve prolapse
+mood disorder
+mood disorders
+morning stiffness
+motor and sensory impairment
+motor deficits
+motor disability
+motor neuropathy
+mouth
+movement abnormalities
+movement difficulties
+movement disorder
+movement disorders
+mucositis
+multi-organ failure
+multicystic encephalomalacia
+multiple cranial-nerve involvement
+multiple myeloma
+multiple sclerosis
+multiple system atrophy
+muscle
+muscle atrophy
+muscle contractions
+muscle damage
+muscle dysfunction
+muscle fasciculation
+muscle fasciculations
+muscle flaccidity
+muscle pain
+muscle rigidity
+muscle spasm
+muscle spasms
+muscle tear
+muscle toxicity
+muscle tremors
+muscle wastage
+muscle weakness
+muscular atrophy
+muscular dystrophy
+muscular rigidity
+muscular weakness
+musculoskeletal pain
+myalgia
+myalgia/arthralgia
+myalgias
+myasthenia gravis
+mydriasis
+myelitis
+myelodysplasia
+myelodysplastic
+myelodysplastic syndrome
+myeloencephalopathy
+myeloma
+myeloma (
+myelopathy
+myelosuppression
+myelotoxicity
+myocardial cell injury
+myocardial damage
+myocardial degeneration
+myocardial depression
+myocardial disease
+myocardial dysfunction
+myocardial hyperactivity
+myocardial hypertrophy
+myocardial impairment
+myocardial infarction
+myocardial infarctions
+myocardial injury
+myocardial ischaemia
+myocardial ischemia
+myocardial ischemic injury
+myocardial lesions
+myocardial necrosis
+myocardial strain
+myocardial stunning
+myocardiopathy
+myocarditis
+myoclonia
+myoclonic jerks
+myoclonic status
+myoclonus
+myodystrophy
+myoglobinuria
+myonecrosis
+myopathic
+myopathic disease
+myopathy
+myositis
+myotonia
+myotonia congenita
+myotonic condition
+myotonic disorders
+myotonic dystrophy
+myxomatous degeneration
+narcosis
+nasal hypoplasia
+nausea
+nausea , vomiting
+nausea-free
+necroses
+necrosis
+necrotic
+necrotising fasciitis
+necrotizing enterocolitis
+neonatal apnea
+neoplasia
+neoplasm
+neoplasms
+nephritis
+nephrogenic DI
+nephrogenic diabetes insipidus
+nephrolithiasis
+nephropathy
+nephrosclerosis
+nephrosis
+nephrotic
+nephrotic syndrome
+nephrotic syndromes
+nephrotic-range
+nephrotoxic
+nephrotoxicity
+neprotic
+nerve entrapment
+nervous system abnormalities
+neuralgia
+neuroblastoma
+neurocognitive defects
+neurodegeneration
+neurodegenerative diseases
+neurodevelopmental disorder
+neurogenic DI
+neurogenic diabetes insipidus
+neurogenic hyperalgesia
+neuroinflammation
+neuroinflammatory
+neuroleptic malignant syndrome
+neurologic complications
+neurologic depression
+neurologic deterioration
+neurologic impairment
+neurologic sequelae
+neurologic toxicity
+neurological abnormalities
+neurological complications
+neurological deficit
+neurological deficits
+neurological disorders
+neurological disturbance
+neurological dysfunction
+neurological dysfunctions
+neurological sequelae
+neurological symptoms
+neurological toxicity
+neurologically-impaired
+neuromuscular blockade
+neuromuscular disease
+neuromuscular disorders
+neuromuscular dysfunction
+neuronal damage
+neuronal death
+neuronal degeneration
+neuronal dysfunction
+neuronal injury
+neuronal loss
+neuropathic
+neuropathic damage
+neuropathic pain
+neuropathic symptoms
+neuropathies
+neuropathological damages
+neuropathy
+neuropsychiatric disorders
+neuropsychiatric symptoms
+neuropsychiatric-like behavior
+neuropsychiatric-like behaviors
+neurosensorial hearing loss
+neurotoxic
+neurotoxic lesions
+neurotoxicity
+neurotransmitter dysfunction
+neurovascular complications
+neutropenia
+neutropenic
+nociceptive muscle
+nocturia
+nocturnal leg cramps
+non-Hodgkin 's lymphoma
+non-Hodgkin lymphoma
+non-Hodgkin lymphomas
+non-convulsive status epilepticus
+non-insulin-dependent diabetes mellitus
+non-small cell lung cancer
+non-small-cell lung cancer
+nonalcoholic fatty liver disease
+nonketotic hyperglycinemia
+nonsmall cell lung carcinoma
+numbness
+nutritional deficiency
+nystagmus
+obese
+obesity
+obsessive compulsive disorder
+obsessive-compulsive behavior
+obsessive-compulsive disorder
+obsessive-compulsive symptoms
+obsessive-compulsive-like behaviors
+obstructive lung disease
+obstructive sleep apnea
+obstructive sleep apnea syndrome
+obstructive uropathy
+occlusion of renal vessels
+occlusion of the left internal carotid artery
+ocular dyskinesias
+ocular hypertension
+ocular hypotensive
+ocular myasthenia
+ocular pain
+ocular toxicity
+oedema
+oedema-related
+of
+olfactory disorder
+oliguria
+on
+onychomycosis
+open angle glaucoma
+open-angle glaucoma
+opioid addiction
+opioid addicts
+opportunistic infection
+opportunistic infections
+optic atrophy
+optic disc edema
+optic nerve hypoplasia
+optic nerve toxicity
+optic neuropathies
+optic neuropathy
+oral candidiasis
+oral dyskinesia
+oral stereotypies
+oral ulcers
+organic brain lesions
+organic mental disorder
+organic mental disorders
+organic personality syndrome
+organic psychotic
+orofacial diskinesia
+orofacial dyskinesia
+orthostatic hypotension
+oscillopsia
+osteoarthritis
+osteomyelitis
+osteopenia
+osteoporosis
+ototoxic
+ototoxicity
+ovarian cancer
+ovarian failure
+overactive bladder
+overdosage
+overdosages
+overdose
+pain
+pain disorders
+pain in the legs and/or back
+pain-induced
+pain-intolerant
+pain-related
+painful
+painful muscle
+painful syndromes
+pains
+palmoplantar pustulosis
+palpebral twitching
+palpitation
+palpitations
+palsy
+pancreatitis
+pancytopenia
+panic attack
+panic attacks
+panic disorder
+panic disorders
+papillary necrosis
+papilledema
+papillomas
+papular rosacea
+paraesthesia
+paralysis
+paralyzed
+paranoia
+paranoid
+paranoid type schizophrenia
+paraplegia
+parasomnias
+paresthesia
+paresthesias
+parkinsonian
+parkinsonian catalepsy
+parkinsonian disability
+parkinsonian symptoms
+parkinsonian-like
+parkinsonism
+parotiditis
+partial loss of quadriceps functions
+patent ductus arteriosus
+patent foramen ovale
+pathological renal medullary lesions
+pathology at both the neuromuscular junction
+peliosis
+pelvic pain
+pelvic tumor
+penile erection
+penile pain
+peptic ulcer disease
+pericarditis
+periocular dermatitis
+perioral dermatitis
+peripheral nerve disease
+peripheral nerve toxicity
+peripheral nervous system damage
+peripheral neuropathy
+peripheral neurotoxicity
+peripheral sensory neuropathy
+peripheral vascular disease
+peritoneal carcinoma
+periventricular leukomalacia
+permanent disability
+personality disorder
+pertussis
+petechiae
+pharyngitis
+pheochromocytoma
+phlebitis
+phonophobia
+photodermatitis
+photophobia
+pigmentary retinal deposits
+pituitary tumors
+plasmacytoma
+platelet
+platelet aggregation
+platypnea-orthodeoxia
+platypnea-orthodeoxia-like syndrome
+pleural effusion
+pleural effusions
+pneumonia
+pneumoniae
+pneumonitis
+poisoning
+pollakisuria
+polyarteritis nodosa
+polyarthralgia
+polycystic ovary syndrome
+polycythemia
+polydipsia
+polymyositis
+polymyositis/dermatomyositis
+polyneuropathy
+polyphagia
+polyuria
+polyuric
+portal hypertension
+post-herpetic neuralgia
+post-transplant lmphoproliferate disease
+post-transplantation lymphoproliferative disorder
+posterior leukoencephalopathy
+posterior reversible encephalopathy syndrome
+postoperative complication
+postoperative delirium
+postoperative emetic symptoms
+postoperative myalgia
+postoperative nausea and vomiting
+postoperative pain
+postprandial dyspepsia
+postsynaptic neuromuscular blockade
+posttransplant lymphoproliferative disorder
+postural hypotension
+postzosteric
+precancerous lesions
+precordial pain
+preeclampsia
+premature ( < 36 weeks of gestation ) infants
+premature atherosclerosis
+premature ventricular contraction
+premature ventricular contractions
+preneoplastic foci
+preterm infants
+preterm labor
+priapism
+primary biliary cirrhosis
+primary cardiomyopathy
+primary headaches
+primary open angle glaucoma
+primary open-angle glaucoma
+primary pulmonary hypertension
+primary systemic amyloidosis
+proarrhythmia
+progressive renal failure
+progressive supranuclear palsy
+prolactinoma
+prolactinomas
+prolongation of the QT interval
+prolonged Q-T syndrome
+prolonged QT interval
+prolonged QT syndrome
+prolonged QTc interval
+prolonged jaw rigidity
+prolonged status epilepticus
+prostate adenocarcinomas
+prostate cancer
+prostatic adenocarcinoma
+prostatitis
+protein excretion
+proteinuria
+proteinuria/day
+proteinuric
+proteinuric injury
+proximal motor neuropathy
+pruritus
+pseudoacromegaly
+pseudocystic transformation
+pseudolithiasis
+pseudoprolactinoma
+pseudotumor cerebri
+psoriasis
+psoriatic
+psychiatric
+psychiatric disorders
+psychiatric symptoms
+psychobiological dysfunction
+psychogenic parasitosis
+psychological disturbance
+psychomotor agitation
+psychomotor retardation
+psychopaths
+psychoses
+psychosis
+psychotic
+psychotic disorder
+psychotic disorders
+psychotic symptoms
+psychotic syndromes belonging predominantly to the schizophrenia group
+ptosis on the right upper lid
+pulmonary edema
+pulmonary emboli
+pulmonary embolism
+pulmonary hypertension
+pulmonary hypertension syndrome
+pulmonary interstitial infiltrates
+pulmonary lesion
+pulmonary mass
+pulmonary obstruction
+pulmonary toxicity
+pulmonary tuberculosis
+pulmonary-renal syndrome
+pupil dilation
+pupillary abnormalities
+pupillary oscillation
+pure red cell aplasia
+purpura
+purpuric lesions
+putaminal hemorrhage
+pyeloureteritis cystica
+pyrexia
+quadriparesis
+quadriplegic
+rabbit syndrome
+radiation injury
+radiculopathy
+raised intraocular pressure
+rash
+reactions
+red eyes
+reduced cerebellar growth
+reduced the supine systolic and diastolic blood pressures
+reduces frontal lobe oxygenation
+reduction in blood pressure
+reduction in glomerular number
+reduction in renal function
+reduction in systolic BP
+reduction of food intake
+reductions in mean arterial blood pressure
+reflex sympathetic dystrophy
+reflux esophagitis
+refractory seizures
+renal Fanconi syndrome
+renal abnormalities
+renal abnormality
+renal and kidney disease
+renal artery stenosis
+renal calculi
+renal calculus
+renal cancer
+renal carcinomas
+renal cell cancer
+renal cell carcinoma
+renal cell carsinom
+renal damage
+renal damages
+renal disease
+renal disturbance
+renal dysfunction
+renal failure
+renal impairment
+renal injury
+renal insufficiency
+renal interstitial damage
+renal involvement
+renal lesions
+renal papillary necrosis
+renal tissue damage
+renal toxicity
+renal tubular acidosis
+renal tubular dysfunction
+renal tubular injury
+renal tubular necrosis
+renovascular disease
+renovascular hypertension
+repetitive behaviors
+respiratory arrest
+respiratory depression
+respiratory distress
+respiratory dysfunction
+respiratory failure
+respiratory insufficiency
+respiratory paralysis
+respiratory syncytial virus infection
+respiratory upset
+restless legs syndrome
+restlessness
+restricted right eye movement
+retained placenta
+retention deficit
+retention of urine
+reticulocytosis
+retinal artery and choriocapillaris occlusion
+retinal artery and choriocapillaris occlusions
+retinal detachment
+retinal ganglion
+retinal toxicity
+retinal vasculitis
+retinal vein occlusion
+retinoblastoma
+retinopathy
+retrograde amnesia
+rhabdomyolysis
+rheumatic disease
+rheumatic fever
+rheumatic heart disease
+rheumatoid arthritis
+rheumatologic disease
+rheumatologic diseases
+rheumatologic disorders
+right bundle branch block
+right heart failure
+rigidity
+rise in resting blood pressure
+rosacea
+rosacea-like
+rotation
+rotational behavior
+rubella
+rudimentary left uterine cornu
+rupture
+ruptured aneurysms
+salivation
+sarcomas
+scabies
+schizo-affective disorder
+schizoaffective disorder
+schizophrenia
+schizophrenic
+schizophrenic-like
+schizophreniform disorder
+scleroderma renal crisis
+sclerosis
+scotoma
+scotomata
+seasonal allergic rhinitis
+secondary hyperalgesia
+secondary hyperparathyroidism
+secondary infection
+segmental necrotizing glomerulonephritis
+seizure
+seizure disorder
+seizure-associated
+seizure-free
+seizure-induced
+seizure-inducing
+seizure-like
+seizure-prone
+seizure-related
+seizure-resistant
+seizures
+seizures/mo
+sensori-motor neuropathy
+sensorineural hearing loss
+sensory and motor dysfunction
+sensory axonal neuropathy
+sensory disturbance
+sensory loss
+sensory neuropathy
+sensory neurotoxicity
+sepsis
+septal rupture
+septicaemia
+septicemia
+serositis
+serotonin syndrome
+severe combined immunodeficiency syndrome
+severe malaria
+sexual dysfunction
+sexual side effects
+sexually dysfunctional
+shock
+shortness of breath
+sinoatrial ( S-A ) block
+sinoatrial block
+sinuatrial disease
+sinus arrest
+sinus bradycardia
+sinus tachycardia
+sinus tachycardias
+sinusitis
+sinusoidal obstruction syndrome
+skin cancers
+skin diseases
+skin eruptions
+skin lesion
+skin rash
+skin reactions
+sleep apnea
+sleep deprivation
+sleep disturbance
+sleep disturbances
+sleep-related impairments
+sleeping difficulties
+somatic rigidity
+somnolence
+somnolence/depressed mood
+sore throat
+spasm
+spasmodic dysphonia
+spastic paraparesis
+spasticity
+sphincter of Oddi dyskinesia
+spinal cord injury
+spinal cord ischemia
+splenomegaly
+spondyloarthropathy
+sporotrichosis
+spring allergic rhinitis
+squamous carcinoma
+squamous cell carcinoma
+squamous cell esophageal carcinoma
+squamous cell papilloma
+stable angina
+staphylococcal infections
+startle
+status
+status epilepticus
+status migrainosus
+steatosis
+stenosis
+stereotypies
+steroid glaucoma
+stillbirth
+stippled epiphyses
+stomatitis
+streptococcal endophthalmitis
+stress fractures
+stress incontinence
+stroke
+stroke-like
+stroke-prone
+strokes
+structural damage to the frontal lobe
+structural deficits in the human brain
+structural lesions of the brain
+stuporous
+subarachnoid haemorrhage
+subarachnoid hemorrhage
+subcellular degeneration
+subendocardial infarction
+submucosal hemorrhage
+subpial necrosis
+substance abuse
+substance abuse disorder
+substantia nigra lesion
+sudden cardiac death
+sudden death
+sudden deterioration of renal function
+sugar dependency
+sunburn
+superior vena cava ( SVC ) syndrome
+suppression of bone turnover
+suppression of motility
+supraventricular tachyarrhythmia
+supraventricular tachyarrhythmias
+supraventricular tachycardia
+sustained membrane depolarisation
+sweating
+swelling
+syncopal attacks
+syncopal episode
+syncope
+syndrome of inappropriate anti-diuretic hormone
+syndrome of inappropriate secretion of anti-diuretic hormone
+syndrome of inappropriate secretion of antidiuretic hormone
+syndrome of obstructive sleep apnea
+synovitis
+systemic lupus erythematodes
+systemic lupus erythematosus
+systemic mastocytosis
+systemic sclerosis
+systolic dysfunction
+systolic orthostatic hypotension
+tachy- or bradycardia
+tachyarrhythmia
+tachyarrhythmias
+tachycardia
+tachydysrhythmias
+talipes equinovarus
+tardive dsykinesia
+tardive dyskinesia
+tardive dystonia
+telangiectasia
+telangiectasis
+temporal lobe epilepsy
+temporomandibular disorders
+tender joints
+tenderness
+tension-type headache
+teratogenic
+teratogenicity
+testicular pain
+tetanic
+tetanus
+tetany
+tetraparetic
+thalamic lesions
+thalassemia
+thalassemic
+thermal hyperalgesia
+thoracic aortic aneurysm
+thoracic hematomyelia
+throat pain
+thrombi
+thrombocytopenia
+thrombocytopenia type II
+thromboembolic
+thromboembolic disease
+thromboembolic episodes
+thromboembolic phenomena
+thromboembolism
+thrombolysis
+thrombopenia
+thrombophlebitis
+thrombosis
+thrombosis of a normal renal artery
+thrombotic
+thrombotic cardiovascular
+thrombotic microangiopathy
+thrombotic thrombocytopenic purpura
+thrombus
+thrush
+thyroid disease
+thyroid function abnormalities
+thyroid illness
+thyrotoxicosis
+tic-like symptoms
+tingling or burning sensations
+tinnitus
+tiredness
+tissue damage
+tissue injury
+tonic and clonic seizure
+tonic clonic convulsions
+tonic pupillary
+tonic seizures
+tonic-clonic convulsions
+tonic-clonic seizure
+tonic-clonic seizures
+tooth wear
+torsade de pointes
+torsades de pointes
+toxic dermatitis
+toxic epidermal necrolysis
+toxic hepatitis
+toxic liver damage
+toxic neurodegenerative cascade
+toxic neuropathy
+toxic optic neuropathy
+toxic to the central nervous system
+toxicities
+toxicity
+toxicity-free
+toxocity
+toxoplasmosis
+transient hemiparesis
+transient ischaemic attacks
+transient neurologic symptoms
+transplant glomerulopathy
+transverse limb deficiency
+trauma
+traumatic
+traumatic brain injury
+treatment-resistant depression
+tremor
+tremorgenic
+tremors
+trichotillomania
+tricuspid regurgitation
+trigeminal neuralgia
+tuberculosis
+tuberculous
+tubular damage
+tubular dysfunction
+tubular injury
+tubular lesions
+tubular necrosis
+tubulo-interstitial injury
+tubulointerstial disease
+tubulointerstitial damage
+tubulointerstitial inflammation
+tubulointerstitial injury
+tubulointerstitial nephritis
+tubulopathies
+tumor
+tumor lysis syndrome
+tumor-bearing
+tumor-free
+tumor-protective
+tumors
+tumour
+tumours
+twitch
+type 1 diabetes
+type 2 diabetes
+type 2 diabetic
+type B hepatitis
+type II diabetes mellitus
+type IV renal tubular acidosis
+ulcer
+ulcerative colitis
+ulcers
+unconsciousness
+undifferentiated carcinoma
+unipolar depression
+unstable angina
+upper respiratory tract infection
+upper-airway obstruction
+upper-extremity deep venous thrombosis
+uraemia
+uremia
+uremic
+ureteral lithiasis
+ureteric calculi
+ureteric cancer
+ureteric obstruction
+urinary abnormalities
+urinary bladder inflammation
+urinary bladder retention
+urinary incontinence
+urinary stress incontinence
+urinary tract cancer
+urinary tract infection
+urinary tract infections
+urolithiasis
+urothelial cancer
+urothelial toxicity
+urticaria
+urticaria-angioedema
+urticaria/angioedema
+urtication
+uveitis
+vacuolar degeneration
+vacuolar degeneration of myocardial cells
+valve regurgitation
+valvular abnormalities
+valvular disease
+valvular heart abnormality
+valvular heart disease
+valvular regurgitation
+valvulopathy
+vanishing bile duct
+vanishing bile duct syndrome
+variant angina
+vascular dysfunction
+vascular dysfunctions
+vascular events
+vasculitic
+vasculitic disorders
+vasculitis
+vasogenic edema
+vasospasm
+vein thrombosis
+veno-occlusive disease of the liver
+venous
+venous complications
+venous congestion
+venous sinus thrombosis
+venous thrombo-embolism
+venous thromboembolism
+venous thrombosis
+ventricular arrhythmia
+ventricular arrhythmias
+ventricular dilation
+ventricular dysfunction
+ventricular dysrhythmias
+ventricular ectopic beats
+ventricular ectopy
+ventricular fibrillation
+ventricular remodeling
+ventricular septal defect
+ventricular septal defects
+ventricular septal rupture
+ventricular tachyarrhythmia
+ventricular tachyarrhythmias
+ventricular tachycardia
+ventricular tachycardias
+vertigo
+vessel rupture
+vestibulotoxicity
+violent behavior
+viral hepatitis
+viral infection
+viremia
+visceral pain
+visual defects
+visual deficits
+visual disturbance
+visual disturbances
+visual field abnormalities
+visual field constriction
+visual field defect
+visual field defects
+visual field loss
+visual hallucinations
+visual halos or blurring
+visual impairment
+visual loss
+vocal cord paralysis
+vocal fold palsy
+vocal nerve palsies
+volume retention
+vomiting
+vomitus
+water intoxication
+weakness
+weakness of extremities
+weakness of the central nervous system
+weight gain
+weight loss
+wheezing
+white matter abnormalities
+white matter edema
+withdrawal symptoms
+woven osteoid
+writhing
+xerostomia

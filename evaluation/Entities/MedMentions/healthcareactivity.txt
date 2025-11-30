@@ -1,0 +1,9192 @@
+" virtual " patients
+" yoke " repair
+' bolus ' administration
+( 1 ) H - NMR
+( 1 ) H NMR
+( 1 ) H NMR analysis
+( 1 ) H NMR spectroscopy
+( 13 ) C - NMR
+( 13 ) C CSI
+( 13 ) C NMR
+( 13 ) C T2 * estimation
+( 2D ) - fingerprint structural similarity search
+( AT - AMIC ( ® ) ) technique
+( CD )
+( CT
+( HCT )
+( Human Oral Microbe Identification Microarray [ HOMIM ] ) analysis
+( IMF )
+( ITC )
+( PET ) / CT
+( VATS )
+( VD )
+( fMRI ) studies
+( i . p . ) injections
+( treatment as usual
+-10
+-10 levels
+1 cycle of chemotherapy
+1 year before death
+1 year before their death
+12 - Lead electrocardiogram
+12 - core transrectal prostate biopsy
+128 - multisliced coronary computed - tomography - angiography
+16S rRNA gene sequencing
+18F - FDG Positron Emission Tomography / Computed Tomography
+1D
+1D - LC - MS
+1H - NMR
+2 - D DIGE
+2 - Pin Unilateral Gradual Distraction
+2 - arc , X6MV , VMAT
+2 - dimensional echocardiography
+2 - dimensional glenoid vault method
+24 - hour urine calcium
+25 ( OH ) D serum levels
+25 ( OH ) D3 concentration
+25 ( OH ) D3 concentrations
+25 ( OH ) D3 levels
+25 - hydroxyvitamin D
+25 - hydroxyvitamin D ( 25 ( OH ) D ) serum levels
+25 - hydroxyvitamin D3 ( 25 ( OH ) D3 ) concentrations
+25OHD results
+25OHD values
+25OHD was analyzed
+2D - DIGE
+2D - LC - MS
+2D NMR
+2D NMR spectroscopy
+2D STE
+2D real - time ultrasound imaging
+2D speckle - tracking echocardiography
+2DE
+2DE map
+2DE mapping
+2DE maps
+3 - Tesla MR scanner
+3 - dimensional reconstruction
+3 - square - flap method
+3 - square Flap Method
+3 D gait analysis
+3 T
+3 T MRI
+3 T multiparametric magnetic resonance imaging
+30 - Gy WBRT
+30 Gy WBRT
+320 - row cardiac computed tomography
+320 - row computed tomography angiography
+3D - MPRAGE
+3D T1 - weighted
+3D cell culture
+3D cylindrically - distributed spiral pCASL MRI
+3D human reconstructed skin micronucleus ( RSMN ) assay
+3D imaging
+3D motion capture
+3D spiral - based pCASL technique
+3D spiral ASL MRI
+3D spiral pCASL
+3DCRT
+3rd generation DSCT
+3rd generation dual - source CT
+4 - field , X15MV , 3DCRT
+5 - Fluorouracil - oxaliplatin - irinotecan
+5 mg / kg and infusion
+6 - min walk distance
+6 - min walk test
+64 - Slice Multidetector Computed Tomography
+64 - slice CCTA
+64 - slice MDCT
+64 - slice multidetector computed tomography
+6MWD
+6MWT
+6MWT test
+7 - Tesla magnetic resonance imaging
+7 - field , X6MV , IMRT
+70 % hepatectomy
+70 % partial hepatectomy
+9
+A2 M
+AAM portal
+AAT
+AAV - based gene therapy
+AAV9 - NPC1 injection
+AB
+ABI
+ACL Reconstruction
+ACL reconstruction
+ACL reconstructions
+ACL revision surgery
+ACLR
+ADCC assays
+ADR
+AET
+AFM
+AGE
+AGEPs
+AHCS
+AHG - CDC - XM
+AHT
+AL
+ALND
+ALP
+ALT
+ALT levels
+AM portal
+AMA - M2 levels
+AMA - M2 titer
+AMIC
+ANC
+ANTI - HCV testing
+AOAC
+AP
+AP - MS
+APACHE II scores
+APOE genotype
+APR
+APT
+APTT
+APTs
+AR
+ART
+AS
+ASCT
+ASL
+ASPItest
+ASPs
+AST
+AST procedure
+AT - AMIC
+AT - AMIC ( ® ) procedure
+AT - AMIC ( ® ) technique
+AVERT
+AVR
+AVS
+Abdomen closure
+Abdominal Aortic Aneurysm Screening
+Abdominal CT
+Ablation
+Activated Partial Phromboplastin Ptime
+Active Surveillance
+Acupuncture
+Acute Care
+Adjuvant Endocrine Therapy
+Adjuvant Radiotherapy
+Adjuvant chemotherapy
+Administration
+Admitted
+Admitted to the Intensive Care Unit
+Adoptive Cell Therapy
+Adoptive T - cell transfer
+Adoptive transfer experiments
+Aerobic
+Affects
+Affinity chromatography
+After Treatment
+After treatment
+Ag - DIOS MSI
+Aggressive management
+Alcian blue
+Alcohol brief intervention
+Alizarin Red staining
+All - arthroscopic AMIC
+Allele - Specific Genotyping Assays
+Allergen specific immunotherapy
+Alleviate
+Alleviating
+Allogeneic BMT
+Allogeneic Bone Marrow Transplant
+Allogeneic hematopoietic cell transplantation
+Allogeneic stem cell transplant
+Allogeneic stem cell transplantation
+Ambulatory Pediatric Surgery
+Ambulatory care
+American Orthopedic Foot and Ankle Society ( AOFAS ) score
+Amputation
+Analgesia
+Analysis
+Andalusian Health Service
+Androgen deprivation
+Anesthesia
+Angiographic
+Angiography
+Angioplasty
+Ankle Surgery
+Annexin V / PI assays
+Anterior Cruciate Ligament Reconstruction
+Anti - TNF therapy
+Anti - angiogenesis
+Antiangiogenesis Therapy
+Antiangiogenesis therapy
+Antibiotic Treatment
+Antibiotics were administered
+Anticancer Therapy
+Anticoagulation
+Anticoagulative medication
+Antiretroviral Therapy
+Antiretroviral therapy
+Antiviral Therapy
+Aortic banding
+ApoE levels
+Application
+Architect anti - HCV
+Architect assays
+Argon - Helium Cryosurgery System
+Arsenic Concentrations
+Arterial blood gas analysis
+Arthroscopically assisted anterior cruciate ligament ( ACL ) reconstruction
+Artificial Disc Replacement
+AsFlFFF
+Assay
+Assaying
+Assays
+Assessment
+Assessments
+Atomic force microscopy
+Atopy patch test
+Autoantibody testing
+Autograft
+Autologous Matrix - Induced Chondrogenesis
+Autologous transplant
+Autopsy
+Av replacement
+Axillary Incision
+B - KPro surgery
+B - factor analysis
+B - mode carotid ultrasound
+B - mode ultrasound
+B II
+BAL
+BAM
+BAP ( biological antioxidant potential ) test
+BAP level
+BARIATRIC SURGERY
+BBB disruption
+BCB staining
+BCG
+BCG signal
+BCS
+BDL
+BDNF
+BDNF serum levels
+BDUA
+BED
+BED - CEIA
+BEST
+BFDS
+BI
+BLI
+BMBx
+BMT
+BNPs
+BOLD
+BOLD signals
+BP control
+BRAF V600 Mutation Test
+BRAI
+BRAI assays
+BRDS
+BTX injections
+BUN
+Bacterial culture
+Bacteriology
+Bariatric Surgery
+Bariatric surgery
+Batalla and the Morisky - Green tests
+Batalla test
+Beck Depression Inventory - II
+Behavioral Health Services
+Behavioral analyses
+Behavioral tests
+Behavioural assays
+Bethesda System for Reporting Thyroid Cytopathology
+Bilateral microinjections
+Biliary papillotomy
+Billroth II
+Bimodal Imaging
+Bioactivity - guided fractionation
+Biochemical analyses
+Biochemical analysis
+Biochemical assays
+Bioelectrochemical
+Biofeedback
+Bioinformatics analysis
+Biological tests
+Biopsies
+Biopsy
+Biosensing
+Biotyping
+Bleaching
+Bleaching process
+Blood - Based Proteomic Assay
+Blood Sampling
+Blood Transfusions
+Blood pressure measurement
+Blood product transfusion
+Blood samples
+Blood transfusion
+Blood transfusions
+Body composition methods
+Bone Defect Repair
+Bone Marrow Transplantation
+Bone autografts
+Bone mineral density measurements
+Bone scintigraphy
+Bone sounding
+Bowel Preparations
+Brain Magnetic Resonance Imaging scans
+Brain imaging
+BrdU incorporation
+Breakpoints
+Breast Augmentation
+Breast MR imaging
+Breast magnetic resonance ( MR ) imaging
+Breast ultrasonography
+Brewster angle microscopy
+Bridge implantation
+Bright - field image
+Brunauer - Emmett - Teller method
+Bypass Surgery
+C
+C - E
+C - E clamp
+C - E technique
+C - ion RT
+C - reactive protein
+C - reactive protein ( CRP ) concentrations
+C - reactive protein ( CRP ) levels
+C / MMR
+C reactive protein
+C1 - C2 fusion
+C1Q Assay
+C1q - SAB
+C1q - SAB assay
+CA
+CA 19 .
+CA19 - 9
+CAA
+CABG
+CABG surgery
+CAMHS
+CAR T - cell therapy
+CARI
+CBA
+CBASP
+CBC
+CBCT
+CBCT scan
+CBCTs
+CBCTs images
+CBDLT
+CBI
+CBM - I
+CBP
+CBRC
+CBT
+CC
+CCRT
+CCTA
+CD
+CD melting experiments
+CD4 + percentage
+CD4 count
+CDR
+CE
+CE - T1w
+CESL
+CESL MRI
+CET
+CEUS
+CFR
+CGA
+CGP
+CI
+CIMT
+CIS
+CK
+CK - MB
+CLEM
+CM
+CMI
+CMR
+CO2 levels
+COGUIDE
+COMP
+CP
+CPAP
+CPB
+CPET
+CPM
+CPR
+CPR sessions
+CPR training
+CR
+CRAFFT
+CRISPR interference
+CRISPRi
+CRP
+CRP concentrations
+CRT
+CRTs
+CSF culture
+CSI
+CSI test
+CSIA
+CSII
+CSs
+CT
+CT - imaging
+CT Scan
+CT angiograms
+CT angiography
+CT guidance
+CT image
+CT images
+CT imaging
+CT pulmonary angiography
+CT scan
+CT scan analysis
+CT scanned
+CT scans
+CTA
+CTA - TA
+CTCE
+CTDA - R
+CTI
+CTMax
+CTN - 0056
+CTPA
+CTPI
+CTR procedure
+CTTs
+CTXII
+CVS
+CX - MS
+Ca ( 2 + ) range
+Caesarean section
+Caffeine Urine Test
+Calcium
+Caloric restriction
+Cancer Prevention
+Cancer diagnosis
+Cancer screening
+Cannulation
+Carbon - ion Radiotherapy
+Carboplatin Therapy
+Cardiac CT
+Cardiac MR
+Cardiac Magnetic Resonance
+Cardiac Resynchronization Therapy
+Cardiac Surgery
+Cardiac catheterization
+Cardio - pulmonary exercise testing
+Cardio - respiratory monitoring
+Cardiopulmonary Resuscitation
+Cardiopulmonary exercise testing
+Cardiopulmonary resuscitation
+Cardiovascular magnetic resonance
+Cardioversion
+Care Transitions
+Care management
+Care of children
+Caring
+Caring for Australasians with Renal Impairment
+Carotid Endarterectomy
+Case Detection
+Cataract Surgery
+Catheter ablation
+Cell Therapy
+Cell counts
+Cell replacement therapy
+Cell therapy
+CellSearch
+CellSearch system
+Central apelin - 13 administration
+Central neuraxial blocks
+Cephalometric analysis
+Cervical Cancer Screening
+Cervical cytology
+Cesarean Delivery
+Cesarean delivery
+ChIP
+Challenge
+Challenges
+Challenging
+Chemical analysis
+Chemo - Photothermal Therapy
+Chemometric Approach
+Chemoprevention
+Chemoradiation
+Chemoradiotherapy
+Chemotherapy
+Chemotherapy regimens
+Chest X - ray
+Chest imaging
+Chi - squared test
+Child and Adolescent Mental Health Services
+Chlamydia Screening Implementation ( CSI ) study
+Cholesterol fractions
+Chromatin immunoprecipitation
+Chromatin immunoprecipitation assay
+Chromatographic separation
+Chronic Enzyme Replacement
+Chronic Hemodialysis
+Circular dichroism scans
+Cisplatin - gemcitabine
+Clinical Evaluation
+Clinical Laboratory Specimen Identification
+Clinical Observation
+Clinical comparison
+Clinical evaluation
+Clinical evaluations
+Clinical imaging
+Clinical observations
+Clinical yarning
+Clinicopathological
+Clipping
+Clonal analysis
+Cloning
+Closure
+Closure in the Pelvis
+Closure of ileostomy
+Co - ChIP
+Co - administration
+Co - culture
+Co - cultures
+CoMPP technique
+Cochlear Implantation
+Cochlear implantation
+Cognitive
+Cognitive - Behavioral Therapy
+Cognitive Behavioral Analysis System of Psychotherapy
+Cognitive Bias Modification
+Cognitive Recovery
+Cognitive assessment
+Cohen 's reimplantation
+Cohen reimplantation
+Cold Storage
+Colonic anastomosis
+Colonoscopy
+Colony and spheroid formation assays
+Color - flow Doppler ultrasound studies
+Color Doppler examination
+Colorimetric
+Combination Therapy
+Combination therapy
+Combination treatment
+Combination with Paclitaxel and Carboplatin
+Comfort Measures
+Community - wide
+Community Based
+Comparative evaluation
+Complement - Dependent Cytotoxicity
+Complete Blood Count
+Complete blood count
+Complete mesocolic excision
+Compliance
+Composite Resin Restorations
+Comprehensive
+Comprehensive dental care
+Comprehensive genomic profiling
+Computational Anatomy
+Computed
+Computed Tomography
+Computed Tomography Imaging
+Computed Tomography Scan
+Computed tomography
+Computed tomography ( CT ) scans
+Computed tomography scan
+Computer - Based Intervention Study
+Computerized evaluation
+Concurrent chemoradiotherapy
+Conditional reprogramming
+Conditioning - Regimen
+Cone - Beam Computed Tomography
+Confocal Microscopy
+Confocal microscopic
+Confocal microscopy
+Conservation Surgery
+Conservative
+Conservative management
+Conservatively treated
+Constraint - Induced Aphasia Therapy
+Contact Tracing
+Continence
+Continued Care
+Continuous Cervical Epidural Analgesia
+Continuous Infusion
+Continuous Wrist Manipulation
+Continuous cervical epidural local anesthetic
+Contouring
+Contrast - Enhanced
+Control
+Controlled laboratory study
+Controlling Symptoms
+Conventional and digital photo - stimulable phosphor ( PSP ; Optime ) radiographs
+Copeptin level
+Core biopsies
+Corneal scrapings
+Coronal Projection Imaging
+Coronal histological examination
+Coronary Angiography
+Coronary Ligation
+Coronary angiograms
+Cortical Responses Evoked
+Cortical responses
+Cotreatment
+Counseling
+Cr
+Cr tests
+Craniomaxillofacial Surgery
+Creatinine Kinase - MB
+Cricothyrotomy
+Critical care
+Cross - border care
+Cross - border reproductive care
+Crossmatch
+Crossmatching
+Crown preparations
+Cryoablation
+Cryoballoon ablation
+Cryotherapy
+Cultivation
+Culture
+Culture Method
+Cultures
+Cutaneous Electrical Stimulation
+CyberKnife stereotactic radiosurgery
+Cystatin C
+Cytokine levels
+D - dimer
+DA content
+DAPT
+DBE
+DBS
+DBT
+DBiL
+DCDD
+DCE
+DCE - MRI
+DCR
+DCR surgery
+DECT
+DECT - based
+DEPS - R
+DETECTION
+DETERMINATION
+DEXA method
+DF
+DG
+DI
+DIABETES EATING PROBLEM SURVEY - REVISED
+DIEP
+DIEP flap
+DIOS MSI
+DIR
+DKI
+DLS
+DMP
+DMP - CT
+DNA analysis
+DNA assay
+DNA bioanalysis
+DNA sequencing
+DPOAE
+DRASTIC method
+DRE
+DSA
+DSC
+DSC - MRI
+DSCT
+DSE
+DSG
+DSS
+DSSs
+DT
+DT MRI
+DTI
+DTIC / ifosfamide
+DW - MRI
+DWI
+DXA
+Damage Control Surgery
+De - escalation therapy
+Deafferentation
+Debonding
+Debridement
+Decompression
+Decompression Surgery
+Deep Brain Stimulation
+Deep Sedation
+Definitive Fixation
+Delivery
+Demand
+Depth of treatment
+Dermofasciectomy
+Descriptive epidemiology study
+Detecting
+Detection
+Detection of viruses
+Determination
+Detoxified
+Device applications
+Deworming
+Diabetes Eating Problem Survey - Revised
+Diagnostic prostate needle biopsies
+Dialectical behavior therapy
+Dialysis Therapy
+Dietary administration
+Dietary management
+Differential diagnosis
+Differential profiling
+Differential proteomics profiling
+Diffusion - Weighted Magnetic Resonance Imaging
+Diffusion - weighted magnetic resonance imaging
+Diffusion Weighted Imaging
+Diffusion imaging
+Diffusion kurtosis imaging
+Diffusion tensor imaging
+Direct Laryngoscopy
+Direct Ligation
+Direct ligation
+Disc diffusion
+Discopo visual stylet
+Discopo visual stylet - guided insertion
+Disease management programs
+Dispensing
+Dlco
+Do - IMRT
+Dobutamine Stress Echocardiography
+Dominant frequency
+Dopaminergic therapy
+Doppler
+Doppler echocardiograms
+Doppler echocardiography
+Doppler study
+Doppler tracings
+Dose - guided positioning
+Dose fractionations
+Dosimetry
+Double - IF
+Double - balloon enteroscopy
+Double Valve Replacement
+Double immunofluorescent staining
+Doxorubicin / DTIC
+Doxorubicin / DTIC combo
+Doxorubicin plus DTIC combination
+Drainage
+Dried blood spot ( DBS ) sampling
+Drilling
+Drug Administrations
+Drug Delivery
+Drug Monitoring
+Drug administration
+Drug monitoring
+Dual - Energy Spectral CT Imaging
+Dual - Readout Assay
+Dual - color STED microscopy
+Dual Energy X - ray Absorptiometry
+Dual Quantitative Lateral Flow Immunoassay
+Duodenal biopsy
+Durom MOMA
+Dutch hospital pharmacy
+Dynamic CT myocardial perfusion imaging
+Dynamic CTPI
+Dynamic Contrast - Enhanced Magnetic Resonance Imaging
+Dynamic Contrast - enhanced MR Imaging
+Dynamic Light Scattering
+Dynamic Susceptibility Contrast MRI
+Dynamic myocardial perfusion CT
+E - CPR
+E - test
+E .
+E RIC CA
+EBRT
+EBUS
+EBUS - TBNA
+ECG
+ECG - gated coronary CTA
+ECG - triggered aortoiliac CTA
+ECG signal
+ECG signals
+ECGs
+ECL
+ECLS
+ECMO
+ECT
+ECoG
+ED
+ED visit
+ED visits
+EDS
+EDX
+EEG
+EEG dynamics
+EEGs
+EEMs
+EES
+EF
+EFRs
+EFS
+EGDT
+EGFR - TKI
+EGFR - TKI treatment
+EGFR - TKIs treatment
+EGFR - tyrosine kinase inhibitor
+EGFR - tyrosine kinase inhibitor therapy
+EGG
+EGSFI
+EI - MS
+EIS
+EKG
+ELISA
+ELISA analysis
+ELISA assay
+EM
+EMB
+EMG
+EMS
+EMSA
+EMSAs
+EN
+ENO2
+EOL discussion
+EOL discussions
+EPI
+EPIT
+EPLND
+ERCP
+ERG
+ERT
+ESBL Nordmann / Dortet / Poirel - based protocol
+ESI
+ESI - IMS - MS
+ESI - MS
+ESN
+ESR
+ET
+ETA
+EUT
+Early
+Early diagnosis
+Early goal - directed treatment
+Early recognition
+Echocardiography
+Eclipse system
+Educational Intervention
+Elective
+Electrocardiogram - triggered pulmonary relaxometry
+Electrocardiographic
+Electrochemical impedance spectroscopy
+Electrochemical methods
+Electroconvulsive Therapy
+Electroconvulsive therapy
+Electromyography
+Electron microscopy
+Electrophoretic mobility shift assays
+Electroretinography
+Elemental mapping studies
+Elevated PCP concentrations
+Elevation
+Elevation Protocols
+Elicitation
+Elimination
+Embedding
+Embolization
+Emergency Department
+Emergency departments
+Emotional Support
+Emotional support
+End - of - Life
+Endobronchial ultrasonography
+Endomyocardial biopsies
+Endoscopic
+Endoscopic Fundoplication
+Endoscopic NKSt
+Endoscopic Stricturotomy
+Endoscopic retrograde cholangiopancreatography
+Endoscopy
+Endothermal venous ablation
+Endovascular Treatment
+Energy dispersive spectroscopy
+Engraftment Process
+Enrollment
+Enteral Nutrition Therapy
+Enteral nutrition
+Enucleation
+Envelope following responses
+Enzyme - Free Electrochemiluminescence
+Enzyme - linked immunosorbent assay
+EoL care
+Episode Early Treatment Program
+Epitope mapping
+EquiTest
+Equilibrium dialysis method
+Eradication
+Escherichia coli detection
+Esophageal Stenting
+Esophageal stenting
+Estimated glomerular filtration rate
+Estimation
+Etest
+Evaluate
+Evaluated
+Evaluating
+Evaluation
+Evaluations
+Evidence - based approaches
+Evidence - based intervention
+Examination
+Examinations
+Excision
+Explanted
+Exploration
+Expression Analysis
+External Beam Radiotherapy
+Extracorporeal membrane oxygenation
+Extracted
+Extradural temporopolar approach
+FA
+FA profile
+FACS
+FACS analysis
+FAI
+FBG
+FBP
+FBS
+FBT
+FBT strategies
+FC
+FC regimen
+FC schedule
+FCM
+FDG - PET
+FDG PET
+FDP
+FEAST
+FEV1
+FEV1 / FVC
+FIN
+FINs
+FIO2
+FIRST
+FIRST reconstruction
+FLAIR
+FLAIR images
+FNA
+FNA procedures
+FOLFIRINOX
+FP
+FP treatment
+FPG
+FRAP
+FRET
+FRET assays
+FS LASIK
+FSC
+FSC experiment
+FSRT
+FST
+FUDS
+FURS
+FUS
+FVEP
+FVEPs
+FXM
+FXMs
+Factor VIII
+Family
+Family Study
+Family support
+Family therapy
+Fasting lipid profile
+Fasting plasma glucose
+Fear Assessment
+Fed - batch immobilized cultures
+Female sterilization
+Fertility Preservation Services
+Fetal Tele - Echo
+Fetal tele - echocardiography
+Fetal tele - echoes
+FibroScan
+Fixation
+Flash Visual Evoked Potentials
+Flash visual evoked potentials
+Flexible Ureteroscopy
+Flow - Induced Dispersion Analysis
+Flow Crossmatch
+Flow cytometric analysis
+Flow cytometry
+Flow diversion
+Fluid - Attenuated Inversion Recovery
+Fluid - Jet - Induced Indentation
+Fluid - jet - based indentation
+Fluid Expansion as Supportive Therapy
+Fluid Sparing ( intervention ) resuscitation strategy
+Fluid bolus therapy
+Fluorescence -
+Fluorescence - Activated Cell Sorting
+Fluorescence hyperspectral imaging
+Fluorescence microscopy
+Fluorescence recovery after photobleaching
+Fluorescently labeled
+Fluorescently tagged
+Fluoroscopy
+Folch methods
+Follow - Up
+Follow - Up Care
+Follow - up
+Follow - up visits
+Fontan operation
+Foot
+Forward - projected model - based Iterative Reconstruction SoluTion
+Forward projected model - based Iterative Reconstruction SoluTion
+Fractionation schemes
+Frequency Encoding
+Functional Reach test
+Functional capacity
+Functional magnetic resonance imaging
+Fundus photographs
+Fusion
+Förster resonance energy transfer
+GAGS
+GC
+GC - FID
+GC - MS
+GC - MS ) analysis
+GC - MS - MS
+GC - MS / MS
+GC - MS procedures
+GC / IRMS
+GC / MS
+GCL - MPK
+GD
+GDFR
+GDH assay
+GED
+GET
+GFAP
+GFD
+GFR
+GIMEMA LAL 0904 study
+GKRS
+GKS
+GPC
+GSEA
+Gamma Knife Radiosurgery
+Gamma Knife surgery
+Gas assisted method
+Gas chromatography
+Gas chromatography - mass spectrometer
+Gas chromatography / mass spectrometry
+Gastrostomy
+Gd : CuS @ BSA -mediated PTT
+Gene Therapies
+Gene set enrichment analysis
+Gene therapy
+GeneXpert MTB / RIF
+GeneXpert MTB / RIF method
+GeneXpert MTB / RIF technology
+GeneXpert MTB / RIF test
+General Health Examination
+General Health Examinations
+General Health Questionnaire
+General anesthesia
+Genetic Analysis
+Genetic Counseling
+Genetic Identification
+Genetic screening
+Genium with Cenior - Leg ruleset - MPK
+Genome - Wide SNP Linkage Mapping
+Genome - scale analyses
+Genome Sequence Analysis
+Genome Sequences
+Genomic Analyses
+Genomic Analysis
+Genomic analysis
+Genotyping
+Giemsa - stained
+Giemsa - stained microscopy
+Global Acne Grading System
+Gluten - free Diet
+Glycemic control
+Goal - directed fluid restriction
+Goal of care
+Golgi stain
+Gordon and Sweet 's reticulin stain
+Graft
+Gram staining
+Gross necropsy
+Guidance
+Gynecologic Surgery
+H & E
+H & E stain
+H .
+HAART
+HAL
+HBOT
+HBV DNA levels
+HBV vaccine
+HCT
+HCV RNA
+HCV RNA assay
+HD
+HD - OCT
+HDL - C
+HDL cholesterol levels
+HDL level
+HDR
+HDR - BT
+HE
+HE staining
+HEI - 2010
+HERMES
+HF ,
+HFD
+HFS
+HG
+HIE
+HILIC
+HIV Testing
+HIV test
+HIV testing
+HIV viral load
+HMBC
+HMP
+HOMA - B
+HOMA - IR
+HOMIM analysis
+HPLC
+HPLC - DAD
+HPLC - MS
+HPLC - electrospray - ionization - Orbitrap - MS
+HPLC / UV
+HPLC FLD
+HPLC analysis
+HPLC with UV detection
+HPV DNA detection
+HPV detection
+HPx
+HR - ESI - MS
+HR - FSE
+HR - FSE imaging
+HR - XRD
+HRESIMS
+HRMS
+HRT
+HS - SPME
+HSCT
+HSI
+HSM
+HSQC
+HTAs
+HTS
+HVA correction
+Habit Reversal Training
+Hadamard Encoding and Reconstruction of Mega - Edited Spectroscopy
+Hamstring grafts
+Hand - Assisted Laparoscopic
+Handovers
+Harm - reduction
+Hartmann 's procedure
+Hastened Death
+Hb
+HbA1C levels
+HbA1c
+Health
+Health Administration facilities
+Health Belief Model
+Health Care Network
+Health Communication
+Health Insurance
+Health Promotion
+Health Promotion Program
+Health advocacy services
+Health impact
+Health insurance
+Health services
+Health technology assessment
+Healthcare
+Healthy Eating Index - 2010
+Hearing Health Care network
+Hearing Health Care services
+Hearing Health Network
+Heart Surgery
+Heavy Resistance Training
+Heavy resistance training
+Hematology
+Hematopoietic Cell Transplantation
+Hematoxylin - eosin
+Hematoxylin and Eosin ( H & amp ; E ) staining
+Hematoxylin and eosin staining
+Hemodialysis
+Hemodynamic
+Hepatectomy
+Hepatitis b vaccinations
+Hi - C experiments
+High - Dose - Rate Brachytherapy
+High - density speckle contrast optical tomography
+High - fructose diet
+High - performance liquid chromatography
+High - performance liquid chromatography analyses
+High - sensitivity troponin T
+High Performance Liquid Chromatography
+High Pressure Liquid Chromatography
+Highly sensitive detection of influenza virus
+Hip Replacement Surgery
+Hip Resurfacing
+Hip replacement surgery
+Histochemical examination
+Histologic analyses
+Histology
+Histomorphometric
+HoLEP
+Hodge and imipenem - ethylenediaminetetraacetic acid double - disc synergy test
+Holmium laser enucleation of prostate
+Home Care
+Homeostasis model assessment
+Homeostatic Model Assessment of Insulin Resistance
+Homeostatic Model of Assessment - Insulin Resistance Index
+Hormonal
+Hospice
+Hospital Management
+Hospitalisations
+Hospitalization
+Hospitalizations
+Hunsuck techniques of sagittal split osteotomy
+Hutchinson procedure
+HyCoSy
+Hyperspectral imaging
+Hypofractionated RT
+Hypofractionated Radiation Regimen
+Hypothermic Machine Perfusion
+Hysterectomy
+I
+IA
+IA injections
+ICAM - 1
+ICM
+ICOAS
+ICP - AES / MS
+ICP - MS
+ICSI
+ICU - admissions
+ICU Admissions
+ICU admission
+ICU admissions
+IF
+IFA
+IFN - γ levels
+IG - IMRT
+IGRT
+IHC
+IHR
+IHRT
+IL - 10
+IL - 17
+IL - 17 levels
+IL - 17A levels
+IL - 1β
+IL - 2 levels
+IL - 4
+IL - 6
+IL - 7
+ILAT
+ILM peeling
+ILUAE
+IMA levels
+IMF
+IMRS
+IMRT
+IMRT ( + )
+IMS - MS
+IMS1
+IMS2
+IOL explants
+ION - IVA
+ION - exam
+ION - exams
+IP
+IPC
+IPT meetings
+IPWC
+IR
+IR - ufSSFP
+IR spectroscopy
+IRT
+ISET
+ISET - filtration
+ISET - filtration systems
+ISH
+ISR
+IT
+ITS - rDNA RFLP
+ITS sequencing
+IV
+IV Therapy
+IV antibiotic therapy
+IV therapy
+IVF
+IVIG therapy
+IVL
+IVL therapy
+IVT
+IVUS
+Iba1 immunofluorescence
+Identification
+Identifying
+Illumina 450 K arrays
+Image - Guided Intensity - Modulated Radiotherapy
+Image Assessment
+Imaging
+Imaging analyses
+Imaging data
+Immobilization
+Immune - suppression
+Immunization
+Immunizations
+Immunoafﬁnity
+Immunoassays
+Immunoblot analysis
+Immunoblotting
+Immunochemotherapy
+Immunocytochemistry
+Immunofluorescence
+Immunofluorescence staining
+Immunoglobulin G ( IgG ) measurement
+Immunohistochemical
+Immunohistochemical ( IHC ) determination
+Immunohistochemical reactions with the peroxidase method
+Immunohistochemical results
+Immunohistochemical staining
+Immunohistochemistry
+Immunomodulatory
+Immunoprecipitation
+Immunoprecipitation assay
+Immunostaining
+Immunotherapy
+Implantation
+In - vitro bioactivity test
+In Vitro
+In vitro
+In vivo tests
+Incident Reports
+Incision
+Incubation
+India ink angiography
+Inductively Coupled - Plasma - Mass - Spectrometry
+Inductively Coupled Plasma Mass Spectrometry
+Inferior petrosal sinus sampling
+Infrared
+Infusion
+Inguinal hernia repair
+Injection
+Injections
+Injury prevention
+Insertion
+Integrated Change Model
+Integrated Management Strategies
+Intensified preabandonment counseling
+Intensity - modulated Radiotherapy
+Intensive Language - Action Therapy
+Intersectoral coordination
+Interstage home monitoring
+Intervening
+Intervention
+Interventions
+Intra - accumbal infusion
+Intracanal Dressing
+Intranasal
+Intraoral Radiography
+Intraosseous
+Intrastriatal Injection
+Intravascular ultrasound
+Intravenous
+Intravenous Thrombolysis
+Intrinsic molecular subtyping
+Invasive measurement
+Inverse PCR
+Investigation
+Investigations
+Iodine supplementation
+Ion Mobility Spectrometry - Mass Spectrometry
+Iontophoresis
+Iron Stain
+Ischemic Conditioning
+Islet Cell Transplantation
+Isobaric Tags For Relative And Absolute Quantitation ( iTRAQ ) - based quantitative proteomics
+Isolated Aortic Valve Surgery
+Isolation
+Isolation of Cells
+Isometric strengthening
+Isothermal titration calorimetry
+Iterative Reconstruction
+Ivor - Lewis esophagectomy
+Japan Nosocomial Infections Surveillance
+Joint National Committee - 8
+Joint administration
+Journey
+K
+KANET
+KANET test
+KMC
+KMC intervention
+KMC practice
+KPS
+KT
+Kangaroo mother care
+Karnofsky Performance Status
+Ki - 67 score
+Ki67
+Ki67 immunostaining
+Kidd typing
+Kinetic luminescent bacteria test
+Knee Arthroscopy
+Knee Surgery
+Koyanagi repair
+Kurjak Antenatal Neurodevelopmental Test
+LAGB
+LAMP
+LAMP assay
+LAMP assays
+LAg
+LBDS
+LBFDS
+LBNP
+LC
+LC - MS
+LC - MS ( E )
+LC - MS ( E ) analysis
+LC - MS / MS
+LC - MS / MS analysis
+LC - MS / MS method
+LC / MS
+LC / MS analysis
+LCA methodology
+LCD
+LCDs
+LCS - PS ( low contact stress - posterior stabilized ) TKA
+LD - CT
+LDH
+LDH release
+LDL
+LDL - C
+LDL - C levels
+LDL cholesterol
+LDL1 + 2 - C
+LDLc
+LDR - FMA
+LDV
+LEXRF
+LFDS
+LLLT
+LMD
+LP shunt
+LPDS
+LPN
+LR
+LRYGB
+LSCS
+LSG
+LSM
+LSU rDNA sequence analysis
+LT
+LTE
+LTE procedure
+LTOT
+LUMA assay
+LUMINEX technology
+LVAD implantation
+LVED
+Labor induction
+Laboratory
+Laboratory Bioassays
+Laboratory assays
+Laboratory diagnosis
+Laboratory studies
+Laboratory study
+Laboratory tests
+Lachman / KT - 1000 testing
+Ladd procedure
+Laminectomy
+Langendorff isolated heart perfusion apparatus
+Laparascopic Splenectomy
+Laparoscopic
+Laparoscopic Approach
+Laparoscopic Hernia Repair
+Laparoscopic Pancreatectomy
+Laparoscopic Partial Nephrectomy
+Laparoscopic Surgery
+Laparoscopic hysterectomy
+Laparoscopic pancreatectomy
+Laparoscopic sleeve gastrectomy
+Laparoscopic surgery
+Laparoscopy
+Laparotomy
+Laryngeal endoscopy
+Laser Diffraction Characterization
+Laser capture micro - dissection
+Laser cataract surgery
+Late enhancement
+Lateral flow immunoassays
+Leeds Satisfaction Questionnaire
+Levels
+LifeShare
+LifeShare Transplant Donor Services
+Ligand competition assays
+Limb - salvage treatment
+Line imuno probe assay
+Linear Ablation
+Lipa
+Lipid levels
+Liquid chromatography - mass spectrometry
+Liquid chromatography - tandem mass spectrometry
+Lithotripsy
+Live cell imaging
+Live imaging
+Liver
+Liver Retransplantation
+Liver Transplant
+Liver Transplantation
+Livers retrieved
+Living - Related Liver Donation
+Local myocardial delivery
+Long - Term Follow - Up
+Long - Term Safety Follow - Up
+Long - term follow - up
+Long - term lamivudine therapy
+Longitudinal evaluation
+Longitudinal live imaging
+Look - Locker ASL
+Loop - Resolution Hi - C Experiments
+Low - dose dynamic myocardial perfusion CT image
+Low - fat diet
+Low - level light therapy
+Low Carbohydrate Diet
+Low Dimensional Embeddings
+Low Level Laser Therapy
+Lower Eyelid Blepharoplasty
+Luciferase reporter assay
+Luciferase reporter assays
+Lumbar Discectomy
+Lumbar puncture
+Lumbar spinal cord stimulation
+Luminex assay
+Lung Transplantation
+Lung reaeration
+Lung ultrasound
+Lymph node dissection
+M - mode ultrasonography
+MACS
+MALDI - ISD
+MALDI - MSI
+MALDI - TOF MS
+MALDI FTICR MSI
+MALDI MSI
+MARS - MRI
+MAT
+MB staining
+MBI
+MD
+MD Anderson Fertility Preservation and Family Building Service
+MDCT
+MDO
+MEDoS
+MEG
+MEGA - PRESS
+MEPS
+MET values
+METs
+MIC
+MIC - test
+MIC assays
+MIC50
+MIC90
+MICs
+MIMICS
+MLVA
+MMG
+MMGs
+MMR
+MMSE
+MMST
+MMT
+MMTs
+MN Read
+MOCART
+MOMA
+MPC
+MPCs
+MPHP
+MPHP maps
+MPI
+MPK
+MPMCTA
+MPUT
+MPV
+MPV measurement
+MR
+MR angiography
+MR enterography
+MR fingerprinting
+MR fingerprinting ASL
+MR imaging
+MR perfusion technique
+MR spectrum
+MRA
+MRC
+MRCP
+MRE
+MRF
+MRF - ASL
+MRF sequence
+MRI
+MRI - guided
+MRI - guided biopsies
+MRI - guided biopsy
+MRI - guided proton magnetic resonance spectroscopy
+MRI / ultrasound fusion - guided prostate biopsies
+MRI biopsy
+MRI examinations
+MRI exams
+MRI scan
+MRI studies
+MRI study
+MRI techniques
+MRS
+MRSI
+MRT
+MRV
+MRVs
+MS
+MS / MS analysis
+MS analysis
+MS task
+MS tasks
+MSI
+MSI analyses
+MSI analysis
+MSLT
+MSPD
+MSaO2
+MTB / RIF method
+MTH - 68 / H
+MTT
+MTT assay
+MTTs
+MV
+MVD
+MVLA
+MWM
+MWTA
+Magnetic Resonance
+Magnetic Resonance Cholangiopancreatography
+Magnetic Resonance Imaging
+Magnetic resonance fingerprinting ASL
+Magnetic resonance imaging
+Magnetic resonance spectroscopy
+Male Circumcision
+MammaPrint
+Mammography Screening
+Management
+Management of Fournier 's Gangrene
+Managing
+Mannheim Multicomponent Stress Test
+Mapping
+Mapping mitochondrial heteroplasmy
+Marsupialization
+Mask ventilation
+Mass - spectrometry
+Mass Spectrometry
+Mass spectrometric
+Mass spectrometry
+Masson 's trichrome staining
+Masson trichrome
+Materialize Interactive Medical Image Control System
+Maternal serum alpha fetoprotein
+Mathisen 's reimplantation
+Mathisen reimplantation
+Matrix - Assisted Laser Desorption / Ionisation - Mass Spectrometry Imaging
+Matrix - assisted laser desorption / ionization
+Matrix solid - phase dispersion
+Maudsley Staging Method
+McLaughlin technique
+Mean follow - up
+Mean platelet volume
+Measure Up Pressure Down : Provider Toolkit
+Measurement of PPBS
+Measurement of serum ferritin levels
+Measurement of urinary cotinine
+Measuring 25 - Hydroxyvitamin D
+Mechanical Ventilation
+Mechanical disruption
+Mechanical ventilation
+Mechanography
+Median follow - up
+Medicaid
+Medicaid insurance
+Medicaid sample
+Medical
+Medical Management
+Medication
+Medication Reconciliation
+Medication reconciliation
+Medications
+Mediterranean Diet
+Mental health services
+Mescher - Garwood Point - resolved Spectroscopy
+Metacarpophalangeal Joint Arthrodesis
+Metatranscriptomics
+Method
+Method of Loci
+Methylated CpG Island Recovery Assay chip
+Mettler Flash DSC1
+Micro - CT
+Micro - Computed Tomography
+Micro - Interventions
+Micro - PET
+Micro - anatomical dissection
+MicroPET / CT scans
+MicroRNA sequencing
+Microarray
+Microarray - Based Analysis
+Microarray analysis
+Microbiological
+Microbiological samples
+Microbiology
+Microdissection
+Microendoscopic Techniques
+Microfluidic Platforms
+Micronucleus test
+Micropropagated
+Micropropagation
+Microscopic examination
+Microscopy
+Microwave thermal ablation
+Migration assays
+Mini - Mental State Examination
+Mini International Neuropsychiatric Interview
+Mini Mental State Evaluation
+Mini Mental State Examination
+Minimally invasive
+Minimally invasive surgical interventions
+Minimally invasive treatment
+Minimum inhibitory concentration
+Mirror therapy
+Mixed - Meal Test
+Mn concentrations
+Moberg Pick - up Test
+Moberg Picking - Up Test
+Modified Accordion Severity Grading System
+Modified Hunsuck Technique
+Mohs Micrographic Surgery
+Molecular Breast Imaging
+Molecular Imaging
+Molecular autopsy
+Molecular cloning
+Molecular diagnosis
+Molecular modeling assays
+Molecular phenotyping
+Molecular subtyping
+Molecular targeted therapies
+Monitor
+Monitoring
+Monotherapy
+Morisky - Green test
+Morisky test
+Morphometric Study
+Morris Water Maze
+Morris water maze
+Morris water maze ( MWM ) test
+Motivational Interviewing
+Motor electrode mapping
+Multi - Slice MRSI
+Multicenter Patch Testing
+Multidetector CT
+Multidrug Therapy
+Multimodal brain imaging
+Multimodal clinical imaging
+Multimodality imaging
+Multiplate
+Multiple - level
+Multiple methods
+Multiplex Biomarker Approaches
+Multiplexed Molecular Imaging
+Multisite field recordings
+Muscle biopsy
+Mustard
+Mutant Prevention Concentration
+Mutation analysis
+Mutations
+N content
+NAM
+NAM therapy
+NEAC
+NEO Five - Factor Inventory
+NF
+NHIS
+NHL - BFM protocols
+NHS
+NIPD
+NIR
+NIRS
+NIV
+NKSt
+NKSt procedures
+NKSt therapy
+NMPK
+NMPKs
+NMR
+NMR ( ( 1 ) H
+NMR spectra
+NMR spectroscopic
+NMR spectroscopy
+NO
+NO levels
+NOM
+NPAPH
+NPI
+NRT
+Nanostructural Engineering
+Nanostructure - based mass spectrometry imaging
+Nasoalveolar Molding Therapy
+National Association of Statutory Health Insurance
+National Health Insurance
+National Health Insurance System
+National Health Service
+National Partnership Agreement on Preventive Health
+Natural orifice transluminal endoscopic surgery
+Near Infrared Spectroscopy
+Near infrared imaging
+Neck dissection
+Necropsy
+Negative reinforcement
+Neo - yoke repair
+Neoadjuvant Chemoradiotherapy
+Neoadjuvant FOLFOX chemotherapy
+Neoadjuvant Therapy
+Nephron Sparing Surgery
+Nephroureterectomy
+Nerve decompression
+Neurofeedback
+Neuroimaging
+Neurological examination
+Neurological examinations
+Neuropsychological Assessment Battery Mazes test
+Neuropsychological testing
+Neuropsychological tests
+Neurosurgery
+Neutrophil count
+Newborn Screen
+Next - generation sequencing
+Ni ( 2 + ) chelate affinity chromatography
+Nicotine Replacement Therapy
+Nissl staining
+Non - CPMG Fast Spin Echo
+Non - destructive proton nuclear magnetic resonance ( ( 1 ) H NMR ) spectroscopy
+Non - intubated
+Non Enzymatic Antioxidant Capacity
+Nonoperative management
+Nonsurgical retreatment
+Nonsurgical treatment
+Nonthermal plasma
+Normalization
+Norwood stages I and II
+Noxious cutaneous stimulation
+Nuclear Magnetic Resonance ( NMR ) spectroscopy
+Nucleic acid detection
+Nursing care
+Nutrient intake
+Nutritional interventions
+O2 saturation
+OBVT
+OCT
+OCTA
+OGTT
+OI
+OLT
+OPG
+ORIF
+OSF
+OTT
+OVE
+Obesity management programs
+Objective evaluation
+Oesophageal
+Oil Red O staining
+On - Demand
+On admission
+Oncolytic Virotherapy
+OncotypeDx
+One4All
+One4All intervention
+One4All testing intervention
+One4All trial
+Operating
+Operation
+Operative technique
+Opportunistic mammography screening
+Opportunistic screening
+Optical Coherence Tomographic
+Optical Coherence Tomography
+Optical epifluorescence microscopy
+Options
+Oral
+Oral administration
+Oral health
+Orthodontic space closure
+Orthognathic Surgery
+Orthopaedic
+Osteotome Sinus Floor Elevation
+Outflow Facility
+Outpatient Procedure
+Ovariectomy
+Over - treatment
+Overprescription
+Overtreatment
+Oxidative Stress Factors
+Oxygen Inhalation
+P - NE was elevated
+PALME
+PASP
+PAT - H - MS
+PAT - H - MS method
+PBI
+PBT
+PC
+PC - MRI
+PCA
+PCC
+PCI
+PCNL
+PCO2
+PCR - RFLP
+PCR - RFLP method
+PCR -based enrichment
+PCR / RFLP
+PCa detection
+PDT
+PDX
+PDXG
+PE
+PEA
+PEEP
+PEEP titration
+PEFG
+PEG
+PEG feeding
+PEG removal
+PET
+PET - CT
+PET / CT
+PET / CT scan
+PET / CTs
+PET Molecular Imaging
+PET imaging
+PET molecular imaging
+PET scan
+PET scans
+PEXG
+PEmax
+PFC Sigma RP - PS ( press - fit condylar Sigma rotating platform - posterior stabilized ) TKA
+PFGE
+PFS
+PFT
+PFTs
+PG
+PH
+PHC
+PHI
+PI
+PI uptake
+PIL
+PImax
+PLE
+PLE extraction
+PLIF
+PLLL
+PLLL therapy
+PLND
+PLR
+PM
+PMN count
+PMV
+PN
+PNBX
+POCT
+POCUS
+PP amplitude
+PPBS
+PPG
+PPTL
+PR
+PRACTA
+PRACTA intervention
+PRECOMBAT
+PRISMA - medical
+PRRT
+PRT
+PSAP
+PSG
+PSS
+PSV
+PT
+PTCD
+PTH
+PTH levels
+PTT
+PV isolation
+PV thrombectomy
+PWA
+PXRD
+PYFU
+PaO2 / FiO2
+Pacemaking
+Pain management
+Palatoplasty
+Palliative procedures
+Palpation
+Panchakarma
+Pancreaticoduodenectomy
+Pancreatoduodenectomy
+Panoramic radiographs
+Pap smear
+Pap test
+Papanicolaou stain
+Parallel imaging
+Paralleling
+Parametric Surface Diffeomorphometry
+Pareto - efficient patient shifts
+Patient - Controlled
+Patient - centred care
+Patient - centredness
+Patient - controlled analgesia
+Patient - reported outcome measures
+Patient Activation
+Patient Care
+Patient Discharge
+Patient Safety
+Peak longitudinal myocardial systolic strain
+Pediatric Echocardiographic
+Percutaneous Bullectomy
+Percutaneous Coronary Intervention
+Percutaneous coronary intervention
+Percutaneous endoscopic gastrostomy
+Percutaneous forefoot surgery
+Percutaneous gastrostomy
+Percutaneous microwave ablation
+Perfusion
+Perfusion imaging
+Perianesthesia nursing care
+Periapical radiographs
+Periodontal Therapy
+Periodontal tissue regeneration
+Perioperative Management
+Personal Thermoregulation
+Personalised Medicine
+Personalised medicine
+Personalized Medicine
+Personalized Medicine Approaches
+Personalized medicine
+Pfannenstiel incision
+Pharmacogenomic identification
+Pharmacological Venous Thromboembolism Prophylaxis
+Pharmacotherapy
+Phase - contrast MRI
+Phenotypic Screens
+Phosphoproteomic profiling
+Photoacoustic / Magnetic Resonance Imaging -Guided Tumor -Targeted Photothermal Therapy
+Photoacoustic Imaging
+Photodynamic Therapy
+Photodynamic therapy
+Photothermal Therapy
+Photothermal therapy
+Physical examination
+Phytochemical tests
+Placement
+Plasma ALT levels
+Plasma corticosterone levels
+Plastic Surgery
+Plate Fixation
+Platelet Apheresis
+Platelet Function Testing
+Platelet apheresis
+Pleural fluid culture
+Point - of - Care
+Point - of - Care Testing
+Point - of - care
+Polysomnography
+Positive end - expiratory pressure
+Positive immunostaining
+Positron Emission Tomography
+Positron emission tomography
+Post - Mortem
+PostC
+Postdilatation with noncompliant balloons
+Posterior chamber IOL implantation
+Postmortem
+Postoperative Analgesia
+Posttreatment Positron Emission Tomography / CT
+Potentiation
+Powder diet
+PrEP
+Pre - incubation
+Preanalytics
+Precision Medicine
+Preclosing
+Predilation technique
+Preemptive analgesia
+Prenatal Diagnosis
+Prenatal diagnosis
+Prenatal enzymatic diagnosis
+Preoperative mean visual analog scale
+Preoperative workup
+Prescribing
+Prescription
+Prescriptions
+Preservation
+Pressure Therapy
+Pressure treatment
+Pressurized liquid extraction
+Pretreatment Single Photon Emission CT
+Preventative measures
+Primary Care
+Printing technologies
+Probing
+Procedural
+Procedure
+Procedures
+Procleix Ultrio Plus Assay
+Profile
+Profiles
+Profiling
+Prognosis
+Program
+Promotion
+Prophylactic
+Prophylactic treatment
+Prostate Biopsy
+Prostate Health Index
+Prosthetic management
+Protein - Extraction Methods
+Protein precipitation
+Proteomic Analysis
+Providence Health Care
+Proximal Soil Sensing
+Proximal soil sensing
+Prussian Blue reaction
+Prussian blue reaction
+Psychiatric
+Psychobehavioral intervention
+Psychometric
+Psychometric Costs
+Psychometric Evaluation ( SCOPE ) Study
+Psychometric analysis
+Psychometric evaluation
+Psychometrics
+Psychotherapeutic
+Psychotherapy Termination Process
+Ptr , stim
+Public Health
+Public Health Infrastructure
+Pull - down assays
+Pulse labeling experiments
+Pulse radiolabelling
+Pulse wave analysis
+Purification
+Push - out test
+QQQ - MS
+QSM
+QST
+QST - based
+QoLS
+Quality of Care
+Quality of Life Service
+Quantitative Sensory Testing
+Quantitative Susceptibility Mapping
+Quantitative analysis
+Quantitative fluorescent polymerase chain reaction analysis
+Quantitative sensory testing
+R
+R0 resection
+RADUS
+RAI administration
+RAPN
+RARP
+RBC transfusion
+RC
+RDT
+RDTs
+RF
+RF Ablation
+RFA
+RFLP
+RFLP assays
+RFLP method
+RI therapies
+RIBA
+RIC
+RIP
+RIPC
+RIPostC
+RL
+RNA
+RNA - Seq
+RNA - seq
+RNA - seq analysis
+RNA - sequencing
+RNA Sequencing
+RNA sequencing
+RNAi therapy
+RNAseq
+ROM evaluation
+ROTEM
+RP
+RP - HPLC
+RPA
+RPs
+RS - fMRI
+RSMN assay
+RT
+RT - PCR assays
+RTCR
+RV
+RVs
+RYGB
+Radiation Therapy
+Radiation therapy
+Radical Cystectomy
+Radical Nephrectomy
+Radical Surgery
+Radical mastectomy
+Radiofrequency Ablation
+Radiofrequency ablation
+Radiograph of pelvis
+Radiographic
+Radiographically
+Radiographs
+Radiologic assessment
+Radiological
+Radiological assessment
+Radioprotector
+Radiosensitization
+Radiotherapy
+Raman
+Raman imaging systems
+Raman microspectroscopies
+Raman spectroscopy
+Raman μ - spectroscopy
+Rapid intervention
+Ratiometric Fluorescence Detection
+Ratiometric Imaging
+Re - Hospitalization
+Re - intervention
+Readmission
+Readmission Measures
+Readmissions
+Real - Time PCR analysis
+Real - time PCR analyses
+Real - time PCR analysis
+Real - time analysis
+Recanalization
+Recommendations on lipid management
+Reconstruction
+Reconstructions
+Reducing Perioperative Transfusions
+Reduction
+Reductions
+Regimens
+Registry
+Rehabilitation
+Rehabilitation service
+Reintervention
+Release
+Reminiscence therapy
+Remodeling
+Remote Ischaemic Preconditioning
+Remote Ischemic Preconditioning
+Remote ischaemic preconditioning
+Removal
+Renal Transplant
+Renal transplant
+Repair
+Repair Surgery
+Repeated surgery
+Reperfusion
+Reperfusion Therapy
+Repetitive Transcranial Magnetic Stimulation
+Repetitive transcranial magnetic stimulation
+Replacement
+Reported
+Reporting
+Resection
+Resonance Raman spectroelectrochemical studies
+Respiratory - gated radiotherapy
+Response Monitoring
+Resting - state functional magnetic resonance imaging
+Resting State Functional Brain Connectivity
+Restoration
+Restorations
+Restored
+Resuscitation
+Retinal Photography
+Retransfusion
+Reverse breech extraction
+Reverse phase high performance liquid chromatography
+Revised Dimensions of Temperament Survey
+Revision
+Revision Surgery
+Revision surgery
+Rhinomanometry
+Rhinoplasty
+Rifampin susceptibility tests
+Rigid proctoscopy
+Risk
+Risk - based
+Risk Screening
+Risk assessment analysis
+Robotic - assisted Laparoscopic Radical Prostatectomy
+Robotic - assisted minimally invasive surgery
+Roche Cobas 6000
+Root - Sparing Ascending Replacement
+Root canal therapy
+Ross intervention
+Ross procedure
+Rotational thromboelastometry
+Rotem thrombelastometry
+Routine laboratory tests
+Roux - en - Y
+Roux - en - Y anastomosis
+Roux - en - Y gastric bypass
+Roux - en - Y reconstruction
+S .
+SBB
+SBB procedure
+SBCS
+SBD
+SBE
+SBRT
+SBRT approaches
+SBRT method
+SBRT system
+SBT
+SCIT
+SCOT
+SCS
+SCT
+SCr
+SD HEI - 2010
+SDS - PAGE analysis
+SE
+SE - HPLC
+SECT
+SEEG
+SEM
+SEM - EDS
+SEM analysis
+SEM studies
+SEMS insertion
+SERS
+SERS - labelled
+SERS probe imaging
+SFEBq
+SFS
+SG
+SHG
+SHI
+SHI - PHI
+SILC
+SIR
+SIRT
+SL
+SL colectomy
+SLB
+SLBs
+SLN mapping
+SMT
+SN dissection
+SND
+SNM
+SNNS
+SNP microarray analysis
+SOC
+SOD
+SOT
+SPE
+SPECT
+SPECT / CT
+SPECT / CT imaging
+SPECT / CT studies
+SPECT imaging
+SPLND
+SPT
+SPTs
+SPostC
+SRIT
+SRS
+SRS treatment
+SS - FSE
+SSH MRCP
+SSH library
+SSHMRCP
+SSLO
+SSM
+ST
+ST identification
+STAI
+STE
+STSF procedure
+SUA level
+SUA levels
+SUG
+SWATH
+SWATH approach
+SWE
+SWL
+SYNTAX
+Safety Precautions
+Salvage
+Salvage Therapy
+Sampling
+Scanning Electron Microscopy
+Scanning electron micrographs
+Scanning electron microscopy
+Scanning electron microscopy studies
+School - Based
+Scintigraphy
+Scoring Incisions
+Screening
+Second - line
+Second Harmonic Generation ( SHG ) imaging microscopy
+Second Harmonic Generation microscopy
+Secondary Health Care Services
+Secondary correction of nasal deformities in cleft lip
+Sedation
+Seeded
+Segmentation
+Selective Internal Radiotherapy
+Self - Management
+Semi - preparative HPLC separation
+Semistructured psychiatric interviews
+Senning
+Sensitive determination
+Sensory Organization Test
+Sentinel Lymph Node Biopsy
+Sentinel lymph node biopsy
+Sentinel node navigation surgery
+Sequence - based genome analysis
+Sequence analysis
+Sequencing
+Sequential Window acquisition of All Theoretical fragment ion spectra
+Serology
+Serology testing
+Serotyping
+Serum 25 ( OH ) D3 concentrations
+Serum C - Reactive Protein
+Serum C - reactive protein ( CRP ) level
+Serum IMA levels
+Serum Lipid Profile
+Serum ferritin levels
+Serum levels of fasting glucose
+Serum mass profile
+Serum prolactin
+Serum prostate - specific antigen levels
+Services
+Sestamibi scan
+Sevoflurane postconditioning
+Sexual and Reproductive Health Care
+Sham
+Single - cell analyses
+Single - cell transcriptome profiling
+Single - level Cervical Disk Replacement
+Single - stage Laparoscopic Orchiopexy
+Single and double staining immunohistochemistry protocol
+Single incision laparoscopic cholecystectomy
+Sinogram
+Sit Less
+Sit Less intervention
+Sizing
+SkM biopsy
+Skin biopsies
+Skin punch biopsies
+Skinfold thickness
+Small - molecule multitargeted tyrosine kinase inhibitor ( TKI ) therapy
+Smear microscopy
+Soaking
+Solid Phase Extraction
+Solid phase extraction
+Solid phase microextraction
+Somatic Therapy
+Sonoelastography
+Sonourethrography
+SpO2
+Specimen processing
+Specimens Collected
+Spectral analysis
+Spectral fingerprints
+Spectroscopic
+Spectrum - based and color - selective electrochemiluminescence immunoassay
+Sphincter -Preserving Surgery
+Spinal
+Spine Surgery
+SpyTag - SpyCatcher system
+Standard Ellman 's assay
+Standard Laparoscopic Colectomy
+State - Trait Anxiety Inventory
+State Trait Anxiety Inventory
+Static Cold Storage
+Static light scattering
+Stenting
+Stereotactic body radiation therapy
+Sterilization
+Sternotomy
+Steroid therapy
+Stimulation
+Stimulation of the vagus nerve
+Stoppa
+Stoppa approaches
+Stoppa procedure
+Stoppa technique
+Strategies
+Strength - duration curves
+Stress Testing
+Stretching
+Stroop
+Stroop test
+Structural Modification
+Studies
+Study
+Study of Aversive
+Subcutaneous
+Substance abuse prevention
+Substernal Ventricular Pacing
+Successful Management
+Successful Restoration
+Successive Administration
+Supplementation
+Supportive Care
+Suppression
+Surface - Enhanced Raman Scattering
+Surface Enhanced Raman Scattering ( SERS ) microimaging
+Surface assessment
+Surgeries
+Surgery
+Surgical
+Surgical Camps
+Surgical Excision
+Surgical Management
+Surgical Resection
+Surgical closure
+Surgical exploration
+Surgical procedures
+Surgical resection
+Surgical salvage
+Surgical treatment
+Surveillance
+Sutures
+Switch
+T - cell transfer
+T1
+T1 - based voxel - based morphometry
+T1 - weighted scans
+T1 MR images
+T2
+T2 - Imaging
+T2 - imaging
+T2 - weighted
+T2 - weighted ( T2w ) / fluid - attenuated inversion recovery MRI
+T2 - weighted FSE imaging
+T2 - weighted MRI
+T2 - weighted MRI scans
+T2 - weighted magnetic resonance imaging ( MRI ) scans
+T2 mapping
+T2W -
+T2WI
+TACE
+TAU
+TAVI
+TAVR
+TB test
+TBB
+TBI
+TBM
+TBS
+TBiL
+TC
+TCD
+TD - OCT
+TDM
+TDR
+TE
+TEA
+TECH - N
+TECH - N intervention
+TEE
+TEE examination
+TEEMs and TSFMs
+TEM
+TENS
+TEVAR
+TEVAR procedure
+TF - CBT
+TFH
+TGF - β1
+TH
+TH levels
+TH treatment
+THA
+THz
+THz spectra
+THz transmission
+TI - Med
+TIF
+TIRM
+TKA
+TKI treatment
+TKR
+TLA
+TLC
+TLIF
+TMS
+TNBS assay
+TNF - α
+TNF - α levels
+TP
+TP regimen
+TPS
+TPs
+TRAPtest
+TREATMENT
+TREK - 1 gene therapy
+TRLFS
+TRSM
+TRUS
+TSH level measurements
+TSH measurements
+TST
+TUG
+TUG test
+TURB
+TURBT
+Taq Man 5 ' allele discrimination assay
+TaqMan
+TaqMan Allelic Discrimination
+TaqMan allelic discrimination assays
+TaqMan quantitative PCR assay
+Taqman chemistry
+TargetScan
+Targeted Therapy
+Targeted sequencing
+Targeted therapy
+Targeted treatment
+Taylor dispersion analysis
+Team
+Technologies
+Technology
+Technology Enhanced Community Health Nursing
+Telemedicine
+Teleophthalmology
+Telesonography
+Terahertz identification
+Terahertz spectroscopy
+Testing lipid levels
+Thaw
+Therapeutic
+Therapeutic Hypothermia
+Therapeutic Hypothermia Treatment
+Therapeutics
+Therapies
+Therapy
+Thermoablation Microwave
+Thin layer chromatography
+ThinPrep slides
+ThinPreps
+Thoracoscopic intrathoracic esophagogastrostomy
+Three - dimensional motion analysis
+Thymectomy
+Thyroid Hormone Replacement
+Thyroidectomy
+Time Up and Go test
+Timed Up - and - Go test
+Timed Up and Go ( TUG ) test
+Timed Up and Go test
+Timed Up and Go test ,
+Timely and aggressive treatment
+Tissue - Mapped
+Tissue - engineered
+Tissue Fixation
+Tissue Repair
+Tissue axial strain estimation with ultrasound elastography
+Titration
+To evaluate
+ToF repair surgery
+Toe Brachial Index
+Toluidine blue staining
+Tomography
+Total Elbow Arthroplasty
+Total Excitation - Emission and Total Synchronous Fluorescence Matrices
+Total Hip Arthroplasty
+Total Ig
+Total RNA
+Total Shoulder Arthroplasty
+Total cell number
+Training
+Trans - sternal thymectomy
+Transapical TAVI
+Transarterial chemoembolization
+Transcanal Endoscopic Resection
+Transcatheter Aortic Valve Implantation
+Transcatheter Arterial Chemoembolization
+Transcatheter aortic valve implantation
+Transcranial magnetic stimulation
+Transcriptome analysis
+Transcriptome profiling
+Transcriptome sequencing
+Transcriptomic
+Transcutaneous
+Transcutaneous electrical stimulation
+Transfemoral aortic valve implantation
+Transfusion
+Transfusions
+Transient elastography
+Transient electronic and vibrational absorption spectroscopies
+Transient transfection experiments
+Transitional care
+Transmission Electron Microscopy
+Transmission Electron Microscopy ( TEM ) techniques
+Transmission electron microscope ( TEM ) analysis
+Transmission electron microscopy
+Transpedicular Vertebral Curettage
+Transplantation
+Transplantation of the overexpressed Hif - 1α of BMSCs
+Transplanted
+Transplanted Bone Mesenchymal Stem Cells
+Transrectal ultrasound
+Transurethral Resection
+Transwell invasion assays
+Transwell migration assays
+Trauma - Focused Cognitive - Behavioral Therapy
+Trauma - Focused Cognitive Behavioral Therapy
+Trauma - Informed Medical Care
+Treadmill training
+Treated
+Treated by
+Treated with
+Treatment
+Treatment Patterns
+Treatment Strategy
+Treatment after explantation
+Treatment options
+Treatment recommendations
+Treatments
+Triage
+Trial Registration
+Tribometric adhesion
+Tribometric shear tests
+Triple immunosuppression
+Trypan blue exclusion assay
+Tukey 's HSD test
+Tukey 's post hoc test
+Tukey 's test
+Turn - ON - Type Detection
+Two - Dimensional Speckle - Tracking Echocardiography
+Two - dimensional gel electrophoresis
+U - HPLC
+U - MDT
+UA - RINV
+UCT
+UCT imaging
+UHPLC - MS
+UHPLC - MS / MS
+UHPLC - MS / MS method
+UHT
+UHT - D
+UHT - I
+UHT - treated
+UKA
+UPLC
+UPLC / MS analysis
+URL
+US
+US imaging
+US with graded compression
+USG
+USS
+UTC
+UV
+UV - Vis spectra
+UV - Vis spectroscopy
+UV - Vis spectrum
+UV - Visible spectrophotometry
+UV - therapies
+UV - vis absorptions
+UV - vis spectroscopy
+UV - vis titrations
+UV - visible spectroscopy
+UV light
+Ulnar Osteotomy
+Ultra violet
+Ultrasensitive Bioassays
+Ultrasonic Elastography
+Ultrasonic computed tomography imaging
+Ultrasonographic
+Ultrasonographic Assessment
+Ultrasonography
+Ultrasonography abdomen
+Ultrasound
+Ultrasound ( US ) imaging
+Ultrasound - guided
+Ultrasound Imaging
+Ultrasound guidance
+Ultrasound measurements
+Ultraviolet - visible spectroscopy
+Unilateral Supraorbital Keyhole Approach
+Unimanual versus bimanual therapy
+Upfront ASCT
+Upper
+Urinalysis
+Urinary Cytology
+Urine creatinine
+Urologic Oncologic Surgeries
+V - E technique
+V - Y plasty
+VA services
+VAMS
+VAMS sampling
+VAS
+VATS
+VCAM - 1
+VCE
+VD
+VD levels
+VD serum levels
+VEP tests
+VFA
+VFT
+VFT - action
+VIA
+VIDAS Anti - HCV Assay
+VIDAS anti - HCV assay
+VIDAS assay
+VILI
+VL
+VLDL - C
+VLED
+VLEDs
+VMAT
+VMAT ( + )
+VMMC
+VO2
+VO2 measurements
+VP shunt
+VRET
+VTE prophylaxis
+Vaccination
+Vaginal
+Vagotomy
+Vaporization
+Varicose Vein Surgery
+Ve mutational analyses
+Venous Thromboembolism Prophylaxis
+Ventricular pacing
+Verhoeff - Van Gieson staining
+Verhoeff elastic stains
+Verhoeff von Gieson elastic stains
+Vertebroplasty
+Very Low Energy Diet Products
+Very low energy diets
+Vessel - sparing Radiotherapy
+Vessel - sparing radiotherapy
+Vestibular Diagnostic Testing
+Virtual Reality Exposure Therapy
+Virtual implant planning
+Virtual reality exposure therapy
+Visual Analogue Scale
+Visual Analytics
+Visual analog scale
+Visual inspection
+Visual therapy
+Visualization
+Vitamin D serum levels
+Voice Therapy
+Volar plating
+Volumetric Assessment
+Volumetric absorptive microsampling
+WBC count
+WBRT
+WBS
+WF - EMR
+WF - EMRs
+Wedge biopsy
+Weight Watchers
+Weight loss dieting
+Western Blot
+Western Blotting
+Western blot
+Western blot analysis
+Western blot assays
+Western blot technique
+Western blotting
+Western blotting analysis
+Western blotting experiments
+Western diet
+Western immunoblot
+White Blood Cell Enumeration
+Whole - Body Scans
+Whole - Brain Radiation Therapy
+Whole - body strength training
+Whole - genome microarray
+Wide - Field Endoscopic Resection
+Withdrawal
+Without treatment
+Wound assays and Transwell assays
+Wright - Giemsa
+Wrist dynamics
+X - Ray Fluorescence microscopies
+X - Ray diffraction
+X - ray
+X - ray Computed Tomography
+X - ray and CT imaging
+X - ray computed tomography
+X - ray crystal structure
+X - ray crystallographic
+X - ray crystallographic methods
+X - ray crystallographic studies
+X - ray crystallography
+X - ray diffraction
+X - ray fluorescence
+X - ray fluorescence imaging
+X - ray photoelectron spectra
+X - ray photoelectron spectroscopy
+X - ray scattering
+X - rays
+X -ray and CT imaging
+XPS
+XRD
+XRD analysis
+XRPD
+Xenografts
+Xenotransplantation
+Xpert
+Xpert Flu
+Xpert MTB / RIF
+Xpert MTB / RIF test
+Y anastomosis
+YMR
+Yarn
+Yellow Fever Vaccination
+ZC
+ZN - stained
+Ziehl - Neelsen ( ZN ) staining
+ZiehlNeelsen method
+Zn
+[ ( 18 ) F ] - fluorodeoxyglucose PET imaging
+aEEG
+aFMI
+abdominal
+abdominal CT scans
+abdominal MR protocol
+abdominal aortic aneurysm ( AAA ) screening
+abdominal cerclage
+abdominal closure
+abdominal computed tomography
+abdominal computed tomography ( CT ) scans
+abdominal endovascular aortic repair
+abdominal hysterectomy
+abdominal incision
+abdominal surgery
+abdominal ultrasound
+abdominopelvic computed tomography ( CT ) scan
+abdominoperineal resection
+abduction
+abduction test
+ablate
+ablated
+ablation
+ablation lines
+ablation of these pathways
+ablation procedure
+ablation procedures
+ablation protocol
+ablative therapies
+abnormal digital rectal exam
+abnormal digital rectal examination
+absorption spectra
+absorption spectrum
+absorption spectrum spectroscopically
+accelerometry
+access cavity was prepared
+accessory anteromedial ( AAM ) portal
+accurate differential diagnosis
+acetabular reaming
+acetabular reaming techniques
+acetabular revision
+acetaminophen levels
+acetate
+acetate administration
+acetate infusions
+acetylcholinesterase staining
+acidic extraction
+acoustic rhinometry
+actigraphy
+action ozone therapy
+activPAL
+activated partial thromboplastin time
+active surveillance
+activity
+activity assay
+acupuncture
+acute
+acute ( 24 - h ) lethality / immobilization tests
+acute care
+acute emergency department
+acute healthcare
+acute hospitalization
+acute physiology and chronic health evaluation ( APACHE ) II
+acute toxicity
+adaptive 4AFC procedure
+adaptive procedure
+additional surgeries
+additional surgery
+additional surgical procedure
+adequacy of reduction
+adequate pharmacological profile
+adiponectin
+adjunct supplementation
+adjunctive
+adjunctive in periodontal treatment
+adjustable gastric banding
+adjusting steps
+adjustment
+adjustments
+adjuvant chemoradiation
+adjuvant chemoradiotherapy
+adjuvant chemotherapy
+adjuvant concurrent chemoradiotherapy
+adjuvant endocrine therapy
+adjuvant systemic therapy
+adjuvant therapies
+adjuvant therapy
+adjuvant thoracic radiation
+adjuvant treatment
+administered
+administered orally
+administering
+administrated
+administration
+administration of
+administration of agents
+administration of thyroid hormone
+administration profile
+administrations
+administrative
+administrative work
+admission
+admission to ICU
+admission to hospital
+admission to hospitals
+admission to intensive care units
+admission to the ICU
+admissions
+admittance
+admitted
+admitted to
+admitted to hospital
+admitted to hospitals
+admitted to our hospital
+admitted to the Clinical Haematology Department
+admitted to the Department of Vascular Surgery
+admitted to the emergency room
+admitted to the intensive care unit
+adoptive T - cell therapies
+adoptive T - cell transfer
+adoptive immunotherapy
+adoptive transfer
+adrenal vein sampling
+adrenalectomised
+adrenalectomized
+adrenalectomy
+adsorbed
+adsorption
+adsorption of biomolecules
+adult care
+adult primary care
+adult service
+advance care planning
+advanced iterative reconstruction
+advice
+advised by
+advocated
+aerobic exercise
+aerobic exercises
+affect
+affinity chromatography
+affinity purification
+aforementioned cultures
+after - hours options
+after - treatment
+after treatment
+agar - well diffusion bioassays
+agar well diffusion methods
+agarose gel electrophoresis
+agglutination assays
+aggregation curve
+aggressive targeted therapy
+aggressive treatment
+air displacement plethysmography
+airway management
+alanine aminotransferase
+alanine aminotransferase level
+alanine aminotransferase levels
+albumin
+alcohol BI
+alcohol brief intervention
+alcohol screening
+alkaline phosphatase
+alkalization
+alkalized
+all - arthroscopic AMIC
+allele - specific genotyping
+alleviate
+alleviating
+allo - HSCT
+allo - SCT
+allogeneic BMTs
+allogeneic blood transfusion
+allogeneic bone marrow ( BM ) transplantation
+allogeneic hematopoietic stem cell transplant
+allogeneic hematopoietic stem cell transplantation
+allogeneic stem cell transplant
+allograft
+allografting
+allotransplant
+alpha - 2 - macroglobulin
+alternative interventions
+alternative therapy
+alveolar bone
+ambulatory care
+ambulatory services
+ambulatory surgery
+amino acid content
+amino acid level
+ammonia measurement
+amniocentesis
+amplitude - integrated EEG
+amputation
+amputations
+anaesthesia
+anaesthesia management
+anaesthetic techniques
+analgesia
+analogue
+analogue radiography
+analyses of PCR product
+analysing multiple genetic variants
+analysis
+analysis by ( 13 ) C NMR
+analysis of samples
+analysis of viral metagenomic datasets
+analytical techniques
+analyze
+analyzed using the amplification refractory mutation system - polymerase chain reaction technique
+anastomotic technique
+anatomic anterior cruciate ligament ( ACL ) reconstruction
+anchorage - independent growth
+anchored
+anchors
+androgen deprivation therapy
+anesthesia
+anesthetic procedures
+anesthetized
+aneurysm occlusion
+aneurysms clipping
+angiogenic therapy
+angiogram
+angiograms
+angiographic
+angiography
+angioplasties
+angioplasty
+angiotensinogen
+ankle brachial index
+ankle surgery
+annealing
+annuloplasty
+answer questions
+antenatal USS
+antenatal care
+antenatal ultrasonography
+anterior cruciate ligament reconstruction
+anterior cruciate ligament reconstructions
+anterior cruciate ligament repair
+anterior line
+anteromedial portal
+anti - H . pylori - antibody
+anti - HBs
+anti - HCV testing
+anti - MuSK antibodies
+anti - PD - 1 immunotherapy
+anti - PD - 1 therapy
+anti - TNF therapy
+anti - cytokine therapy
+anti - hemolytic measures
+anti - infective therapy
+anti - inflammatory
+anti - inflammatory treatment
+anti - rejected
+anti - retroviral therapy
+anti - tumor activity
+anti - tumor function
+anti - tumor treatments
+antiangiogenesis therapy
+antiangiogenic therapeutical strategies
+antibiotic administration
+antibiotic infusion
+antibiotic susceptibility test
+antibiotic therapy
+antibiotic treatment
+antibiotics administered
+antibody ( mAb ) - based therapies
+antibody - based assays
+antibody - based therapies
+antibody - dependent cell - mediated cytotoxicity ( ADCC ) assays
+antibody - dependent cell - mediated cytotoxicity assays
+antibody - drug conjugates
+antibody - free blood typing
+antibody titration
+anticancer
+anticancer activity
+anticancer assessment
+anticancer therapies
+anticancer therapy
+anticoagulant prescription
+anticoagulant therapy
+anticoagulant treatment
+anticoagulation
+anticoagulation medication
+anticoagulation therapy
+anticoagulation treatment
+anticoagulative medication
+antidepressant
+antidepressant medication
+antidepressant treatment
+antiestrogen therapy
+antifungal treatment
+antihypertensive medications
+antimicrobial evaluation
+antimicrobial stewardship
+antimicrobial stewardship intervention
+antimicrobial stewardship programs
+antimicrobial tests
+antimicrobial therapies
+antimicrobial therapy
+antimicrobictherape
+antiparkinsonian and antidyskinetic drug therapies
+antiproliferative
+antireflux
+antiretroviral ( ARV ) therapy
+antiretroviral medication
+antiretroviral therapy
+antiretroviral treatment
+antirheumatic therapy
+antisepsis
+antituberculosis therapy
+antitumor therapies
+antiviral regimen
+antiviral therapeutic efficacy
+antiviral therapy
+antiviral treatment
+anti‑TCIPA
+anti‑aggregation assay stimulated by ADP
+antral pulmonary vein isolation
+aortic valve repair or replacement
+aortic valve replacement
+aortic valve surgery
+aortoiliac CTA
+aortoiliac CTAs
+aortopulmonary shunts
+apheresis
+apheresis procedure
+apicoectomies
+apo A1
+apo B
+apolipoprotein
+apolipoprotein ( apo ) A1
+apolipoprotein E ( APOE ) genotype
+apomorphine -induced rotations
+appendectomy
+applanation tonometry
+application
+applications
+applied reconstructive
+appointment
+appointments
+appraisal
+approach
+approaches
+appropriate disease control
+approximation
+argon - helium cryosurgery system
+arm / hand reconstructions
+arrangement
+array analysis
+art
+arterial cannulation
+arterial embolization
+arterial reconstruction
+arterial spin labeling
+arthrodesis
+arthrography
+arthroplasty
+arthroplasty procedures
+arthroscopic knee procedures
+arthroscopy
+arthrotomy
+artificial chordal replacement
+artificial disc replacement
+aseptic compounding
+aspartate aminotransferase
+aspiration
+assay
+assay method
+assayed
+assays
+assess
+assess the risk
+assessed
+assessed relative risk
+assessing
+assessing health status
+assessing the relative impact
+assessing the risk
+assessment
+assessment of the magnesium serum
+assessment of the tubal patency
+assessment practices
+assessments
+assigned treatment
+assignment
+assist
+assistance
+assisted reproductive technologies
+assisted reproductive technology
+assisting
+asthma care
+asthma control
+asthma education
+asthma management
+asthma severity
+asymmetrical flow field flow fractionation
+atherogenic plasma lipids
+atomic absorption spectrometry by cold vapor technique
+atomic absorption spectroscopy
+atomic force microscope
+atomic force microscopy
+atomic force spectroscopy
+atopy patch tests
+atrial Ad - TREK - 1 gene therapy
+attempts at repair
+attention
+audio - recorded
+audio - recordings
+audiogram
+audiometric
+audiometry
+audiometry testing
+auditory stimulation
+augmentation
+augmentation mammaplasty
+augmentation procedure
+augmentation rhinoplasty
+autofluorescence
+autofluorescent
+autograft
+autografts
+autologous bone graft
+autologous bone grafting
+autologous bone marrow transplantation
+autologous controls
+automated Western analysis
+automated computational method
+automated computer aided diagnosis system
+automated counting
+automated fluorescence microscope imaging
+automated fluorescence microscopy imaging
+automated functional brain mapping
+automated immunoassay platform
+automated method
+automatic diagnostics
+automatic segmentation approach
+automatically
+autopsies
+autopsy
+aversive learning
+aversive pauses
+avulsion
+avulsions
+awareness campaign
+axenic cultures
+axenic growth
+axenic re - cultivation
+axenically grown
+axilla
+axillary
+axillary dissection
+axillary incision
+axillary incisions
+axillary lymph node dissection
+axillary nodal dissection
+back reclined dynamic sitting
+back reclined with femur upward dynamic sitting
+background - free ultrasound imaging
+bacteria culture
+bacterial count
+bacterial culture
+bacterial inactivation
+bacterial isolation
+bacteriological
+bacteriology
+ballistocardiogram
+ballistocardiogram signals
+ballistocardiography
+balloon angioplasty
+balloon test occlusion
+banded
+banding
+banding procedure
+bariatric procedures
+bariatric surgeries
+bariatric surgery
+bariatric treatment
+barriers
+base calling
+base excess
+baseline assessment
+baseline endocrine measurements
+basic assays
+basic health basket
+basic tissue culture
+batch incubations
+bathing
+bead chip microarray analyses
+bed rest
+bedside test
+bedside tests
+before medical
+before surgery
+behavioral analysis
+behavioral aspects of therapy
+behavioral counseling
+behavioral experiment
+behavioral experiments
+behavioral health services
+behavioral intervention
+behavioral tests
+behavioural analysis
+behavioural changes
+behavioural tasks
+behavioural testing
+behavioural tests
+bereavement care
+beta - cell function
+better service quality
+bicycle ergometry
+bifurcation stenting
+bilateral ECT
+bilateral inguinal hernia repair
+bilateral monofocal intraocular lenses
+bilateral tonsillectomies
+bile acid concentration
+biliary papillotomy
+bilirubin levels
+bimanual
+bimanual therapy
+bimodal bioimaging
+bio - assays
+bio - layer interferometry
+bio - sensing technologies
+bioanalytical assays
+bioanalytical strategies
+bioanalytical technologies
+bioassay
+bioassays
+biochemical analysis
+biochemical analysis of blood
+biochemical assay
+biochemical assays
+biochemical screening
+biochemical studies
+biochemical tests
+bioelectrochemical
+biofeedback
+biogeneric design mode
+biologic disease - modifying antirheumatic drug therapy
+biologic medications
+biologic therapeutics
+biologic therapies
+biological assay
+biological studies
+bioluminescence technique
+biomechanical analysis
+biomedical application
+biomedical applications
+biomicroscopy
+bioprosthesis
+biopsies
+biopsy
+biopsy - proven
+biopsychosocial care
+bioradiotherapy
+biosensing
+bipolar RFA
+birthing
+bistable motion task
+bite - raising technique
+bladder MRI
+bladder X - ray
+bleached
+bleaching
+blepharoplasty
+blind technique
+blink reflex study
+blood - brain barrier disruption
+blood bank 's inventory
+blood cadmium
+blood circulation time
+blood collection
+blood count
+blood count measurements
+blood culture
+blood cultures
+blood donation services
+blood donations
+blood gas
+blood glucose
+blood pressure
+blood pressure measurements
+blood pressure monitoring
+blood product transfusion
+blood product usage
+blood retransfusion
+blood routine indexes
+blood salvage
+blood sampling
+blood screening
+blood smears
+blood sugar measurement
+blood sugar measurement after fasting
+blood transfusion
+blood transfusions
+blood travel time
+blood triglyceride
+blood urea nitrogen
+blood was withdrawn
+bloodletting
+body mass
+body measurements
+bolus
+bolus 0 .
+bolus dose
+bolus doses
+bolus tracking method
+bonded with
+bonding
+bone and air - conducted pure tone
+bone autografts
+bone defect repair
+bone graft
+bone grafting
+bone marrow aspiration ( BMA ) and biopsy ( BMBx )
+bone marrow biopsy
+bone marrow transplantation
+bone mineral density ( BMD ) determinations
+bone sounding
+bone therapies
+bone tissue engineering applications
+bortezomib and dexamethasone
+bortezomib and dexamethasone regimen
+bottle feeding
+bowel preparation
+bowel preparations
+bowel resection
+brain - biopsied
+brain - derived neurotrophic growth factor ( BDNF ) serum levels
+brain MRI
+brain MRI exam
+brain computed tomography ( CT ) scan
+brain imaging
+brain repair
+brain repair processes
+brain surgery
+breakdown of the BBB
+breakpoints
+breast - conserving surgery
+breast MR imaging
+breast augmentation
+breast augmentation surgery
+breast cancer prevention
+breast cancer screening
+breast cancer therapy
+breast conservation surgery
+breast core biopsies
+breast imaging
+breast magnetic resonance imaging
+breast radiotherapy
+breast reconstruction
+breast reconstructive procedures
+breast screening
+breast tangent radiotherapy
+breast ultrasonography
+bridging therapy with heparin
+brilliant cresyl blue ( BCB ) staining
+brilliant cresyl blue stained
+bronchoalveolar lavage
+bronchoscopies
+bronchoscopy
+broth microdilution
+broth microdilution method
+brushing
+brushing habit
+bulge sign
+bulk amine assay
+bullectomy
+burr hole surgery
+bypass
+bypass graft
+bypass surgery
+cCTA
+cEEG
+cLC
+cLC - MS / MS
+cMRI
+cTBS
+caesarean section
+caffeine concentrations
+caffeine urine test
+calcium
+calcium flux assay
+calcium release
+calculate
+calculated
+calculations
+campaign
+cancer detection
+cancer diagnosis
+cancer immunotherapy
+cancer prevention
+cancer preventive
+cancer preventive behaviors
+cancer stage
+cancer therapies
+cancer therapy
+cancer treatment
+cancer treatments
+cannulation
+cap - binding activity
+capacity building
+capillary assay
+capillary electrophoresis
+capillary gel electrophoresis
+capillary liquid chromatography
+capillary liquid chromatography - tandem mass spectrometry
+capsulotomy
+carbohydrates
+carbon ion radiotherapy
+carbon ion therapy
+carbon irradiation
+cardiac
+cardiac / muscle magnetic resonance
+cardiac CT
+cardiac MR
+cardiac MRI
+cardiac ablation
+cardiac bypass surgery
+cardiac catheterisation
+cardiac device interrogations
+cardiac imaging
+cardiac magnetic resonance
+cardiac magnetic resonance imaging
+cardiac puncture
+cardiac rehabilitation
+cardiac resynchronization therapy
+cardiac resynchronization therapy 's
+cardiac resynchronization treatment
+cardiac surgery
+cardiac surgical
+cardiac techniques
+cardio - respiratory polysomnography
+cardiopulmonary bypass
+cardiopulmonary exercise
+cardiopulmonary exercise testing
+cardiopulmonary resuscitation
+cardiovascular care
+cardiovascular disease prevention efforts
+cardiovascular diseases
+cardiovascular procedures
+cardioversion
+care
+care - related attributes
+care and management
+care control group
+care for patients
+care management
+care of central venous catheters
+care of patients
+care team actions
+care teams
+care transition
+care transitions
+caregiver education
+caries prevention
+caring for patients
+caring strategy
+carotid - artery stenting
+carotid endarterectomy
+carotid revascularization
+carotid revascularization procedures
+carried out
+cartilage graft fixation
+cartilage oligomeric matrix protein
+case - control
+case findings
+casting
+casting frequency
+cataract surgeries
+cataract surgery
+catecholamines
+catheter ablation
+catheter ablation strategy
+catheter removal
+catheter replacement
+catheterisation
+catheterization
+catheterized
+caudal block
+cauterized
+cautery
+cavotricuspid isthmus ablation
+cell - based assay
+cell - based assays
+cell - based therapy
+cell - culture
+cell - free therapy
+cell assay
+cell based therapy
+cell count
+cell counting
+cell counts
+cell culture
+cell culture flask
+cell cultures
+cell cycle
+cell encapsulation
+cell implantation techniques
+cell number
+cell numbers
+cell ratio
+cell separation
+cell sorting
+cell suspension culture
+cell suspension cultures
+cell therapy
+cell viability assays
+cellular
+cellular motility assays
+cementation
+cementation of the crown
+cemented
+cemented implants
+central care
+central lymph node dissection
+central pathological review
+central pathology review
+centrifugation
+cephalolateral radiography
+cephalometric
+cerclage
+cerebral angiography
+cervical cancer screening
+cervical cytology
+cervical laminoplasty
+cervical length
+cervical length testing
+cervical procedure
+cervix biopsy
+cesarean deliveries
+cesarean delivery
+cesarean section
+cesarean sections
+challenge
+challenged
+challenges
+challenging
+characteristic impedance
+charged particle radiotherapy
+chart review
+chart reviews
+chemical analyses
+chemical exchange - sensitive MRI
+chemical exchange - sensitive spin - lock ( CESL ) MRI approach
+chemical proteomic activity - based profiling
+chemical screen
+chemical screening
+chemical system
+chemistry - based strategies
+chemo
+chemo - photothermal therapy
+chemo mechanical preparation
+chemograms
+chemoimmunotherapy
+chemoinfusion
+chemomechanical preparation
+chemometric approach
+chemoprevention
+chemoradiotherapy
+chemoradiotherapy only
+chemotherapeutic regimens
+chemotherapeutic treatment
+chemotherapeutics
+chemotherapies
+chemotherapy
+chemotherapy cycle
+chemotherapy regimen
+chemotherapy regimens
+chemotherapy treatment
+chest CT
+chest CT scanning
+chest CT scans
+chest compressions
+chest computed tomography
+chest diagnostic imaging
+chest imaging
+chest radiography
+chest tube insertion
+chest wall resections
+child and adolescent mental health services
+child health
+child services
+child well - being
+childhood vaccination
+chimeric antigen receptor ( CAR ) T - cell therapy
+chloride levels
+cholecystectomy
+choledochojejunostomy
+choledochotomy and Kehr 's T tube drainage
+cholesterol
+cholesterol content have been tested
+cholesterol levels
+cholesterol sensing
+chorionic villus sampling
+chromametry
+chromatin immunoprecipation
+chromatin immunoprecipitation
+chromatin immunoprecipitation ( ChIP ) assays
+chromatography
+chromium release assays
+chromogenic
+chronic deafferentation
+chronic hemodialysis
+chronic toxicity tests
+chronic treatment
+circuit mapping
+circular dichroism
+circular dichroism spectrum measurement
+circulatory - respiratory determination of death
+circumcised
+circumcision
+circumferential pulmonary vein isolation
+cisplatin - paclitaxel
+citrate consumption
+clamping
+clarity
+cleaning / shaping procedure
+clear referral
+clinic visit
+clinic visits
+clinical
+clinical QUS systems
+clinical Sahara ® system
+clinical and biochemical assays
+clinical and management
+clinical application
+clinical applications
+clinical approaches
+clinical assay
+clinical assessment
+clinical best practices
+clinical care
+clinical consultation
+clinical decision making
+clinical diagnosis
+clinical diagnostic
+clinical electrode placements
+clinical environment
+clinical evaluation
+clinical examination
+clinical examinations
+clinical fetal tele - echo
+clinical follow - up
+clinical imaging
+clinical intervention
+clinical investigation
+clinical management
+clinical manifestation
+clinical manipulations
+clinical photographs
+clinical practice
+clinical prognosis
+clinical protocols
+clinical services
+clinical specimens
+clinical spectrum
+clinical system
+clinical teams
+clinical technique
+clinical test procedures
+clinical tests
+clinical therapies
+clinical treatment
+clinical treatments
+clinical utility
+clinical yarning
+clinically diagnosed
+clinicopathological
+clinoidectomy
+clip
+clipping
+clonal density assays
+clone
+cloned
+cloning
+clonogenic assay
+closed reduction
+closed reduction technique
+closure
+closure of pelvic
+closure of the pelvis
+clustered regularly interspaced short palindromic repeats ( CRISPR ) interference
+co - ChIP
+co - administration
+co - culture
+co - culture studies
+co - culture system
+co - cultured
+co - cultures
+co - culturing
+co - expression
+co - immunoprecipitation
+co - immunoprecipitation experiments
+co - incubation
+coadministration
+coagulation test
+coarse functional mapping
+coaxial technique
+cocaine self - administration
+cochlear implantation
+cocultivation
+coculture
+cocultured
+cocultures
+coculturing
+codon - based analyses
+coeliotomy
+cognitive - behavioral therapy
+cognitive - behavioral treatment
+cognitive - behavioral treatments
+cognitive battery to assess
+cognitive behavioral therapy
+cognitive behaviour therapy
+cognitive recovery
+cognitive testing
+cognitive therapy
+cognitive training
+cognitive treatment
+coil embolization
+coimmunoprecipitation
+cold - stress test
+cold knife cone
+cold pressor test
+colectomies
+colectomy
+coli detection
+collaborative care
+collagen type II C - telopeptide
+collagenase digestion
+collected
+collected specimens
+collection
+collections
+colon transit times
+colonoscopy
+colony and spheroid formation
+colony formation
+colony formation assays
+color - selective ECL assay
+color - selective ECL immunoassay
+colorectal
+colorimetric
+colorimetric analysis
+colorimetric detection
+colorimetric method
+colorimetric test
+colorimetrically
+colorimetry
+colourimetric method
+combination
+combination strategies
+combination therapies
+combination therapy
+combination treatment
+combination with paclitaxel and carboplatin
+combinatorial treatments
+combined administration
+combined chemotherapy
+combined therapy
+commercial activity assays
+commercial method
+communication
+communication interventions
+communication trainings
+community - based health services
+community - based surveillance
+community services
+comparative risk assessment
+compensation
+competition assays
+competitive binding assay
+complementary treatments
+complete blood count values
+complete gastrectomy
+complete parathyroidectomy
+complex biliary reconstructive surgery
+complex procedures
+complexity
+compliance
+composite resin restoration
+composite resin restorations
+compound - specific isotope analysis
+compounded
+comprehensive
+comprehensive care
+comprehensive investigations
+comprehensive medical care
+comprehensive medical teams
+comprehensive review
+compression
+compression therapy
+computed
+computed tomographic angiography
+computed tomography
+computed tomography ( CT ) scan
+computed tomography angiography
+computed tomography imaging
+computed tomography of the chest
+computer - aided disease diagnostics
+computer - assisted diagnosis tools
+computer - based educational intervention
+computer - generated
+computer tomography angiography
+computerized abdominal tomography
+computerized gait analysis
+computerized tomography
+concentration of estradiol
+concentration of iodine
+concurrent chemoradiotherapy
+concurrent radiochemotherapy
+conditioned pain modulation
+conditioning - regimen
+conditioning regimen
+cone - beam computed tomography
+cone beam CT
+cone beam computed tomography
+conference meetings
+conferences and meetings
+confirmation tests
+conflict - based approach test
+confocal
+confocal fluorescence microscopy
+confocal images
+confocal imaging
+confocal laser scanning microscope
+confocal microscopy
+confocal microscopy analysis
+congener profiles
+consecutive alternating administration
+consecutive surgeries
+conservative
+conservative management
+conservative therapy
+conservative treatment
+conservative treatments
+conservatively
+consistent treatment
+consolidated
+consolidation
+constant permeate flux
+constraint - induced movement therapy
+consult
+consultation
+consultations
+consulted
+consults
+contacted
+continence achievement
+continence improvement
+continent urinary diversion
+continuity of care
+continuous - course definitive CCRT
+continuous positive airway pressure
+continuous spectrum
+continuous subcutaneous insulin infusion
+continuous video - EEG
+continuum of care model
+contouring
+contraception
+contraceptive methods
+contralateral eye surgery
+contrast - enhanced
+contrast - enhanced CT
+contrast - enhanced T1 - weighted
+contrast - enhanced ultrasonography
+contrast esophagram
+contrast left ventriculography
+contrast media injection
+control
+control CBM - I
+control exposure therapy
+control his pain
+control liquid diet
+control of symptoms
+control of the disease
+control the bleeding
+control therapy
+controller medications
+controller therapy
+controlling
+convention radiotherapy
+conventional
+conventional RT
+conventional angiography
+conventional blind technique
+conventional distillation
+conventional fractionation
+conventional hand exercises
+conventional insemination
+conventional intraoral radiography
+conventional management
+conventional parathyroidectomy
+conventional procedures
+conventional radiotherapy
+conventional single - energy mode
+conventional surgery
+conventional therapy
+conventional treatment
+conversion
+conversion - to - open
+conversion to open surgery
+coping strategies
+coping strategy
+copper
+coprological examination
+core - needle biopsy
+corneal transplant
+corneal transplantation
+corneal transplantations
+corneal transplants
+cornerstone of the management
+coronal restoration
+coronal restorations
+coronary CT angiography
+coronary angiogram
+coronary angiograms
+coronary angiography
+coronary artery bypass graft
+coronary artery bypass graft ( CABG ) surgery
+coronary artery bypass graft surgery
+coronary artery bypass grafting
+coronary artery bypass surgery
+coronary artery ligation
+coronary computed tomography angiography
+coronary intervention
+coronary ligation
+correction
+correction of hallux valgus
+correlative light and electron microscopy
+corroborative clinical observations
+cortical response
+cortical response evoked
+cortical responses
+corticosterone levels
+cosmesis
+cosmetic
+cosmetic surgery
+cotinine levels
+counseled
+counseling
+counseling patients
+counseling service
+counseling sessions
+counselling
+counselling programme
+count
+count of red blood cell
+counting
+counting various genotypes
+counts
+cranial neurosurgery
+craniofacial
+craniomaxillofacial surgery
+craniotomy
+craving behavioral intervention
+creatine kinase - MB
+creatinine
+creation
+cricothyrotomy
+cricotracheal resection
+cricotracheal resection ( CTR ) procedure
+critical care
+critical thinking disposition assessment
+cross - react
+cross - sectional resting - state functional connectivity magnetic resonance imaging
+cross - trigonal ureteral reimplantation
+cross - trigonal ureteral reimplantation ( Cohen )
+crosslinking - mass spectrometry
+crossmatch
+crossmatched
+crossmatches
+crude protein
+crude protein concentrations
+crush
+cryo - electron microscopy
+cryoablation balloon catheter technologies
+cryopreservation
+cryopreserved
+cryotherapy
+cryothermal energy
+crystal violet staining
+crystallographic
+crystallographic data
+crystallographic examinations
+cuff - less blood pressure ( BP ) monitoring
+cultivation
+cultivation - dependent approach
+cultivation - independent approach
+cultivation - independent techniques
+culturable
+culturally competent paediatric oncology care
+culture
+culture - based isolation methods
+culture collections
+culture conditions
+culture enrichment methods
+culture experiments
+culture method
+culture plus smear methods
+culture studies
+culture system
+culture technique
+culture techniques
+cultured
+cultured samples
+cultured urine
+cultures
+cultures in shake flasks
+culturing
+cumulative damage metric
+curative intent
+curative radical cystectomy
+curative resection
+curative surgery
+curative surgical resection
+current approved methods
+current therapies
+current treatment options
+cut injury
+cycle
+cycles
+cycles of chemotherapy
+cycling temperature capillary electrophoresis
+cystatin C
+cystectomy
+cystoscopic examination
+cystoscopies
+cystoscopy
+cytokines levels
+cytology
+cytology screening
+cytoreduction
+cytospin immunostaining
+cytotoxic activity
+cytotoxic therapy
+cytotoxicity
+cytotoxicity activity
+cytotoxicity assay
+cytotoxicity assays
+d - ROMs ( derivatives of reactive oxygen metabolites ) test
+d - ROMs level
+dacryocystorhinostomy
+dacryoscintillography
+damage control surgery
+damage metric
+data interpretation
+dbt
+dc magnetron co - sputtering
+de - adhesion assay
+de - escalation
+de novo procedure
+deafferentation
+deafferented
+debonded
+debonding
+debridement
+debridements
+decompress
+decompression
+decompression alone surgery
+decompression surgery
+deep brain stimulation
+deep inferior epigastric perforator ( DIEP ) flaps
+deep mass spectrometry
+deep sedation
+deescalation
+definitive reconstruction of his mandible
+degradation assay
+degree of fibrosis
+delamination
+delayed decompressive effects
+deletion analysis
+delivered
+delivering
+delivery
+delivery management
+delivery methods
+delivery of care
+delivery of drug - encapsulated nanoparticles
+delivery strategies
+demand
+demanding
+demands
+demonstrated
+density gradient ultracentrifugation
+dental
+dental applications
+dental checkups
+dental extractions
+dental health
+dental procedure
+dental treatment
+depletion
+depression screening
+depth imaging
+dermal fat flap
+dermatoglyphics
+dermofasciectomy
+describe
+design
+destructions
+detect
+detect four pesticide
+detected
+detecting
+detection
+detection assay
+detection method
+detection of known compounds
+detection of pesticides
+detections
+determinants
+determinants of health schematics
+determinants of resistance
+determinate
+determination
+determination of
+determinations
+determine
+determined
+determining the selectivity
+detox
+detoxification
+deuterium exchange
+devascularization
+development of programs
+device interrogation
+device removal
+deworming
+diabetes care
+diabetes education program
+diabetes management
+diabetes screening
+diabetic education
+diagnosed
+diagnosed with cancer
+diagnoses
+diagnoses and procedures
+diagnosis
+diagnosis method
+diagnosis of cancer
+diagnostic
+diagnostic ECG
+diagnostic adjunct
+diagnostic and therapeutic tool
+diagnostic approach
+diagnostic approaches
+diagnostic assays
+diagnostic biomarker
+diagnostic blood tests
+diagnostic evaluation
+diagnostic facilities
+diagnostic imaging
+diagnostic laparoscopy
+diagnostic method
+diagnostic methods
+diagnostic procedure
+diagnostic process
+diagnostic services
+diagnostic test
+diagnostic tests
+diagnostic tool
+diagnostic tooth waxing
+diagnostic use
+diagnostic workup
+diagnostic yield
+diagnostics
+diagnostics tests
+dialysis
+dialysis methods
+diaphragmatic ultrasonography
+diet
+diet formula
+dietary assessments
+dietary control
+dietary modifications
+dietary recall
+dietary supplementation
+dietary treatments
+diffeomorphometry
+differential diagnoses
+differential diagnosis
+differential scanning calorimetry
+differential scanning fluorimetry
+differential staining
+difficulties encountered
+diffusion -
+diffusion - weighted ( DWI ) magnetic resonance images
+diffusion - weighted MRI
+diffusion - weighted image
+diffusion - weighted imaging
+diffusion MRI
+diffusion Magnetic Resonance Imaging
+diffusion capacity for carbon monoxide
+diffusion tensor ( DT ) magnetic resonance imaging ( MRI )
+diffusion tensor brain imaging
+diffusion tensor imaging
+diffusion tensor imaging study
+diffusion weighted MRI
+diffusion weighted imaging
+diffusion weighted magnetic resonance imaging
+digital
+digital fundus images
+digital image analysis
+digital intra - oral radiography
+digital intraoral radiography
+digital mammography
+digital radiography
+digital rectal examination
+digital subtraction angiography
+dilated ocular examinations
+dilation
+dilution
+dilution method
+direct - acting antiviral ( DAA ) therapy
+direct - acting antiviral therapy
+direct DNA sequencing assay
+direct contact test
+direct current stimulation
+direct haemagglutination test
+direct laryngoscopes
+direct laryngoscopy
+direct ligation
+directional cloning
+disc diffusion
+discharge
+discharged
+discharged home
+discharged patients
+discharged to home
+discharging patients
+discipline
+disciplines
+discontinuation
+discontinuation of the therapy
+discontinuations
+discontinued treatment
+discussion
+discussions
+disease - modifying therapies
+disease control
+disease control approaches
+disease management
+disease management program
+disease notification
+disease prevention and control
+diseases management
+disinfect
+disinfection
+disk diffusion method
+disk diffusion test
+dispensed
+dispensing
+displacements
+disposal practices
+disruption of the BBB
+dissection
+dissolution
+dissolved
+distal gastrectomy
+distal passive traction
+distalization
+distance
+distinct
+distortion product otoacoustic emission
+distraction osteogenesis
+diversified specialized care
+division
+dministration phase
+dobutamine stress echocardiography
+docetaxel plus cisplatin ( TP ) regimen
+document
+documented
+documenting
+donated
+donation
+donations
+donor insemination
+dopamine levels
+dopaminergic therapy
+dose - guided patient positioning
+dose - guided positioning
+dose accumulation methods
+dose change
+dose distribution
+dose distributions
+dose fractionation
+dosimetric
+dosimetry
+dosimetry calculation
+dot - probe task
+double - IF analyses
+double - balloon enteroscopy
+double - colour immunofluorescence microscopy
+double - contrast barium enema
+double - stained
+double - staining
+double inversion recovery
+double inversion recovery scans
+double valve replacement
+downstaging
+downstream assays
+downstream molecular consequences
+doxorubicin / DTIC combination
+doxorubicin / dacarbazine combination
+doxorubicin / ifosfamide combinations
+drainage
+drainage method
+drained
+dressing changes
+dried VAMS
+drill
+drilled
+drilling
+drug
+drug administration
+drug delivery
+drug delivery systems
+drug injections
+drug screening
+drug sensitivity testing
+drug therapy
+drug treatment
+drug treatments
+drugs
+dual - color direct stochastic optical reconstruction microscopy
+dual - echo
+dual - energy CT
+dual - energy X - ray absorptiometry
+dual - energy spectral CT
+dual - energy spectral CT imaging
+dual - energy spectral CT scan
+dual - energy spectral computed tomography
+dual - energy spectral computed tomography ( CT ) imaging
+dual - energy x - ray absorptiometry
+dual - immunohistochemistry
+dual - luciferase reporter assay
+dual - mode detection
+dual antiplatelet therapy
+dual energy X - ray absorptiometry
+dual energy computed tomography
+dual isotopic
+dual lateral flow immunoassay
+dual luciferase reporter assay
+duplicate Kato - Katz thick smears
+dural incision
+during the last year of life
+during their last year of life
+duty
+dye dilution
+dye dilution assay
+dye labeling
+dynamic CTPI
+dynamic PET
+dynamic computed tomography perfusion imaging
+dynamic contrast - enhanced MRI
+dynamic contrast - enhanced magnetic resonance imaging
+dynamic examination
+dynamic light - scattering
+dynamic light scattering
+dynamic sequential scan protocol
+dynamic sitting strategies
+dynamic visualization
+e - health
+eGFR
+eHealth alerts
+eHealth services
+eScreening
+early cancer diagnosis
+early detection
+early diagnosis
+early disease diagnosis
+early goal - directed therapy
+early outcome assessment
+echo
+echo imaging
+echocardiographic
+echocardiography
+education interventions
+educational intervention
+educational interventions
+effective control
+effective therapy
+effectively managed
+egg counting
+ehealth
+ejection fraction
+elastography
+elective
+elective ophthalmic surgery
+elective secondary care services
+elective surgeries
+elective surgery
+elective surgical procedures
+electric stimulation
+electrical - field stimulation
+electrical stimulation
+electrically provoked
+electro - physiology
+electro - spray ionization
+electrocardiogram
+electrocardiographic
+electrocardiography
+electrochemical
+electrochemical impedance spectra
+electrochemical impedance spectroscopy
+electrochemically
+electrochemically reduced
+electrochemiluminescence
+electroconvulsive therapy
+electrocorticogram
+electrocorticography
+electrocorticography signals
+electrodiagnostics
+electroencephalographic
+electroencephalographically
+electroencephalography
+electroglottography
+electrolysis
+electromyograph
+electromyographic
+electromyography
+electron microscope tomography
+electron microscopic
+electron microscopic studies
+electron microscopy
+electron spin resonance
+electron tomography
+electronic von Frey test
+electrophoresis
+electrophoretic mobility shift assay
+electrophoretic mobility shift assays
+electrophysiological recordings
+electrophysiological techniques
+electrophysiology
+electroporated
+electroretinography
+electrospray ionization
+elemental mapping
+elevated cystatin C levels
+elevation
+elevation protocol
+elimination
+ellipsometry
+embedded
+embedding
+embedding method
+embolectomy
+embolisation
+embolization
+embolization procedures
+embolized
+embryo culture
+embryo transfer
+emergency
+emergency care
+emergency cesarean
+emergency department
+emergency department ( ED ) readmission
+emergency department services
+emergency department settings
+emergency department visits
+emergency general surgery specific frailty index
+emergency medical services
+emergency primary percutaneous coronary intervention
+emergency room visits
+emergency services
+emergency tracheostomy
+emission - scanning electron microscopy
+emotional support
+empirical treatment
+emulsification
+emulsification activity
+en - block resection
+en - masse distalization
+encountered
+encounters
+encouraging cessation
+end - of - life
+end - of - life care
+end - to - side neurorrhaphy
+end of life
+end of life ( EoL ) care
+endarterectomy
+endobronchial ultrasonography
+endobronchial ultrasound
+endobronchial ultrasound with transbronchial needle aspiration
+endocrine evaluations
+endodontic access cavities
+endodontic access cavity preparation
+endodontic access preparation
+endodontic preparation
+endodontic techniques
+endodontic therapy
+endodontic treatment
+endodontic treatments
+endodontic treatments ,
+endodontically treated
+endomyocardial biopsy
+endoprosthesis
+endoscopic
+endoscopic approach
+endoscopic balloon dilation
+endoscopic biopsy
+endoscopic injection
+endoscopic lung volume reduction
+endoscopic procedures
+endoscopic retrograde cholangiopancreatography
+endoscopic submucosal dissection
+endoscopic submucosal injection
+endoscopic surgical
+endoscopic third ventriculostomy
+endoscopic transcanal resection
+endoscopic ultrasound
+endoscopic ureteral operations
+endoscopic valve therapy
+endoscopically
+endoscopy
+endovascular aortic aneurysm repair
+endovascular aortic repair
+endovascular approach
+endovascular coil embolization techniques
+endovascular interventions
+endovascular procedures
+endovascular technologies
+endovascular therapy
+endovascular treatments
+endovenous ablation
+endurance exercise
+endurance exercises
+energy - dispersive X - ray spectroscopy
+energy - dispersive x - ray spectroscopy
+energy balance assay
+energy dispersive X - ray spectroscope
+energy dispersive X - ray spectroscopy
+energy dispersive x - ray analyses
+energy dispersive x - ray spectroscopy
+engagement
+engineering
+engineering efforts
+engraftment process
+enhanced MRI
+enhanced contrast
+enhancement technologies
+enlargement
+enlargement mechanism
+enlargement mechanisms
+enrichment
+enrichment culturing
+enroll
+enrolled
+enrollment
+enteral feeding
+enteral nutrition
+enucleation
+environmental risk assessment
+enzymatic
+enzymatic assay
+enzymatic assays
+enzymatic digestion
+enzymatic digestions
+enzymatically digested
+enzyme
+enzyme - linked fluorescence test
+enzyme - linked immunoassay
+enzyme - linked immunosorbant assay
+enzyme - linked immunosorbent assay
+enzyme - linked immunosorbent assay kits
+enzyme - linked immunosorbent assay techniques
+enzyme assay
+enzyme assays
+enzyme enolase 2
+enzyme immunoassay
+enzyme levels
+enzyme linked - immunosorbent assay
+enzyme linked immunosorbent assay
+enzyme replacement therapy
+enzymed linked immunosorbent assay
+enzymological assay
+epicutaneous
+epicutaneous allergen - specific immunotherapy
+epifluorescence microscopy
+episiotomies
+episiotomy
+episodes
+eradicating
+eradication
+eradication therapy of Helicobacter pylori
+eradication treatment
+ergoreflex assessment
+esophageal stenting
+esophagectomy
+esophagogastroduodenoscopy
+essential amino acids
+esthetic
+estimated Glomerular Filtration Rate
+estimated glomerular filtration
+estimated glomerular filtration rate
+estimating the patients ' pain
+estimation
+estrogen replacement therapy
+estrogen therapy
+etching
+ethmoidectomy
+euthanasia
+euthanization
+euthanized
+evaluate
+evaluate eligibility
+evaluate the laboratory data
+evaluated
+evaluated clinically
+evaluates
+evaluating
+evaluating public health interventions
+evaluation
+evaluation approach
+evaluations
+evaluative component .
+evaulate
+everting
+evoked cortical responses
+evolution
+ex situ conservation
+examination
+examinations
+examine
+examined
+examined clinically
+examining
+exams
+excised
+excision
+excision of the mass
+excitation - emission matrix ( EEM ) fluorescence
+exercise
+exercise regime
+exercise regimes
+exercise therapy
+exercise treatment
+exercises
+existing
+expansion
+expensive tests
+experience of care
+experimental incision
+experimental operation
+experimental procedure for typing
+explained
+explantation
+explanted
+explants
+exploration
+exploratory laparatomy
+exploratory neck incision
+exploratory thresholds
+explored
+exponential cultures
+exponential decay models
+exposure assay
+exposure therapy
+expression
+expression analyses
+expression of Treg cell markers
+expression pattern
+expression patterns
+expressions
+extended right hemicolectomy
+external - beam radiation therapy
+external beam radiotherapy
+external radiotherapy
+extirpation
+extracorporeal life support
+extracorporeal life support system
+extracorporeal membrane oxygenation
+extracorporeal shock wave lithotripsy
+extract
+extracted
+extraction
+extraction method
+extraction procedures
+extraction process
+extradural temporopolar approach
+extragenital tests
+extremity amputation
+extubation
+eye doctor visit
+fHSI
+fMRI
+fMRI studies
+fMRI study
+fMRI tasks
+fabrication
+face structural OCT
+facetectomy
+facial computed tomography
+failure mode
+fall risk assessment
+family - based interventions
+family - based therapy
+family building
+family education
+family needs assessment
+far - UV CD spectra
+fascia repair
+fasciotomies
+fast scanning calorimetry
+fasting
+fasting blood lipid profiles
+fasting blood sugar
+fasting glucose
+fasting plasma glucose
+fat
+fat grafting
+fatty acid profile
+fatty acids content
+fatty acids profile
+fecal
+fecal calprotectin
+fecal samples
+fed - batch
+fed by tube
+feeding
+feeding medium method
+feeding regimen
+feeding small babies
+feeding tube insertions
+femtosecond laser cataract surgery
+femur upward dynamic sitting
+ferric reducing antioxidant power
+fertility preservation
+fetal anatomy
+fetal echocardiograms
+fetal echocardiography
+fetal reduction
+fetal tele - echo
+fetal tele - echoes
+fetal ultrasound
+fibrin degradation products
+fibrinogen
+fibromuscular resection
+fiducial placement
+field static immersion tests
+filled
+filling
+filtered back projection
+filtered backprojection
+filtration ( ISET
+final visit
+fine - needle aspiration
+fine - needle aspiration biopsy
+fingerprint spectrum
+finishing
+first
+first - line
+first - line chemotherapy
+first - line regimen
+first - line therapy
+first - line treatment
+first aid
+first chemotherapy cycle
+first line easy test
+first line of treatment
+first prenatal care visit
+fitted
+fitting
+fixation
+flap urethroplasty
+flexible ureteroscopy
+floatation concentration technique
+flow - induced dispersion analysis
+flow cross match
+flow cytometric
+flow cytometric analyses
+flow cytometric analysis
+flow cytometry
+flow cytometry DNA content analysis
+flow cytometry analysis
+fludarabine and cyclophosphamide
+fluid - attenuated inversion recovery
+fluid administration
+fluid chart
+fluid management
+fluid monitoring
+fluid resuscitation
+fluid resuscitation therapy
+fluorescence - activated cell sorting
+fluorescence HSI
+fluorescence emission spectra
+fluorescence image
+fluorescence imaging
+fluorescence intensity
+fluorescence measurement
+fluorescence microscopy
+fluorescence polarization techniques
+fluorescence recovery
+fluorescence resonance energy transfer
+fluorescence spectroscopy
+fluorescence system
+fluorescent images
+fluorescent labeling
+fluorescent microscopy
+fluorescent penetrant method
+fluorine - 18 - fluorodeoxyglucose ( 18F - FDG ) positron emission tomography / CT
+fluorometric
+fluoroscopic
+fluoroscopy
+focused
+focused parathyroidectomy
+focused ultrasound
+folk medicine
+follow - up
+follow - up care
+follow - up period
+follow - up periods
+follow - up results
+follow - up study
+follow - up telephone interview
+follow - up visit
+follow - up visits
+follow - ups
+follow up
+follow up visit
+followed
+followed - up
+followed up
+followup
+food challenge
+foot
+foot care
+foot examinations
+force spectroscopy techniques
+forced expiratory volume in one second ( FEV1 ) level
+forced swim test
+forced swimming test
+forefoot amputations
+forensic DNA analysis
+forensic test
+formalin fixation
+formulas
+formulating diets
+four - dimensional CT simulation scan
+fractional anisotropy
+fractionated radiotherapy
+fractionated radiotherapy to the upper abdomen
+fractionated stereotactic radiation therapy
+fractionation
+fractionation regimens
+fractionation schemes
+fracture reduction
+free - flap reconstruction
+free androgen index
+free carnitine content
+free cell cultures
+free tissue transfer
+freeze - dried
+freeze - drying
+freeze dried
+freeze drying
+frequency doubling perimetry
+frequency encoding
+frontal EEG channels
+frozen - thawed ART cycle
+frozen - thawed cycle
+frozen embryo transfer
+fructose diets
+full mouth examination
+functional MRI
+functional Magnetic Resonance Imaging
+functional analysis
+functional assessments
+functional imaging
+functional magnetic resonance imaging
+functional map of electrode responses
+functional neuroimaging
+fundus images
+fundus photography
+fungal cultures
+further management
+fusion
+fusion biopsy
+fusion surgery
+gait
+gait analysis
+gait training
+gait training with partial weight support
+galectin - 3
+galvanic current
+gamma irradiation
+gamma knife radiosurgery
+gas - assisted method
+gas - phase electron diffraction
+gas adsorption
+gas chromatography
+gas chromatography - mass spectrometry
+gas chromatography - mass spectroscopy
+gas chromatography - tandem mass spectrometry
+gas chromatography / mass spectrometry
+gas chromatography coupled mass spectrometry
+gas chromatography coupled to mass spectrometry
+gas chromatography isotope ratio mass spectrometry
+gas electron diffraction
+gas tamponade
+gastrectomy
+gastric lavage
+gastrocolic ligament resection
+gastroduodenoscopy
+gastropexy
+gastroscopy
+gastrostomies
+gastrostomy
+gastrostomy tube replacement
+gastrotomy
+gated
+gavage
+gel electrophoresis
+gel filtration
+gel filtration assays
+gel permeation chromatography
+gene - therapy
+gene assay
+gene deletion analyses
+gene expression patterns
+gene expression profile analysis
+gene expression profiling
+gene sequencing
+gene sequencing technology
+gene therapies
+gene therapy
+general
+general anaesthesia
+general anesthesia
+general health examination
+general nursing ward
+general support
+general surgery
+genes profiling
+genetic
+genetic analyses
+genetic analysis
+genetic counseling
+genetic counselling
+genetic determination
+genetic improvement
+genetic investigations
+genetic methods
+genetic profile
+genetic profiles
+genetic testing
+genetic variants
+genetically validated assays
+genetics - guided path
+genome - wide binding profile
+genome analyses
+genome analysis
+genome sequences
+genomic analyses
+genomic analysis
+genomic features
+genomic profiles
+genomic profiling
+genotype calls
+genotyped
+genotypic integrase resistance testing
+genotypically
+genotyping
+genotyping assays
+genotyping methods
+gentle massage
+geriatric assessment
+geriatric assessments
+gestational weeks
+ghrelin levels
+glare recovery
+global assay
+glomerular filtration rate
+glucose
+glucose control
+glucose levels
+glucose sensing
+glutamate
+gluten - free
+gluten - free diet
+glycaemic control
+glycan - binding assays
+glycated haemoglobin
+glycated hemoglobin
+glycemia levels
+glycemic control
+glycemic control ,
+goal - directed administration
+goal - directed fluid - sparing strategy
+goal - directed fluid restriction
+goal - directed fluid therapy
+goal - directed therapy
+goal setting
+goals of care
+gold standard method
+graded exercise therapy
+gradient fractionation
+grading system
+gradual distraction
+graft
+graft reconstruction
+grafted
+grafting
+grafting experiments
+grafts
+granulation
+great toe ( hallux ) amputation
+grinding
+grip
+groin hernia repair
+groin hernia repairs
+gross total tumor resection
+growth assays
+guidance
+guide therapeutics
+guided biopsies
+guided biopsy
+guided haemodynamic therapy
+guided prostate biopsy
+guided volume therapy
+gynecologic procedures
+gynecologic surgery
+gyroscopic activity
+habit reversal training
+haematocrit
+haematological investigations
+haemodialysis
+haemodynamic measurements
+haemodynamic therapy
+haemoglobin
+hallux amputation
+hamstring graft
+hamstring grafts
+hand
+hand disinfection
+hand replantation
+handling
+handling processes
+handover
+handover meetings
+handovers
+hard tissue engineering
+hard tissue repair
+hardware removal
+harm reduction
+harmonized assays
+harvested
+harvesting
+head - space solid - phase microextraction
+health
+health - care setup
+health - promoting
+health - promoting formulations
+health - service
+health administrative claims data
+health belief model
+health care
+health care delivery
+health care experience
+health care needs
+health care services
+health care settings
+health care teams
+health care utilization
+health challenge
+health check
+health checks
+health communication
+health examination
+health examinations
+health impact
+health impact assessment
+health information exchange
+health insurance
+health plans
+health promotion
+health promotion program
+health promotion programs
+health promotion project
+health related services
+health risks
+health screens
+health service
+health service utilization
+health services
+health surveillance
+health teams
+health technologies
+health technology
+health technology assessments
+health trainer service
+healthcare
+healthcare services
+healthcare settings
+healthful diet
+healthy
+healthy diet
+healthy eating
+healthy sanitation practices
+heart - lung transplant
+heart surgery
+heart valve replacement surgeries
+heat ablation
+heavy resistance training
+helical scan mode
+hematological
+hematopoietic stem cell transplant
+hematopoietic stem cell transplantation
+hematoxylin and eosin
+hematoxylin and eosin ( H & E ) staining
+hematoxylin and eosin staining
+hemiarthroplasty
+hemimandibulectomy
+hemodialysis
+hemodiluted
+hemodilution
+hemodynamic measurements
+hemoglobin
+hemoglobin A1c
+hemoglobin A1c ( HbA1c ) levels
+hemogram
+hemolytic activities
+hepatectomies
+hepatectomy
+hepatic biopsies
+hepatic resection
+hepatic surgeries
+hepatocyte transplantation
+hernia procedures
+high -
+high - accuracy liquid chromatography - mass spectrometry
+high - caloric diet
+high - carbohydrate diet
+high - cholesterol diet
+high - complexity arthroscopies
+high - definition optical coherence tomography
+high - density lipoprotein ( HDL ) level
+high - dose - rate ( HDR ) brachytherapy
+high - dose - rate brachytherapy
+high - fat
+high - fat diet
+high - fructose diet
+high - performance liquid chromatography
+high - pressure hot homogenization
+high - quality
+high - quality care
+high - refined carbohydrate - containing diet
+high - resolution PET
+high - resolution mass spectrometry
+high - resolution melting analysis
+high - resolution micro - computed tomography
+high - resolution microscopy
+high - resolution peripheral quantitative computed tomography
+high - resolution positron emission tomography
+high - resolution transcript sequencing
+high - resolution transmission electron microscopy
+high - resolution ultrasonography
+high - sensitivity C - reactive protein
+high - sensitivity methods
+high - throughput
+high - throughput pyrosequencing
+high - throughput screening
+high - throughput screening assays
+high AM portal
+high fat diet
+high performance liquid chromatograph ( HPLC ) with fluorescence
+high performance liquid chromatography
+high performance liquid chromatography - mass spectrometry
+high performance liquid chromatography - tandem mass spectrometry
+high resolution non - invasive imaging technologies
+high resolution triple quadrupole liquid chromatography / mass spectrometry
+high sugar diet
+high sugar homemade diet
+high throughput screen
+higher - throughput " pinwheel assay "
+higher serum calcitonin levels
+hind paw edema test
+hip arthroplasty
+hip replacement surgery
+hip resurfacing
+histochemical
+histochemical staining
+histologic
+histologic analyses
+histologic assays
+histologic exam
+histologic examination
+histological
+histological analyses
+histological analysis
+histological approach
+histological examination
+histological examinations
+histological methods
+histologically
+histology
+histometric
+histomorphologic evaluation
+histomorphological spectrum
+histomorphometric analyses
+histopathology
+history
+history taking
+hole extracted
+holistic assessment
+home - based
+home blood pressure monitoring
+home care
+home exercise programmes
+home exercise sessions
+home health episode
+home health interventions
+home health service
+home infusion therapy
+homeostasis model assessment
+homeostatic model assessment for insulin resistance
+homocitrulline levels
+homocysteine levels
+homogenized
+homograft reintervention
+homograft reintervention procedures
+hormonal assessment
+hormonal manipulations
+hormonal methods
+hormonal profiles
+hormonal therapy
+hormone profile
+hormone therapy
+hormone treatment
+hospice
+hospital - based discharge planning
+hospital - based intervention
+hospital admission
+hospital admissions
+hospital discharge
+hospital health care
+hospital readmission
+hospital readmissions
+hospital systems
+hospitalisation
+hospitalisations
+hospitalised
+hospitalization
+hospitalizations
+hospitalized
+hot - plate
+hot - plate and tail - pressure tests
+hot - plate test
+hot plate analgesic assay
+hs - CRP
+hs - Troponin I
+hs - troponin T
+hsCRP
+human identification
+human immunodeficiency virus test
+human papillomavirus DNA
+humanely euthanized
+hybridization
+hydrophilic interaction liquid chromatography
+hydrophobic interaction chromatography
+hyperbaric oxygen therapy
+hyperinsulinemic - euglycemic clamping
+hyperpolarized ( 13 ) C CSI
+hypertension treatment
+hypo
+hypofractionated RT
+hypofractionated RT regimen
+hypofractionated arm
+hypofractionated radiosurgery
+hypofractionation
+hypothermia - treated
+hypothermia treatment
+hypothermic machine perfusion
+hysterectomy
+hysterosalpingo - contrast sonography
+iTRAQ labeling
+icELISA
+identification
+identify
+identifying
+identifying patients
+ileocholic resection
+illumination
+image
+image - based navigated retinal laser therapy
+image - guidance
+image - guided
+image - guided intensity - modulated radiotherapy
+image - guided medical procedures
+image analysis
+image analysis techniques
+image guided radiation therapy
+image interpretation
+image quality analysis
+imaged
+images
+imaging
+imaging assay
+imaging diagnostics
+imaging effect
+imaging guidance
+imaging in
+imaging method
+imaging of blood flow
+imaging procedure
+imaging research
+imaging studies
+imaging technique
+imaging techniques
+immersion
+immersion test
+immobilization
+immobilized
+immobilized metal - affinity chromatography
+immobilizing
+immune - precipitation
+immune - suppressive treatment
+immune cell profiling
+immune checkpoint blockade therapy
+immunehistochemical study
+immunisation
+immunization
+immunization schedule
+immunization schedules
+immunized
+immuno - electron microscopy
+immunoaffinity
+immunoassay
+immunoassays
+immunoblotting
+immunoblotting assays
+immunochemical assays
+immunocytochemistry
+immunofluorescence
+immunofluorescence microscopy
+immunofluorescence staining
+immunofluorescent antibody testing
+immunofluorescent microscopy
+immunofluorescent staining
+immunofluorescent staining experiments
+immunofluorometric assay
+immunoglobulin ( IVIG ) therapy
+immunohistochemical expressions
+immunohistochemical staining
+immunohistochemical staining for Ki67
+immunohistochemically
+immunohistochemistry
+immunohistochemistry analysis
+immunohistochemistry assay
+immunohistochemistry staining
+immunohistological staining
+immunolabelling
+immunolocalisations
+immunomodulate
+immunomodulation
+immunomodulatory
+immunomodulatory activities
+immunomodulatory effects
+immunomodulatory molecule
+immunomodulatory properties
+immunomodulatory regimen
+immunomodulatory therapy
+immunophenotype
+immunophenotypic
+immunoprecipitated
+immunoprecipitation
+immunoprophylaxis
+immunosorbent assay
+immunostaining
+immunostaining intensities
+immunostimulatory
+immunosuppression
+immunosuppression therapies
+immunosuppressive therapies
+immunosuppressive therapy
+immunosuppressive treatment
+immunotherapeutic
+immunotherapeutic strategies
+immunotherapies
+immunotherapy
+immunotherapy 's
+immunotherapy treatment
+impaction bone grafting
+impaction grafting
+impedance audiometry test
+implant
+implant augmentation
+implant design
+implant placement
+implant planning and placement
+implant rehabilitation
+implant removal
+implant surgery
+implantation
+implanted
+implanted BMSCs
+implanted devices
+implanting
+implement
+implementation
+implementation plans
+implementation strategies
+implementing evidence - based interventions
+impression of risk awareness
+improvement
+improvement in serum bicarbonate
+improvement of 4 - h bicarbonate
+in - depth diagnostic
+in - depth sample analysis
+in - home therapy
+in - line NIR studies
+in - office checks
+in - office visits
+in cancer
+in situ hybridisation
+in situ intestinal perfusion
+in situ keratomileusis
+in situ single - pass intestinal perfusion
+in utero magnetic resonance ( iuMR ) imaging
+in vitro
+in vitro assays
+in vitro attempt
+in vitro competition binding assays
+in vitro fertilization
+in vitro human reconstructed skin micronucleus ( RSMN ) assay
+in vivo complementation assays
+in vivo imaging
+in vivo imaging method
+in vivo testing
+inactivation
+incident dark field imaging
+incision
+incisional biopsy
+incisions
+incontinence surgeries
+increase in P - NE
+incubated
+incubating
+incubation
+indefinite chronic oral antimicrobial suppression
+indentation
+independent stabilization
+index admission
+index colonoscopy
+index screening
+index surgery
+indirect haemagglutination test
+indirect immunofluorescence
+indirect immunofluorescence assay
+indirect restorations
+individual lateral flow immunoassays
+individual resiliency training
+individual therapy
+individual therapy component
+indocyanine green fluorescence angiography
+indophenol method
+induced
+induced abortion
+induction
+induction of anesthesia
+induction of labor
+induction process
+inductively coupled plasma - mass spectrometry
+inductively coupled plasma mass spectrometry
+inductively coupled plasma tandem - mass spectrometry
+infection assays
+infection control
+infection control systems
+inferior alveolar nerve blocks
+infiltrations
+inflated
+inflation
+influenza vaccination
+inform
+informal
+informing
+informing patients
+infrared
+infrared spectra
+infrared spectroscopy
+infused
+infusion
+infusion mode
+infusion protocols
+infusions
+inguinal hernia repair
+inguinofemoral lymphadenectomy
+inhalation therapy
+inhibition assays
+initial CT
+initial chemotherapy .
+initial repair
+initiation of continuous drip infusion
+injected
+injected i .
+injected intraperitoneally
+injected intravenously
+injecting
+injection
+injection profile
+injection profiles
+injections
+injections of steroids
+injury prevention
+innocuous cutaneous stimulation
+innocuous stimulation
+innovative approach
+inoculated
+inoculation
+inpatient admissions
+inpatient care
+inpatient treatment
+inserted
+insertion
+insertions
+inserts
+institutional changes
+instrumentation
+instrumented spinal fusion
+insulin
+insulin injection
+insulin level
+insulin levels
+insulin resistance
+insulin secretion - sensitivity index - 2
+insulin tolerance test
+insurance
+insurance 's
+intakes
+integrated management strategies
+integrated microfluidic system
+intensified counseling
+intensified multistage counseling
+intensity - modulated
+intensity - modulated radiation therapy
+intensity - modulated radiotherapy
+intensity modulated radiation therapy
+intensive aphasia therapy
+intensive care
+intensive care unit ( ICU ) patients
+inter -
+intercellular adhesion molecule ( ICAM ) - 1
+interdisciplinary team
+interdisciplinary teams
+interferon - alpha therapy
+interferon - based therapies
+interferon - γ ELISPOT assay
+interferon -free regimen
+interim assessment
+intermaxillary fixation
+intermediate - density lipoprotein cholesterol
+internal fixation
+internal limiting membrane peeling
+internal transcribed spacer ( ITS ) sequencing
+interpretation of results
+interpretations of the smears
+interrogation
+interrogation of cardiac devices
+intersectoral coordination
+intersectoral coordination / collaboration
+interstage home monitoring
+intervention
+intervention 's
+intervention activities
+intervention approaches
+intervention domains
+intervention program
+intervention programmes
+intervention site
+intervention strategies
+intervention studies
+interventional
+interventional procedure
+interventional radiological techniques
+interventional therapy
+interventional treatment
+interventions
+interview recordings
+intestinal resection
+intra - accumbal injections
+intra - arterial chemotherapy
+intra - arterial measurement
+intra - arterial therapy
+intra - articular corticosteroid therapy
+intra - articular injections
+intra - assays
+intra - oral radiographs
+intra - oral radiography
+intraarticular steroid therapy
+intracanal dressing
+intracanal space
+intracranial steno - occlusive process
+intracytoplasmic sperm injection
+intradermal delivery
+intradermal injections
+intrahospital care
+intrahypothalamic apelin - 13 injection
+intramedullary nailing
+intranasal
+intranasal administration
+intranasal challenge
+intranasal treatment
+intraocular lens ( IOL ) explantation
+intraocular lens explantation
+intraocular lens implantation
+intraoperative
+intraoperative imaging
+intraoperative perforation
+intraoperative peritoneal washing cytology
+intraosseous
+intraosseous needle intravenous access
+intraperitoneal administration
+intraperitoneal injection
+intraperitoneal injections
+intrathecal ( spinal ) injection
+intrathecal injection
+intrathoracic suturing
+intratumoral treatment
+intravascular imaging
+intravascular ultrasound
+intravenous ( IV )
+intravenous ( IV ) fluid replacement
+intravenous antibiotic therapy
+intravenous cannulation
+intravenous fluid resuscitation
+intravenous infusion
+intravenous line
+intravenous thrombolysis
+intravenously
+intravital microscopy
+introduction
+intrusion
+intubated
+intubation
+invasion assay
+invasive
+invasive angiography
+invasive blood pressure
+invasive blood pressure measurement
+invasive interventions
+invasive monitoring
+invasive operations
+invasive testing
+inverse size - exclusion chromatography
+inversion recovery ultra - fast steady - state free precession ( IR - ufSSFP ) technique
+inversion recovery ultra - fast steady - state free precession imaging
+investigate
+investigated
+investigates
+investigation
+investigations
+iodine concentration
+iodine supplementation
+ion exchange chromatography
+ion mobility spectrometry - mass spectrometry
+ionic - gelation method
+ionic imaging analysis
+ionizing radiation imaging
+iontophoresis
+iron
+iron levels
+iron replete
+iron staining
+iron status
+iron supplementation
+irradiated
+irradiation
+irreversible labeling
+irrigation
+ischemic conditioning
+ischemic preconditioning
+isobaric tags for relative and absolute quantitation
+isobolographic analysis
+isolate
+isolated
+isolated CABG
+isolated aortic valve surgery
+isolated coronary artery bypass graft ( CABG ) surgery
+isolating
+isolation
+isothermal amplification
+isothermal titration calorimetry
+isotope scanning
+iterative reconstruction method
+iuMR
+iuMR imaging
+jumping mechanography
+junior primary care
+kV CBCT
+kangaroo mother care
+karyotype
+karyotype of 47 , XX , + mar [ 22 ] / 46 , XX [ 18 ]
+keratometry
+keratoplasties
+kidney biopsy
+kidney injury molecule ( KIM - 1 ) levels
+kidney replacement therapy
+kidney transplant
+kidney transplantation
+killed
+killing assays
+killing experiments
+kilovoltage cone beam computed tomography
+kinematic gait analysis
+kinesitherapeutic methods
+kit methods
+knee arthroscopies
+knee prostheses
+knee prosthesis
+knotting
+lab - cultured
+label - free liquid chromatography mass spectrometry
+labeling
+labelling index
+labels
+laboratorial tools
+laboratory
+laboratory - bred
+laboratory - confirmed
+laboratory - reared
+laboratory activity measures
+laboratory bioassays
+laboratory blood tests
+laboratory diagnosis
+laboratory experiments
+laboratory monitoring
+laboratory parameters
+laboratory procedures
+laboratory sera tests
+laboratory strains
+laboratory studies
+laboratory study results
+laboratory support
+laboratory tests
+laboratory work
+lacrimal scintillography
+lactate
+lactate dehydrogenize ( LDH ) levels
+lactic acid levels
+lactulose breath test
+laminate
+laminectomy
+laminoplasty
+laparoscopic
+laparoscopic Roux - en - Y gastric bypass
+laparoscopic approach
+laparoscopic cholecystectomies
+laparoscopic cholecystectomy
+laparoscopic gastric bypass
+laparoscopic hernia repair
+laparoscopic left pancreatectomy
+laparoscopic orchiopexies
+laparoscopic orchiopexy
+laparoscopic pancreatectomy
+laparoscopic partial nephrectomy
+laparoscopic procedures
+laparoscopic radical antegrade modular pancreatosplenectomy
+laparoscopic right hemicolectomy
+laparoscopic sleeve gastrectomy
+laparoscopic splenectomy
+laparoscopic stomach - preserving surgery
+laparoscopic stomach preserving surgery
+laparoscopic surgery
+laparoscopic techniques
+laparoscopic total extraperitoneal
+laparoscopic total extraperitoneal repair
+laparoscopically
+laparoscopy
+laparotomy
+large - scale next - generation sequencing studies
+laryngeal mask airway ( LMA ) insertion
+laryngeal mask airway placement
+laryngectomized
+laryngoscopy
+laser
+laser - assisted cataract surgery
+laser Doppler flowmetry
+laser Doppler velocimetry
+laser ablation
+laser capture micro - dissection
+laser cataract surgeries
+laser cataract surgery
+laser desorption / ionization mass spectrometry
+laser diffraction
+laser lithotripsy
+laser microdissection
+laser photocoagulation
+laser therapy
+laser treatments
+lasers
+last recorded visit
+late enhancement
+late gadolinium enhancement
+lateral alveolar ridge augmentation
+lateral fluoroscopy
+lateral orbit otomy
+lateral pushing radiographs
+lateral radiograph
+lavage
+lavage preparation
+lavaged
+lead
+leakage assay
+left hemihepatectomy
+left ventricle end diastolic diameter
+legality of abortion
+lengthening
+lens decentration
+leptin - replacement ( LR ) therapy
+leucine incorporation assay
+leukocyte counts
+level of 25 ( OH ) D
+level of IMA
+level of VD
+level of interferon ( IFN ) - γ
+level of parathyroid hormone
+level of serum HDL - C
+levels of 25 ( OH ) D
+levels of 25 - hydroxy vitamin D
+levels of 25 - hydroxyvitamin D
+levels of IL - 2
+levels of IL - 4
+levels of IL - 6
+levels of corticosterone
+levels of fall risk
+levels of heart interlukine - 6
+levels of interleukin ( IL ) - 6
+levels of plasma low - density lipoprotein cholesterol
+levels of proteins
+levels of serum total cholesterol
+levels of total cholesterol ( TC )
+life support
+ligated
+ligation
+light
+light - controlled chemotherapy
+light - curing
+light - curing of multiple layers
+light microscopy
+light obscuration
+light sheet microscopy
+limb - salvage surgery
+limb amputation
+limb salvage
+line of treatment
+linear ablation
+linear ablation strategy
+linear ablations
+lingual nerve
+linkage map
+lipid - mixing assay
+lipid - profile
+lipid levels
+lipid parameters
+lipid profile
+lipid profiles
+lipoprotein
+lipoprotein levels
+liquid - liquid extraction
+liquid - liquid partitioning
+liquid cell EM
+liquid cell electron microscopy
+liquid chromatography
+liquid chromatography - mass spectrometry
+liquid chromatography - tandem mass spectrometry
+liquid chromatography - tandem mass spectrometry analysis
+liquid chromatography tandem mass spectrometry
+liquid diet
+liquid incubations
+lithotripsy
+live - dead staining
+live imaging
+liver biopsy
+liver enzymes
+liver resection
+liver resections
+liver surgery
+liver transplant
+liver transplantation
+liver transplantations
+liver transplants
+lobectomy
+local anaesthesia
+local anesthesia
+local brain stimulation
+local cooling
+local resection
+local stimulation
+locking plate fixation
+loco - regional
+log - rank test
+long - cone technique
+long - lag interventions
+long - term follow - up
+long - term lamivudine therapy
+long - term oxygen therapy
+long follow - up
+long term care
+longitudinal ( T1 )
+longitudinal live imaging
+loop - mediated isothermal amplification
+loop - mediated isothermal amplification ( LAMP ) assay
+loop electrosurgical excision procedure
+low - K ( + ) diet
+low - carbohydrate diet
+low - carbohydrate diets
+low - complexity procedure
+low - density lipoprotein
+low - density lipoprotein ( LDL ) cholesterol levels
+low - density lipoprotein - cholesterol levels
+low - density lipoprotein cholesterol
+low - density lipoprotein cholesterol ( LDL - C ) levels
+low - dose computed tomography
+low - fat diet
+low - mAs CT acquisition
+low density lipoprotein
+low doses
+low energy X - ray fluorescence microscopy
+low energy and carbohydrate content
+low fat diet
+low level laser
+low level light therapy
+lower - limb vascular access
+lower blepharoplasty
+lower body negative pressure
+lower limb occlusion
+lower self - evaluation of health
+luciferase activity assay
+luciferase reporter assay
+lumbar discectomy
+lumbar fusion surgery
+lumbar prominent dynamic sitting
+lumbar prominent with back reclined dynamic sitting
+lumbar prominent with back reclined with femur upward dynamic sitting
+lumbar prominent with femur upward dynamic sitting
+lumbar spinal cord stimulation
+lumbar spinal fusion surgery
+lung - transplantation
+lung / body ratio
+lung biopsy
+lung cancer diagnosis
+lung cancer screening program
+lung cancer surgery
+lung function measurements
+lung reaeration
+lung relaxometry
+lung resection surgery
+lung surgery
+lung transplant
+lung transplantation
+lung transplants
+lymph node assessment
+lymph node biopsy
+lymph node dissection
+lymphadenectomy
+lymphocyte counts
+lymphocyte proliferation assay
+lymphocytes
+lymphocytes relative count
+lymphoscintigraphy
+lyophilized
+lysine
+mAb therapies
+mHealth
+mRNA analysis
+macrophage population
+macrophages number
+magnesium supplementation
+magnetic - activated cell sorting
+magnetic bead - based assay
+magnetic resonance ( MR ) imaging
+magnetic resonance ( MR ) scan
+magnetic resonance - guided magnetic resonance spectroscopy
+magnetic resonance angiography
+magnetic resonance cholangio - pancreatography
+magnetic resonance cholangiography
+magnetic resonance image
+magnetic resonance imaging
+magnetic resonance imaging scans
+magnetic resonance observation of cartilage repair tissue
+magnetic resonance scan
+magnetic resonance spectroscopic imaging
+magnetic resonance spectroscopy
+magnetic resonance venography
+magnetic separation
+magneto -
+magnetoencephalographic
+magnetoencephalography
+magnetron sputtering
+magnification
+magnified VIA
+maintaining life on this planet
+maintrac ® method
+make clinical decisions
+male circumcision
+mammography
+manage
+manage patients
+managed
+management
+management measures
+management of a patient
+management of their symptoms
+management of these patients
+management of these risks
+management programs
+management strategies
+management strategy
+managing
+mandibular reconstruction
+mandibulectomies
+maneuvering
+manganese
+manipulated
+manipulation
+manipulation in surgery
+manometry
+manual - based intervention
+manual counting
+manual expression
+manual extraction
+manual injection
+manual muscle test
+manual procedure
+manual reduction
+manual segmentation
+manually
+map
+map - based cloning
+mapped
+mapping
+marginal adaptation
+marker analyses
+marker gene sequencing
+markers
+marrow biopsy
+mask ventilation
+mass screening programmes
+mass spectra
+mass spectral
+mass spectrometric - based platforms
+mass spectrometric analysis
+mass spectrometry
+mass spectrometry ( MS ) analysis
+mass spectrometry analysis
+mass spectrometry technique
+massage
+mastectomy
+maternal and child health services
+maternal health care
+maternal postnatal health check
+maternal thyroids
+maternity care
+maternity facilities
+matrix - assisted laser desorption ionization - time of flight mass spectrometry
+matrix - assisted molecular imaging
+matrix solid - phase dispersion
+maxillectomies
+maxillofacial surgery
+maximal expiratory pressure
+maximal inspiratory pressure
+maximal isometric voluntary contraction
+mean MOCART score
+mean platelet volume
+measure IgG antibody
+measure creatinine
+measured
+measured areal bone mineral density
+measured coronary flow reserve
+measurement of 25 - hydroxyvitamin D
+measurement of Blood glucose
+measurement of autoantibodies
+measurement of drug levels
+measurement of lipid profile
+measuring plasma ammonia
+mechanical
+mechanical enhancements
+mechanical stimulation
+mechanical ventilation
+mechanically ventilated
+mechanism of enlargement
+mechanistic and potential therapeutic
+mechanistic assay
+mechanography
+mechanomyographic
+median follow - up
+medical
+medical assessment
+medical assessments
+medical attention
+medical care
+medical contact
+medical examinations
+medical help
+medical imaging
+medical imaging topography
+medical insurance
+medical interventions
+medical issue
+medical management
+medical practice
+medical procedures
+medical purpose
+medical record review
+medical resource
+medical services
+medical team
+medical teams
+medical therapies
+medical therapy
+medical treatment
+medical treatment and care
+medical treatments
+medication
+medication administration
+medication introduction
+medication management
+medication reconciliation
+medications
+medicolegal investigation
+membrane inlet mass spectrometry
+memory - guided saccade ( MS ) task
+memory test
+meningioma surgery
+meniscal repair
+menopausal hormone therapy
+mental health
+mental health care
+mental health practice
+mental health services
+mercury
+mercury intrusion porosimetry
+metal - on - metal arthroplasty
+metal - on - metal hip resurfacing
+metal artifact reduction sequence - magnetic resonance imaging
+metastatic lung cancer
+metatranscriptomics
+methanogenic cultures
+methionine
+method
+method 1
+method 2
+method of loci
+methodology
+methods
+meticulous evaluations
+miRNA - seq
+miRNA microarray analysis
+miRNA sequencing
+micro - CT
+micro - Computed Tomography ( Micro - CT ) system
+micro - computed tomography
+micro - computed tomography ( CT ) imaging
+micro - interventions
+micro - tensile analysis
+microanalysis
+microarray
+microarray - based methodology
+microarray analysis
+microarray approach
+microarray assay
+microarray assays
+microarray method
+microbial inactivation
+microbiological cultures
+microbiological testing
+microbiological tests
+microcomputed tomography
+microdialysis
+microdilution
+microdissection
+microelectrochemical impedance spectroscopy
+microencapsulation
+microendoscopic procedure
+microendoscopic system
+microendoscopic techniques
+microextraction by packed sorbent
+microextraction in packed sorbent
+microhistologic analysis
+microhistologic observation
+microhistology
+microinjected
+microinjection
+microinjections
+microneurosurgery
+micronized
+micronucleus test
+micropropagation
+microscopic examination
+microscopic observations
+microscopic reading
+microscopic study
+microscopy
+microscopy - based
+microsurgery
+microsurgical reconstruction
+microvascular anastomosed fibula graft
+microvascular decompression
+microwave - assisted method
+mid - term follow - up
+mid - urethral sling procedure
+mid - urethral sling surgery
+midline sternotomy
+migration assay
+milking
+mimic
+minilaparotomies
+minimal inhibitory concentration
+minimal inhibitory concentrations
+minimal invasive route for therapy
+minimal invasive technique
+minimally intrusive multi - modal capture system
+minimally invasive
+minimally invasive RP
+minimally invasive application
+minimally invasive approach
+minimally invasive fashion
+minimally invasive radical prostatectomy
+minimally invasive surgery
+minimally invasive surgical
+minimally invasive surgical treatment
+minimally invasive techniques
+minimally invasive test
+minimally invasive treatmen
+minimum inhibitory concentration
+minor surgery
+mirror therapy
+mitogenome analyses
+mixed meal tests
+mixed venous blood gases
+mixture fractionation
+mixtures
+mobile - bearing total hip arthroplasty
+mobile health
+mobility gel - shift assay
+mobilization
+model
+modern breast screening
+modern screening
+modified Filter Assisted Sample Preparation protocol
+modified Hunsuck technique
+modified NAM therapy
+modified V - E clamp techniques
+modified V - E technique
+modified critical thermal maximum test
+modified diet
+modulate
+molding
+molecular - targeted treatment
+molecular approaches
+molecular assay
+molecular assessment
+molecular autopsy
+molecular biology technique
+molecular breast imaging
+molecular cloning
+molecular detection
+molecular diagnosis
+molecular epidemiological screening
+molecular identification
+molecular imaging
+molecular mechanistic studies
+molecular parasite detection assays
+molecular pathology
+molecular subtyping
+molecular targeted therapies
+molecular testing
+molecular therapy
+molecule imaging
+monitor
+monitor patients
+monitor treatment
+monitored
+monitored post - operatively
+monitoring
+monitoring methods
+monitoring of disease activity
+monitoring recommendations
+monitoring response to therapy
+monitoring treatment
+monitors
+mono -
+mono - or dual - cultures
+monoclonal ELISA
+monoclonal antibody therapies
+monoclonal phage ELISA
+monocultures
+monolayer
+monolayer culture
+monolayer cultures
+monolayer technique
+monoscopic fundus photography
+monotherapies
+monotherapy
+mood management
+morcellation
+morphological identification
+morphometric approach
+morphometric profiling
+morphometrics
+morphometry
+motion analysis
+motion capture techniques
+motivating
+motivation support
+motivational
+motivational interviewing
+motor tasks
+movement
+movement scale
+mpMRI
+mucosal SHIME microbiota
+multi - AMRS
+multi - centered protocol - 841
+multi - component psychosocial intervention
+multi - disciplinary
+multi - disorder panel
+multi - drug therapy
+multi - level CDR
+multi - level lumbar decompression
+multi - modal treatments
+multi - organ resection
+multi - professional team
+multi - slice MRSI
+multi - slice approach
+multi detector computed tomography
+multichannel electroencephalographic
+multicolour flow cytometry
+multicomponent intervention
+multidetector CT
+multidetector computed tomography
+multidimensional well - being
+multidisciplinary
+multidisciplinary approach
+multidisciplinary assessment
+multidisciplinary diagnostic approach
+multidisciplinary evaluation
+multidisciplinary thyroid experts
+multidomain interventions
+multigenerational chronic bioassays
+multilocus VNTR analysis
+multilocus variable number of tandem repeat analysis
+multimodal
+multimodal brain imaging
+multimodal locoregional treatment
+multimodal therapies
+multimodal therapy
+multimodality treatment
+multiparametric MR
+multiparametric MRI
+multiparametric magnetic resonance imaging
+multiple - color immunofluorescence
+multiple - level
+multiple - level CDR
+multiple - level cervical disk replacement
+multiple electrode aggregometry
+multiple sleep latency
+multiple sleep latency testing
+multiplex PCR
+multiplex amplification refractory mutation system
+multiplex bead - based assay
+multiplex bead based assay
+multiplex biomarker techniques
+multisensory
+multiwell assays
+muscle biopsy
+muscle enzymes
+muscle graft
+muscle repair
+muscle transfer
+museum collections
+mutagenesis
+mutant prevention concentration
+mutation detection
+mutational analyses
+mutational analysis
+mycobacterium tuberculosis culture
+mycological methods
+myeloablative chemotherapy
+myocardial perfusion hemodynamic parameter
+myocardial perfusion imaging
+nAIGA titers
+nBehav
+nCRT
+nVNS
+nanostructural engineering
+narrative phase
+nasoalveolar molding
+national health insurance type
+national hospital discharge
+national programme
+national weight - loss program
+natural orifice surgery
+navigated focal laser photocoagulation
+navigated laser photocoagulation
+navigated retinal laser treatments
+near - infrared spectroscopy
+near infrared absorbance
+near infrared light
+near infrared spectroscopy
+neck RT
+neck dissection
+necropsies
+necropsized
+necropsy
+needle knife stricturotomy
+needs assessment
+negative appendectomy
+negative selection
+neo - yoke technique
+neoadjuvant
+neoadjuvant androgen deprivation
+neoadjuvant chemoradiation
+neoadjuvant chemoradiotherapy
+neoadjuvant chemotherapy
+neoadjuvant therapy
+neoadjuvant treatment
+nephrectomies
+nephrectomy
+nephron sparing surgery
+nephropathy
+nephrotoxic drugs
+nerve - sparing RP
+nerve - sparing prostatectomy
+nerve - sparing radical prostatectomy
+nerve block
+nerve conduction studies
+nerve release
+neurectomy
+neuroanatomical studies
+neurofeedback
+neuroimaging
+neuroimaging applications
+neuroimaging data
+neurointerventional procedures
+neurologic
+neuromaging
+neuromuscular behaviour
+neuromuscular performance
+neuronal transection
+neurophysiological assessments
+neuropsychological
+neuropsychological test
+neuropsychological tests
+neurosurgery
+neurosurgical
+neurosurgical operations
+neurosurgical procedures
+neurovascular monitoring
+neurovascular status
+neutral red ( NR ) assay
+neutrophil
+neutrophil - to - lymphocite ratio
+neutrophil numbers
+neutrophils
+newborn screening
+next - generation sequencing
+nitrite levels
+nitrogen adsorption / desorption analysis
+nitrogenous disinfection
+no observed and lowest observed adverse effect levels
+non - Cartesian cylindrically - distributed spiral 3D pseudo - continuous arterial spin labeling ( pCASL ) magnetic resonance imaging ( MRI )
+non - HDL - C
+non - donor IVF
+non - high - density lipoprotein cholesterol
+non - home discharge
+non - intubated
+non - invasive blood pressure monitoring
+non - invasive brain stimulation
+non - invasive ventilation
+non - lung cancer
+non - operative
+non - operative management
+non - operative treatment
+non - operatively
+non - surgical techniques
+non - targeted mass spectrometry
+non - verbal and verbal tasks
+nonenhanced high - resolution fast spin echo ( HR - FSE ) MRI
+nonfasting lipid profile
+noninvasive mechanical ventilation
+noninvasive recognition
+noninvasively
+nonmelanoma histology
+nonobstetric
+nonrenal SOT
+nonrenal solid organ transplantation
+nonsurgical retreatment
+normal culture conditions
+normal vaginal delivery
+normalization
+normalizing
+notification
+novel treatment modality
+nuclear magnetic resonance
+nuclear magnetic resonance spectroscopy
+nucleic acid amplification test
+nucleic acid amplification testing
+nucleic acid based tests
+nucleic acid detection
+number of
+numerical investigation
+nurse - led care
+nursing
+nursing actions
+nursing care
+nursing documentation
+nursing practice
+nursing practices
+nursing service
+nursing support
+nutrient intake
+nutrition guidance
+nutritional interventions
+nutritional support
+o ' clock method
+oGTT
+obesity surgeries
+observation
+observation distances
+observational
+observations
+observatory
+obstetric
+occlusal adjustments
+occupational therapy
+oderately high - fat diet (
+oesophageal temperature
+off - label therapies
+off - site medical services
+office - based vision therapy
+oil red O
+older adult home health patients
+omental wrap
+omics strategies
+on - demand
+on - line - SPE
+on - line SPE
+on - line solid phase extraction
+on - site fertility consultation service
+on - site medical services
+on - site medical teams
+oncologic gynaecological surgery
+oncology
+oncology programs
+one - on - one
+one - stage implant
+one - stage repairs
+one - stage techniques
+oocyte donation
+open
+open - field drop test
+open - field test
+open - heart surgery
+open - well format assay
+open cardiac surgery
+open field test
+open heart surgery
+open inguinal hernia repair
+open laparotomy
+open reduction
+open reduction and internal fixation
+open surgery
+open surgical
+operated
+operating
+operation
+operations
+operative
+operative dental procedures
+operative management
+operative procedure
+operative procedures
+operative treatment
+operatively
+ophthalmic routine examination
+ophthalmodynamometry
+ophthalmologic examination
+ophthalmological
+ophthalmological examination
+opportunistic mammography screening
+optical
+optical coherence tomography
+optical coherence tomography angiography
+optical density measurements
+optical manipulation
+optical microscope
+optical microscopy
+optical particle tracking microscopy
+optical scattering measurements
+optimal Synchronous Fluorescence Spectra
+optimal inhalation technique
+optimal surgical management
+optimal treatment
+optimally titrating PEEP
+optimize
+optimizes glycemia
+optimizing
+options
+oral
+oral administration
+oral administrations
+oral anticoagulation
+oral chemotherapy
+oral drug delivery
+oral food challenge tests
+oral glucose tolerance test
+oral health
+oral health maintenance
+oral hygiene instructions
+oral medication
+oral surgery procedures
+oral therapy
+oral treatment
+orally - administered
+orally administered
+orally treated
+orchidopexy
+orchiectomy
+organ cultures
+organ preservation
+organ procurement
+organ retrieval
+organ transplantation
+organotypic hippocampal slice culture
+organotypic slice culture
+orthodontic assisted extraction
+orthodontic debonding
+orthodontic space closure
+orthodontic treatment
+orthogonal liquid chromatography - mass spectrometry assay
+orthopaedic
+orthopaedic procedure
+orthopaedic procedures
+orthopantomograms
+orthopedic applications
+orthotopic liver transplant
+orthotopic liver transplantation
+orthotopic tracheal transplantation
+osteosynthesis
+osteosynthesis screws
+osteotome sinus grafting procedure
+osteotome technique
+osteotomy
+outcomes
+outflow facility
+outpatient care
+outpatient follow - up
+outpatient management
+outpatient procedure
+outpatient services
+output
+output was estimated
+ovariectomy
+over - treated
+over - treatment
+overall assessment
+overlapping ; a telescoped self - expandable stent
+overtreatment
+ovum donation
+oxidative stress factors
+oxygen inhalation
+oxygen radical absorbance capacity
+oxygenation index
+p .
+pH cycling
+pH gradient method
+pO2
+pacemaker implantation
+pacing
+paclitaxel / carboplatin
+paclitaxel plus carboplatin
+pad test
+padding
+paediatric autopsies
+paediatric emergency
+pain - modulatory
+pain control
+pain control systems
+pain management
+pain relief
+pain visual analog scale
+paired - agent ' methods
+palatoplasty
+palliated
+palliative course of radiation therapy
+palliative nursing
+palliative nursing care
+palliative radiation
+palliative radiation fractionation regimens
+palpation
+pancreas surgery
+pancreas transplantation
+pancreatectomy
+pancreatic islet transplantation
+pancreaticoduodenectomy
+pancreatoduodenectomy
+panel
+panel - reactive antibodies
+panels
+panoramic radiograph
+panoramic radiographs
+panretinal photocoagulation
+paper
+paper screening
+parallel imaging
+paralogue ratio test
+parametric image
+parametric images
+parathyroid hormone
+parathyroid hormone levels
+parathyroidectomy
+parental guidance
+parenteral nutrition
+partial
+partial gastrectomy
+partial hepatectomy
+partial liver resection
+partial mastectomy
+partial nephrectomy
+participate
+participated
+participatory intervention process
+partly restored
+partnership
+passaged
+passages
+pastoral conditions
+patch test
+patch tested
+patch testing
+patent foramen ovale closure
+paternity analyses
+pathologic examination
+pathological examination
+pathology
+pathway enrichment analysis
+patient 's management
+patient 's safety
+patient - centered care
+patient - centered supportive care
+patient - centred care
+patient - centredness
+patient - controlled
+patient - controlled analgesia
+patient - initiated follow - up
+patient - reported outcome measures
+patient activation
+patient advocacy
+patient care
+patient care activities
+patient comfort
+patient discharge
+patient disposition
+patient engagement
+patient identification
+patient immobilization devices
+patient management
+patient outcomes
+patient participation
+patient risk awareness
+patient safety
+patient shifts
+patient visits
+patient was discharged
+patients discharged
+patients monitored
+patients transferred
+patterns analysis
+peak - to - peak ( PP ) amplitude
+pedal amputation
+pedal amputations
+pediatric care
+pediatric gastrointestinal radiology
+pediatric surgery
+pediatric visits
+peeling
+pegword method
+pelvic MRI
+pelvic lymph node dissection
+pelvic lymphadenectomy
+pelvic movements
+penectomy
+peptide - mediated delivery
+percentage
+percentage of CD4 +
+percutaneous bullectomy
+percutaneous coronary intervention
+percutaneous drainages
+percutaneous endoscopic gastrostomy
+percutaneous forefoot surgery
+percutaneous nephrolithotomy
+percutaneous transhepatic biliary drainage
+percutaneous transhepatic cholangio - drainage
+percutaneous transluminal angioplasty balloon
+performance
+performed
+performing
+perfused
+perfusion
+perfusion - weighted imaging
+perfusion assessment
+perfusion imaging
+perfusion method
+peri - implantation
+peri - operative logistics
+peri - urethral bulking injections
+pericardiocentesis
+periodic acid - Schiff
+periodic acid - Schiff staining
+periodontal therapy
+periodontal tissue regeneration
+periodontal tissue repair and regeneration
+periodontal treatment
+peripheral lymphocytes
+peripheral nerve block
+peripheral nerve repair
+peripheral white blood cells
+periprocedural anticoagulation
+peritoneal dialysis
+peritoneal lavage
+personalised medicine
+personalized hearing rehabilitation
+personalized medicine
+phaco surgery
+phacoemulsification
+phacoemulsification surgery
+phacoemulsification technique
+phacovitrectomy
+pharmaceutical
+pharmaceuticals
+pharmaco - therapeutic
+pharmacological data
+pharmacological prophylaxis
+pharmacological therapy
+pharmacological treatment
+pharmacological treatments
+pharmacotherapy
+phase - contrast magnetic resonance imaging
+phase imaging
+phased CCRT protocol
+phased CCRT strategy
+phenotype
+phenotypic assays
+phenotypic methods
+phenotypic screens
+phenotypically
+phosphorus
+photo - plethysmography
+photoacoustic
+photoacoustic ( PA ) imaging
+photobiomodulation
+photodynamic therapeutic
+photodynamic therapy
+photodynamic treatment
+photometric recordings
+photon beam therapy
+photoplethysmography
+photothermal therapeutic
+photothermal therapy
+photothermal treatment
+phrenic nerve stimulation
+phrenic stimulation
+phylogenetically informed morphometric analyses
+physical examination
+physical examinations
+physical performance tests
+physical replacement therapy
+physical therapy
+physically examined
+physician
+physician services
+physiological parameters
+physiotherapy
+phytotoxicity assay
+pierce
+piercing
+pinch strength
+pinch strength measurements
+pinwheel assay
+pinwheel assays
+pituitary MRI
+place
+placebo
+placebo therapy
+placebos
+placed
+placement
+placement technique
+placental delivery
+placing
+plain film X - ray
+plain radiograph
+plain radiographs
+planned visits
+planning
+planning CT
+planning and placement
+plasma HBV DNA concentration
+plasma Hcy levels
+plasma ammonia measured
+plasma ammonia results
+plasma exchange
+plasma folate levels
+plasma glucose
+plasma insulin concentration
+plasma levels
+plasma levels of Hcy
+plasma lipids
+plasma norepinephrine ( P - NE ) were measured
+plasma sodium
+plastic surgery
+plate count of colony forming units
+plate removal
+platelet apheresis
+platelet count
+platelet counts
+platelet function testing
+platform testing
+podiatric surgery
+point - of - care
+point - of - care testing
+polarizations
+polishing
+polychemotherapies
+polyclonal
+polymorphism - based methods
+polypectomy
+polysomnograms
+polysomnographic indexes
+polysomnography
+polysomnographyc indexes
+polytherapy
+population analysis profiling
+porcine skin
+positive challenges
+positive pixel count ( PPC ) algorithm IA
+positive pressure ventilation
+positive selection
+positron emission computed tomography ( PET ) molecular imaging
+positron emission tomography
+positron emission tomography - computed tomography
+positron emission tomography / computed tomography
+positron emission tomography scan
+post - FEAST
+post - SIRT
+post - cardiac intervention
+post - counseling follow - up
+post - exposure prophylaxis
+post - implantation
+post - intraperitoneal
+post - mortem
+post - mortem CT
+post - mortem computed tomography angiography
+post - mortem studies
+post - operative care
+post - otoplasty
+post - radiotherapy
+post - termination examination
+post - transurethral resection
+post hoc Tukey
+post hoc evaluation
+post operation
+postauricular skin flap
+postclosing
+postconditioning
+postdilatation
+postdischarge
+posterior - inferior line
+posterior chamber IOL implantation
+posterior lumbar interbody fusion
+postinjury arthrocentesis
+postintervention
+postmortem
+postnatal care
+postnatal day 4
+postoperative
+postoperative analgesia
+postoperative care
+postoperative clinical evaluation
+postoperative course
+postoperative follow - up
+postoperative follow - ups
+postoperative orders
+postoperative radiotherapy
+postoperative setting
+postoperative work - up
+postprandial blood sugar
+posttransurethral resection
+posttreatment
+posttreatment assessment
+potential treatments
+potentiodynamic polarization test
+powder X - ray diffraction
+powder diet
+practice
+practice management program
+practices
+practises
+pre - administration
+pre - and postcancer treatment
+pre - contrast normal - dose CT scan
+pre - exposure prophylaxis
+pre - hospital systems of care
+pre - hospitalization
+pre - incubations
+pre - natal visits
+pre - scheduled examination
+pre - surgical
+pre - treatment
+preanalytics
+precision medicine
+preclosing
+prediction of outcome
+predilate
+predilation
+predominant treatment
+preemptive analgesic
+pregnancy prevention
+prehospital
+prehospital care
+preimplantation
+preincubation
+preintervention
+premedication
+premolars extraction
+prenatal
+prenatal care
+prenatal diagnosis
+prenatal enzymatic diagnoses
+preoperative
+preoperative counseling
+preoperative preparation
+preoperative radiotherapy
+preparation
+preparation of the canals
+prescribe
+prescribing
+prescription
+prescription contraception
+prescriptions
+preservation
+preservation of fertility
+preservation of tissue - engineered products
+preserved
+press - fit
+pressure - treated
+pressure support ventilation
+pressure therapy
+pressurized liquid extraction
+presurgical
+prevent
+prevent the spread of infection
+preventable injury
+prevented
+preventing
+prevention
+prevention of malignancies
+preventive
+preventive health services
+preventive practice
+preventive treatment for dental caries
+primary
+primary anterior cruciate ligament repair
+primary care
+primary care level
+primary care practices
+primary care services
+primary care setting
+primary cell culture
+primary closure
+primary cultured
+primary cultures
+primary donor - site closure
+primary health care
+primary mental health care
+primary prevention
+primary pulmonary lobectomy
+primary retinal cultures
+primary surgery
+primary therapy
+primary total knee
+prior counseling
+private health insurance
+private insurance
+probe
+probe tack tests
+probed
+probing
+probing approach
+procedure
+procedures
+procedures per patient
+process of providing care
+processing
+proctectomy
+proctoring
+procured
+procurement of organs
+productivity assays
+professional care
+profile
+profiles
+profiling
+prognosis
+prognostic
+prognostic information
+prognostication
+program
+programmatic interventions
+programme
+programmes
+programs
+progressive - ratio choice procedure
+prolactin levels
+prolonged therapy
+promising treatment
+promotion
+promotional campaign
+propagation
+propagation of the bacteria
+proper treatment
+prophylactic
+prophylactic 5 - HT3 antagonist therapy
+prophylactic and therapeutic activity
+prophylactic antibiotic regime
+prophylactic enrichment
+prophylactic gastropexy
+prophylactic regimen
+prophylactic therapy
+prophylactics
+prophylaxes
+prophylaxis
+prophylaxis administration
+prophylaxis therapy
+prospective
+prostate - specific antigen levels
+prostate biopsies
+prostate biopsy
+prostate cryotherapy
+prostate multiparametric magnetic resonance imaging
+prostate rebiopsies
+prostate rebiopsy
+prostate treatment
+prostatectomy
+prostheses
+prosthesis training
+prosthetic
+prosthetic loading
+prosthetic treatment
+protect
+protecting people
+protection
+protective intervention
+protein
+protein - extraction methods
+protein - fragment complementation assay
+protein content
+protein engineering approach
+protein expression
+protein extraction
+protein levels
+protein precipitation
+proteomic
+proteomic analyses
+proteomic analysis
+proteomic evaluation
+proteomic methods
+proteomic profiling
+proteomic study
+proteomic techniques
+proteomics
+proteomics study
+prothrombin time
+protocol
+protocol treatment
+protocols
+proton - detected heteronuclear chemical shift correlation spectra
+proton beam therapy
+proton irradiation
+proton therapy
+providing care
+provision
+provision of care
+proximal gastrectomy
+proximal soil sensing
+proximal ulna osteotomy
+pseudo - CT
+pseudo - MRI
+psychiatric admission
+psychiatric assessment
+psychiatric evaluations
+psychiatric interview
+psychiatric programme
+psychiatric rehabilitation
+psychiatric services
+psychiatry
+psychobehavioral intervention
+psychobehavioral interventions
+psychological interventions
+psychological support
+psychological techniques
+psychometric
+psychometric properties
+psychometrically
+psychosocial
+psychosocial care
+psychosocial counseling
+psychosocial interventions
+psychotherapeutic
+psychotherapeutic interventions
+psychotherapy
+psychotherapy process
+psychotherapy termination
+public health
+public health concern
+public health infrastructure
+public health intervention
+public health investigation
+public health perspective
+public health practice
+public health protection
+public health role
+pulmonary arterial systolic pressure
+pulmonary bilobectomy
+pulmonary endarterectomy
+pulmonary function test
+pulmonary function testing
+pulmonary function tests
+pulmonary pressures
+pulmonary rehabilitation
+pulse
+pulse information
+pulse oximetry
+pulsed - field gel electrophoresis
+pulsed double electron - electron resonance
+pulsed field gel electrophoresis
+punch biopsy
+puncture
+pupil constriction
+pupil dilatation
+pupillometry
+pure culture
+pure cultures
+pure water flux measurements
+purification
+pushing the fetal head up
+pushing the impacted fetal head up
+pylori eradication
+pyrosequencing
+qPCR
+qPCR estimation
+qRT - PCR analysis
+quadrantectomy
+qualitative analysis
+qualitatively analyzed
+quality - of - care
+quality - of - life assessments
+quality care
+quality of care
+quantitative IA
+quantitative PCR
+quantitative PCR - based measurement
+quantitative PCR analysis
+quantitative PCR method
+quantitative analyses
+quantitative analysis
+quantitative dynamic contrast - enhanced ( DCE ) magnetic resonance imaging ( MRI )
+quantitative fluorescent PCR
+quantitative fluorescent polymerase chain reaction
+quantitative mass spectrometry
+quantitative polymerase chain reaction
+quantitative proteomics analysis
+quantitative sensory testing
+quantitative susceptibility mapping
+quantum - chemical ECD calculations
+quenched fluorescence
+quenching experiments
+quick clinical assessment screening
+rTMS
+radial magnetic resonance imaging
+radiation
+radiation delivery
+radiation exposure
+radiation protection
+radiation protection system
+radiation therapy
+radical cystectomy
+radical cystetomy
+radical local therapy
+radical lymph node dissection
+radical mastectomy
+radical nephrectomy
+radical nephrouretectomy
+radical prostatectomies
+radical prostatectomy
+radical radiotherapy
+radical resection
+radical surgery
+radical treatment
+radio
+radiochemotherapy
+radioembolization
+radiofrequency
+radiofrequency ablation
+radiofrequency catheter ablation
+radiofrequency rhizotomy
+radiograph
+radiographed
+radiographic
+radiographic analysis
+radiographic imaging
+radiographic phenotypes
+radiographs
+radiography
+radioimmunoassay
+radiologic
+radiological
+radiological evaluation
+radiologically
+radionuclide therapy
+radiosensitization
+radiosensitizing
+radiosurgery
+radiotherapy
+radiotherapy alone
+radiotherapy studies
+radiotherapy techniques
+radiotherapy to the upper abdomen
+radiotherapy treatment
+raise awareness
+random blood glucose
+range of dissection
+rapid diagnostic tests
+rapid kVp - switching dual - energy CT
+rapid kVp - switching dual - energy CT technique
+raster - scan projection
+ratio of D - dimer to fibrinogen
+ratio of FDP to fibrinogen
+ratiometric detection
+ratiometric imaging
+ratiometric upconversion detection
+ratiometrically detect
+re - biopsy
+re - displacement
+re - evaluate
+re - hospitalization
+re - hospitalizations
+re - intervention
+re - interventions
+re - introduction
+re - intubated
+re - operation
+re - stenting
+readmission
+readmissions
+readmissions in hospitals
+readmitted
+reaeration
+real - time activation profile
+real - time detection
+real - time eHealth alert delivered
+real - time imaging
+real - time monitoring
+real time confocal microscopy
+reaming technique
+reamputation
+reassessment
+rebiopsies
+rebiopsy
+recalled
+recanalization
+received
+recent follow - up
+recently reported
+receptor methylation assay
+rechallenge
+reciprocal crosses
+recombinant immunoblot assay
+recommendation to seek medical care
+recommended
+recommended treatment
+reconnected
+reconstitution assays
+reconstructed
+reconstructed human skin model
+reconstruction
+reconstruction of the mandible
+reconstruction technique
+reconstructions
+reconstructive
+reconstructive surgery
+recorded
+recordings
+recovery
+rectal examination
+red
+red blood cell ( RBC ) transfusion
+red blood cell distribution width
+reduce
+reduce CO2 production
+reduces
+reducing blood product usage
+reduction
+reduction procedure
+reductions
+reference method
+referral
+referral chain
+referral for
+referral of a patient
+referral of patients
+referral to
+referrals
+referrals to
+reflectance
+reflectance - based
+reflective photo - plethysmography signals
+regeneration
+regimen
+regimens
+regimes
+regional
+regional anaesthesia
+regionally evaluated
+registered
+registration
+regular exercise treatments
+rehabiliation
+rehabilitation
+rehabilitation exercise
+rehabilitation exercises
+rehabilitation procedures
+rehabilitation program
+rehabilitation programs
+rehospitalization
+rehydration
+reimbursement rate
+reimplantation
+reinforcement
+reinsertion
+reintervention
+reintroduction
+rejuvenation
+relapse - free
+related deafferentation
+related diets
+relatives caring
+relaxometry
+release
+release of the suprascapular nerve
+relief
+relief of pain
+relieve pain
+relieved his pain
+relieving
+relieving pain
+relined
+relining
+remediable
+remedial operations
+remedial surgery
+remediation
+remineralization
+reminiscence interventions
+reminiscence program
+reminiscence therapy
+remodeling
+remote ischaemic postconditioning
+remote ischaemic preconditioning
+removal
+removal of
+removal of the prosthesis
+removal of the volar locking plate
+removal surgery
+removals
+removing
+renal CT angiography
+renal function tests
+renal replacement therapy
+renal transplant
+renal transplantation
+reoperation
+reoperation for bleeding
+reoperations
+reoperations for bleeding
+reoperative surgery
+reoxygenation
+repair
+repair of a right encephalocele defect
+repair of severe hypospadias
+repair the heart
+repaired
+repeat procedures
+repeat surgeries
+repeatable
+repeated operations
+repeated surgery
+reperfusion
+reperfusion therapy
+repetitive transcranial magnetic stimulation
+replacement
+replacement therapy
+replanted
+report
+reported
+reportedly
+reporter assays
+reporting
+reports
+repositioning
+reproduction technologies
+reproductive health care
+reproductive services
+rescue medication
+rescue therapy
+resectability
+resectable
+resected
+resection
+resection surgery
+resectional
+resections
+resective
+resective brain surgery
+residual platelet aggregation rate
+resistance - trained
+resistance - training
+resistance training
+resort treatment
+respecting patients ' and families ' preferences
+respiratory - gated radiotherapy
+response
+response monitoring
+restained
+resting - state functional - MRI
+resting state functional connectivity using rs - fMRI data
+resting state functional magnetic resonance imaging
+restoration
+restorations
+restorative
+restore
+restored
+restoring
+restriction fragment length polymorphism
+restriction fragment length polymorphism method
+resuscitation
+resuscitative
+retention
+retinal photography
+retinal surgery operation
+retinal telephotocoagulation
+retransfusion
+retreatment
+retrieval
+retrospective audit
+retrospectively evaluated
+return visit
+revascularization
+reverse breech extraction
+reversed - phase high - performance liquid chromatography
+reversed phase - high performance liquid chromatography
+reversed phase high performance liquid chromatographic
+review
+revised
+revision
+revision RTCR
+revision arthroscopic repair
+revision hip arthroplasty
+revision repair
+revision rotator cuff repair
+revision surgery
+revision total hip arthroplasties
+revisions
+rewarming
+rhinomanometry
+rhinoplasty
+rhinoseptoplasty
+rib resections
+right heart catheterization
+right hemicolectomy
+rigid endoscopic
+rigid endoscopy
+rigid fixation
+rigid proctoscopy
+risk
+risk adjustment
+risk assessment
+risk assessment tool
+risk assessments
+risk management
+risks
+robot - assisted partial nephrectomy
+robot - assisted radical prostatectomy
+robot - assisted rehabilitation
+robot - assisted surgeries
+robot - assisted upper limb rehabilitation
+robotic - assisted laparoscopic radical prostatectomy
+robotic - assisted surgery
+robotic colonoscopic procedure
+robotic initialization
+robotic prostatectomy
+robotic resection
+robotic technology
+robust screening metric
+rocker culture
+roll compaction
+roof ablation
+roof line
+root - sparing aortic replacement
+root - sparing ascending aortic replacement
+root canal fillings
+root canal obturation
+root canal preparation
+root canal therapy
+root canal treatment
+root filled
+root planning
+rorS
+rotarod
+rotating Brinkman board tasks
+rotational thromboelastometry
+rotor mapping
+routine administration
+routine care
+routine clinical practice
+routine dental care
+routine diagnostics
+routine procedure
+sCD40L
+sE - selectin
+sP - selectin
+sST2
+sacrificing
+safe abortion care
+safe and efficient transfusion practices
+safe and feasible method
+safety
+safety - net
+safety concerns
+safety for patients
+safety management system
+safety mechanisms
+safety profile
+saline injection
+salt - stressed cultures
+salvage
+salvage radiotherapy
+salvage therapy
+salvage treatment
+sample preparation steps
+sample staining
+sampled
+samples collected
+sampling
+sandwich ELISA
+scaffold hopping strategy
+scaling
+scalp EEG
+scan
+scanned
+scanning
+scanning electron microscopy
+scans
+schedule
+schedule of treatment
+schedules
+scheduling
+scientific autopsies
+scientific conferences and meetings
+scientific lens
+scientific studies
+scientific work
+scintigraphy
+sclerotherapy
+scoliosis correction
+scoring incision
+scoring incisions
+scoring technique
+scraping of the teat surface
+scratch assays
+screen
+screened
+screener
+screening
+screening assay
+screening cohort
+screening colonoscopy
+screening mammogram
+screening methods
+screening metric
+screening of blood
+screening of chemical libraries
+screening platform
+screening program
+screening programs
+screening strategy
+screening test
+screening tests
+screening tool
+screenings
+sealing
+search
+second - generation cryoballoon technology
+second - generation dual - source CT
+second - line
+second - line chemotherapy
+second - line therapy
+second - line treatment
+second line
+second line treatment
+secondary
+secondary ( comorbid ) neuropsychiatric diagnoses
+secondary care
+secondary nasal
+secondary prevention
+secondary procedure
+secondary stroke prevention
+section
+section - based evaluation
+sectioned
+sedated
+sedation
+seeded
+seeding
+segment
+segmental resection
+segmentation
+segmentation method
+segmentectomy
+segmentectomy procedures
+segmenting
+selected area diffraction pattern
+selected single care reports
+selective electrode
+selective embolization
+selective internal radiotherapy
+selective ratiometric detection
+self - administer
+self - administration
+self - care therapies
+self - care treatment
+self - enrolled
+self - management
+self - management education
+self - referral
+self - referral to inpatient treatment
+self - sampling
+self - seeking circumcision
+semen analysis
+semen quality
+semi - essential amino acids
+semi - preparative reversed phase HPLC analysis
+semi - quantitative polymerase chain reaction
+semi - supervised source extraction
+sensing
+sensing method
+sensing method for glucose
+sensing of glucose
+sensing strategy
+sensitivity
+sensory stimulation
+sensory stimulations
+sentinel basin dissection
+sentinel lymph node ( SLN ) biopsy
+sentinel node biopsy
+sentinel node mapping
+sentinel node navigation surgery
+separate
+separation
+septal correction surgery
+septoconchoplasty
+septoethmoidectomy
+septoplasty
+sequence
+sequence analyses
+sequence analysis
+sequence determination
+sequenced
+sequenced the genomes
+sequences
+sequencing
+sequencing - based analyses
+sequential
+sequential fed - batch
+serial block - face scanning electron microscopy
+serial sectioning
+sero - surveys
+serologic tests
+serological diagnosis
+serological investigations
+serological method
+serological tests
+serology
+serology tests
+serotyping
+serum
+serum AST
+serum C - reactive protein levels
+serum HDL level
+serum IgG levels
+serum TSH
+serum biochemistry
+serum cortisol
+serum creatinine
+serum ferritin levels
+serum hemoglobin
+serum iron levels
+serum lactate level
+serum levels of VD
+serum levels of vitamin D
+serum lipid
+serum lipid levels
+serum lipid parameters
+serum lipids
+serum lipoprotein levels
+serum liver tests
+serum magnesium was measured
+serum mass profile
+serum potassium
+serum testosterone
+serum urate level
+serum uric acid levels
+serum vitamin B12
+serum vitamin D levels
+service
+service delivery
+service quality
+services
+session
+sessions
+sex analysis
+sexual and reproductive health care
+sexual consultation
+sexual counseling
+shake - flask experiments
+shake flask cultivation
+sham
+sham - operated
+sham - treated
+sham operation
+sham treatment
+shams
+shaping
+shear wave elastography
+shearing
+shelling
+shock
+shock wave lithotripsy
+short - term prognosis
+short arm
+short synACTHen test
+shortening
+shrinkage
+shunt operations
+sidestream dark - field imaging
+significant challenges
+significant reduction
+silk and splitknot techniques
+silver - assisted mass spectrometry imaging
+silver stain
+single
+single - beat reconstruction cardiac CT
+single - cancer analysis
+single - crystal X - ray diffraction
+single - crystal X - ray diffraction crystallography
+single - insect feeding medium tests
+single - level
+single - level CDR
+single - nucleotide polymorphism genotyping assays
+single - payer system
+single - photon emission computed tomography
+single - photon emission computed tomography imaging
+single - shot Hilbert - Huang phase microscopy
+single - slice Magnetic Resonance Spectroscopic Imaging
+single - source rapid kilovoltage - switching spectral CT
+single - stage laparoscopic orchiopexy
+single - stage operation
+single - variant analysis
+single blinded assessment
+single cell diagnostics
+single cell screening
+single cell techniques
+single incision laparoscopic cholecystectomy
+single module intervention
+single molecule force spectroscopy
+single nucleotide polymorphism ( SNP ) array analysis
+single nucleotide polymorphism ( SNP ) assay
+single photon emission computed tomography
+sinograms
+sintering
+sinus lifting
+sinus surgery
+sitting strategies
+size exclusion high - performance liquid chromatography
+sizing
+skin biopsies
+skin biopsy
+skin cancer therapy
+skin care
+skin cleansing
+skin grafting
+skin incision
+skin prick tests
+skin suturing
+skinfold measurements
+skinfold thickness
+skull drilling
+sleeve gastrectomy
+slice - culture
+slice cultures
+small - incision
+small bowel procedures
+small bowel resection
+smear
+smear method
+smear microscopy
+smears
+smoking cessation treatment
+smoking cessation treatments
+soaked
+soaks
+social
+social determinants of health
+social health insurance
+social modelling
+social support
+sodium acetate infusions
+sodium dodecyl sulfate - polyacrylamide gel electrophoresis
+soft diet
+software interscan
+sol - gel method
+solid - phase chemiluminescent immunometric assay
+solid - phase immunoassays
+solid organ transplant
+solid organ transplantation
+soluble suppression
+solvent immersion method
+somatic gene therapy
+sonoelastography
+sonography
+sonourethrography
+sophisticated investigations
+sound analysis
+sound measures
+sound stimulation
+soxhlet
+sparing
+special care nursery
+special procedures
+special stains
+specialist consultations
+specialized care
+specialized type of care
+specific treatments
+speckle - tracking strain analysis
+spectral ECL immunoassay
+spectral demultiplexing methods
+spectral domain optical coherence tomography
+spectrofluorometry
+spectrometric fingerprinting
+spectrometric multi - component fingerprinting
+spectrometry
+spectrophotometric
+spectrophotometric method
+spectrophotometric methods
+spectroradiometry
+spectroscopic
+spectroscopic analyses
+spectroscopic analysis
+spectroscopic approaches
+spectroscopic evidence
+spectroscopic methods
+spectroscopy
+spectrum
+specular microscopy
+speech - language therapy
+speech audiometry
+speech production per se
+speech test
+sphincterotomy
+spinal
+spinal anaesthesia
+spinal anesthesia
+spinal fusion
+spinal fusion surgery
+spinal surgery
+spine imaging
+spine surgery
+spiritual
+spiritual care
+spiritual support
+spirometric assessment
+spirometry
+splenectomies
+splenectomy
+splenorrhaphies
+splenorrhaphy
+split - course CCRT
+spontaneous breathing trial
+spray - drying
+spray drying
+sprint
+sprint interval training
+sprint training
+square - wave adsorptive anodic stripping voltammetry
+stabilisation
+stability
+stabilization
+stabilized
+staged closure of the abdomen
+staged implant placement
+staged removal of tooth
+staged repair
+staging
+stained
+stained with Masson 's trichrome
+stained with hematoxylin - eosin
+stained with methylene blue
+staining
+staining method
+staining process
+staining protocol
+stainings
+staircase
+standard - of - care
+standard - of - care treatment
+standard anesthesia protocol
+standard approach
+standard arm
+standard care
+standard diagnostic test
+standard electrocardiogram
+standard gastrectomy
+standard microtiter broth dilution method
+standard mouse footpad inoculation method
+standard of care
+standard procedure
+standard protocol
+standard surgery
+standard treatment options
+standardised formation
+standardized
+standardized approach
+standardized batch incubations
+standardized formation technique
+staple fixation
+started on oral steroids
+starter culture
+starter cultures
+static cold storage
+static inflation
+stationary
+stationary and exponential cultures
+statistical iterative reconstruction
+stem cell - based assays
+stem cell harvest
+stem cell transplant
+stem cell transplantation
+stem cells transplantation
+stemmed total hip arthroplasty
+stent - graft deployment
+stent insertion
+stent placement
+stenting
+step up task
+stepwise introduction
+stereo - tactic radiation therapy
+stereoelectroencephalography
+stereology
+stereomicroscopic examination
+stereoscopic fundus photography
+stereotactic body radiation therapy
+stereotactic brain biopsy
+stereotactic irradiation
+stereotactic radiosurgery
+sterile fluids or on culture isolates
+sterilization
+sterilized
+sternotomy
+steroid
+steroid therapy
+steroid treatment
+stimulate
+stimulated
+stimulation
+stimulation .
+stimuli - responsive gene therapy
+stool culture
+strain
+strategies
+strategy
+strengthening exercises
+stress assessment
+stress testing
+stress tests
+stress treatment
+stretching
+stretching exercises
+stricture - related surgery
+stripping
+stroke prevention
+stroking
+strontium concentration
+strontium concentrations
+strontium levels
+structural
+structural MR imaging
+structural MRI
+structural analysis
+structural modification
+structure - based screening
+structure tensor total variation regularization
+structured exercise
+studied
+studies
+study
+studying
+sub - Tenon 's anesthesia
+sub - Tenon 's local anesthesia
+sub - proteome profiling
+subclinical cardiac measures
+subcloned
+subcutaneous immunotherapy
+subsidies
+substance use intervention
+successive administration
+sucrose density gradient centrifugation
+sucrose preference test
+sufficient imaging speed
+suicide prevention
+suicide risk assessments
+suitable method
+super resolution microscopy
+supercritical drying technique
+superimposed perfusion
+superior diagnostic power
+supernatant soluble chemical oxygen demand
+superselective digital subtraction angiography
+supervision
+supplementary feeding
+supplementation
+support
+supportive
+supportive care
+supportive therapy
+supportive treatment
+suppression
+suppression of systemic estrogen
+suppression subtraction hybridization ( SSH ) library
+suppression task
+supragingivally
+suprascapular nerve release
+surface electromyography
+surface enhanced Raman microimaging
+surface landmark
+surgeries
+surgery
+surgery that is robot - assisted
+surgical
+surgical airway
+surgical bypass
+surgical camps
+surgical care
+surgical closure
+surgical consultation
+surgical conversion
+surgical correction
+surgical debridement
+surgical decompression
+surgical excision
+surgical exploration
+surgical eye camps
+surgical fusion
+surgical incision
+surgical interventions
+surgical management
+surgical maneuvers
+surgical manipulation
+surgical method
+surgical necessity
+surgical operation
+surgical options
+surgical orbital decompression
+surgical privileges
+surgical procedure
+surgical procedures
+surgical prosedure
+surgical reconstruction
+surgical removal
+surgical repair
+surgical replacement
+surgical resection
+surgical services
+surgical technique
+surgical techniques
+surgical therapy
+surgical treatment
+surgical treatment options
+surgical treatments
+surgically
+surgically - treated
+surgically treated
+surveillance
+surveillance screen
+surveillance strategies
+susceptibility index assessment method
+susceptibility index method
+susceptibility test
+susceptibility testing
+suspended cultures
+suspension microlaryngoscopy
+suture
+suture repair
+suturing
+swainsonine concentrations
+swarm assay
+sweep
+sweeping
+switch
+switched
+switching
+symptom assessment
+symptom control
+symptom evaluation
+synchronic echocardiography
+synchrony
+syringing
+systemic
+systemic chemotherapy
+systemic immunosuppression
+systemic therapy
+tPSA
+tactile
+tactile stimulation
+tag - based purification
+tag - less purification
+tagging
+tail - cuff
+tail - flick assay
+tail - pressure
+tail - pressure and hot - plate tests
+tail - pressure tests
+tail suspension test
+tailored
+tailored counselling programmes
+tailored programmes
+tailoring intervention
+taking
+tangential fluoroscopy
+tapering
+targeted - ablation
+targeted ERBB2 therapy
+targeted approaches
+targeted cancer therapy
+targeted delivery
+targeted genotypic confirmation
+targeted sequencing
+targeted therapies
+targeted therapy
+targeted treatments
+task - set representations
+task - specific treatment
+task performance
+tasks performed
+team
+team ( IPT ) meetings
+team meeting
+team meetings
+teams
+technical modification
+technique
+techniques
+technologies
+technology
+technology - enhanced community - health nursing
+teeth bleached
+telehealth
+telemedicine
+telemedicine programs
+telephone - based health coach self - management intervention
+telephone follow - up
+teletherapy
+temporal stimulation assay
+temporary test
+tendon transfer
+tendon transfers
+tensor - based morphometry
+terahertz
+terahertz spectra
+termination - phase
+termination of pregnancy
+termination phase of treatment
+terminations
+tertiary - care
+tertiary care
+tertiary prevention
+test
+test battery
+test diets
+test occlusion
+test procedure
+test profiles
+test setup
+tested
+testicular biopsies
+testing
+testing for cardiopulmonary exercise
+testosterone
+testosterone levels
+testosterone serum levels
+tests
+tetanic stimulation
+tetralogy of fallot repair surgery
+tetramer - guided epitope mapping
+thaw
+their management
+theranostics
+therapeutic
+therapeutic activity
+therapeutic advances
+therapeutic alternative
+therapeutic application
+therapeutic applications
+therapeutic approach
+therapeutic approaches
+therapeutic drug monitoring
+therapeutic efforts
+therapeutic hypothermia
+therapeutic implication
+therapeutic intervention
+therapeutic interventions
+therapeutic management
+therapeutic method
+therapeutic option
+therapeutic options
+therapeutic protocol
+therapeutic regimen
+therapeutic regimens
+therapeutic removal of impacted mandibular third molar
+therapeutic strategies
+therapeutic strategy
+therapeutic utility
+therapeutical approaches
+therapeutically
+therapeutics
+therapies
+therapy
+therapy groups
+thermal treatment
+thermoablation techniques
+thermodynamic calculations
+thermogravimetry
+thermotherapeutic stimulation
+theta - band
+thin - film hydration
+thin - slice CTs
+thin layer chromatography plate
+third - generation DSCT
+third - generation dual - source CT
+third - line
+third molar surgery
+thoracic
+thoracic endovascular aortic repair
+thoracic surgery
+thoracic surgical
+thoracolaparoscopic Ivor - Lewis esophagectomy
+thoracoscopic
+thoracoscopic mitral valve surgery
+thoracoscopic surgery
+thoracoscopy
+thoracotomy
+thorax - rib static method
+three - column reconstruction
+three - dimensional reconstruction
+three - module intervention
+thrombectomy
+thromboaggregometry
+thromboelastography
+thromboelastometry study
+thromboembolism prophylaxis
+thrombolysis
+through - transmission projection
+thymectomy
+thyroid - stimulating hormone ( TSH ) levels
+thyroid FNA
+thyroid fine - needle aspiration
+thyroid replacement therapy
+thyroid ultrasound
+thyroidectomy
+thyroxine replacement therapy
+tibial endoprosthetic replacement
+tilt - table testing
+time - lapse imaging
+time - resolved fluorescence resonance energy transfer assay
+time - resolved laser - induced fluorescence spectroscopy
+time domain optical coherence tomography
+time resolved fast CSI
+timed 10 - m walk
+tissue ablation
+tissue culture
+tissue culture plate method
+tissue engineering
+tissue fixation
+tissue staining
+titrated
+titration
+toe brachial index
+tomographic imaging
+tonometry
+tonsillectomy
+tool
+tools
+tooth extractions
+tooth preparation
+tooth reduction
+tooth root tissue engineering
+tooth tissue engineering
+top - down modulation
+top - down tissue engineering
+topical chemotherapy
+topical therapy
+total - body irradiation
+total - body γ irradiation
+total PSA
+total cells number
+total cholesterol
+total disk replacement
+total elbow arthroplasty
+total gastrectomy
+total ghrelin levels
+total hip arthroplasty
+total hip replacement surgery
+total internal reflection microscopy
+total intravenous anesthesia
+total joint replacement
+total joint replacement surgery
+total knee
+total knee arthroplasty
+total knee prosthesis operation
+total mercury
+total nitrogen
+total parenteral nutrition
+total phosphorus
+total protein
+total protein content
+total riboflavin ( TRF ) content
+total shoulder arthroplasty
+total thyroidectomy
+totally laparoscopic approach
+totally open approach
+toxicity assay
+toxicity studies
+toxicological profile
+tracheal intubation
+tracheal reconstruction
+tracheostomy
+tracheotomy
+tracing experiments
+traction
+tractional
+tractography
+traditional
+traditional advice
+traditional drilling
+traditional strength training
+traditional therapy
+trained interdisciplinary teams
+training
+trans - arterial chemoembolization
+transaminase analysis
+transapical TAVI
+transarterial chemoembolization
+transarterial infusion
+transbronchial biopsy
+transcanal endoscopic resection
+transcatheter
+transcatheter aortic valve implantation
+transcatheter aortic valve replacement
+transcatheter arterial chemoembolization
+transcatheter embolization
+transcranial Doppler study
+transcranial Doppler ultrasound
+transcranial cerebral Doppler
+transcranial doppler
+transcranial magnetic
+transcranial magnetic stimulation
+transcriptome
+transcriptome analysis
+transcriptome profiling
+transcriptome sequencing
+transcriptomic - assisted proteomic technique
+transcriptomic analysis
+transcriptomic approach
+transcutaneous
+transcutaneous electrical nerve stimulation
+transcutaneous electrical stimulation
+transection
+transesophageal echocardiography
+transfemoral TAVI
+transfemoral amputees
+transfemoral aortic valve implantation
+transfemoral approach
+transfer
+transfer to hospital
+transferred
+transferred patients
+transferrin saturation
+transforaminal lumbar interbody fusion
+transforaminal lumbar interspinal fusion
+transfused
+transfusion
+transfusion of blood products
+transfusions
+transgenic OT - I T - cell transfer
+transient absorption studies
+transient elastography
+transitional
+transitional care
+transjugular intrahepatic portosystemic shunt creation
+transmission electron microscope
+transmission electron microscopy
+transmuscular approach
+transpedicular approach
+transplant
+transplant immunosuppression
+transplantation
+transplantation procedures
+transplanted
+transplanted ( n = 2 ) hands
+transplants
+transportation
+transposition
+transpositions
+transradial catheterization
+transrectal ultrasonography
+transrectal ultrasound
+transsphenoidal biopsy
+transthoracic echocardiography
+transurethral resection of bladder tumor
+transurethral resection of the bladder
+transversal ( T2 ) relaxometry
+transwell assays
+transwell invasion assay
+trauma narrative phase
+treadmill running test
+treadmill training
+treat
+treated
+treated by
+treated medically
+treated with
+treating
+treatment
+treatment after explantation
+treatment arms
+treatment decisions
+treatment delivery
+treatment discontinuation
+treatment discontinuations
+treatment evaluation
+treatment for anxiety
+treatment frame
+treatment groups
+treatment management
+treatment method
+treatment methods
+treatment modality
+treatment of breast cancer
+treatment of cancer
+treatment of cancers
+treatment of osteoporosis
+treatment option
+treatment options
+treatment patterns
+treatment preventions
+treatment procedures
+treatment process
+treatment protocol
+treatment protocols
+treatment recommendations
+treatment regimen
+treatment regimens
+treatment regiments
+treatment regimes
+treatment schedule
+treatment strategies
+treatment strategy
+treatment with
+treatments
+triage
+trial registration
+tricuspid annuloplasty
+tricuspid bioprosthesis
+tricuspid valve - in - valve replacement
+tricuspid valve implantation
+tricuspid valve repair
+triglyceride
+triglyceride levels
+triphasic abdominal CT
+triple immunosuppression
+triple therapy
+troponin I release
+troponin T / I
+tubal ligation
+tube feeding
+tube formation assay
+tuberculin skin test
+tuberectomies
+tuberectomy
+tubulo - interstitial area affected by fibrosis
+tumor - contrasted imaging
+tumor - killing efficiency
+tumor ablation properties
+tumor biopsies
+tumor necrosis factor - α
+tumor resection
+tumor therapy
+tumor xenografts
+tumour burden
+tumour necrosis factor ( TNF ) - α
+turbidimetry
+turbidity measurements
+turn - ON probe for the detection
+two - dimensional echocardiography
+two - dimensional gel electrophoresis method
+two - dimensional speckle - tracking echocardiography
+two - handed mask ventilation
+two - part protocol
+two - stage expander
+two sorbent types
+two stage segmentation process
+tympanotomy
+type of endoprosthesis
+typed
+typing
+ulcer management
+ultra - heat treatment ( UHT ) sterilization
+ultra - high performance liquid chromatography - mass spectrometry
+ultra - performance liquid chromatography
+ultra high - performance liquid chromatography quadrupole time - of - flight tandem mass spectrometry
+ultra high performance liquid chromatography - tandem mass spectrometry
+ultra performance liquid chromatography
+ultracentrifugation
+ultrasonic computed tomography
+ultrasonographic
+ultrasonographic evaluation
+ultrasonographic imaging
+ultrasonography
+ultrasonography approach
+ultrasound
+ultrasound - guided heat ablation
+ultrasound - guided percutaneous microwave ablation
+ultrasound B - scan ( pulse - echo ) imaging technique
+ultrasound biomicroscopy
+ultrasound elastography
+ultrasound guidance
+ultrasound guided liver biopsy
+ultrasound imaging
+ultrasound scan
+ultrasound scanning
+ultrasound techniques
+uncritical application
+under - reaming
+under - treatment
+underreported
+underreporting
+underwent fixation
+underwent investigation
+underwent vaporization
+unhygienic faeces disposal
+unicompartmental knee arthroplasty
+unilateral / bilateral nerve - sparing ablations
+unilateral approach
+unilateral deafferentation
+unilateral supraorbital keyhole approach
+uninephrectomy
+uninephroureterectomy
+uniportal VATS
+uniportal video - assisted thoracoscopic thymectomy
+univentricular repair
+unnecessary
+unnecessary prostatectomies
+up - transfer
+upfront ASCT
+upfront SRS
+upfront autologous transplant
+upfront stereotactic radiosurgery
+upper
+upper GI endoscopy
+upper and lower aesthetic blepharoplasty
+urea breath test
+urease breath test
+urease test
+ureteral reimplantation
+ureteroscopic lithotripsy
+ureteroscopy
+urethroplasty
+uric acid
+uric acid level
+urinary antigen test
+urinary catheterization
+urinary tract cytology
+urine albumin - to - creatinine ratio
+urine collection
+urine cortisol
+urologic oncologic procedures
+urologic oncology
+usual care
+usual care arm
+uterine incision
+utilisation
+vaccinated
+vaccination
+vaccination campaign
+vaccination programme
+vaccination scheme
+vaccination schemes
+vaccination trends
+vaccinations
+vaccinology
+vagal stimulation
+vaginal deliveries
+vaginal delivery
+vaginal hysterectomy
+vaginal smears
+vagotomy
+vagus nerve stimulation
+valve - in - valve
+valve surgery
+valve therapy
+variables
+variant detection
+varicose vein surgery
+vascular cell adhesion molecule ( VCAM ) - 1
+vascular disease - risk factors
+vascular surgery
+vasodilator stress MPI
+vasodilator stress Rb - 82 PET MPI
+vasodilator stress Rb - 82 positron emission tomography myocardial perfusion imaging
+vasodilator stress rubidium - 82 ( Rb - 82 ) Positron Emission Tomography ( PET ) MPI
+velocities
+velocity
+venipuncture
+venipuncture procedure
+venogram
+venograms
+venous cannulation
+venous catheterisation
+venous thromboembolism ( VTE ) prophylaxis
+ventilation
+ventilatory response to hypoxia
+ventricular pacing
+verbal fluency test
+verbal utterances
+versatile method
+vertebroplasty
+vertical visual field
+very low - density lipoprotein cholesterol
+vessel - sparing
+vessel - sparing radiotherapy
+vestibular diagnostic testing
+vestibular function test
+vestibular function testing
+vestibular testing
+vestibular testing procedures
+vestibular tests
+veterinary consultation
+veterinary practises
+viable cell counts
+viable therapeutic option
+vibration
+vibrational spectroscopy
+vibrational spectroscopy techniques
+video - EEGs
+video - assisted thoracoscopic surgery
+video capsule endoscopy
+video microscopy
+video otoscopy
+videomicroscopy
+videonystagmography
+viral detection
+viral load
+virotherapy
+virtual
+virus - mediated cytokine delivery
+virus detection
+virus inactivation
+viscosupplementation
+visible absorption spectra
+visible range spectra
+visit
+visit service
+visited
+visited an eye specialist
+visiting
+visits
+visual
+visual acuity
+visual analog scale
+visual analog scale of pain
+visual analog scales
+visual analogue scale
+visual analysis
+visual analysis techniques
+visual inspection
+visual inspection with Lugol 's iodine
+visual inspection with acetic acid
+visual screening test
+visual stimulation
+visual stylet ( Discopo ) - guided
+visual stylet - guided technique
+visual therapy
+visual tokens
+visualization
+visualization test
+visualization tests
+visually analyze patterns
+vitamin D
+vitamin D concentrations
+vitamin D levels
+vitamin D serum levels
+vitrectomy
+voice rehabilitation
+voice therapy
+volar plating
+volume - weighted
+volume reduction
+volumes
+von kossa
+voxel - by - voxel dose accumulation
+vulvectomy
+walking along a straight - line itinerary
+walking test distance
+warfarin therapy
+wash - in
+wash - out scans
+water annealing
+water contact angle goniometry
+water soluble carbohydrate
+weaning
+weaning attempt
+weighed
+weight control
+weight loss diet
+weight loss programme
+weight loss programmes
+weight maintenance diet
+weighted discharges
+weighted imaging
+well - documented
+wellness program
+western blot
+western blot analysis
+western blot assay
+western blots
+western blotting
+western blotting analysis
+wet VAMS
+white blood cell count
+whole - body scan ( WBS ) imaging
+whole - brain CBF measurements
+whole - brain radiation therapy
+whole - genome sequence analysis
+whole brain radiation therapy
+whole breast irradiation
+wide - field endoscopic mucosal resection
+wire myography
+wireless motility capsule
+wish to hasten death
+withdrawal
+withdrawn
+within 1 year before death
+work - up
+work up
+workup
+wound and Transwell assays
+wound care
+wound healing assay
+wound healing assays
+wound treatment
+wrist surgery
+written information
+wzi gene DNA sequences
+wzi sequencing
+x - ray crystallography
+x - ray diffraction
+xenograft
+xenograft studies
+xenografts
+xenotransplantation
+xpert
+yarn
+yellow fever vaccination
+yoke repair
+µCT
+µCT - based
+γ - irradiated
+γ - irradiation
+γ - ray - irradiated
+μ - CT
+μEPIT
+‎evaluate
+∆DBP
+∆SBP

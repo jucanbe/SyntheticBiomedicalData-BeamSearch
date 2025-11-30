@@ -1,0 +1,2527 @@
+( MASALA ) Study
+( qPCR ) techniques
+24 - MIRU - VNTR
+2D - Continuous Wavelet Transform
+A cross - sectional study
+ABBA study
+ACT - ONE trial
+ADME
+AFLP
+AHP
+AQUARR Study
+AR
+ARISA
+ARISTOTLE
+ARISTOTLE trial
+ATR - FTIR
+ATR - FTIR spectra
+Abortion Patient Survey
+Active site profiling
+Ad - TREK - 1 transfer
+Adaptive Appearance - Guided Shape Modeling
+Affymetrix Gene Chip human U133 Plus 2 . 0 array
+Afirma gene expression classifier
+Analysed
+Analyses
+Analysing
+Analysis
+Analyze
+Analyzing
+Anatomical investigations
+Animal testing
+Array comparative genomic hybridization
+Array comparative genomic hybridization analysis
+Assessment
+Assumption - free region of interest - based analyses
+BDS
+BUMPES
+BUMPES Trial
+Basic science
+Binary Logistic Regression
+Binary logistics
+Bind - n - Seq analyses
+Bio compatibility studies
+Bioavailability
+Bioelectroanalytical detection
+Biomodeling
+Bispectral pairwise interacting source analysis
+Bisulfite sequencing analysis
+Bland - Altman plots
+Blocked randomisation
+Busselton Diabetes Study
+CAGE
+CANONIC study
+CC - 1 cluster
+CCECAN study
+CCK - 8
+CER
+CGH
+CHANCE
+CHEER
+CLIME
+CMF
+COBAS PCR assays
+COBAS TaqMan HCV real - time PCR
+COMBINE Study
+COMBINE study
+CREST analysis
+CRISPR / Cas9
+CTC analysis
+CUT & RUN
+CWT
+Cap Analysis of Gene Expression
+Carolina Head and Neck Cancer Study
+Cas9 genome editing technology
+Case - Control Study
+Case Control Study
+Case Outcome
+Case Series
+Case Study
+Cell proliferation assay
+ChIP - seq
+CheckMate 066
+CheckMate 066 phase III study
+Clinical
+Clinical - microbiological research
+Clinical Entity
+Clinical Inquiry
+Clinical Monitoring Form
+Clinical Research
+Clinical Study
+Clinical Trial
+Clinical Trials
+Clinical parameters
+Clinical research
+Clinical studies
+Clinical trial
+ClinicalTrials
+ClinicalTrials .
+ClinicalTrials . gov registration number : NCT00400738
+Cluster analysis
+Co - expression analysis
+CoMFA
+Collecting
+Combined analyses
+Commissioners
+Community - based Study
+Comparative Effectiveness
+Comparative Effectiveness Research
+Comparative Study
+Comparative effectiveness research
+Comparative studies
+Computational
+Computational modeling
+Conjoint analysis
+Constrained L1 - minimization Approach
+Control Exome Sequencing study
+Controlled
+Controlled laboratory experiments
+Correlation
+Correlation analysis
+Cox modeling
+Cox regression
+Creating Healthcare Excellence
+Cross - Sectional Study
+Cross - national analyses
+Cross - sectional
+Cross - sectional Study
+Cross - sectional analysis
+Cross - sectional data
+Cross - sectional real - life study
+Cross - sectional study
+Cross - validation
+Cross Sectional Study
+Crossover Trial
+Current Controlled Trials
+Cytogenetic analysis
+DAWN2
+DCA
+DEFIB - WOMEN study
+DEFINE
+DEFINE 's
+DNA - DNA hybridization
+DNA - based technologies
+DNA Profiling
+DNA barcoding
+DNA extraction
+DNA footprinting
+DNA metabarcoding
+DNA methylation profiling
+DNA microarray analysis
+DNA microarray hybridisation analysis
+DNA shuffling
+DOHaD
+Dallas Heart Study
+Danish National Patient Registry
+Data Collection
+Data Linkage
+Data collected
+Data collection
+Data extraction
+Data were collected
+Decomposition Frameworks
+Deconstructing the genome
+Deep Sequencing
+Delphi method
+Delphi procedure
+Delphi round
+Delphi rounds
+Demographic
+Demographic analysis
+Demographics
+Dens - based method
+Dens - based selection method
+Descriptive statistics
+Design - adjusted logistic regressions
+Detailed Analysis
+Detecting genomic footprints
+Deterministic sensitivity analyses
+Development
+Developmental Origins of Health and Disease
+DiD
+DiD analysis
+Diabetes Evaluation Framework for Innovative National Evaluations
+Diagnoses
+Diagnosing
+Diagnosis
+Difference - in - Differences Method
+Differential abundance
+Docking simulation
+Double - Blind
+Double labeling studies
+Doubling method
+EDD
+ELSA
+EMN - 441
+EWAS
+Echo - SOL
+Echocardiographic Study of Latinos
+Ecohydrological modeling
+Efficacy
+Electron Detachment Dissociation
+Engineered
+Engineering
+Engineering Strategy
+English Longitudinal Study of Aging
+Epidemiological
+Epidemiological studies
+Epidemiological study
+Epigenetic Editing
+Epigenome - wide analysis
+Epigenome - wide association studies
+Euro - EWING 99 trial
+Evaluation
+Evaluation method
+Evaluation methods
+Evaluation research
+Exome sequencing
+Experiment
+Experiment 1
+Experiment 2
+Experimental
+Experimental Design
+Experimental study
+Experiments
+Exploration
+Exploratory analyses
+Exploratory studies
+Expression analysis
+External Validation Study
+FA
+FDS2
+FIBRA - BR
+FIDA
+FISH
+FISH analyses
+FISH experiments
+FISH tests
+FT - IR
+FTIR
+FTIR spectroscopy
+Feasibility
+Feasibility Study
+Feasibility demonstration
+Fluorescence in situ hybridization
+Follow - up
+Formulation parameters
+Formulations
+Fourier - transform infrared spectroscopy
+Fourier Transform Infrared ( FT - IR ) spectroscopy
+Fourier Transform Infrared Spectroscopy
+Fourier transform infrared ( FTIR ) spectroscopy
+Fourier transform infrared Spectroscopy
+Fourier transform infrared spectroscopic techniques
+Fourier transform infrared spectroscopy
+Frailty in Brazilian Older People Study
+Fremantle Diabetes Study Phase II
+Fully automated clustering
+Functional Neuroimaging Pilot Study
+Functional analyses
+Functional analysis
+Functional neuroimaging studies
+Further studies
+Future studies
+GAPP studies
+GATS
+GEC
+GISH
+GTEx project
+GWAS
+GWAs
+Gene - based rare variants association analysis
+Gene - targeted
+Gene expression analysis
+Gene fusions
+Gene microarray
+Gene set enrichment analysis
+Gene transfer
+Genetic
+Genetic Testing
+Genetic engineering tools
+Genetic fingerprinting
+Genetic studies
+Genetics Study
+Genome - Wide Detection
+Genome - wide association mapping
+Genome - wide profiling
+Genome editing
+Genomic in situ hybridization
+German Clinical Trials
+Global Adult Tobacco Survey
+Global Strategy
+Global gene expression analysis
+Granger - causal coupling
+Growth curve analyses
+HAT
+HDT
+HELENA study
+HELIUS study
+HERMES
+HITI
+HITI method
+HIVNAT - 019 study
+HRS
+Health Study
+Health and Retirement Study
+Healthcare Research
+Healthy Lifestyle in Europe by Nutrition in Adolescence ( HELENA ) study
+Healthy Start Study
+Hierarchical clustering
+High - throughput sequencing
+Hispanic Community Health Study
+Historical control
+Homology Models
+Homology modeling
+Hybridization
+I ( 2 ) method
+III
+III studies
+IIS
+INNOVATE Trial
+INNOVATE trial
+IPA
+ISH
+ITT
+ITT analysis
+Illumina 's Digital Gene Expression analysis
+Illumina Infinium HumanMethylation450 Beadchip assay
+Illumina Platform
+Illumina next generation sequencing - technology
+Illumina paired - end sequencing technology
+Illumina platform
+Illumina sequencing technology
+Immunogenicity
+In Vitro Assays
+In situ hybridization
+Inconsistency analysis
+Independent
+Indonesian Family Life Survey
+Infrared - Laser - Evoked Gene Operator ( IR - LEGO ) optogenetics assay
+Integrated analysis
+Integrative modeling
+Intensity correlation
+Intention - to - treat analyses
+International Postmarketing Surveillance Study
+Interphase fluorescence in - situ hybridization
+Interpretive phenomenological analysis
+KNHANES
+KO
+KT
+Kaplan - Meier
+Kaplan - Meier life tables
+Kaplan - Meier method
+Kaplan - Meier survival analysis
+Kaplan Meier method
+Karyotyping
+Keep It Off
+Knock - down experiment
+Knockdown
+Knocking down
+Korean National Health and Nutrition Examination Survey
+LCGA
+LDA
+LDT
+LIBRE pilot study
+LIBRE study
+LOQ
+LSOS
+Laboratory Animal Research
+Latent class analysis
+Lead generation
+Lead generation studies
+Level III , retrospective
+Life Chart Analysis
+Light - Activated optoDroplets
+Livak method
+Logistic regression
+Logistic regressions
+Longitudinal
+Longitudinal Sample
+Longitudinal Study
+Longitudinal means
+Longitudinal patterns
+Longitudinal research
+Longitudinal studies
+Longitudinal study
+MALDI - TOF
+MALDI - TOF - MS
+MALDI - TOF / MS
+MALDI - TOF MS
+MALDI - TOF mass spectrometry
+MALDI - ToF mass spectrometry
+MAS
+MCA
+MDT
+MEGA follow - up study
+MEGA study
+MHAS
+MIC studies
+MLPA
+MLPA P036
+MLPA P064
+MLPA P343
+MLPA kits
+MLPA technique
+MLST
+MODelling
+MS - MLPA
+MS / MS
+MSP analysis
+MTC
+MTC analysis
+MTS assay
+MTT
+MTT assay
+MTT assays
+MTT method
+Manipulation
+Mantel - Haenszel method
+Mapping
+Matched
+Matrix - assisted laser desorption ionization - time of flight ( MALDI - TOF ) mass spectrometry ( MS )
+Measurement Survey
+Mechanism studies
+Medicare Survey
+MeltingArray technique
+Mendelian Randomization Study
+Mendelian randomization approach
+Meta - Analyses
+Meta - Analysis
+Meta - analyses
+Meta - analysis
+Meta - analytic
+Meta - analytic methods
+Metanalysis
+Metaphase fluorescence in situ hybridization analysis
+Methylation Analysis
+Mexican Health and Aging Study
+MinorityReport
+Mixed longitudinal
+Model simulations
+Modeling
+Modelling
+Moderation analysis
+Modified Delphi Method
+Molecular Modeling
+Molecular analysis
+Molecular docking simulation
+Monitoring
+Monitoring Trial Conduct
+Monte Carlo simulations
+Moran 's autocorrelation
+Morphological analysis
+Multi - Ethnic Study
+Multi - locus phylogenetic analysis
+Multi - predictor analysis
+Multicenter
+Multicenter Study
+Multicenter Trial
+Multicentric studies
+Multigenerational studies
+Multilocus sequence typing
+Multiparametric estimation
+Multiple - sequence alignment
+Multiple Correspondence Analysis
+Multiple Treatment Comparison Analysis
+Multiple alignments
+Multiple logistic regression
+Multiple studies
+Multiplex ligation - dependent probe amplification
+Multivariable logistic regression
+Multivariable logistic regressions
+Multivariable modeling
+Multivariable survival analyses
+Multivariate logistic regression
+NCT01039688
+NECCST
+NGS
+NHANES
+NOURISH randomized controlled trial
+Nanomechanical experiments
+National Health Study
+National Health and Nutrition Examination Survey
+National Roadside Survey
+Nationwide standardization
+Nei 's GST
+Nested Case - Control Analysis
+Netherlands Chlamydia Cohort Study
+Netherlands Chlamydia cohort study
+Network analysis
+Newcombe - Wilson test
+Next - Generation Sequencing
+Next - Generation Sequencing ( NGS ) technologies
+Next - generation sequencing
+Next Generation Sequencing
+Non Randomized Feasibility Study
+Normal Mode Analysis
+Norwegian validation cohort
+Novel Strategy
+Numerical simulation
+Nursing Practice Project
+Nutrition
+Observation
+Observational
+Observational Retrospective Study
+Observational SMURF Study
+Observational Studies
+Observational Study
+Observations
+Olympic Regeneration in East London study
+Open - Label Pilot Study
+Open - label , multicentre safety study
+Optical tweezers
+Optogenetic
+Optogenetics
+Organizational priorities
+Outcomes
+Outcomes Research
+P070 kits
+PAMS
+PBPK Modeling
+PBPK model
+PBPK modeling
+PCD
+PCR
+PCR - based
+PCR - based method
+PCR - interdelta
+PCR array
+PCR assays
+PCR inter - delta
+PCVMZM
+PCoA
+PETRUS prospective study
+PIE - 9
+PP analyses
+PPS
+PPT
+PPT design
+PPTs
+PR - punishment schedule
+PREDIMED ( PREvención con DIeta MEDiterranea ) trial
+PRISMA
+PRISMA - analysis
+Partial correlation analyses
+Passive case detection
+Passive case finding
+Patient Registry
+Pearson Correlation analysis
+Penn Moms study
+Personal Internet Gaming Disorder Evaluation - 9
+Pharmaceutics
+Pharmacokinetic Study
+Pharmacokinetic analyses
+Phase I
+Phase II or III studies
+Phase III
+Phylogenetic
+Phylogenetic analyses
+Phylogenetic analysis
+Phylogenetic relationships
+Phylogenetic tree
+Phylogenic Approaches
+Phylogenomic analyses
+Phylogenomic trees
+Pilot
+Pilot Study
+Piloting
+Placebo - Controlled
+Placebo Controlled
+Point Pattern Analysis
+Point estimates
+Poisson kriging
+Polymerase chain reaction
+Population - Based Study
+Population - based
+Population - based studies
+Population based follow - up
+Population differentiation analyses
+Pragmatic Trials
+Pragmatic trials
+Preclinical
+Prevention
+Previous studies
+Probabilistic Classification Vector Machines Model Combined with a Zernike Moments
+Prognosis Multicenter Registry
+Prognostic Studies
+Prospective
+Prospective , interventional cohort study
+Prospective Multi - center Cohort Study
+Prospective Observational Study
+Prospective Study
+Prospective cohort study
+Prospective comparison studies
+Prospective mixed - method study
+Prospective open - cohort study
+Prospective studies
+Prospective study
+Prospective trials
+Prospectively
+Protocol validation
+Psoriasis Plaque Test Design
+Psoriasis plaque tests
+Purpose Keep It Off
+Purposive sampling
+QPCR
+QUIDAM study
+Qualitative Research
+Qualitative Study
+Qualitative interview study
+Qualitative study
+Quantitative RT - PCR
+Quantitative RT - PCRs
+Quantitative real - time PCR
+Quantitative real - time PCR analysis
+Quantitative real - time polymerase chain reaction
+Questionnaire - based screening
+R & D
+R & D activities
+RCA
+RCT
+RCT studies
+RCTs
+RDoC domain
+RDoC domains
+REP - ( repetitive extragenic palindromic ) PCR
+REP - PCR
+RT ( 2 ) Profile PCR Array System
+RT - PCR
+RT - PCR assay
+RT - qPCR
+RT - qPCR assays
+RT - qPCR method
+RV - MM - 209
+Random allocation
+Randomisation
+Randomised , observer - blind controlled trial
+Randomised Clinical Trials
+Randomised controlled trial
+Randomized
+Randomized - crossover design
+Randomized Blinded Controlled Clinical Study
+Randomized Clinical Trial
+Randomized Controlled Clinical Trial
+Randomized Controlled Noninferiority Trial
+Randomized Controlled Trial
+Randomized Controlled Trials
+Randomized Trial
+Randomized Trials
+Randomized control trial
+Randomized controlled trial
+Randomized controlled trials
+Randomized trials
+Rasch analysis
+Re - analysing
+Real - Time PCR
+Real - Time Polymerase Chain Reaction
+Real - time PCR
+Real - time polymerase chain reaction
+Real Time PCR
+Reanalysis
+Receiver - operating characteristic curve analysis
+Recent proof - of - principle studies
+Recent studies
+Recombinant
+Recyclability studies
+Reflections
+Region of interest - based analyses
+Renal Data Registry
+Reporting
+Reporting Safety Data
+Research
+Research & Development
+Research Activity
+Research Domain Criteria ( RDoC )
+Research studies
+Retest Correlations
+Retrospective
+Retrospective Analysis
+Retrospective Observational Study
+Retrospective Review
+Retrospective Study
+Retrospective analysis
+Retrospective cohort study
+Retrospective observational study
+Retrospective review
+Retrospective studies
+Retrospective study
+Reverse Genetic
+Reverse transcription polymerase chain reaction
+River2D
+River2D model
+Rotterdam Study
+SABE - Sao Paulo
+SAGE
+SAPPHIRE trial
+SCARED
+SECCYD
+SEEDS study
+SELEX
+SF - 16
+SHARE
+SIAA studies
+SNAC - K
+SPACECOT Study
+SPINASIA trial
+SPORT Study
+SPORT study
+SPR
+SQUEEZE
+SQUEEZE - D
+SQUEEZE Pilot Trial
+STOP OSA screening questionnaire
+SWAT
+SYBR Green Amplification Refractory Mutation System real - time polymerase chain reaction
+Safety
+Sanger sequencing
+Scale - up simulation
+Scenario analyses
+Scoring
+Scoring Procedures
+Scottish Health Survey
+Screen for Child Anxiety Related Emotional Disorders
+Self - Report
+Self - Reported
+Self - reported
+Semantic Judgment task
+Semi - structured interviews
+Sensitivity
+Sensitivity analysis
+Sentence Semantic Judgment Task
+Sequence alignment
+Sequencing
+Seroprevalence
+Short Form Health Survey
+Significance
+Simulated
+Simulating
+Simulation
+Simulation Study
+Simulation studies
+Simulations
+Single - arm Phase 2 Trial
+Single - blind
+Single - center retrospective review
+Single - institution retrospective analysis
+Single Stage Tandem Mass Spectrometry
+Social Environment and Biomarkers of Aging Study
+Social Survey
+Socio - demographic
+Sonochemical
+Spatial analysis
+Spatio - Temporal History
+Spatiotemporal
+Spearman correlation analysis
+Speciation modeling
+Standard and network meta - analytic techniques
+Standardization
+Statistical Method
+Statistical methods
+Stenting and Angioplasty With Protection in Patients at High Risk for Endarterectomy
+Strategies
+Strategy
+Stratification
+Structure - based drug discovery
+Studies
+Study
+Study 1
+Study 2
+Study Design
+Study of Early Child Care and Youth Development
+Study of Health
+Study of Latinos
+Study of Safety
+Study of two retrospective cohorts
+Study on Global Ageing and Adult Health
+Studying
+Subgroup analyses
+Subgroup analysis
+Subjects
+Subjects reporting
+Substudy
+Such trials
+Surface Display System
+Survey
+Survey on Health , Ageing and Retirement in Europe
+Survival
+Survival Analysis
+Survival analysis
+Systematic mapping
+TC - FISH
+TCGA
+TDA
+TLDA analysis
+TMS
+TREK - 1 gene transfer
+TUNEL
+TUNEL assay
+TUNEL labelling
+TUNEL method
+TUNEL staining
+Taima TB Youth Education Initiative
+TaqMan probe - based quantitative polymerase chain reaction
+TaqMan real - time PCR method
+Targeted - NGS
+Targeted Delivery
+Targeted next generation sequencing
+Ten randomized and quasi - randomized trials
+Testing
+The Cancer Genome Atlas
+The Cancer Genome Atlas analysis
+The Health , Well - being and Aging
+Thematic analysis
+Theoretical
+Theoretical work
+Three - dimensional analysis
+Time - Series Analysis
+Tissue slices
+Tolerability
+Traditional methods
+Transcriptional profiling
+Treatment Study
+Trial
+Trials
+TrueMass Sebum Panel analyses
+Two - stage stratified cluster sampling
+T‑PCR assay
+UPLC - qTOF - MS / MS
+Ultra - deep sequencing
+Unbiased estimates
+Use - wear analysis
+Validated
+Validating
+Validation
+Variation analysis
+WGS
+WHS
+WST - 1 method
+Warriors Achieving Resilience ( WAR ) study
+Wellcome Trust ( WTCCC2 )
+Wetting tests
+Whole - exome sequencing
+Whole - genome sequencing
+Whole cell recordings
+Whole exome
+Women 's Breast Carcinoma in situ Study
+Women 's Contraceptive and Reproductive Experiences Study
+Women 's Learning the Influence of Family and Environment Study
+Word - Picture Verification task
+World Health Survey
+Yeast two - hybrid
+Youden square design
+Zimbabwe Vitamin A for Mothers and Babies ( ZVITAMBO ) Trial
+active control
+active research
+active search
+active site profiling
+ad hoc assessment
+adaptive ways
+adjusted analyses
+aggressive tumor biology
+alteration
+alternate sequencing technology
+alternative methods
+alternative research methods
+amplification
+amplification strategies
+amplified fragment length polymorphism
+analyse
+analysed
+analysed retrospectively
+analyses
+analysing
+analysis
+analysis methods
+analytic
+analytic hierarchy process
+analytical
+analytical choices
+analytical phase
+analyticity
+analyze
+analyzed
+analyzed continuously
+analyzed thematically
+analyzes
+analyzing
+ancillary study
+animal
+animal alternative
+animal experiment
+animal experiments
+animal research
+annotated
+annotation
+annotations
+anterograde axonal tract - tracing approach
+anthropometric
+anthropometry
+applied geographical research
+array CGH
+artificial shuffling
+assemblage
+assembly process
+assessment
+assessment study
+assessor - blinded
+association
+association analyses
+atomistic simulations
+attenuated total reflectance ( ATR ) - FTIR spectra
+balanced randomization
+barcoding
+barcoding experiments
+based on prospective
+baseline
+baseline assessment
+baseline design
+baseline situational analysis
+basic
+basic research
+basin - wide analysis
+beat - sheet sampling
+behavioral
+biPISA
+binary logistic regression
+bioanalysis techniques
+biochemical / molecular study
+biodistribution study
+bioelectroanalytical approaches
+biolistic
+biomarker assessment
+biomarker trials
+biomechanical modeling
+biomedical applications
+biomedical research
+biomedical settings
+biomonitoring studies
+bispectral pairwise interacting source analysis
+bisulfate - based next generation sequencing
+bisulfite - conversion
+bisulfite sequencing
+blind
+blinded
+blinded measurements
+blinded trial
+blinding
+blinding of assessors
+block randomization
+block randomization method
+brain research
+bridge basic research
+bud seedling method
+cDNA microarray analysis
+cadaveric anatomical study
+cadaveric study
+cancer research
+cancer trials
+capillary sequencing
+case - control
+case - control association study
+case - control observational study
+case - control studies
+case - control study
+case - controls studies
+case - crossover analysis
+case - crossover design
+case - crossover study
+case - matched analysis
+case - series
+case control studies
+case control study
+case series
+cases
+cell
+cell - based
+cell - based assays
+cell - based studies
+cell - transfection
+cell culture - validated genetic modifications
+cell culture systems
+cell proliferation
+cell proliferation assay
+cell tracking
+cell viability ( MMT ) assay
+cell viability assays
+cell viability measured
+characterised
+chemical changes
+chip
+click chemistry
+clinic based comparative study
+clinical
+clinical BN / BED sample
+clinical applications
+clinical basis
+clinical correlation
+clinical development
+clinical feasibility
+clinical feasibility trial
+clinical pilot study
+clinical practice
+clinical randomized trials
+clinical registry
+clinical research
+clinical review
+clinical sensitivity
+clinical settings
+clinical studies
+clinical study
+clinical testing
+clinical trial
+clinical trial methodology
+clinical trial programme
+clinical trials
+cliniko - microbiological research
+cloned
+cloning
+closed - chamber
+closed - chamber experiments
+closure
+cluster - randomized trial
+cluster analysis
+clustered
+clustered regularly interspaced palindromic repeat - based gene editing
+clustered regularly interspaced short palindromic repeat / Cas9 ( CRISPR / Cas9 ) technology
+clustering
+clustering analysis
+clusters
+co - expression network analysis
+co - transfection
+coding
+cohort
+cohort analysis
+collaborative pilot study
+collect
+collect informative data
+collect the data
+collected
+collecting
+collection
+collection of data
+collections
+collects data
+colony PCR
+commissioners
+community - based study
+community members surveyed
+comparative
+comparative analysis
+comparative case series
+comparative effectiveness research
+comparative effectiveness study
+comparative genomic evidence
+comparative genomic hybridization
+comparative genomic hybridization - array analysis
+comparative molecular field analysis
+comparative studies
+comparative study
+compare the efficacies
+compare the efficacy
+comparison study
+composite focal - point analyses
+comprehensive and systematic analysis
+comprehensive research methods
+comprehensive speciation study
+comprehensive study
+computational
+computational approach
+computational approaches
+computational method
+computational methods
+computational studies
+computational techniques
+conjoint experiment
+conjoint preference experiment
+consecutive series of patients
+consequences
+contact - angle analyses
+contact profilometry
+contemporary studies
+continuous wavelet transform
+continuum model
+contrast agent transfer
+control studies
+controlled
+controlled - feeding
+controlled clinical trials
+controlled studies
+controlled study
+controlled trial
+convenience sample
+convenience sampling
+convenience sampling method
+conventional triplex PCR
+corpus
+correlated
+correlation
+correlation analyses
+correlation analysis
+correlation studies
+correlation study
+correlation treatments
+correlative study
+cost - effectiveness studies
+cotwin control ( CTC ) design
+cotwin control analysis
+countrywide cross - sectional study
+cross - bispectra
+cross - cultural settings
+cross - over
+cross - over study
+cross - sectional
+cross - sectional , single - site , study
+cross - sectional National Health and Nutrition Examination Surveys
+cross - sectional analyses
+cross - sectional analysis
+cross - sectional associations
+cross - sectional cohort design
+cross - sectional descriptive design
+cross - sectional descriptive study
+cross - sectional epidemiological survey
+cross - sectional evaluation
+cross - sectional findings
+cross - sectional household surveys
+cross - sectional nature
+cross - sectional observational study
+cross - sectional point study
+cross - sectional school - based study
+cross - sectional secondary analysis
+cross - sectional studies
+cross - sectional study
+cross - sectional study design
+cross - sectional style analysis
+cross - sectional survey
+cross - sectionally
+cross - validate
+cross - validation
+cross - validation method
+cross sectional
+cross sectional design
+cross sectional investigation
+cross sectional study
+cross validation
+crossover design
+crossover home studies
+crossover study
+crossover trial
+crosssectional
+crude and adjusted binary logistic regression
+cultivated
+cultivation
+culture system
+culture systems
+curative effect
+current study
+custom designed dual indexing
+custom dual indexing
+cut - off point analysis
+cut above
+cytogenetic technique
+dCas9 engineering
+data
+data capture
+data collection
+data management
+data organisation
+data were collected
+dataset collections
+decision curve analyses
+decoding
+decomposition strategy
+deep sequencing
+delivery system
+demographic
+demographic analyses
+demographic data
+demographic surveillance
+demographic survey
+demographical
+demographically
+demographics
+descriptive analyses
+descriptive analysis
+descriptive statistics
+descriptive study
+design
+designed
+designed to reversibly adapt
+designing studies
+detailed analysis
+detection
+development of improved vaccines
+development of outcomes
+developments
+diagnose
+diagnosed
+diagnoses
+diagnosing
+diagnosis
+diagnostic
+diagnostic tools
+diagnostics
+dialectical
+dietary patterns
+dietary recall
+difference - in - differences ( DiD ) estimation
+differential network analysis
+dimethylthiazol - diphenyl tetrazolium bromide ( MTT ) assay
+direct capillary sequencing
+direct sequencing
+discomfort and a partial rescue
+discovery
+disease mechanisms
+distribution analysis
+divisional priorities
+divisions ' priorities
+docking model
+document analysis
+documentary analysis
+dose - response
+dose - response effect
+dose - response manner
+dose modification
+dose response
+double - blind
+double - blind study
+double - blinded
+double - blinding
+double - masked
+double blind
+double swabbing
+doubled - blind , randomized , split - mouth controlled clinical study
+doubling method
+drug - discovery
+drug development
+drug discovery
+drug studies
+dynamics
+early preclinical development
+ecohydrological modeling
+ecohydrological studies
+edit the genomes
+educational practice
+efficacy
+elastic surface - based shape deformation analysis
+electron - based tandem mass spectrometry methods
+electron detachment dissociation
+eligible studies
+elucidate disease mechanisms
+empirical
+empirical research
+end of observation
+engineered
+engineering
+engineering of the genome
+enrichment analyses
+enrichment analysis
+enrolled
+enrolment
+epidemiologic studies
+epidemiologic study
+epidemiological
+epidemiological evaluation
+epidemiological profile
+epidemiological studies
+epidemiological study
+epidemiological survey
+epidemiology
+epigenetic editing
+epigenetic modulation
+epigenetic reprogramming
+epigenomic
+euthanized
+evaluate
+evaluate its functional feasibility
+evaluation
+evaluation method
+evaluation methodology
+evaluation methods
+evaluations
+evolutionary analysis
+evolutionary distance analysis
+ex - vivo
+ex vivo
+examinations
+examinations of the efficacy
+examine
+examined
+excellent practical feasibility
+existing research
+exome sequencing
+experiment
+experiment ,
+experimental
+experimental methods
+experimental observations
+experimental purposes
+experimental replication
+experimental research
+experimental session
+experimental settings
+experimental studies
+experimental study
+experimental system
+experimental validation
+experimental work
+experimentally
+experiments
+exploration
+explorative study
+exploratory
+exploratory analyses
+exploratory analysis
+exploratory factor analysis
+exploratory research
+exploratory sequential design
+exploratory studies
+exploratory study
+expression of multiple genome editing constructs
+extensive analysis
+external validation
+extracted
+extraction of total RNA
+fTCD study
+feasibility
+feasibility of identifying
+feasibility study
+feasibility trial
+feasible strategy
+field surveys
+filtering
+findings
+finite - element modeling
+finite element study
+finite mixture capture recapture modeling
+first question survey
+fission yeast cell - based system
+five - wave longitudinal research design
+fixed - dose
+fixed - dose trial
+flexible - dose studies
+flow - based proliferation assays
+flow - cytometric analysis
+flow - through experiments
+fluorescence in situ hybridization
+fluorescent in situ hybridization
+focus group interviews
+follow - up
+follow - up procedures
+follow - up studies
+follow - up study
+follow - up test
+formulated
+formulation
+formulations
+four - station polymerase chain reaction
+fractional - polynomials approach
+functional analysis
+functional enrichment analysis
+functional neuroimaging studies
+fundamental genetic studies
+further studies
+fusion
+fusion of genes
+fusions
+future patient selection
+gene - by - gene Sanger sequencing
+gene - editing technologies
+gene - level rare variant association analysis
+gene - targeting
+gene - targeting system
+gene ablation
+gene analysis
+gene annotations
+gene delivery formulations
+gene delivery system
+gene detection kit
+gene discovery
+gene editing
+gene editing approaches
+gene editing techniques
+gene engineering
+gene expression analyses
+gene expression analysis
+gene fusion
+gene fusions
+gene knockdown
+gene targeting
+gene transfer
+general population study
+generalized estimating equation analysis
+generalized linear mixed models
+generation of targeted heterozygous and homozygous genomic sequence alterations
+generic studies
+genes
+genetic
+genetic ( functional ) approaches
+genetic association studies
+genetic engineering
+genetic labeling
+genetic methods
+genetic modifications
+genetic reconstruction
+genetic research
+genetic studies
+genetic study
+genetic testing
+genetic tool
+genetic tools
+genetic work
+genetically
+genetically manipulate
+genetically modified
+genome - edited
+genome - editing
+genome - wide
+genome - wide association studies
+genome - wide association study
+genome - wide genetic association analysis
+genome - wide knockout screening
+genome - wide map
+genome - wide mapping
+genome - wide methylation profiling
+genome - wide methylation study
+genome - wide survey
+genome - wide survey studies
+genome alignment
+genome annotation
+genome editing
+genome editing technologies
+genome engineering
+genome modifications
+genomewide analyses
+genomic
+genomic BLUP
+genomic analysis
+genomic and proteomic studies
+genomic editing
+genomic engineering
+gov , number NCT00814073
+graph - theoretical
+graph - theoretical analysis
+gray fixed weight clustering analysis
+greedy strategy
+group - based trajectory modeling
+group interviews
+haplotype network analyses
+harmonized
+harmonizing study
+head - to - head trials
+health research
+health study
+hierarchic clusters
+hierarchical cluster analysis
+hierarchical clustering analysis
+hierarchical data clustering
+hierarchical logistic regression
+high - dose treatment
+high - throughput next - generation sequencing
+high - throughput profiling
+high - throughput real - time PCR
+high - throughput sequencing
+high quality trials
+histomorphologic survey
+histopathology
+historical control
+hoc analysis
+homology - independent targeted integration
+homology - independent targeted integration ( HITI ) strategy
+homology model
+homology modeling
+homology modeling method
+homology modelling
+hospital - based study
+human cases
+human studies
+human subjects
+hybridization
+identification
+identified studies
+identifying subjects
+immortalized
+immunogenecity
+immunogenicity
+immunoreactive score of Remmele and Stegner ( IRS ) scoring method
+in - depth analysis
+in - depth qualitative study
+in - frame fusions
+in silico functional prediction
+in situ hybridization
+in situ hybridization ( FISH ) technique
+in vitro
+in vitro assays
+in vitro binding assays
+in vitro model
+in vitro models
+in vivo experimental models
+in vivo model
+in vivo models
+independent assumption - free voxel - wise analysis
+induction phase
+inductive analyses
+inductive thematic analysis
+inferential analysis
+infrastructure
+inhaled drug discovery
+injection
+inquiry
+integrative analysis
+intention - to - treat
+intention - to - treat analysis
+intention to treat
+interactional micro - analyses
+international multicentre phase II study ( the ACT - ONE trial )
+interpolation
+intervention research
+interventional
+interventional studies
+interviewed
+intra - patient analysis
+investigation
+investigative studies
+isotope labeling
+isotopically labeled
+iterative cross - validation
+joint modeling
+k - means algorithm
+kernel density estimation
+kinetic sorption study
+knock - down
+knock - in
+knockdown
+knocked down
+knockin
+knockout
+knowledge translation
+label
+labeling experiments
+labelling
+labelling procedures
+landmark analysis
+large - scale surveillance
+large randomized trial
+large scale studies
+large study
+larger study
+latent class analysis
+latent class growth analysis
+leave - one - subject - out cross validation
+length for a clinical trial
+length of alignments
+level association analysis
+level of significance
+life - long safety profile
+ligand based modeling approaches
+line transects
+linear discriminant analysis
+linkage
+linkage disequilibrium analysis
+linkage study
+literature study
+local score
+local score approach
+localization study
+localizing study
+logistic regression
+logistic regression model
+logistic regression modelling
+logistic regressions
+logistical regression
+long - lag experiments
+long - term ( 4 months ) study
+long - term study
+longitudinal
+longitudinal analyses
+longitudinal behavioral
+longitudinal case study
+longitudinal data analysis
+longitudinal data collections
+longitudinal follow - up
+longitudinal investigation
+longitudinal observational study
+longitudinal research testing
+longitudinal setting
+longitudinal statistical procedures
+longitudinal studies
+longitudinal study
+longitudinal study designs
+longitudinally
+low - dose treatment
+mRNA in situ hybridisations
+management
+manipulation
+manipulative mesocosm experiments
+mapped sequence
+mapped to the human
+maps
+marker - assisted selection
+masked
+massive parallel sequencing
+matched
+matching
+matrix - assisted laser desorption / ionization time - of - flight mass spectrometry
+matrix - assisted laser desorption ionization - time of flight ( MALDI - TOF ) MS
+matrix of Euclidean distances
+maximum likelihood methods
+mechanistic studies
+medical act
+medical outcome study
+medical research
+medical studies
+medical study
+megachunk integration
+meiotic recombination - mediated assembly
+mendelian randomisation study
+meta - analyses
+meta - analysis
+meta - analysis estimating
+meta - analytic
+meta - analytically
+meta - analyzed
+meta - analyzed studies
+meta - analyzed study
+meta - prediction
+meta - strategy
+metabarcoding
+metabarcoding methods
+metabolic engineering
+metagenomic sequencing
+metagenomic sequencing application
+metanalysis
+metaphase fluorescence in situ hybridization analyses
+method
+method of evaluation
+methodical analysis
+methodological approaches
+methodological designs
+methodologies
+methodology
+methods
+methyl - specific polymerase ( MSP ) chain reaction
+methyl thiazol tetrazolium assay
+miRNA expression analysis
+miRNA functional annotation
+microanalytic approach
+microarray
+mining
+mitigation strategies
+mixed - method study
+mixed - methods study
+mixed - treatment comparison
+mixed cluster
+mixed method study design
+mixed methods study
+model
+model legume plant
+model plant
+modeled
+modeling
+modeling methods
+modeling process
+modeling system
+modelled
+modelling
+moderate - dose treatment
+modifications
+modified Delphi method
+modified nominal group technique
+molecular analysis
+molecular biology experiments
+molecular characterisation
+molecular diagnostic platform
+molecular docking
+molecular docking analysis
+molecular docking simulations
+molecular docking studies
+molecular modeling
+molecular modeling studies
+molecular modelling
+molecular techniques
+molecularly imprinted
+monitored
+monitoring
+monitoring data
+monitoring trial conduct
+monocenter , prospective single - arm clinical study
+monocentric study
+motif enrichment analysis
+multi - center retrospective study
+multi - center study
+multi - institutional study
+multicenter
+multicenter context
+multicenter phase 4 study
+multicenter phase I - II GIMEMA trial
+multicenter phase II study
+multicenter randomized controlled phase III trial
+multicenter randomized noninferiority trial
+multicenter randomized phase III clinical trial ( SENORITA trial ) protocol
+multicenter retrospective study
+multicenter study
+multicenter trial
+multicentre
+multicentre observational study
+multicentre randomised controlled trial
+multicentre studies
+multicentric prospective study
+multicolor - FISH
+multiethnic population - based study
+multigenerational studies
+multilevel analysis
+multilevel approach
+multilocus sequence typing
+multinomial logistic regression
+multiparametric
+multiparametric estimation
+multiple - level Survey
+multiple - trait analysis
+multiple PCR
+multiple bias analysis
+multiple correspondence analysis
+multiple logistic analysis
+multiple recovery
+multiple recovery techniques
+multiplex PCR
+multiplex ligation - dependent probe amplification
+multisite trial
+multistage random sampling
+multivariable adjustment
+multivariable logistic regression
+multivariant analysis
+multivariate
+multivariate logistic regression
+multivariate predictive models
+multivariate survival analyses
+multiyear studies
+nPCR
+nanoparticle research
+national cancer database registry analysis
+national epidemiological investigation
+national health and nutrition examination survey
+national retrospective cohort study
+natural experiment
+nested case - control study
+nested case control study
+nested polymerase chain reaction
+nested translational study
+network analysis
+network meta - analysis
+network studies
+neuroscience research
+neurosciences settings
+neutral comet assay
+neutron reflectivity studies
+new screening strategies
+newer technique
+next - generation sequencing
+next - generation sequencing analytics
+next - generation sequencing technology
+next generation bisulfite sequencing
+next generation sequencing
+next generation sequencing approach
+nick end - labeling
+non - blinded
+non - clinical population - based sample
+non - clinical studies
+non - comparative case series
+non - inferiority design
+non - inferiority study
+non - inferiority trial
+non - probabilistic sample
+non - random sampling
+non - randomized controlled trials
+non - supervised multivariate statistics
+noncomparative
+nonrandomized study
+normalization
+normalize
+normalized
+normalizing
+not - randomized controlled trials
+novel strategy
+nuclear reprogramming
+numerical simulations
+numerical studies
+nurse - led research activity
+nursing practice project
+nursing programs
+nutrition
+nutrition - promoting practices
+observation
+observational
+observational cross - sectional study
+observational studies
+observational study
+observational trial
+observations
+occluded
+occluded PPT
+occluded PPT designs
+omic strategies
+omics analysis
+omics measurements
+open
+open - ended acceptability survey
+open - label
+open - label , multicentre study
+open - label case series
+open - label clinical trial
+open - label pilot study
+open - label study
+open - label trial
+open PPT
+open PPTs
+operational cluster
+optical tweezers
+optical tweezers experiment
+optical tweezers experiments
+optimal formulation
+optoDroplet
+optoDroplets
+optogenetic
+optogenetic tagging
+optogenetics
+organ models
+organizational priorities
+organized
+original works
+orthogonal partial least squares discriminant analysis
+outcome
+outcomes
+pairwise interacting source analysis ( PISA )
+paradigm
+parallel
+parallel - group
+parallel - group ,
+parallel group
+passive case detection
+patch - clamp method
+patch - clamp technique
+patch clamp technique
+pathway enrichment analyses
+patient - based studies
+patient - centered outcomes
+patient - reported
+patient demographic
+patient registry
+patient selection
+per - experiment
+performance analysis
+perspective study
+phage - display selection
+phage - display technology
+phage display
+phage display technology
+phantom studies
+pharmaceutical analysis
+pharmacodynamic
+pharmacodynamic study
+pharmacogenomic study
+pharmacokinetic
+pharmacokinetic ( PBPK ) model
+pharmacokinetic studies
+pharmacokinetic study
+pharmacovigilance
+phase 2
+phase 2 single - arm trial
+phase 2 trial
+phase 3
+phase 3 ASPECT
+phase 3 clinical development
+phase 3 study
+phase 3 trials
+phase I
+phase I clinical trial
+phase I studies
+phase I trial
+phase II
+phase II multicentre trial
+phase III
+phase III CheckMate 066 study
+phase III ORAL Start trial
+phase III clinical trial
+phase III randomised controlled trial
+phase III study
+phase III trial
+phase IIb
+phylogenetic
+phylogenetic analyses
+phylogenetic analysis
+phylogenetic comparative analyses
+phylogenetic inference
+phylogenetic relationships
+phylogenetic studies
+phylogenetic survey
+phylogenetic tree
+phylogenetically investigate
+phylogenetics study
+phylogenomic analysis
+phylogenomically investigated
+phylogenomics
+pilot
+pilot - scale
+pilot - study
+pilot project
+pilot randomized controlled trial
+pilot study
+pilot testing
+pilot trial
+pioneering study
+placebo
+placebo - controlled
+placebo - controlled study
+placebo - controlled trial
+placebo controlled
+plasmonic
+polymerase chain reaction
+polymerase chain reaction ( PCR ) - based methods
+polymerase chain reaction analysis
+polyphasic taxonomic study
+pooled analysis
+poor survival
+population - based
+population - based , multicenter case series
+population - based Swedish National Study on Aging and Care - Kungsholmen
+population - based case - control study
+population - based cohort study
+population - based descriptive study
+population - based studies
+population - based study
+population - level time - series analysis
+population based case - control study
+population based study
+population studies
+population study
+positive trial
+post hoc analyses
+post hoc analysis
+postmarketing surveillance study
+pot experiment
+pragmatic
+pragmatic trial
+pragmatic trials
+pragmatic utility method
+pre - clinical studies
+pre - post observational study
+pre - selection
+preclinical
+preclinical drug testing
+preclinical studies
+preclinical study
+preliminary analysis
+preliminary clinical
+preoperative characteristics
+present study
+preservative efficacy test ( PET ) studies
+prevention
+prevention measures
+preventive
+previous quality control study
+primary analysis
+primary outcome
+primary outcomes
+primary studies
+principal component analysis
+principal coordinate analysis
+principle studies
+priorities
+probe
+profiling
+profiling strategy
+program
+proliferation assays
+promising strategy
+promoter reporter studies
+proof - of - concept study
+proof - of - concept testing
+prospective
+prospective , multicenter cohort study
+prospective , two - phase cohort study
+prospective PETRUS study
+prospective analyses
+prospective analysis
+prospective bicentric observational cohort study
+prospective case - control study
+prospective cohort
+prospective cohort studies
+prospective cohort study
+prospective controlled study
+prospective findings
+prospective longitudinal study
+prospective mixed - method study
+prospective multicenter randomized ( HQ vs placebo ) double - blind study
+prospective multicenter randomized controlled phase III clinical trial
+prospective multicenter study
+prospective observational case - control study
+prospective observational study
+prospective observational surveillance study
+prospective pilot randomized controlled trial
+prospective population - based study
+prospective randomized controlled phase II / III clinical trials
+prospective reviews
+prospective single - blind study
+prospective single - centre study
+prospective studies
+prospective study
+prospective test
+prospectively
+prospectively in a large trial
+prospectively studied
+protein
+protein studies
+proteomic experiments
+proteomics
+proteomics array
+proteomics research
+province - level data
+pull - down experiment
+pulverized
+purposive sample
+qPCR
+qPCR assay
+qRT - PCR
+qRT - PCR assays
+qualitative explorative study
+qualitative phenomenological approach
+qualitative pilot study
+qualitative research
+qualitative studies
+qualitative study
+quantitative PCR
+quantitative polymerase chain reaction
+quantitative real - time PCR
+quantitative real - time PCR analysis
+quantitative real - time polymerase chain reaction
+quantitative real time - PCR
+quantitative real time PCR
+quantitative reverse transcriptase polymerase chain reaction
+quantitative simulations
+quantum chemical studies
+quartz crystal microbalance analysis
+quasi - experimental study
+quasi - randomized controlled trials
+questionnaire - based screening
+quotas
+random , multistage cluster - sampling
+random forest analysis
+random quota sampling
+random sample
+randomisation
+randomised
+randomised , controlled , ORAL Start trial
+randomised Study Within A Trial
+randomised controlled trial
+randomised controlled trials
+randomised crossover study
+randomised interventional trials
+randomised study within a trial
+randomised trial
+randomization
+randomized
+randomized , controlled trial
+randomized , controlled trials
+randomized , double - blind , placebo - controlled trial
+randomized clinical trial
+randomized clinical trials
+randomized control experiment
+randomized control trial
+randomized control trials
+randomized controlled clinical trial
+randomized controlled study
+randomized controlled trial
+randomized controlled trial .
+randomized controlled trials
+randomized crossover trial
+randomized dosage adjustment trial
+randomized fashion
+randomized studies
+randomized study
+randomized trial
+randomized trials
+randomized triple - blind controlled clinical trial
+randomly
+randomly allocated
+randomly assigned
+randomly categorized
+randomly matched
+randomly sampled
+randomly selected
+randomly selected sample
+rapid amplification of cDNA ends ( RACE ) technique
+re - analyzed
+re - scoring
+real - life cross - sectional study
+real - life study
+real - time
+real - time PCR
+real - time PCR methods
+real - time RT - PCR
+real - time analysis
+real - time monitoring
+real - time polymerase chain reaction
+real - time quantitative PCR
+real - time quantitative polymerase chain reaction
+real - time quantitative reverse transcription polymerase chain reaction testing
+real - time reverse transcriptase - polymerase chain reaction
+real - time reverse transcription quantitative PCR
+real - world feasibility
+real time PCR
+real time polymerase chain reaction
+real time quantitative polymerase chain reaction
+real time reverse transcription - polymerase chain reaction
+reanalysis
+recent studies
+receptor - transfected
+recombinantly
+reconstruction of the full - length genome
+record - linkages
+recorded
+reflectance - Fourier transform infrared spectroscopy
+registration studies
+registry
+rejection analyses
+release experiments
+relevant studies
+removal of genomic sequences
+repeatability study
+repeated observations
+repetitive extragenic palindromic ( REP ) PCR
+report
+reported
+reported search
+reporting
+reporting of safety data
+reporting safety data
+reports
+reproducible analysis
+research
+research activity
+research and development
+research design
+research efforts
+research endeavors
+research field
+research fields
+research indicates
+research laboratory
+research methods
+research priorities
+research priority
+research problems
+research process
+research protocols
+research studies
+research study
+research techniques
+research that examines outcomes
+research work
+researched
+researcher community
+researches
+resistance mechanisms
+responders ' analysis
+response surface methodology
+retest correlations
+retrospective
+retrospective , hospital - based study
+retrospective 3 - year review
+retrospective analysis
+retrospective case
+retrospective case - control study
+retrospective case study
+retrospective chart review
+retrospective clinical study
+retrospective cohort
+retrospective cohort analysis
+retrospective cohort chart review study
+retrospective cohort study
+retrospective data
+retrospective data collection
+retrospective data review
+retrospective database
+retrospective database analysis from a cohort
+retrospective evaluation
+retrospective matched cohort analysis
+retrospective national cohort study
+retrospective observational study
+retrospective record review
+retrospective review
+retrospective single - center analysis
+retrospective studies
+retrospective study
+retrospectively
+retrospectively analysed
+retrospectively analyzed
+retrospectively evaluated
+retrospectively examined
+retrospectively reviewed
+retrospectively reviewed .
+retrospectively studied
+revalidation
+revalidation study
+reversal learning
+reverse - transcription PCR
+reverse - transcription polymerase chain reaction
+reverse genetic platform
+reverse hybridization
+reverse transcriptase PCRs
+reverse transcriptase polymerase chain reaction
+reverse transcription ( RT ) - PCR
+reverse transcription - polymerase chain reaction
+reverse transcription - quantitative polymerase chain reaction
+reverse transcription PCR
+reverse transcription‑quantitative polymerase chain reaction
+rigorous validation
+risk / benefit evaluation
+risk stratification
+role of diet and nutrition
+rolling circle amplification
+rotarod test
+safety
+safety studies
+safety trial
+sample
+sampling
+sampling experiments
+sampling process
+scalable analysis
+scale - up simulation
+scanning mutagenesis
+scenario analyses
+science studies
+scoring
+scoring functions
+scoring step
+scoring system
+screening
+screening studies
+screens
+segregation analysis
+selected studies
+selection of a drug for clinical use
+self -
+self - designed nested PCR
+self - report
+self - report data
+self - reported
+self - reporting
+self - reports
+semi - structured qualitative interviews
+sensitivity
+sensitivity analysis
+sequenced
+serial passages
+seroepidemiological study
+seroprevalence
+seroprevalence studies
+sham
+sham training
+shape deformation analysis
+short - lag lab experiments
+shotgun metagenomic sequencing
+shotgun metagenomics
+significance level
+silenced
+silico analyses
+silico analysis
+simple random sampling
+simulate
+simulated
+simulating
+simulation
+simulation study
+simulations
+simulator
+single
+single - arm
+single - blind
+single - blinded
+single - blinded , cross - sectional study
+single - center nonrandomized controlled clinical trial
+single - center retrospective study
+single - center study
+single - institution analysis
+single - institution studies
+single - pulse transcranial magnetic stimulation
+single - slice studies
+single cell gel electrophoresis
+single center study
+single multiplexed experiment
+single study
+site - specific knock - in
+situation analysis
+six - phase thematic analysis
+small area level
+small group semistructured interviews
+smoking outcomes
+snowball sampling
+snowballing techniques
+sociodemographic characteristics
+solution - phase peptide synthesis
+sonication
+source analysis
+spatial - temporal structure information
+spatial analysis
+spatial data
+spatio - temporal
+spatio - temporal distribution
+spatio - temporal dynamics
+spatiotemporal
+spatiotemporal correlation
+spatiotemporal dynamics
+spatiotemporal parameters
+spatiotemporal scales
+spatiotemporally
+specific multiplex ligation - dependent probe amplification
+specific studies
+spectroscopy
+splicing
+split - colony design
+split - signal fluorescence in situ hybridization
+stable isotope analyses
+stable isotope analysis
+stand - alone preselecting tool
+standard cross - correlation method
+standard therapy controlled
+standardisation
+standardisation of the treatments
+standardised analysis plan
+standardization
+standardize
+standardized
+standards
+state anger measurement
+statistical approaches
+statistical association
+statistical framework
+statistical method
+statistical methods
+statistical power
+statistical technique
+statistical techniques
+statistical tools
+statistics
+stem cell research
+strategies
+strategy
+stratification
+stratification analyses
+stratification analysis
+stratification by age
+stratified analysis
+stratified by individual clinic
+stratified random cluster sampling method
+stratified random sample
+stratified random sampling
+stratifying
+structural analysis
+structural studies
+structured analyses
+structures ( DARS ) study
+studied
+studies
+studies .
+studies were observational
+study
+study 's
+study ,
+study design
+study designs
+study drug
+study goals
+study methodologies
+study of genes
+study on drug loading
+study period
+study population
+study retrospectively
+study success
+study the epidemiology
+study treatment
+study treatments
+study type
+studying
+sub - experiments
+subanalyses
+subanalysis
+subgroup analysis
+subjects
+subjects reporting
+subset
+substudy
+successive panel
+suitable studies
+super - SILAC strategy
+surface display system
+surface plasmon resonance
+surface plasmon resonance studies
+surveillance methods
+surveillance program
+surveillance programs
+survey
+survey - based model
+surveys
+survival
+survival analyses
+survival analysis
+survival studies
+swine studies
+synthetic
+synthetic approach
+synthetic delivery systems
+systematic analysis
+systematic evolution of ligands by exponential enrichment
+systematic meta - analysis
+systematic random sampling strategy
+systematic search
+systematic studies
+systemic
+tactical cluster
+tandem mass spectra
+tandem mass spectrometric - based methods
+tandem mass spectrometric analysis
+tandem mass spectrometry
+target gene prediction
+targeted gene transfection
+targeted introduction
+targeting
+targeting fimA gene
+technically validated
+technique
+techniques
+technologies
+telephone
+telephone interviews
+temporal validation
+ten - week period
+terminal deoxynucleotidyl transferase - mediated dUTP nick end labelling
+test - retest
+test - retest learning
+test - retest repeatability
+testing
+thematic
+thematic analysis
+thematic analytic
+theoretical
+theoretical critique
+theoretical foundation
+theoretical framework
+theoretical studies
+theoretical study
+therapeutic retrospective cohort study
+thermodynamic analysis
+this trial
+three - arm randomized controlled trial
+time - course analysis
+tolerability
+tools
+trace study
+tracing experiments
+traditional methods
+transcriptomics
+transects
+transfected
+transfection
+transform
+transformation
+translation
+translational research
+translational study
+translational trials
+treatmen
+treatment arm
+treatment study
+treatment trials
+tree - ring dating
+trial
+trial protocol
+trials
+tumor biology
+two - arm
+two - armed experiment
+two - hybrid assays
+two - point addition strategy
+two - step cluster analysis
+two electrode voltage clamp experiments
+ultrasonication
+unadjusted analyses
+unbiased
+unblinded , randomized , controlled clinical trial
+unconditional logistic regression
+understudied
+unidentified studies
+univariate logistic regression
+unweighted pair group method
+vPCR
+vaccine development
+validate
+validated
+validated matrix
+validates
+validating
+validation
+validation analyses
+validation by Nanostring
+validation studies
+validation study
+validations
+violations
+virtual modelling
+virtual screening
+voltage - clamp technique
+web - based study
+whole - cell patch - clamp technique
+whole - cell recordings
+whole - genome sequencing
+whole cell recordings
+whole exome sequencing
+whole genome sequencing
+work
+wzc PCR
+wzc polymerase chain reaction
+yeast one - hybrid
+yeast system
+yeast two - hybrid
+youth self report
+zymography

@@ -1,0 +1,7375 @@
+" M1 " macrophages
+" M2a " macrophages
+" M2c " macrophages
+' T ' allele
+( * ) 1
+( * ) 2
+( * ) 3
+( 111 ) In - labeled cells
+( A549 )
+( AIS
+( BM )
+( BMSC )
+( FTO ) gene
+( M1 ) macrophages
+( M2 ) macrophages
+( M2c ) macrophages
+( N ) genes
+( PFC )
+( RV ) free wall
+( Sgk1 )
+( TNF ) ( - α - ) ( PC ) MSCs
+( TNF ) ( - α - PC ) MSCs
+( Th17 ) cells
+( VPI ) - 1
+( d ) - SMAC
+( fat ) body
+( miRNA ) - 183
+( tv ) 1
+( uORFs )
+-2
+-7
+-9
+/ ( * ) 1
+0 to 2 vertebral segments
+1
+1 ( + / - )
+1 - aminocyclopropane - 1 - carboxylate ( ACC ) synthase
+1 vertebral segment
+1038delG
+11q22 .
+125a - 3p
+130b - 3p
+135b - 3p
+14 ZmNF - YA
+146a - 5p
+155 - 5p
+1562 T allele
+15q11q13
+16S rDNA
+16S rRNA gene sequence
+16S rRNA gene sequences
+16S rRNA genes
+16p11 .
+16s rRNA gene
+18 ZmNF - YB
+186 - 5p
+187
+18S alleles
+18S rRNA
+18S rRNA gene
+19 cells
+196b - 5p ,
+19S regulatory particle
+19p13 .
+2
+203
+210
+212 - 3p
+216b
+217
+22 .
+22 Mb region
+222
+222 - 3p
+222 - 5p
+22Rv1 cells
+22q11 .
+22q13 regions
+22→q11 . 21 : : )
+23a - 3p
+280A > T , I94F )
+293 ( HEK )
+2nd metatarsal head
+2q13
+3
+3 - hydroxy - 3 - methylgutaryl - coenzyme A reductase
+3 .
+3 cells
+31
+31 - 5p
+3110043O21Rik
+34a - 5p
+34c - 5p
+360 bases of full - length α1 ( I ) collagen
+37 Mb region
+39S
+3H
+3T3
+3T3 - F442A cells
+3T3 - L1 adipocytes
+3T3 - L1 cells
+4
+4 . 0 - Mb genome
+4 loci
+451
+492
+4B
+4T1
+4T1 breast tumour tissues
+4T1 cells
+4T1 mammary carcinoma cells
+5
+5 - HTR2A gene
+50 ZmNF - Y
+53BP1
+58I > V
+5th metatarsal head
+614
+7
+7 cells
+7 macrophage
+7 macrophage cells
+7 macrophages
+7 murine cell line
+7B
+8p11 . 21
+8q11 . 21
+8q24
+93 - 3p
+A allele
+A0 / 94 - 32
+A101
+A101 allele
+A102
+A1298C
+A172
+A2780
+A2AR
+A312 Allele ( c . 280A > T )
+A312 alleles
+A549
+A549 cell lines
+A549 cells
+A549 lung epithelium cells
+A986S variant
+AA allele
+AA alleles
+AASDHPPT
+ABCA1
+ABCB11
+ABCB4
+ABCG1
+ABCG5 / 8
+ABO
+ABO * A312 allele
+ABO * A312 allele ( c .
+ABO gene
+AC
+AC16 cells
+ACC
+ACC oxidase
+ACL
+ACL femoral footprint
+ACO
+ACS
+ADAM22
+ADH7
+ADM
+ADPKD
+ADSCs
+AEC
+AGPAT6
+AIIS
+AIS
+AKR1C1
+AKR1C3
+AKT1
+AKT2
+ALCAM gene
+ALK
+ALK ( G1202R )
+ALP
+ALP genes
+AMBN
+AME
+AMELX
+AML12 murine hepatocytes
+AMPKα1
+ANP
+AOX1
+AP2 / EREBP
+APC
+APC gene
+APCs
+APOBEC3A / B
+APRIL gene
+AQP5
+AR
+ARHGAP6
+ARM
+ASC
+ASCs
+ASH1
+ASIS
+ASL gene
+ASM
+AT
+AT allele
+ATCC CRL - 1711 lot 58078522
+ATCC CRL - 1711 lot 5814
+ATF2
+ATF3
+ATG - 5
+ATG13
+ATG7
+ATGL
+ATOH1
+ATP5A1
+ATs
+AVF
+AVFs
+AVM
+Abcb4
+Abcb4 gene
+Abdominal Fat
+Abdominal Subcutaneous Adipose Tissues
+Abdominal Wall
+Abdominal fat
+Abutment
+Achilles tendon
+Activin
+Activin A genes
+Adipocyte
+Adipocytes
+Adipogenic
+Adipose
+Adipose - derived human MSCs
+Adipose - derived stromal cell ( ASC )
+Adipose Tissue
+Adolescent Idiopathic Scoliosis
+Adrenal
+Adrenal Medulla
+Aerobactin
+Agenesis
+AhR rs2066853
+Airway
+Akt2
+Allele
+Allelic
+Alveolar Bone
+Anal stricture
+Anatomical
+Anatomical Variants
+Anatomical features
+Anatomy
+Angptl4
+Angptl4 - / -
+Annular Pancreas
+Antennal Sensilla
+AoD
+Aortic
+Aortic segments
+Apc
+Apc ( + / 1638N )
+Apc ( Min / + )
+Apert syndrome
+ApoB
+ApoB X ( + )
+ApoB X ( + ) X ( + )
+ApoB genes
+ApoE
+ApoE ( - / - )
+ApoE E3 allele
+ApoE E4
+ApoE genes
+ApoE2 allele
+Apoe
+Apoe ( - / - )
+Appendiceal
+Appendicular
+Appendix
+Argonaute - 2
+Arteriovenous fistulas
+Aryl hydrocarbon receptor ( AhR ) rs2066853
+Ascendan aorta
+Ascl1
+Ascl1 Gene
+Associated with VACTERL
+Astrocyte
+Astrocytes
+AtFAR2 ( MS2 ) gene
+Atg16L1
+Atg16l1
+Atoh1
+Auricular Cartilage
+Autophagosomes
+Axillary Artery
+Axons
+Aδ
+Aδ fibers
+B
+B ( rs10811661 )
+B - cell
+B - lymphocyte
+B - lymphocytes
+B cells
+B genes
+B genome
+B lymphocytes
+B0 / W148
+B16 .
+B3GAT1
+BA 13
+BACH1
+BACH2
+BACH2 Gene
+BACH2 gene
+BAECs
+BAP1Δ
+BAT
+BAX
+BBB
+BC
+BCCP2
+BCCs
+BCL2
+BCL2 - associated X protein
+BCOR
+BCR
+BCR - ABL
+BDH2
+BDNF
+BDNF - related mRNA
+BDNF genes
+BDNF mRNA
+BDNFOS
+BEAS - 2B Cells
+BEAS - 2B cells
+BEL - 7402
+BHK - 21 cells
+BI
+BJAB cells
+BL cells
+BL21 ( DE3 ; pLysS ) cells
+BLA
+BM
+BMC
+BMCs
+BMECs
+BMI1
+BMP2
+BMSC
+BMSCs
+BN
+BNDFOS
+BNP
+BOE
+BORA
+BPH1
+BPH1 / 9
+BPH1 / 9 - 1
+BPH9
+BRAF
+BRCA1
+BRCA1 genes
+BRL - 3A
+BRL - 3A cells
+BSP
+BT - 474
+BTEC
+BV - 2 Microglial Cells
+BV - 2 cells
+BV - 2 microglia cell line
+BV - 2 microglia cells
+BV - 2 microglial cells
+Bachmann 's bundle
+Basilar Invagination
+Bax
+Bcl - 2
+Bcl - 2 - family protein
+Bcl - 2 mRNA
+Bcl - 6
+Beas - 2B cells
+Beclin - 1
+Bilateral Empty Scrotum
+Bile Ducts
+Biliary
+Bioptic Specimens
+BlaCTX - M
+Bladder
+Blastocysts
+Blood - Brain Barrier
+Blood Vessels
+Blood eosinophils
+Blubber
+Body structures
+Bone
+Bone Marrow
+Bone Marrow - Derived
+Bone marrow
+Bone mesenchymal stem cells
+Bone microstructure
+BrRZ1
+BrRZ2
+BrRZ3
+Brain
+Brain Arteriovenous Malformations
+Brain Herniation
+Brain Regions
+Brain Tissue
+Brains
+Brassica B genome
+Breast Cancer Cells
+Breast cancer cells
+Brg1
+Bronchobiliary fistulas
+Brown Adipose Tissue
+Brown adipose tissue
+Bucco - lingual
+C
+C - MYC
+C - Myc
+C - Reactive Protein ( rs1205 )
+C - fibre
+C / EBPα
+C / EBPβ
+C allele
+C1 and C2 vertebral
+C2
+C2 pedicles
+C2C12
+C2C12 - GFP
+C2C12 cells
+C2C12 myoblasts
+C4BP - deficient
+C5
+C5 gene
+C6 glioma cells
+C677 T
+C7 spinous process
+C7SP
+C9orf72
+C9orf72 gene
+CA
+CA abnormalities
+CA abnormality
+CA1 pyramidal cell synapse
+CA1 pyramidal cell synapses
+CA1 pyramidal cells
+CA3 cells
+CA3 neurons
+CA3 pyramidal cells
+CAC
+CACs
+CAH gene
+CAPN3
+CAR8
+CART
+CB
+CB1
+CB1 receptor
+CB1 receptors
+CBs
+CC
+CC398
+CCA1 gene
+CCAAT sequences
+CCL2
+CCL2 gene
+CCND1
+CCND3
+CCNDBP1
+CCNEI
+CCR2
+CCR6 + CCR4 + Th17 cells
+CCR6 - CCR4 + Th2 cells
+CCR6 - CXCR3 + Th1 cells
+CD105HS27
+CD105HS27 genomes
+CD11b + cells
+CD133 + bone marrow mononuclear cell
+CD133 + bone marrow mononuclear stem cell
+CD133 + cell
+CD14 ( + ) CD16 ( + )
+CD14 ( + ) CD16 ( + ) monocytes
+CD14 ( + + ) CD16 ( + )
+CD14 ( + + ) CD16 ( + ) monocytes
+CD14 ( + + ) CD16 ( - )
+CD163
+CD169
+CD169 ( + ) CD8 ( + ) T cell
+CD169 ( + ) CD8 ( + ) T cells
+CD169 ( + ) Mϕ
+CD177
+CD177 ( + )
+CD177 ( - )
+CD177 ( - / - )
+CD24
+CD24 negative
+CD25 +
+CD25 + T - cell
+CD3 ( + ) T cells
+CD3 genes
+CD34 ( + ) CACs
+CD34 ( + ) circulating angiogenic cell
+CD34 ( + ) circulating angiogenic cells
+CD36
+CD4
+CD4 ( + )
+CD4 ( + ) CD25 ( + ) CD127 ( - ) Foxp3 ( + )
+CD4 ( + ) CD25 ( + ) CD127 ( - ) Foxp3 cells
+CD4 ( + ) CD25 ( + ) CD127 ( - ) cells
+CD4 ( + ) Foxp3 ( + )
+CD4 ( + ) Foxp3 ( + ) cells
+CD4 ( + ) T
+CD4 ( + ) T - cell
+CD4 ( + ) T cell
+CD4 ( + ) T cells
+CD4 ( + ) memory T cells
+CD4 +
+CD4 + CD25 + CD127 - Foxp3 +
+CD4 + T Cells
+CD4 + T lymphocytes
+CD4 + T regulatory
+CD4 + cells
+CD4 -
+CD4 T cell
+CD4 T lymphocytes
+CD40
+CD44
+CD44 +
+CD44 positive
+CD45 ( + )
+CD45 ( + ) CD15 ( + )
+CD45 ( + ) CD15 ( + ) cells
+CD49f
+CD5 +
+CD5 Positive
+CD54
+CD8
+CD8 ( + )
+CD8 ( + ) Cells
+CD8 ( + ) T - cell
+CD8 ( + ) T Cells
+CD8 ( + ) T cell
+CD8 ( + ) T cell populations
+CD8 ( + ) T cells
+CD8 ( + ) T lymphocytes
+CD8 ( + ) T splenic lymphocytes
+CD8 ( + ) memory T cells
+CD8 +
+CD8 + T
+CD8 + T - cell
+CD8 + T cell
+CD8 + T cells
+CD8 + and subsets of CD4 + T cell
+CD8 + cells
+CD8 -
+CD8 T cell
+CD8 cells
+CD82
+CD83
+CDH1
+CDH23
+CDKAL1
+CDKAL1 ( rs7754840 , rs7756992 )
+CDKIs
+CDKN1A
+CDKN1C
+CDKN2A
+CE
+CETC
+CETCs
+CFTR
+CFTR gene
+CGE
+CGE compartments
+CGRP
+CHD
+CHD - PAH
+CHD7
+CHIP
+CHL1
+CHO Cells
+CHO cell lines
+CHO cells
+CHRNA3
+CHRNA5
+CHRNB4
+CIKs
+CKIP - 1
+CKIP - 1 P21A
+CKIP - 1 rs2306235
+CLEC - 2
+CLH
+CM
+CMs
+CNE - 2 cells
+CNE - 2R
+CNE - 2R cells
+CNLCs
+CO1
+COCs
+COI
+COI gene
+COL1A
+COL1A1
+COL2A1 gene
+COL3A1
+COL4A3
+COL4A3 ( rs55703767 )
+COLIα1 gene
+COS - 7 cells
+COX - 2
+COX genes
+CPC
+CPCs
+CRC cells
+CREB1
+CREBBP
+CRH
+CRISPR - Cas9
+CRISPR - Cas9 genome
+CRP SNP rs1205
+CRP gene
+CRP genetic variation rs1205
+CRP rs1205
+CRTH2
+CS
+CS diverticula
+CS31a
+CSC
+CSC phenotypes
+CSC traits
+CSCs
+CT
+CT - 26 - high cells
+CT - 26 - high tumor
+CT muscle
+CT26 cells
+CT26 spheroids
+CTC
+CTC clusters
+CTC s
+CTC1
+CTCs
+CTGF
+CTL
+CTLA - 4
+CTLA4
+CTLL - 2
+CTLL - 2 cells
+CTLs
+CTNNB1
+CXCL1
+CXCL5
+CXCR5
+CYP11B2
+CYP17A1
+CYP19A1
+CYP21A2
+CYP2C19
+CYP2C19 ( * ) 1
+CYP2C19 ( * ) 2
+CYP3A5 gene
+CYP3A5 genes
+CYP703A2
+CYP703A2 gene
+CYP79B2
+CYP8B1
+CYPs
+Ca ( 2 + ) channel Orai1
+CaSR gene
+Caco - 2
+Cadaver
+Cadaveric
+Cajal bodies
+Cam734
+Cam734 pfcrt
+Canalicular
+Cancer Cell Lines
+Cancer Cells
+Cancer Stem Cell
+Cancer Stem Cells
+Cancer cells
+Cancer stem cell
+Cancer stem cells
+Capsids
+Carbon Assimilation Rate 8
+Carcinoma Cells
+Cardiac
+Cardiac Progenitor Cells
+Cardiomyocyte
+Carotid
+Cas9
+Cas9 gene
+Caspase9
+Caveolae
+Cavernosal
+Cavitary Optic Disc
+Cavitary optic disc
+Cdkn1a ( p21 )
+Cdt1
+CeA
+Cell
+Cell Line
+Cell Types
+Cell Wall
+Cell immobilization
+Cell wall
+Cells
+Cerebellar
+Cerebral
+CgNav1
+CgNav1A
+CgNav1B
+CgNav1C
+CgNav2
+Chest
+Chinese hamster ovary ( CHO ) cells
+Chloroplast
+Chloroplast Genome
+Chondrocyte
+Chondrocytes
+Choriocapillaris
+Chorionic Villi
+Chorionic villi
+Choroidal
+Chr05
+Chr09
+Chr10
+Chr14
+Chr19
+Chr20
+Chromaffin Granules
+Chromosomes
+Chronic Myelogenous Leukemia cells
+Circulating progenitor cells
+Circulating tumor cells
+Clonal
+Clonal complex 398
+Cloned and sequenced gene part
+Clones
+Cluster
+Co - culture
+CoWRI1
+Col6A1
+Col6A3
+Collagen fibers
+Colon
+Colonic
+Colonic acute malignant obstructions
+Colons
+Colony
+Complement Component 5
+Compound Tissue
+Congenital C2 - C3 Fusion
+Congenital Heart Disease
+Congenital anomalies
+Congenital cataract
+Conjunctival Cells
+Conserved Genes
+Contractile Vacuole
+Corneal
+Corneal Epithelial
+Coronary
+Coronary Artery
+Coronary segments
+Corpses
+Corpus Cavernosum
+Cortex
+Cortical
+Cortico - Basal Ganglia
+Corticothalamic
+CrCL
+Cre
+Cre line
+CreER ( T2 )
+Crown
+Cryptoglandular
+Ctc1 - Stn1 - Ten1 complex
+Ctnnb1
+Cultured Epidermal
+Cultured skin cells
+Cumulus
+Cyp11b2
+Cystatin Genes
+CytB
+Cytoplasmic
+Cytosolic
+D
+DA neuron
+DA neurons
+DAPK1
+DBs
+DC
+DC precursor ( pre - DC ) cells
+DCL2
+DCL4
+DCV
+DCVs
+DCs
+DDH
+DDX43
+DEGs
+DENN / MADD
+DFAs
+DG
+DLS
+DMD
+DMFT
+DMT1
+DNA double strand break ( DSB ) foci
+DNA foci
+DNA samples
+DNMT - 1
+DNMT - 3A
+DNMT1
+DPSC
+DPSCs
+DPYD
+DPYS
+DQB1 * 02 alleles
+DRDR
+DRG
+DRG1
+DRGs
+DRN
+DRibbles
+DS
+DSB - foci
+DSB foci
+DTH8
+DU145 cells
+DUB3
+DVS
+DVSs
+DXS10103 - HPRTB - DXS10101
+DXS10148 - DXS10135 - DXS8378
+DXS10159 - DXS10162 - DXS10164
+DXS6789 - DXS6809
+DXS7132 - DXS10079 - DXS10074 - DXS10075
+DXS7423 - DXS10134
+DXS7424 - DXS101
+DYSF
+DYSTROPHIN
+Dbn1
+Dd2
+Decomposing Bone
+Deep Gray Matter
+Deformations
+Dendritic Cell
+Dendritic cells
+Dendritic spines
+Dense - Core Vesicles
+Dense - core vesicles
+Dermal
+Developmental Dysplasia of the Hip
+Diabetogenic CD8 ( + ) T - Cell Effector
+Digestive Vacuole
+Digital
+Distinct cortical and sub - cortical neurogenic domains
+Dopamine Neurons
+Dracula tooth
+Draft Genome
+Dural
+Dural Arteriovenous Fistula
+Dural Venous Sinus
+E2
+E4
+EAT
+EBV - transformed B cells
+EC
+EC - 1 cells
+ECF - type ABC transporter
+ECM
+ECs
+EDL
+EEF1A1
+EFs
+EGFP
+EGFR
+EGFR - mutant cells
+EIP
+ENAM
+ENO1
+ENR
+ER
+ER - α positive cells
+ER membrane
+ERBB2
+ERBB2mut
+ERCC1
+ERCC1 - 118
+ERCC6L2 gene
+ERF
+ERG
+ERM
+ES cell
+ESC
+ESC - derived
+ESCs
+ESM1
+ESS - 1
+ESS - 1 cells
+ESVs
+ETC
+ETCs
+ETS
+ETV1
+ETV6
+EV
+EV populations
+EVs
+EWSR1
+EWSR1 - FLI1
+EXOSC6
+EZH2
+EZH2 gene
+Ectopic thyroid
+Ednra
+Ednrb
+Efflux - encoding mefA
+Eggs
+Egr2
+Embryo
+Embryonic
+Endometrial
+Endoplasmic reticulum
+Endosomal
+Endothelial
+Endothelial Cells
+Endothelial cells
+Endothelium
+Enterocyte
+Eosinophil FOXP3
+Eosinophils
+Epcam
+EpiStem cells
+Epicardial adipose tissue
+Epithelia
+Epithelial Cells
+Epithelial Progenitor Cell
+ErbB3
+Ethe1
+Ets variant 6
+Eukaryotic cells
+Exosome
+Exosomes
+Extensor indicis proprius
+Extracellular
+Extracellular Matrix
+Extracellular matrix
+Extracellular vesicles
+Eye
+Eyelid
+Eyes
+F
+F4 / 80 ( + )
+F5
+FA - treated cells
+FABP4
+FAM83H
+FASDs
+FATA
+FBXW7
+FBs
+FC
+FCGR
+FCGR genes
+FCGR2A
+FCGR2B
+FCGR2C
+FCGR3A
+FCGR3A genes
+FCGR3B
+FCR
+FCT
+FDCs
+FECH
+FEF
+FFPE pancreatic tissue
+FFPE samples
+FG
+FGFR1
+FGFR3
+FH
+FHL1
+FL
+FL cells
+FL83B cell
+FL83B cells
+FLNA
+FNTA
+FOXP1
+FOXP3
+FPGT
+FSHR
+FTO
+FTO allelic variants
+FTO gene
+FTO variants
+FXRα
+FZD9
+FZD9 gene
+Factor UPF3
+Fallopian Tube
+Fascicles
+Fc - γRIIA
+Fc gamma receptor IIA
+Fe - S
+Fe - S Cluster
+Fe - S cluster
+Fe - S cluster assembly
+Fe - S clusters
+Fech
+Fech gene
+Female Genital Tract
+Femoral
+Femoral Arteries
+Femoral Artery Sheath
+Femur
+Fetal
+Fetal Adrenal
+Fetal alcohol spectrum disorders
+Fetal prostate epithelial cells
+Fetuses
+Fh1
+Fibroblasts
+Fila
+Finger
+Fistulas
+Flap
+Flap D
+Flaps
+Flexor Pollicis Longus Tendon
+Fmr1
+Focal Adhesion
+Foci
+Follicles
+Follicular
+Follicular dendritic cells
+Footpad
+Forefoot structure
+Foxp3 ( - )
+Fresh tumor - draining LN tissues
+Fsp - Cre
+Functional Regulator
+Fungal Structures
+Fusiform aneurysms
+G
+G allele
+G genes
+G protein - coupled receptor kinase ( GRK ) 2
+GABA interneuron
+GABAergic
+GABAergic cells
+GABAergic interneurons
+GABAergic neurons
+GADD45A
+GATA - binding protein 4
+GATA3
+GATA4
+GC03
+GCC
+GCIPL
+GCLM
+GDPD5
+GEBV
+GES - 1 cells
+GEnC
+GFER
+GFP - marked population
+GG
+GH3
+GH3 cells
+GJB1
+GJB2
+GLUT1
+GM
+GN11 cells
+GNAS
+GOLGA4
+GOLGA7
+GOX
+GOX genes
+GPC1
+GPDH
+GRB10
+GRB10 genes
+GRB10 rs2237457
+GRIM - 19
+GRK3
+GRK6
+GRP78
+GSC
+GSCs
+GT
+Ganglion Cell
+Gastroepiploic
+Gcg
+Gcg - CreER ( T2 )
+Gcg - CreER ( T2 ) mouse line
+GdDMC1A
+GdDMC1B
+Gdf5
+Gene
+Gene Cluster
+Gene Variant
+Gene set
+Genes
+Genetic
+Genome
+Genome - wide
+Genome Type
+Genome type
+Genomes
+Genomic
+Genomic EBV
+Germ Cells
+Ghd8
+Giant
+Gilz
+Gingiva
+Gingival facial surface
+Gland
+Gli2
+Glia
+Glucagon
+Glucagon - Cre
+Glucagon - CreER " knock - in " mouse line
+Glucagon - CreER ( T2 ) mouse line
+Glucagon - CreER mouse line
+Glucagon - CreER transgenic mouse lines
+Glyma . 15G227500
+GmCYS16
+Golgi
+Golgi apparatus
+Gonadal
+Graft
+Grafts
+Granule Cells
+Granule cells
+Gray Matter
+Gray matter
+Group III / IV muscle
+Grpr - Cre
+Grpr - Cre cells
+Grpr - Cre mice
+Gut
+H1299
+H1299 cells
+H19
+H3K27ac
+H3K27me3
+H3K4me3
+H3K9me1
+H460
+H460 cells
+H4IIE cells
+H5 subtype hemagglutinin gene
+H69
+H69 cells
+H7N8 - like gene segments
+H9c2 cell
+H9c2 cells
+HA
+HAND2
+HAS2
+HAS3
+HAoSMCs
+HBE
+HBE cells
+HC
+HCT - 116
+HCT - 116 cell lines
+HCT - 116 cells
+HCT 116
+HCV - infected
+HCV -infected
+HCs
+HD
+HDAC - 1
+HDAC2
+HEK
+HEK - 293 cells
+HEK - WT
+HEK 293 cells
+HEK RyR3 cells
+HEK cells
+HEK293
+HEK293 T
+HEK293 cell
+HEK293 cells
+HEPG - 2
+HEPG2
+HER2
+HERC2
+HERG1
+HEY2
+HEp - 2
+HEp - 2 cells
+HHEX
+HHEX ( rs1111875 , rs7923837 ) genes
+HHEX gene
+HIF - 1α
+HIF1A
+HIF1A mRNA
+HIF1α
+HINT1
+HL - 1 cardiomyocytes
+HL - 60
+HL - 60 cell lines
+HL - 60 cells
+HL60
+HLA - A * 02
+HLA - A * 02 - NLV
+HLA - A * 02 allele
+HLA - B * 50 allele
+HLA - DRB1
+HLA - DRB1 * 14
+HLB
+HLBs
+HLE cells
+HLM
+HLMs
+HMEC
+HNF4 G gene
+HNF4α genes
+HO1
+HOXB13
+HOXB13 gene
+HOXB3
+HPV - 11 L1
+HRECs
+HSC
+HSC - T6
+HSC - T6 cells
+HSCs
+HSPC
+HSPCs
+HT - 29
+HT29
+HT29 cells
+HTLTC
+HUVEC
+HUVECS
+HUVECs
+HaCaT
+HaCaT cells
+Hair Cells
+Haversian system
+HeLa
+HeLa - WT
+HeLa cells
+HeLa wild - type
+Heart
+Hearts
+Hela
+Helper T Cell
+Hematopoietic Cell
+Hep3B cells
+HepG2
+HepG2 cell
+HepG2 cell line
+HepG2 cell lines
+HepG2 cells
+Hepatic Stellate Cells
+Hint1
+Hip
+Hippocampal
+Hippocampus
+Hirschsprung disease
+Histidine triad nucleotide - binding protein 1
+Hmg1
+Hmgcr
+Host Cell
+Hoxa9
+Hoxd13
+Hoxd13 gene
+HuH7
+Huh - 7 . 5
+Huh - 7 . 5 cells
+Huh - 7 / hNTCP cell culture
+Human ESC
+Human Hepatoma HepG2 Cells
+Human Promyelocytic Leukemia cells
+Human amniotic epithelial ( FL ) cells
+Human pluripotent stem cells
+Human umbilical vein endothelial cells
+Huntingtin
+Hv - eIF4E gene
+Hyal - 2
+Hypertrophic Scar
+Hypertrophic scars
+I allele
+I2012 T
+IAN
+IAT
+IBs
+IC
+ICAD
+ICAM - 1
+ICAM - 1 ( - / - )
+ICM
+ID3
+IFJ
+IFN
+IFN - α
+IFN - β
+IFN - γ
+IFN - γ gene
+IFV particles
+IGF - 1
+IGF - 1R
+IGF2
+IGF2 rs3741205
+IGF2 rs3741211
+IGF2BP2
+IGF2BP3
+IGF2R
+IGFBP5
+IGFBP5 gene
+IGH locus
+IGHG alleles
+IGHG amino acid ( AA ) alleles
+IGHG gene
+IGHG genes
+IGHV
+IGMT1
+IHD
+II
+II alleles
+IJV
+IJV abnormalities
+IKBKG
+IL
+IL - 10
+IL - 10 gene
+IL - 10R ( KO )
+IL - 13
+IL - 15
+IL - 15 ( + )
+IL - 15 gene
+IL - 15 mRNA
+IL - 17
+IL - 18
+IL - 1A
+IL - 1B
+IL - 1β
+IL - 1β gene
+IL - 21
+IL - 28
+IL - 28B
+IL - 28B rs12979860CC
+IL - 28RA
+IL - 29
+IL - 33
+IL - 37
+IL - 4
+IL - 4 gene
+IL - 4 rs2243250
+IL - 6
+IL - 8
+IL10
+IL10 gene
+IL12B
+IL17RA
+IL18
+IL1RN
+IL6
+ILC
+ILC2s
+ILM
+INL
+IPEC - J2
+IPRLu
+IQGAP1
+IRAB
+IRAK4
+IRF4
+IRF4 ( hi )
+IRF4hi
+IS
+ISC
+ISC system
+ISPD
+IT
+ITPR3
+ITPR3 gene
+IV
+IVC
+IVD
+IVS
+IVS4 + 919G > A
+Iba - 1 - positive cells
+Ifng
+Iliac crest
+Immobilized
+Immune cells
+Imprinted Loci
+Inferior Alveolar Nerve
+Inflammatory Cell
+Innate Lymphoid Cells
+Inner Ear
+Inner Plexiform Layer
+Inner ear
+Inositol 1 , 4 , 5 - triphosphate receptor type 3
+Interferon gamma
+Interlabial
+Interleukin 10 ( IL10 ) genes
+Intersphincteric
+Intestinal
+Intestine
+Intimal Flap
+Intra - abdominal Testes
+Intracoronary
+Intracranial Arterial Dissection
+Intrahepatic Bile Ducts
+Intrahepatic bile duct
+Irritation Fibroma
+Irritation fibromas
+Isolated cleft
+J774 .
+JAK2
+JBMMSC
+JBMMSCs
+JCT
+JEKO cells
+JK * B allele
+JK * B allele c .
+Jak1
+Jaw bone marrow mesenchymal stem cell
+Jaws
+Jka / Jkb
+Joint contracture
+Jurkat
+Jurkat cell line
+Jurkat cell lines
+K - 562 target cells
+K562
+K562 cells
+KASI
+KAT6A
+KB
+KCNH2 gene
+KCNQ1
+KCNQ1 Gene
+KCNQ1 gene
+KCNQ1OT1
+KIAA0101
+KIT
+KIT genes
+KLF5
+KLK4
+KRAS
+KRT20
+Kat2a gene
+Keratinocytes
+Ketr3
+Ki - 67
+Ki67 ( + ) CD4 ( + ) CD25 ( + ) Foxp3 ( + ) Treg cells
+Kidins220
+Kidney
+Kir2 .
+Kiss1
+Knee
+Knees
+Kruppel - like factor 5
+L
+L - 929 cell lines
+L - Type Calcium Channel Complex
+L .
+L gene fragment
+L1
+L2
+L2 / 3
+L2 / 3 pyramidal neurons
+L3
+L4
+L5
+L5 dorsal root ganglion
+L6
+L929
+L929 cells
+LA roof
+LAD
+LAD ostial
+LAD region
+LADR
+LAMA2
+LAMP - 2
+LAPW
+LC
+LCDE
+LCDE cells
+LCT
+LCT - 13910C > T
+LCX
+LD
+LDH
+LDL - R
+LDL - R Gene
+LDL - R gene
+LDLR
+LDLR A ( + ) A ( + )
+LDs
+LGE
+LGR5
+LGR5 ( + )
+LHD
+LHD1
+LHX9
+LIN7C
+LINC00978
+LMCA
+LMNA
+LN
+LNs
+LO
+LO2 cells
+LO2 liver cells
+LPCG
+LRRK2
+LRRK2 gene
+LRRK2 p .
+LS
+LS muscle
+LSC
+LSCs
+LSTG
+LT
+LTis
+LV
+LVOT
+LXRb
+LYZ
+Labelled Cells
+Laryngeal
+Larynx
+Late endosomal
+Lcaudate
+Lck - Cre
+Ldlr
+Ldlr ( - / - )
+Leading Edge
+Leading edge
+Left Anterior Descending Coronary Artery
+Left Ventricle
+Left atrial posterior wall
+Left ventricular
+Leg
+Leg Muscle
+Lepr ( + / + )
+Lepr ( db / db )
+Leucine - rich repeat kinase 2
+Leukocyte
+Leukocytes
+Lewy inclusion bodies
+Lias
+Lias gene
+Liganded
+Limb
+Limb Anomalies
+Lipe
+Lipid Bilayers
+Lipoic Acid Synthase
+Live Cells
+Liver
+Liver Microsomes
+Lobar
+Long noncoding RNA PVT1
+Loose bodies
+Lower - Limb
+Lower Gingiva
+Lower Lip
+Lpl
+LsLIG4 gene
+LsURA3
+Lumbar Pars Interarticularis
+Lung
+Lungs
+Lxrα
+Ly - 6C monocytes
+Lymphoid Organs
+Lysosomal Membrane
+M
+M1
+M1 macrophages
+M1 phenotype
+M120
+M1851V )
+M2
+M2 " macrophages
+M2 macrophage
+M2 macrophages
+M2 phenotype
+M2a macrophages
+M2c macrophages
+MAB _ 0591
+MAD - MB - 231
+MAM
+MAP1b
+MAP2K2
+MARCO
+MAT
+MBD3
+MBD3 genes
+MBW
+MC3T3 - E1 cell
+MC3T3 - E1 cells
+MC3T3 E1 cells
+MCA
+MCAO
+MCF - 10A
+MCF - 7
+MCF - 7 breast cancer cell lines
+MCF - 7 cancer cells
+MCF - 7 cell
+MCF - 7 cell lines of breast cancer
+MCF - 7 cells
+MCF7
+MCs
+MDA - MB - 231
+MDA - MB - 231 cells
+MDA - MB231
+MDA - iMB - 231
+MDBK
+MDBK cells
+MDC1
+MDCK
+MDCK cell
+MDCK cells
+MDCK renal tubular cells
+MDR1
+MDR1 gene
+MDSC
+MDSCs
+MECP2
+MED12
+MEF2C
+MEN1
+MEP
+MEPs
+MES - SA cells
+MESOTHELIAL CELL
+MET
+MF
+MFB
+MFC
+MFs
+MG - 63
+MG - 63 cells
+MG63
+MGC - 803 cells
+MGE
+MH7A
+MH7A cells
+MHC
+MHC Tetramers
+MID1
+MIF -173 G / C
+MIF gene
+MIF gene -173 G / C
+MITA / STING
+MITA / STING - / -
+MLD
+MLH1
+MMA
+MMC
+MMP - 9
+MMP - 9 ( rs17576 )
+MMP - 9 - 1562C > T gene
+MMP1
+MMP11
+MMP13
+MMP20
+MMP8
+MMQ cells
+MNSOD
+MOG
+MP
+MP cells
+MPAs
+MPFL
+MR
+MS
+MS : C Ring Interface
+MSC
+MSCs
+MSG
+MSLN
+MSLN mRNA
+MSLN oligos
+MSTO1 gene
+MT
+MT - COI
+MTF1
+MTHFR
+MTL
+MTL subregion
+MTRNR1
+MTeff
+MYB122
+MYBPC3
+MYC
+MYC gene
+MYC oncogene
+MYPBC3
+Macrophage
+Macrophages
+Macular
+Madin - Darby bovine kidney
+Maf1
+Mammary Gland
+Mandible
+Mandibular
+Mandibular Condyle
+Mandibular dysostosis
+Map3k3
+Mash1
+Mast Cells
+Mast cell
+Mast cells
+Matrix
+Matrix metalloproteinase - 9 Gene - 1562C > T Gene
+Medial Patellofemoral Ligament
+Medial patellofemoral ligament
+Mediator Genes
+Medtr4g128580
+Mef2c
+Mef2c gene
+Mef2d
+Megakaryocyte
+Meis1
+Membrane
+Membranous
+Memory B Cells
+Memory CD4 + T Cells
+Mep1A
+Mero - 14 cells
+Mesenchymal
+Mesenchymal Stem Cell Populations
+Mesenchymal Stem Cells
+Mesenchymal Stromal Cells
+Mesenchymal stem cells
+Mesenchymal stromal cell
+Mesenchymal stromal cells
+Mesenteric artery
+Mesoaccumbal
+Mesothelial cell
+Mesothelial cells
+Mesothelin
+MexAB - OprM
+MiR - 150
+MiR - 211
+MiR - 376c
+MiR - 424 - 5p
+MiR - 4638 - 5p
+MiR - 495
+MiR 221
+MicroRNA
+MicroRNA - 22
+MicroRNA - 27b
+MicroRNA 101b
+Microdontia
+Microglia
+Midbrain
+Middle cerebral artery occlusion
+Mineralized
+Minor physical anomalies
+Mir - 133
+Mitochondria
+Mitochondrial
+Mitochondrial Genomes
+Mitochondrial cox1
+Mitochondrial pyruvate dehydrogenase phosphatase 1
+Mitochondrion
+Mmp1
+Mnk1
+Mobile Tongue
+Molar loss
+Monocyte
+Monocytes
+Morphologic changes
+Mosaic sSMC ( 8 )
+Mossy Cells
+Motoneuronal
+Mouse Cerebral Cortex
+Mouse Embryonic Stem Cells
+Mouse Skin
+MsJhamt
+MsJhe
+MsJheh
+MsVg
+MtXTH genes
+MtXTH3
+MtXTHs
+Mucosal
+Multiple carotid plaques
+Muscle
+Muscles
+Mutant
+MxA
+MyD88
+MyD88 gene
+Myc
+Myc gene
+Myeloid - derived - suppressor cells
+Myeloid - derived suppressor cells
+Myeloid Cells
+Myeloid Lineage
+Myelomeningocele
+Myoblasts
+Myocardial
+Myocardial Tissue
+Mϕ
+N
+N - acetylgalactosamine - sulfate sulfatase gene
+N genes
+N2a cells
+NA
+NACHT , LRR and PYD domains - containing protein 12
+NADPH oxidase subunit Nox2
+NANOG
+NASP
+NAWM
+NAc
+NC
+NCAM1
+NCAM1 gene set
+NCI - H295A cells
+NCI - H929 cell
+ND6 gene
+NEAT1
+NEAT1 / MENϵ / β
+NEAT1 gene
+NEGR1
+NES cells
+NEUROD2
+NEUROD2 gene
+NF - Y gene
+NF - κB ( + ) cells
+NFBD1
+NFBD1 gene
+NHDF
+NIH - 3T3 mouse fibroblasts
+NIH / 3T3 cell
+NIH 3T3
+NIH3T3 cell
+NK
+NK Cells
+NK cell
+NK cells
+NK effector cells
+NKX2 - 2
+NKX6 - 3
+NLR gene
+NLRP3 inflammasome
+NLRP3 inflammasomes
+NMJs
+NNAT
+NORs
+NP
+NPC
+NPC1
+NPC1 ( - / - )
+NPC1 gene
+NPC2 gene
+NPCs
+NPM1
+NPM1 / nucleophosmin
+NPR1
+NPR3
+NPR4
+NPY
+NQ01
+NR2A
+NR2B
+NR3C1
+NRAS
+NRF1
+NRPS genes
+NRPSs
+NRVMs
+NS
+NSC
+NSCs
+NTeff
+NTeff cells
+NTeff populations
+NTs
+Nat1
+Natural killer ( NK ) cell
+Natural killer ( NK ) cells
+Nax
+Nax -
+Naïve
+Nerve cells
+Neural
+Neural Cells
+Neural Networks
+Neural Progenitors
+Neural Stem Cell Line
+Neural Stem Cells
+Neural networks
+Neural progenitors
+Neuron
+Neuronal
+Neuronal ensembles
+Neurons
+Neurovascular
+Neutrophil
+Neutrophils
+Ngn2
+Nigrosome - 1
+Nissl bodies
+Nlrp12
+Nodule
+Nonsyntenic genes
+Nrf2
+Nrg1 ( + / - )
+Nuclear bodies
+Nuclei
+Nucleolar - organizing regions
+Nucleus
+Nucleus Accumbens
+Nucleus Pulposus
+OB
+OC
+OCN
+OCT4
+OCs
+ODC1
+OK
+OMIM genes
+ONH
+ONHs
+ONL
+OPN
+ORF
+ORFs
+OT - I T - cells
+OTX2
+OTX2 homeobox gene
+OUTER RETINAL TUBULATIONS
+OVA
+OVCAR3
+OcRhS1 gene
+OcUER1
+Olr59
+Om
+Omental
+Oncogenic RAS
+Open - Cell Scaffolds
+Optic Nerve Head
+Orai1
+Oral Cleft
+Organelles
+Organoids
+Organs
+Orofacial clefts
+Orthologs
+OsHAP3H
+Outer retinal tubulations
+Ovarian Follicle
+P
+P - gp
+P - selectin
+P - selectin glycoprotein ligand - 1
+P .
+P2X7 receptor
+P2rx7
+P2rx7 + / +
+P2rx7 - / -
+P450scc
+PA
+PAMs
+PAR3
+PAs
+PB1
+PB2
+PBMC
+PBMCs
+PBTTC
+PC
+PC - 3Mcells
+PC - 9 cells
+PC12
+PC12 cell
+PC12 cell system
+PC12 cells
+PC12 pheochromocytoma cells
+PC3
+PC3 cells
+PC3M - luc2
+PC3M - luc2 cell
+PC3M - luc2 cells
+PCA
+PCB
+PCB branches
+PCBs
+PCC
+PCDH10
+PCI - 13
+PCM
+PCNA
+PCOCLE2
+PCSK9
+PCSK9 gene
+PCa cell
+PCs
+PD - 1
+PD - 1 ( hi ) Tim - 3 ( - ) T cells
+PD - 1 ( intermed ) cells
+PD1
+PDGFRA wild
+PDL
+PEG3 genes
+PF
+PFAs
+PFC
+PFC networks
+PFN1
+PFN1 ( H119E )
+PG
+PGC1α
+PGs
+PI3 K
+PIF - controlled genes
+PIF - like gene
+PIK3CA
+PITX2
+PKA complex
+PKA complexes
+PLA2
+PLA2 gene
+PLEC1
+PLOD2
+PLT
+PMBC
+PMCs
+PMS1
+PMS1 gene
+PMS1 genes
+PNs
+POLD1
+POLE
+PON gene
+PON2
+PON3
+POs
+PPARG
+PPAT
+PQ
+PQ muscle
+PRIM1
+PRIM1 gene
+PROK2
+PROKR2
+PROX1
+PRS
+PSCs
+PSD
+PSDs
+PSEN1
+PSGL - 1 ( - / - )
+PSII
+PSIS
+PSSs
+PTEN
+PTPN1
+PTPRD
+PULMONARY ARTERY
+PV
+PVN
+PVT1
+PWS
+Palmar Cutaneous Branch of the Median Nerve
+Pancreas
+Pancreatic
+Pancreatic Acini
+Pancreatic stellate cells
+Paneth cells
+Parasympathetic
+Partial tetrasomy
+Patellar
+Pathology tissue
+Pdp1
+Pdp1 gene
+Pectoralis
+Pedal
+Peg - shaped teeth
+Pelvic Floor
+Pelvis
+Penile Erosion
+Perforant pathway
+Peri - appendiceal
+Peripheral Myelin Protein 22
+Peripheral Myelin Protein 22 ( PMP22 ) gene
+Peripheral Nerve
+Peripheral Nerves
+Peripheral blood mononuclear cells
+Peripheral nerves
+Permanent Premolar
+Peroxiredoxin - 1
+Pgk1
+Phagocytes
+Phagocytic
+Pharyngeal Gland
+Pierre - Robin Sequence
+Pierre - Robin sequence
+Placental
+Placentas
+Plantar fascia
+Plaque
+Plasma Cell
+Plasma Cells
+Plasma Membrane
+Plasma cells
+Plasmablasts
+Plasmalemma
+Platelet
+Platelets
+Pluripotent Stem Cells
+Pmp22
+Pnpla2
+Polyostotic bone
+Pomc
+Popliteal Vein
+Positive Cells
+Posterior Tibial
+Posteroseptal accessory pathways
+Pparγ gene
+Prader - Willi Syndrome
+Prader - Willi syndrome
+Prefrontal Cortex
+Presynaptic
+Presynaptic active zones
+Primary Bone Marrow
+Primary Incisors
+Primary Molar
+Primary Teeth
+ProDH
+ProDH1
+ProDH2
+ProDH2 genes
+Prostate
+Prostatic
+Protein - coding gene
+Protein coding sequences
+Proximodistal limb
+Pseudomonas Putida cells
+Pseudotumor
+Pseudotumors
+Ptch1
+Pten
+Pulmonary
+Pulmonary Artery
+Pulmonary Artery Collaterals
+Pulmonary arteries
+Pulmonary artery
+Pulmonary graft stenosis
+Pulmonary homograft stenosis
+Pupil
+Purkinje cell
+Pyloric Ring
+QTL
+QTLs
+Quadriceps
+Quadriceps muscle
+Quantitative Trait Locus
+Quantitative trait loci
+Queenless subcolonies
+R539 T resistant allele
+RAB22A
+RAB6C
+RAG - 2 ( - / - )
+RAS
+RAW 264 .
+RAW 264 . 7
+RAW cells
+RAW264 .
+RB1
+RBBP4
+RBBP6
+RBC
+RBCs
+RBM38
+RCA
+RCE
+RCE cells
+RCIIs
+RDR1
+REH
+REH cells
+REST
+RET proto - oncogene
+RG2 glioma cell lines
+RG2 tumour cells
+RGC
+RGCs
+RHOA
+RHOH
+RLN
+RNA genes
+RNA host gene 12
+RNA regulators
+RNFL
+ROD
+RORC2
+RORa
+RP
+RP11 - 754D24
+RP11 - 769N21
+RPS2
+RPS27A
+RPSD
+RRM2
+RSC
+RSC96 SCs
+RSC96 Schwann cells
+RTA
+RTEC
+RTL
+RUNX2
+RV
+RV free wall
+RVLM
+RYR1
+RYR2
+RYR2 gene
+Radial Glia
+Raji
+Ramos
+Rat Brain
+Rat Lung
+Rat heart
+Rat hearts
+Raw 264 .
+Rectum
+Red Blood Cells
+Red blood cells
+Regional Odontodysplasia
+Regional odontodysplasia
+Remains
+Remnant
+Renal
+Renal Arteries
+Renalase
+Reptin
+Ret
+Retinal
+Retinal Ganglion Cells
+Retinal ganglion cells
+Retrograde intussusception
+Ribcage
+Ribosome
+Right Ventricular
+Right ventricular
+Ring chromosome 20 syndrome
+Rip3 positive neurons
+Rolandic operculum
+Rosa26 - LSL - YFP locus
+Rumen
+S
+S1
+S100A10
+S100a10
+S6K1
+SAOS - 2
+SAOS - 2 cells
+SAT
+SC
+SCA
+SCB
+SCB tissue
+SCC - 4
+SCC9
+SCC9 cell
+SCC9 cells
+SCMV - CP gene
+SCN5A
+SCN5A - ( p .
+SCP
+SCs
+SERPINA1
+SF
+SFAs
+SGCA
+SGCB
+SGEC
+SGs
+SH - SY5Y cells
+SH - SY5Y neuroblastoma cell line
+SHED - CM
+SHI - 1 cells
+SIRT1
+SIRT2
+SIS
+SKBR3 cells
+SLC26A4
+SLC29A1
+SLC7A11
+SLN
+SLP76 - S376A
+SM
+SMAD3
+SMAD7
+SMCR8
+SMMC - 7721
+SMN1
+SMN2
+SMO
+SMP30 / GNL
+SN
+SNAI1
+SNF5
+SNHG12
+SNHG6
+SNc
+SOL
+SOT16
+SOT17
+SOT18
+SOX10
+SOX2
+SOX5
+SOX5 gene
+SOX6
+SP
+SPARC
+SPE genes
+SPLUNC1
+SPS
+SPs
+SRSF3
+SSM
+SSU rRNA gene
+ST
+ST2
+ST2L
+STA
+STAC3 gene
+STAG3
+STAG3 gene
+STAT3
+STAT5A
+STB
+STN
+STS
+SUB
+SUF system
+SUF systems
+SUMO - targeted ubiquitin ligases
+SUR1
+SV setal
+SVC
+SVZ
+SVs
+SW1353
+SW1353 cells
+SW1353 chondrocyte - like cells
+SW48
+SW480
+SWI / SNF
+SWI / SNF Complex
+SWI / SNF complexes
+SXT / R391 - family ICE
+SYNE1
+SaOS - 2
+SaOS - 2 cell
+Saos - 2
+Saphenous Vein
+Sarcoplasmic
+Sarcoplasmic Reticulum Membranes
+Scar
+Scars
+Schaffer collateral
+Schwann cells
+Sclerenchyma Cells
+Scoliosis
+Sebaceous gland
+Second primary molars
+Secondary Ossification Center
+Secretory Vesicle
+Self - cloning CRISPR / Cas9
+Sella turcica bridging
+Sema3d
+Semimembranosus
+Seminal Vesicles
+Sensitize Breast Cancer Cells
+Sensory neurons
+Sentinel lymph node
+Sertoli cell
+Seventh Cervical Spinous Process
+Sexual organs
+Sf9
+Sf9 L5814 cellular
+Sf9 cells
+Sf9L5814
+Sf9L5814 cells
+Sgk1
+Shagreen patch
+Side population ( SP ) cells
+Siglec - 1
+Sinus Node
+SkM
+Skeletal Muscle
+Skeletal muscle
+Skin cell
+SlTDT
+Slc10a2
+Slc10a2 genes
+Smad2
+Small Bowel
+Smn
+Smooth Muscle Cells
+Snf5
+Snf5 / SMARCB1 / INI1
+Soft Tissues
+Soft tissue
+Soleus
+SomA
+Somatosensory
+Sonic Hedgehog
+Sos1
+Sound premolar teeth
+Sox10
+Sperm
+Sperms
+Spiked liver
+Spinal
+Spinal Stenosis
+Spinal cord
+Spinal dysraphisms
+Spleen
+Splenogonadal Fusion
+Splenogonadal fusion
+StAR
+StAR promoter
+StAR promoters
+Stalk
+Stem Cell
+Stem Cells
+Stem cell
+Stem cells
+Stiff PAs
+Straight configuration saphenous vein
+Strains
+Stratum Corneum
+Stratum corneum
+Stress Granules
+Striatal
+Stromal
+Stromal Cells
+Stromal Vascular Cells
+Stump
+Subcellular
+Subchondral bone
+Subglotic stenosis
+Subthalamic Nucleus
+SufS
+Super - Charged NK Cells
+Superficial Temporal Artery
+Superficial temporal artery
+Swp82
+Syncytiotrophoblast
+T
+T - cell
+T - cell -
+T - cells
+T - helper 17
+T - helper Th - 1
+T - lymphocytes
+T - regulatory
+T Cell
+T Cell Subsets
+T Cells
+T Helper Cells
+T allele
+T cell
+T cell subsets
+T cells
+T follicular helper cells
+T helper 2 ( Th2 )
+T helper cell type 1
+T helper cells
+T lymphocytes
+T regulatory cell
+T regulatory lymphocytes
+T1
+T12
+T12 spinous process
+T13
+T2
+T3
+T4
+TA
+TATS
+TAoff
+TAon
+TB
+TB tendon
+TBX3
+TCD4 ( + ) cell
+TCF3
+TCF8
+TCM
+TCR
+TCRP1
+TCs
+TE
+TEC
+TEM
+TEN1 genes
+TERT
+TERTp
+TG
+TGF - β
+TGF - β1
+TGF - β1 gene
+TGFBR2
+TGFBR3
+TGFβ type II receptor
+TGFβ1
+TGG1
+TGG2
+TH1 - biased
+THI1
+THIC
+THP - 1 cells
+TIC
+TICs
+TIDA
+TIDA network
+TIDA neurons
+TIL
+TILeff
+TILs
+TIMP - 1
+TIMP - 1 ( rs6609533 )
+TIMP1
+TK1
+TLR gene family
+TLR genes
+TLR2
+TLR3
+TLR4
+TLR7
+TLR9
+TLR9 genes
+TLRs
+TM
+TMC
+TMC1
+TMPRSS2
+TMPRSS3
+TN
+TNF
+TNF ( + )
+TNF - α
+TNF gene
+TNFRSF11A
+TNFSF11
+TNNT1
+TP53
+TR - ACO
+TR - ACO1
+TR - ACO2
+TR - ACO3
+TR - ACS
+TR - ACS1
+TR - ACS2
+TR - ACS3
+TRAF4
+TRC
+TRIB3
+TRPM7
+TRPS1
+TRPV1
+TRPV1 -
+TRPV4
+TRPV4 -
+TSC1
+TSC2
+TT
+TaCYPA - 1
+TaCYPA - 1C126P
+Taf14
+Target Genes
+Target cell
+Tarsal Kink
+Taz
+Tbet
+Tca8113
+Tead1
+Teeth
+Temporal Bone
+Temporal Lobe
+Temporal bone
+Tendon
+Tendon tissue
+Tfh
+Tfh cells
+Th - 17
+Th0
+Th1
+Th1 - type
+Th1 cells
+Th17
+Th17 cell
+Th17 cells
+Th2
+Th2 - type
+Thalamic
+Third Molars
+Thumb
+Thymic Epithelium
+Thyroid
+Tibial
+Tim - 3 - TIL
+Tissue
+Tissue material
+Tissue samples
+Tissues
+Tlr9 ( - / - )
+Tm cells
+Tn - positive tumor cells
+ToF
+Toe Syndactyly
+Toll - like - receptor genes
+Tongue cancer resistance - related protein 1 ( TCRP1 ) gene
+Tonoplast
+Tonsillar
+Tonsils
+Trabecular Bone
+Trabecular bone
+Tracheal
+Transgene
+Tree Hollows
+Treg
+Treg Cells
+Treg cell
+Treg cells
+Triceps
+Triceps Brachii
+Trisomic Placentas
+Trophoblast
+Trophoblastic Cells
+Trp53 ( p53 ) gene
+Tsc1
+Tsc1 gene
+Tsc1ccFsp - Cre +
+Tubule - Initiating Cells
+Tumor - Infiltrating Lymphocyte
+Tumor - infiltrating Tim - 3 ( + ) T cells
+Tumor Cell
+Tumor Tissue
+Tumor cells
+Tumor tissue
+Tumor tissues
+Twist1
+Type B Aortic Dissection
+TβRII
+T‑P complex
+U - 937
+U1810 cells
+U1810 lung cancer cells
+U251
+U251 stem cells
+U251 stem cells tumor
+U2OS
+U2OS cells
+U7 RNA
+U7 gene
+U7 snRNA Gene
+U87
+U87 cell line
+U87MG cells
+U937 cells
+UCP1 gene
+UGT74B1
+ULK1
+UMPS
+UPB1
+UPF3
+UPF3 gene
+UPLTC
+UPP2
+UQCR
+USA300 _ FPR3757
+USPL1
+Udder
+Undescended Testis
+Us3
+Us9
+Uteri
+V - SVZ
+V - shaped glanular urethra
+V2
+VAT
+VCAN
+VDIR
+VDR
+VDR - interacting repressor
+VDR target genes
+VEC
+VECs
+VEGF
+VEGFR2
+VHL
+VLP
+VLPs
+VP2
+VP2 gene
+VP4 gene
+VP7 genes
+VPI - 2
+VS
+VSMC
+VSMCs
+Vaginal
+Valve
+Variant
+Variant 2
+Variant c . 2620 - 6T > C
+Variants
+Vascular
+Vascular endothelial cells
+Vascular smooth muscle cell
+Vasculature
+Vastus lateralis
+Ve - locus
+Ve1
+Ve1 gene
+Ve2
+Vein
+Veins
+Venous sinus
+Vero
+Vero cells
+Vertebral
+Vesicles
+Vibrio Pathogenicity Island
+Visual Cortex
+Volar plate
+Volar plate 's
+Von Hippel - Lindau
+WAT
+WBC
+WBCs
+WDR11
+WISP 3 gene
+WLNT
+WM
+WNT10A
+WNT10A Gene
+WNT10A gene
+WNT5A
+WRI1
+WT
+WT levels
+WT p53
+White matter
+Whole - Body
+Whole - gut
+Wild - type
+Wing
+Wnt
+Wnt family
+Wrinkles
+X - chromosomal
+X - ray repair cross - complementing 1 - 399
+X Chromosomes
+X chromosome
+XPA
+XPC Gene
+XPC gene
+XRCC1
+XRCC1 - 399
+XRCCl - 399
+XTH gene
+XTH genes
+Xanthophores
+Xp22 .
+Y - chromosomal
+Y - chromosome
+Y Chromosome
+Y chromosome
+Y chromsome
+YAC - 1
+YUC4
+YUCCA4
+YWHAE - NUTM2
+YY1 promoter
+Yap
+Yin Yang
+Yin and Yang
+ZC3H7B
+ZEB2 - AS1
+ZEB2‑AS1
+ZFX
+ZFX genes
+ZO - 1
+ZR - 75 - 1
+ZR - 75 - 1 cells
+ZR75 - 1
+ZmNF - Y genes
+ZmNF - YA1
+ZmNF - YA1 , 3 , 4 , 6 , 7 , 10 , 12 , and 13
+ZmNF - YA12
+ZmNF - YA3
+ZmNF - YA8
+ZmNF - YB15
+ZmNF - YB2
+ZmNF - YB2 , 4 , 8 , 10 , 13 , and 16
+ZmNF - YC
+ZmNF - YC3 and 9
+ZmNF - YC6 , 8 , and 15
+aAPC
+aac ( 6 ' ) - Ib - cr
+aac ( 6 ' ) - Ib - cr gene
+aadA2
+abdominal fat
+abdominal organs
+abdominal subcutaneous ( Abdsc ) adipose tissues
+abdominal subcutaneous adipose tissue
+abdominal visceral fat
+abdominal wall
+abdominal wall defect
+abductor pollicis brevis
+abnormal inflammatory response
+abnormal lymphoid cells
+abnormalities
+abnormalities of dermatoglyphic patterns
+aborted human fetuses
+absence
+accessory muscles
+accessory pathways
+accessory structures
+acellular dermal matrix
+acetabulum
+achondroplasia
+acidic vesicular organelles
+acinar
+acini
+acquired deformity
+across cortex
+actin cytoskeleton
+actin filaments
+activated
+activated hepatic stellate cell line
+activated microglia
+activating genes
+active zone
+active zones
+acumen
+acute colonic malignant obstructions
+acute lymphoblastic cells
+adapter molecule MyD88
+adenomatous polyposis coli ( APC ) gene
+adenomatous polyposis coli gene
+adherens junction
+adherent cells
+adhesion protein complexes
+adhesive tubes
+adipocyte
+adipocytes
+adipocytokine genes
+adiponectin
+adipose
+adipose - derived stem cell
+adipose tissue
+adipose tissues
+adjacent nerve structures
+adjacent organs
+adjacent tissues
+adnexal
+adolescent idiopathic scoliosis
+adrenal
+adrenal cortex
+adrenal gland
+adrenal glands
+adrenal medulla
+adult brain
+adult hippocampal
+adult marrow
+adult pigment stem cells
+adult pituitary stem cells
+adult stem cells
+adult tissues
+aerobactin
+afa8
+affected genes
+affected hand
+afferent
+afferents
+after birth
+afterbirths
+aged bone marrow stromal cells
+aged brain
+agenesis of the corpus callosum
+aida
+air
+air capillaries
+airway
+airway wall
+airways
+akt2
+akt2 gene
+alERC
+albino
+allele
+allele ' C
+allele ' T '
+allele ( AA )
+allele ( TT )
+alleles
+allelic
+allelotypes
+allograft carrier
+allohexaploid genome
+alloreactive lymphocytes
+alls
+alveolar
+alveolar bone
+alveolar epithelial cell monolayers
+alveolar macrophages
+alveolar regions
+alveolar walls
+alveoli
+amacrine cell
+amnion
+amniotic
+amoA
+amygdala
+amygdalar
+amyloplasts
+anal
+anal atresia
+anal verge
+anatomic abnormalities
+anatomic structures
+anatomical defect
+anatomical structure
+anatomical structure boundaries
+anatomical structures
+anatomical valves
+anatomical variants
+anatomical variations
+anatomies
+anatomy
+animal cells
+anionic membranes
+anionic vesicles
+ankle flexor
+ankle plantarflexor
+annular pancreas
+annulus
+anomalies
+anomaly
+anophthalmia
+anopthalmic defect
+anopthalmosis
+anorectal malformation
+anserine
+antena
+antenna
+antennae
+antennal sensilla
+antennomeres IV and V
+antennule
+anterior belly of digastric muscle
+anterior callosal
+anterior callosal fiber
+anterior cerebral arteries
+anterior chamber
+anterior cingulate cortex
+anterior cingulate gyrus
+anterior communicating artery
+anterior cruciate ligament
+anterior eye
+anterior eyes
+anterior inferior iliac spine
+anterior limb of the internal capsule
+anterior median eyes
+anterior pituitary
+anterior region of corpus callosum
+anterior superior iliac spine
+anterior thalamic radiation
+anterior urethral stricture disease
+anterior urethral strictures
+anteroseptal left ventricle
+anthropoid hands
+anti - inflammatory M
+anti - inflammatory macrophages
+antibody - secreting cells
+antibody forming cells
+antigen - positive cells
+antigen - presenting cells
+antigen - specific B cells
+antigen presenting cell
+antigen presenting cells
+antioxidant gene
+antipodes
+antral follicles
+antrum
+anucleate platelets
+anus
+aorta
+aortas
+aortic
+aortic arch
+aortic intima
+aortic tissue
+aortic valve
+aortic valves
+aortic vessel wall
+aortic wall
+aorto - iliac
+aphakia
+apical
+aplasia cutis congenita
+apoE
+apolipoprotein B
+apolipoprotein E genes
+apoplast
+apoptotic cells
+appendages
+appendiceal
+appendicular
+appendix
+arch
+archival tissues
+arcuate nucleus
+area CA3
+argyrophilic
+arm
+arm veins
+arn operon
+arrMab
+arrayed libraries
+arrested cells
+arterial
+arterial branches
+arterial stenosis
+arteries
+arterioles
+arteriovenous anastomoses
+arteriovenous fistula
+arteriovenous malformation
+artery
+articular cartilage
+articular cartilage ,
+articular cartilage defects
+articular chondrocytes
+articulating patellar
+artificial cell lines
+artificial membranes
+aryl hydrocarbon receptor ( AhR ) rs2066853
+ascending aortic dilation
+ascending colon
+associated structures
+associated with VACTERL
+association
+association with VACTERL
+astrocyte
+astrocytes
+astroglial
+atherothrombotic
+atoB
+atresia
+atretic follicles
+atria
+atrial
+atrial location
+atrial myocardium
+auditory areas
+auditory brainstem
+augmented preputial flap
+auricles
+auricular
+auricular cartilage
+autograft
+autografts
+autolysosomes
+autophagic
+autophagic structures
+autophagosomes
+autophagy - related gene - 5
+autosomal
+autosomal - dominant polycystic kidney disease
+autosomal dominant polycystic kidney disease
+autosomes
+average GCIPL
+axial pulmonary arteries
+axial skeleton
+axillary artery
+axillary nerve
+axon
+axon initial segments
+axonal
+axonal sites
+axons
+bBMVEC
+bBMVECs
+bEnd .
+bEnd . 3
+bacterial cell membranes
+bacterial genome
+bacterial genomes
+bacterial immobilization
+bacterial wall
+bands 11q14 .
+barrier
+basal - like
+basal anterior
+basal anteroseptal area
+basal body
+basal bronchial trunk right lower lobe
+basal cells
+basal ganglia
+basal keratinocytes
+basal membrane
+base
+basement membrane
+basement membranes
+basilar artery
+basilar artery occlusion
+basilar invagination
+basolateral amygdala
+basolateral nucleus of the amygdala
+basophil
+basophils
+beak
+beaks
+beard
+beige adipocytes
+beta - lactamase genes
+beta band
+biallelically
+bialyer
+biceps brachii
+biceps femoris
+bilateral adrenal
+bilateral amygdala
+bilateral empty scrotum
+bilateral fusion failure
+bilateral inguinal hernia
+bilateral lumbar ( L3 )
+bilateral ureteral
+bilateral vocal cords
+bilayer
+bile duct
+bile duct s
+bile ducts
+biliary
+biliary tract
+biofilm matrix
+biological organization
+biological root
+biological tissue
+biopsies
+biopsy samples
+biopsy specimens
+bioptic specimens
+bipedal
+birth cana
+birth defects
+blaAmpC genes
+blaCTX - M
+blaKPC
+blaNDM - 1
+blaOXA , blaTEM , and blaCTX - M genes
+blaOXA , blaTEM , blaCTX - M , and blaSHV genes
+blaOXA - 181
+blaSHV
+blaSHV - 5
+blaTEM - 1B
+blaVEB - 1
+blaVIM - 1
+bladder
+bladder neck
+bladder urothelium
+bladders
+blastocyete
+blastocyst
+blastocysts
+blebbishields
+blood
+blood - brain barrier
+blood brain barrier
+blood cancer cell lines
+blood capillaries
+blood cell
+blood cells
+blood eosinophil
+blood eosinophils
+blood leukocyte
+blood vessel
+blood vessel walls
+blood vessels
+blubber
+bodies
+body
+body of C2
+body part
+body parts
+body stripes
+body structure
+body tissues
+bone
+bone 's
+bone - forming cells
+bone - like tissue
+bone - patellar tendon - bone
+bone - patellar tendon - bone tissue
+bone cell
+bone deformity
+bone marrow
+bone marrow - derived
+bone marrow cell
+bone marrow cells
+bone marrow stromal cells
+bone microstructure
+bone morphogenetic protein receptor type IA
+bone tissue
+bone tissues
+bone trabeculae
+bones
+bony orbit
+both eyes
+boutons
+bowel
+bowel serosa
+bowel wall
+bowels
+brain
+brain 's
+brain - level structural
+brain AVM
+brain abnormalities
+brain areas
+brain capillary
+brain endothelial cell line bEnd .
+brain endothelial cells
+brain herniation
+brain hubs
+brain lobes
+brain network
+brain networks
+brain parenchyma
+brain regions
+brain retained inside the cranium
+brain stem
+brain structural
+brain structural networks
+brain structure
+brain structures
+brain systems
+brain tissue
+brain tissue slice
+brain tissues
+brain white matter
+brain white matter property
+brains
+brainstem
+breast
+breast ( T47D )
+breast cancer cell
+breast cancer cell line
+breast cancer cell lines
+breast cancer cells
+breast cancer tissues
+breast carcinoma cells
+breast tissue
+breast tissue samples
+breasts
+bridging
+brite
+brite adipocyte
+bronchial
+bronchial epithelial ( Beas - 2B ) cells
+bronchial epithelial cells
+bronchial epithelium
+bronchial tree
+bronchial wall
+bronchioles
+bronchobiliary fistula
+bronchopericardial
+bronchus
+brown - in - white
+brown adipose tissue
+buccal mucosa
+buccal pad of fat
+bucco - palatal
+bud - tip
+bud tip ,
+bulb
+bulbar
+bulbar conjunctiva
+bulbous glans
+bundled actin
+bundles of smooth muscle
+c - MYC
+c - Myc
+c - SMAC
+c - Src
+c - fos gene
+c - kit ( + )
+c . 2620 - 6T > C variant
+c . 280A > T variant
+c . 315 - 48 T
+c . 315 - 48C
+c3563g1i2
+cDNA libraries
+cadaver
+cadaveric
+cadavers
+cadherin 1 , type 1
+calcaneus
+calf muscle
+calluses
+calvarial
+cambial
+cambium
+camptocormia
+canalicular
+cancellous bone
+cancer - causing gene
+cancer - related genes
+cancer HeLa
+cancer cell
+cancer cell line
+cancer cell lines
+cancer cells
+cancer promoting
+cancer stem
+cancer stem cell
+cancer stem cells
+cancer stem like cells
+cancerous cells
+candidate gene
+candidate genes
+candidate proneuron gene
+canines
+cannabinoid CB1 receptor gene
+canonical multiarea circuits
+capillaries
+capsids
+capsular genes
+capsule
+capsule locus
+capsule locus sequences
+carcass
+carcasses
+carcinoma cell lines
+carcinoma cells
+cardia
+cardiac
+cardiac abnormalities
+cardiac cell
+cardiac cells
+cardiac myocytes
+cardiac stem
+cardiac structure
+cardiac structures
+cardiac tissue
+cardiac ventricular
+cardio
+cardioblasts
+cardiomyocyte
+cardiomyocytes
+cardiomyocytes AC16
+cardiomyopathy genes
+carotid
+carotid arteries
+carotid artery
+carotid artery atherosclerotic plaque
+carotid artery plaque
+carotid artery plaques
+carotid plaque
+carotid plaques
+carpal
+carrier graft
+carrier grafts
+carrier vesicles
+carriers
+cartilage
+cartilage - bone
+cartilage cell
+cartilage cells
+cartilage tissue
+caspase - 3
+caspase - 9
+caspase 3
+catalytic core
+cataract
+cataracts
+cauda epididymal
+cauda epididymal tubule
+caudate nucleus
+caudocranial
+causal genes
+caveolae
+caveolar structures
+cavernosal tissues
+cavin1
+cavin2
+cavin3
+cavitary disc
+cavity
+cbiA gene
+cck
+cdtB
+cecal
+cell
+cell - compartment
+cell - cultured
+cell - free
+cell - membranes
+cell - specific
+cell - surface
+cell - to - cell
+cell - types
+cell - wall
+cell attachment
+cell body
+cell envelop
+cell envelope
+cell envelopes
+cell extracts
+cell factory
+cell fraction
+cell layer
+cell line
+cell line ( Met - 5A )
+cell line CNE - 2R
+cell line DU145
+cell line JEKO
+cell line RAW 264 .
+cell line SHI - 1
+cell lines
+cell membrane
+cell membranes
+cell population
+cell populations
+cell surface
+cell tip
+cell type
+cell types
+cell vacuoles
+cell wall
+cell wall matrix
+cells
+cells A673
+cells can be cryopreserved
+cells cultured
+cellular
+cellular compartments
+cellular components
+cellular consortia
+cellular constituents
+cellular inflammatory
+cellular level
+cellular location
+cellular membrane
+cellular source
+cemento enamel junction
+central incisors
+central memory T cells
+central nervous system
+central nucleus of the amygdala
+central supramolecular activation cluster
+centromere
+centromeric regions
+centrosomal
+centrosome
+centrosomes
+centrum semiovale
+cerebellar
+cerebellar granule cells
+cerebellar networks
+cerebellar neurons
+cerebellar regions
+cerebellum
+cerebral
+cerebral arteries
+cerebral cortex
+cerebrum
+cervical
+cervical ( C1 and C2 ) vertebral
+cervical spinal cord
+cervical spine
+cervical vertebral
+chamber
+channel complex
+cheeks
+chemokine ( C - X - C motif ) ligand 1
+chemoreceptor
+chemoreceptors
+chest wall
+chiasm
+chicken embryo
+chicken embryos
+chitinase gene ( Bxcht - 1 )
+chloroplast
+chloroplast ( cp ) genome
+chloroplast membranes
+chloroplast stroma
+chloroplasts
+cholecyst
+choline acetyltransferase
+cholinergic neuron - like cells
+chondrocyte
+chondrocytes
+choriocapillaris
+chorionic villi
+chorionic villus
+choroid
+choroidal
+chromaffin cell
+chromaffin cells
+chromaffin granules
+chromatin remodeling complex
+chromosomal
+chromosomal interaction domain boundaries
+chromosomal interaction domains
+chromosomal locations
+chromosomally
+chromosome
+chromosome 1
+chromosome 11
+chromosome 12L
+chromosome 17
+chromosome 3
+chromosome 3H
+chromosome 5
+chromosome 5D
+chromosome 6
+chromosome 8
+chromosome A
+chromosome XII
+chromosome regions
+chromosomes
+chromosomes 4B
+cilia
+ciliary
+ciliated epidermal cells
+cingulate
+cingulate cortex
+cingulo - opercular network
+cingulum bundle
+cirbp
+circular chromosome
+circular muscle layer
+circular tissue samples
+circulating epithelial tumor cells
+circulating progenitor cells
+circulating tumor cells
+circulating tumour cells
+circum - coronal preputial pedicled flap
+class I
+claudin 1
+cleft
+cleft lip
+cleft palate
+clefts
+cloaca
+clock
+clock genes
+clonal
+clonal complex 398
+clonal complexes
+clonally
+clone
+cloned
+clones
+clpP1P2
+clpP1P2 genes
+cls
+cls2
+cluster
+clustered
+clustered genes
+clusters
+cnf1 / 2
+co - contraction
+co - contractions
+co - culture
+co - cultures
+cocaine - and amphetamine - regulated transcript
+cochlea
+cocultured cells
+coding genes
+coding region
+coding sequence
+coding sequences
+coding sites
+cognate adhesins
+collagen fibers
+collagen fibrils
+collagen related genes
+collagenous
+collagens
+collateral branches
+collaterals
+colon
+colon ( HCT116 )
+colon polyps
+colon serosa
+colonic
+colonic malignant obstruction
+colonic mucosal
+colonic region
+colonies
+colonized
+colonizers
+colony
+colorectal cancer cells
+colorectal mucosa
+colorectum
+column
+comB10
+comB6 - B10 operon
+comB8
+committed cells
+common hepatic duct
+common myeloid progenitors
+compact
+compartment
+compartments
+complex
+component
+components
+condylar
+condyle
+condyle center
+congenital
+congenital C2 - C3 fusion
+congenital abnormalities
+congenital abnormality
+congenital absence
+congenital anomaly
+congenital birth defects
+congenital cataract
+congenital cataracts
+congenital coronary anomaly
+congenital heart defects
+congenital heart disease
+congenital heart diseases
+congenital malformations
+congenital overgrowth disorder
+congenital syndactyly
+conjugal pilus
+conjunctiva
+conjunctival
+connections
+connective - tissue
+connective tissue
+connective tissue growth factor
+connective tissue matrix
+conspecific colonies
+conspicuous paroral membrane
+constructed
+constructs
+contractile
+contractile myofibroblasts
+contractile vacuoles
+contracture
+contractures
+control
+control brain tissue
+control cells
+conus
+copious cell subset
+copulatory openings
+cord
+cord artery
+cornea
+corneal
+corneal endothelial cells
+corneal epithelial cell
+corneal epithelial cell line
+corneal epithelium
+corneal graft carrier
+corneal specimens
+corneas
+coronaries
+coronary
+coronary arteries
+coronary artery
+coronary sinus
+coronary sinus ( CS ) diverticulum
+coronary sinus diverticula
+coronary vein
+corpora allata
+corpses
+corpus callosum
+corpus cavernosum
+cortex
+cortex of mouse brain
+cortical
+cortical )
+cortical areas
+cortical bone
+cortical networks
+cortical neuronal
+cortical neurons
+cortical renal
+cortical wall
+cortico
+corticocortical
+corticomedullary
+corticostriatal
+corticothalamic
+costal cartilage
+cover
+cp
+cp genes
+cp genome
+cranial
+cranial anatomical defect
+cranial cruciate ligament
+cranial nerves
+craniodistal
+craniofacial anomalies
+cricothyroid ( CT ) muscle
+crista terminalis
+critical genes
+crosslinker
+crown
+crowns
+cryopreserved tissue samples
+cryptoglandular
+cryptorchidism
+crystal structure
+crystal structures
+ctxA / B
+cubital valgus
+cuff
+cultured
+cultured SGEC
+cultured cardiomyocytes
+cultured cells
+cultured chondrocyte
+cultured epithelial
+cultured lymphocytes
+cultured primary microglia
+cultures
+cumulus
+cutis aplasia
+cybrid cell models
+cybrids cell lines
+cyclin D1 protein
+cyclooxygenase - 2
+cystatin family genes
+cystatin genes
+cystic duct
+cystic epithelium
+cysts
+cytochrome P450 family 19 subfamily A member 1
+cytochrome P450 side - chain cleavage
+cytogenetic
+cytokeratin 10
+cytokine - induced autologous killer cells
+cytolytic CD169 ( + ) CD8 ( + ) T cells
+cytomorphologic
+cytoplasm
+cytoplasm of epithelial cells
+cytoplasmic
+cytoplasmic domain
+cytoplasmic membrane
+cytoplasmic rotor
+cytoplasmic tails
+cytoplasts
+cytoskeletal
+cytoskeleton
+cytosol
+cytosolic
+cytosolic domain
+cytosolic fraction
+cytosolic tail
+cytotoxic CD8 ( + ) T cells
+cytotoxic T - lymphocytes
+cytotoxic T lymphocytes
+cytotoxic effectors
+d - transposition of the great arteries
+dAVF
+dAVFs
+dPFC
+dSPNs
+daughter cell
+deafness gene
+deafness genes
+deciduous teeth
+decoy capsids
+deep
+deep GM
+defective ribosomal products
+defective strains
+defects
+deformations
+deformities
+deformity
+degenerate RBS library
+degenerative spinal deformity
+delta F508
+demarcation membrane system
+dendrite
+dendrites
+dendritic - cell
+dendritic cell
+dendritic cells
+dendritic spine
+dendritic spine density
+dendritic spines
+dense - core vesicles
+dense FCT
+dental
+dental agenesis
+dental pulp
+dental stem cells
+dentate
+dentate gyrus
+dentition
+dentitions
+denuded arteries
+deposits
+dermal
+dermatoglyphic abnormalities
+dermatoglyphic traits
+dermis
+dermis layer
+descending colon
+descending duodenum
+descending part of the duodenum
+detrusor
+developing cortex
+developmental
+developmental abnormalities
+developmental anomaly
+developmental defects
+dfrA12
+diabetogenic CD8 ( + ) T - cell
+diabetogenic CD8 ( + ) T cells
+diagonal branches
+diaphragm
+diaphragmatic
+diencephalic
+different cell lines
+differentially expressed genes
+differentiated SH - SY5Y cells
+differentiated cells
+digestive vacuole
+digit
+diploid species
+disarray
+diseased
+disorders of sex development
+distal
+distal colon
+distal convoluted tubules
+distal duodenum
+distal femur
+distal humeral epiphysis
+distal humerus
+distal muscle
+distal muscles
+distal pancreas
+distal phalanx
+distal process
+distal radius
+distal tibia
+distortion
+distortions
+diverticulum of the CS
+dividing
+dividing cells
+domain
+domain boundaries
+domains
+dominant leg
+donor T - lymphocytes
+donor cells
+donor nuclei
+dopamine ( DA ) neuron
+dopamine neuron
+dopamine neurons
+dopaminergic
+dopaminergic neurons
+dopaminergic system
+dopaminergic systems
+dorsal
+dorsal - parietal pathway
+dorsal hippocampus
+dorsal horn
+dorsal horn of the spinal cord
+dorsal pathway
+dorsal prefrontal cortex
+dorsal raphe
+dorsal raphe nucleus
+dorsal root ganglia
+dorsal root ganglion
+dorsal striatum
+dorsolateral PFC
+dorsolateral prefrontal cortex
+dorsomedial hypothalamus
+double - limb
+double mutant lacking cls
+downregulated genes
+downstream cascades
+draft genome
+draining LNs
+drug resistance determining region
+ds - PLA2
+duct
+ductal
+ductal cells
+ductal epithelial cells
+ductal epithelium
+ducts
+duodenal cap
+duodenal stenosis
+duodenum
+duplicate gene
+dura
+dura mater
+dura propria
+dural arteriovenous fistula
+dural arteriovenous fistulas
+dural venous sinuses
+dwarfism
+dysfunctional retinal vasculature
+dysmorphic craniofacial features
+dysmorphic features
+dysplastic enterocytes
+dystrophin
+e - QTLs
+eQTL
+each gene
+ear
+ear canal
+early genes
+ears
+east1
+eccCa1 gene
+ecmA gene
+ectD ( + )
+ectD gene
+ectopic bone
+ectopic copy
+ectopic kidney
+effector
+effector T cells
+effector cells
+effector memory T cells
+effector type 2 innate lymphoid cells
+effectors
+efflux pump
+efflux pump system
+egg
+eggs
+elastic arteries
+elastic fibers
+elastic tissue
+elastin fiber
+electrical disorder
+elements
+eloquent arteries
+eltA
+elytra
+embryo
+embryo model system
+embryological origin
+embryonic
+embryonic gut
+embryonic stem cells
+embryos
+empty capsids
+endocrine abnormalities
+endocrine tissues
+endoderm
+endogenous stem cell
+endomembrane
+endomembrane system
+endomembranes
+endometrial
+endometrial glands
+endometrium
+endomysial capillaries
+endoplasmic reticulum
+endoplasmic reticulum cisterns
+endoplasmic reticulum membrane
+endosomal
+endosome
+endosomes
+endosomolytic
+endothelial
+endothelial cell
+endothelial cells
+endothelial tubes
+endothelium
+engineered genotypes
+engineered natural killer cells
+enlargement
+enterocyte
+enterocyte - based
+enterocyte mass
+enterocytes
+enteroendocrine L - cells
+entire auricle
+entire coding sequence of OTX2
+entire face
+entire limbs
+entire organ
+entorhinal cortex
+enucleated cells
+enucleated tissue
+enzyme genes
+enzymes
+enzymes genes
+eosinophil
+eosinophil cells
+eosinophilic
+eosinophilic cytoplasm
+eosinophils
+ependymal
+epiblast
+epicardial adipose tissue
+epidermal
+epidermal cells
+epidermis
+epidermis tissue
+epididymal tubule
+epididymis
+epigenome
+epigynum
+epiphysis I
+epiretinal membrane
+episcleral veins
+epistatic
+epithelial
+epithelial ( HLE ) cells
+epithelial - mesenchymal
+epithelial and subepithelial cell
+epithelial cell
+epithelial cell line
+epithelial cells
+epithelial principal cells
+epithelial surface
+epithelioid macrophages
+epithelium
+epithelium cells
+epoxide hydrolase ( EH ) sgeh
+erectile structures
+erectile tissue
+erector spinae
+erector spinae muscles
+erg12
+ermB
+ermT
+ermT genes
+erythrocyte
+erythrocytes
+esophageal contact area
+esophageal stricture
+esophagus
+estI
+estII
+esterase genes
+ethylene responsive transcription factor
+eukaryotic
+eukaryotic cell
+eukaryotic cell systems
+eukaryotic cells
+eutopic and euthyroid thyroid gland
+eutopic thyroid
+excised tissues
+excision repair cross - complementation group 1 - 118
+excision site
+excitable cells
+excitatory
+excitatory neurons
+excitatory synapses
+excretory organs
+exine layer
+exo
+exocrine secretory cell type containing granules
+exomes
+exosomal
+exosome
+exosomes
+exosporium
+exosporium basal layer
+explant
+expressed genes
+extension of the membrane
+extensor digitorum longus
+extensor digitorum longus ( EDL ) muscles
+extensor indicis proprius
+extensor pollicis longus muscle
+external iliac vein
+extra - pulmonary
+extracellular
+extracellular loops
+extracellular matrices
+extracellular matrix
+extracellular matrix 's
+extracellular matrix components
+extracellular region
+extracellular vesicles
+extract treated cells
+extract untreated cell
+extracts
+extrafibrillar
+extrahepatic bile duct
+extramitochondrial
+extrapulmonary
+extrasynaptic
+extrasynaptically
+extravascular
+extremities
+eye
+eye globe
+eye white
+eyeball
+eyebrows
+eyelid
+eyelid skin
+eyelids
+eyes
+f17 gene
+f18
+f41
+fabella
+fabp2a
+facial dysmorphism
+facial nerve
+facial nerves
+facial skin
+factor UPF3
+faeG
+falciparum chloroquine resistance transporter
+fallopian tubes
+fanC
+fascia
+fascia lata
+fascial
+fascicle
+fascicles
+fast - twitch muscle
+fat
+fat bodies
+fat body
+fat monocyte
+fat stranding
+fat tissue
+fatty renal capsule
+fatty tissue
+feeding vessels
+feet
+female 's genitalia
+female genital tract
+femoral
+femoral arteries
+femoral artery
+femoral artery sheath
+femoral condyles
+femoral head
+femoral heads
+femoral muscle
+femoral neck
+femoral nerve
+femoral trochlea
+femoral tunnel
+femoral tunnel virtual cylinders
+femoral vein
+femoral vessel
+femoral vessels
+femur
+ferrochelatase c . 315 - 48C
+fetal
+fetal adrenal
+fetal adrenal glands
+fetal alcohol spectrum disorder
+fetal brain
+fetal prostate
+fetus
+fetuses
+fiber
+fiber - type
+fiber scale
+fiber tract
+fibers
+fibres
+fibril
+fibrillar cell inclusions
+fibrils
+fibroblast
+fibroblast ( CEF ) cells
+fibroblast cells
+fibroblast feeder cells
+fibroblasts
+fibrogenic cells
+fibrous
+fibrous bands
+fibrous connective tissue
+fibrous dysplasia
+fibrous networks
+fibrous tissue
+fifth metatarsus
+fila
+filaggrin
+filaments
+filopodial
+filum
+filum terminale
+fimbriae
+fimbrial parts
+finger
+fingers
+first metatarsal
+first molar
+first premolar
+fish gills
+fistula
+fistulas
+fistulation
+flagella
+flagellin
+flagellomere
+flagellum
+flap
+flap B
+flap C
+flap D
+flaps
+flexor carpi radialis
+flexor carpi radialis tendon
+flexor digitorum superficialis muscles
+flexor pollicis longus tendon
+flexor tendons
+floppy - iris leaflets
+floxed Gcn5
+foam cell
+foam cells
+focal adhesion
+focal adhesions
+foci
+foetal
+foetus
+foetuses
+follicle
+follicle - like
+follicle - stimulating hormone beta - subunit
+follicles
+follicular
+follicular dendritic cells
+follicular epithelium
+foot
+footpad
+footpads
+forceps minor
+fore - stomach sections
+forearm
+forearms
+forebrain
+forefoot
+forefoot bony structure
+forefoot structure
+foreskin
+form pigment cells
+formalin - fixed , paraffin - embedded samples
+formalin - fixed and paraffin embedded ( FFPE ) normal human pancreatic tissue
+formalin - fixed paraffin - embedded ( FFPE ) sections
+formalin - fixed paraffin - embedded ( FFPE ) tissues
+formalin - fixed paraffin embedded ( FFPE ) breast tissue
+formalin fixed paraffin - embedded tumor tissue
+fornices
+founding cell
+foveal
+foveal centre
+foye - 1 gene
+fragments
+free L .
+free flap
+free ribosomes
+fresh
+freshwater viral metagenomes
+frizzled 9 gene
+frontal
+frontal cortex
+frontal cortices
+frontal eye fields
+frontal lobe
+frontal lobes
+fronto - striatal - cerebellar gray matter
+frontoparietal
+frozen embryos
+frozen sections
+frozen tissue
+functional
+functional pancreatic anomalies
+functional thyroid
+functionally
+fungal structures
+fusiform aneurysm
+fusiform aneurysms
+fusiform gyrus
+fusion genes
+galectin - 10
+galectin - 3 ( + ) macrophages
+galectin - 3 ( + / + )
+galectin - 3 ( - / - )
+gallbladder
+gamete
+gametes
+gametophytes
+ganglion cell
+ganglion cell complex
+ganglion cells
+gastric
+gastric pouch
+gastrocnemius
+gastrocnemius lateralis
+gastrocolic ligament
+gcsA
+gene
+gene - based
+gene NQO1
+gene Prx - 1
+gene SLC14A1
+gene cluster
+gene clusters
+gene coding
+gene content
+gene copies
+gene encoding
+gene encoding myostatin
+gene families
+gene family
+gene fragments
+gene groups
+gene loci
+gene promoters
+gene regulatory units
+gene rpoB
+gene segments
+gene sequence
+gene set
+gene sets
+gene variant
+gene variants
+genes
+genes ,
+genes X and L
+genes with homologies
+genetic
+genetic clusters
+genetic content
+genetic loci
+genetic material
+genetic structure
+genetic variant
+genetic variants
+genetically wild - type
+genital
+genital organs
+genitals
+genitourinary abnormalities
+genome
+genome - integrated selection cassette
+genome - wide
+genome content
+genome copies
+genome organization
+genome sequence
+genome sequences
+genome structure
+genome type
+genome types
+genomes
+genomes ( A , B and D )
+genomic
+genomic clusters
+genomic components
+genomic level
+genomic loci
+genomic locus
+genomic organization
+genomic regions
+genomic sites
+genomic structure
+genomic tracks
+genomics
+genu of the corpus callosum
+germ cell
+germ cells
+germinal
+germinal centre
+germline
+germplasm
+gga - miR - 200a - 3p
+gga - miR - 216b
+gga - miR - 34b
+gga - miR - 34c
+giant
+giant cells
+gill
+gills
+gingiva
+gingival
+girdin
+glabrous skin
+gland
+glandular
+glandular prostate
+glans penis
+glia
+glial
+glial cell
+glial cell layer
+glial cell lines
+glial cells
+glioblastoma stem - like cell
+glioblastoma stem - like cells
+glioma cells
+glioma specimens
+global vascular
+globular cell
+globular nodes
+glomerular endothelial cells
+glomerulus of the kidney
+glucagon
+glutamine synthase genes
+glutamine synthase operon
+glycocalyx
+goblet cells
+gonads
+gpx overexpression strains
+gpxi strain
+graSR
+gracilis
+graft
+graft - destructive immune cells
+grana stacks
+granulation
+granulation tissue
+granule cell
+granule cells
+granulocyte
+granulocytes
+granulocytic immune cells
+granulosa cell
+granulosa cells
+gray
+gray matter
+greater trochanter
+grey - matter
+grey matter
+group III / IV muscle
+growing cell end
+growth differentiation factor 9
+gut
+gut epithelia
+gut mucosal interface
+gyrB genes
+hABMSCs
+hAEC
+hAECs
+hB1R
+hESC
+hESC -CMs
+hFoB1 .
+hFoB1 . 19 cells
+hGCs
+hPDLSCs
+hPDSC
+hPDSCs
+hPSCs
+hZnT5
+hZnT6
+hZnT7
+hair
+hair - bearing STA
+hair cells
+hair follicle
+hallmarks
+hallmarks of cancer
+hallux
+hallux valgus
+hamstring
+hamstring tendons
+hamstrings
+hand
+hand structure
+hands
+hao
+haploid
+haploids
+hard
+hard ( central )
+hard palate
+hard tissue
+harvest cells
+haustoria
+haustorial
+head - kidney
+head and thoracic limb
+head hair
+head of the pancreas
+healthy cells
+healthy organs
+healthy tissue
+heart
+heart allograft
+heart cells
+heart tissue
+hearts
+heat - shock protein 70 gene
+helper T ( Tfh ) cells
+helper T cell
+hemangioblasts
+hematopoietic areas
+hematopoietic cells
+hematopoietic defects
+hematopoietic progenitors
+hematopoietic stem / progenitor
+hematopoietic stem cell
+hematopoietic stem cells
+hemidiaphragm
+hemidiaphragms
+hemisphere
+hemispheres
+hemocyte
+hepatic
+hepatic artery
+hepatic membrane architecture
+hepatic parenchyma
+hepatic parenchymal
+hepatic sinusoids
+hepatic stellate cells
+hepatic vein
+hepatic veins
+hepatocyte
+hepatocyte nuclear factor 4 gamma ( HNF4 G ) gene
+hepatocytes
+hepatoma cell lines HepG2
+hernia
+herniation
+heterogeneous tissues
+hiPS - CM
+hiPS - CMs
+hiPSC
+hiPSCs
+high - tumorigenic CT - 26 - high colon cancer cells
+hind - limb
+hind - limb Achilles ' tendon
+hind leg
+hind paw
+hind tibia
+hindbrain
+hindgut
+hindlimb
+hip
+hippocampal
+hippocampal dentate gyrus
+hippocampal mossy fibers
+hippocampal region
+hippocampal shape
+hippocampal structure
+hippocampal structures
+hippocampal tissue
+hippocampus
+hips
+histiocytoid cells
+histone locus bodies
+holoprosencephaly
+homeobox genes
+homogeneous bone
+homologs
+homologue
+homologues
+homology arms
+hoof
+horizontally transferred genes
+horn
+horseshoe kidney
+horseshoe kidny
+host
+host cell
+host cell cytosol
+host cell types
+host cells
+host surfaces
+housekeeping Fe - S machinery
+hsa - miR - 1290
+hsa - miR - 146b - 5p
+hsa - miR - 193a - 3p
+hsa - miR - 194 - 5p
+hsa - miR - 1972
+hsa - miR - 200b - 3p
+hsa - miR - 21 - 3p
+hsa - miR - 21 - 5p
+hsa - miR - 29b - 1 - 5p
+hsa - miR - 301a - 3p
+hsa - miR - 3138
+hsa - miR - 320c
+hsa - miR - 34a - 3p
+hsa - miR - 3663 - 3p
+hsa - miR - 505 - 5p
+hsa - miR - 513a - 5p
+hsa - miR - 516a - 5p
+hsa - miR - 575
+hsa - miR - 630
+hsa - miR - 636
+hsa - miR - 718
+hsa - miR - 99b - 3p
+hsaD
+hub genes
+human ES cell
+human ESCs
+human MM cell lines
+human bone
+human brain
+human breast adenocarcinoma ( MCF - 7 ) cells
+human breast cancer cell line
+human breast cancer cells
+human cancer cell lines
+human cell
+human cell line
+human cervical cancer
+human colon cancer cell line
+human colon cancer cells
+human colonic mucosa
+human embryonic kidney cell line , 293T
+human embryonic kidney cells 293
+human embryonic stem cells
+human epithelia
+human epithelial cells
+human fibroblasts
+human genome
+human gut
+human iliac artery
+human induced pluripotent stem cell
+human induced pluripotent stem cells
+human liver cancer cell line
+human liver cancer cells
+human lung cancer ( A549 ) cells
+human lung carcinoma ( A549 ) cells
+human macrophages
+human mammary
+human monocyte cell line THP - 1
+human nasopharyngeal carcinoma cells
+human neutrophils
+human normal liver cell line L02
+human osteoblastic sarcoma cell line
+human placental tissue
+human pluripotent stem cells
+human promyelocytic leukemia cells
+human sweating pores
+human tissue
+human tissues
+human umbilical endothelial cells
+human umbilical vein endothelial cells
+humerus
+humoral effectors
+hydroceles
+hydrogenosomes
+hypermethylated and hypomethylated genes
+hypermethylated cell lines SW48
+hypermethylated genes
+hypertrophic scars
+hypodontia
+hypomethylated genes
+hypomorphic allele
+hypothalamic
+hypothalamic nuclei
+hypothalamo - pituitary - gonadal axis
+hypothalamus
+hypothalamus - pituitary - gonadal - liver axis
+hypoxia - inducible factor 1α
+iNKT
+iNKT cell
+iNKT cells
+iNOS
+iPS cell
+iPSC
+iPSCs
+iSPNs
+idioblast
+idioblasts
+il - 2
+ileum
+iliac
+iliac arteries
+iliac crest
+iliofemoral
+immature neurons
+immediate early ' gene
+immobilized
+immune
+immune - cellular abnormalities
+immune - related genes
+immune - response genes
+immune cell
+immune cells
+immune effector cells
+immune synapse
+immunereactive cells
+immunoblastic cells
+immunocytes
+immunoglobulin heavy gamma ( IGHG ) gene
+immunopositive astrocytes
+immunoreactive neurons
+impacted
+impacted third molars
+impacted tooth
+impaction
+imprinted genes
+in the gut
+inborn errors of metabolism
+incidental pre - malignant polyps
+incisors
+inclusion bodies
+index - finger
+index knee
+induced pluripotent stem cell
+induced pluripotent stem cells
+inducible nitric oxide synthase
+inferior alveolar nerve
+inferior cluneal branches
+inferior frontal junction
+inferior parietal cortices
+inferior parietal lobe
+inferior vena cava
+inflammatory cell
+inflammatory cells
+inflammatory gene
+inflatable phallic tissues
+infragluteal fold
+infrapyloric
+infrarenal
+infundibulum
+inguinal
+inhibitory
+inhibitory motor neurons
+inhibitory synapses
+inhibitory γ - aminobutyric acid ( GABA ) interneuron
+initiation gene
+innate - like cytotoxic T cells
+innate - like cytotoxic cells
+innate immune cells
+innate lymphoid cell
+inner cell mass
+inner ear
+inner eyebrow
+inner membranes of the plastids
+inner plexiform layer
+inner retinal layers
+insertion
+insula
+insula component
+insular
+insulin - like growth factor
+insulin - like growth factor 1 receptor
+integrin αv
+inter -
+inter - network connections
+intercellular adhesion molecule - 1
+interclinoid ligament
+interferon gamma
+interfibrillar ( IFM ) subpopulations
+interfibrillar mitochondria
+interleukin - 10
+interleukin - 4
+interleukin 10
+interleukin 17a
+intermediate neural progenitors
+intermediate tissue
+intermediate tissues
+internal iliac artery
+internal iliac vein
+internal jugular vein
+internal jugular veins
+internal limiting membrane
+internal organs
+interneuron
+interneurons
+interphase nuclei
+interradicular alveolar bone
+interstitium
+interventricular septal wall
+intervertebral disc
+intestinal
+intestinal duplication
+intestinal epithelium
+intestinal malrotation
+intestinal morphology
+intestinal mucosa
+intestinal polyp
+intestinal polyps
+intestinal progenitor cells
+intestinal tissue
+intestinal villi
+intestine
+intestine cells
+intestines
+intima
+intimal flap
+intimal flaps
+intra
+intra -
+intra - abdominal structures
+intra - abdominal testes
+intra - abdominal undescended testes
+intra - colony
+intra - islet
+intraabdominal adipose tissue
+intracardiac
+intracellular
+intracoronary
+intracranial artery dissection
+intragenic
+intrahepatic bile duct
+intramembrane
+intramyocardial
+intraparenchymal
+intrapulpal
+intratonsillar
+intrinsic membrane
+intronic variants
+invaginated
+invagination
+invaginations
+invariant natural killer T
+invariant natural killer T cells
+iput1
+iput1 mutants
+iridophores
+iris
+iroN
+irradiated brain
+irritation fibroma
+irritation fibromas
+ischial tuberosity
+ischium
+islet
+islets
+isolated clefts
+iss
+isthmus
+iutA
+jaw
+jaw bones
+jaws
+jejunal
+jejunal mucosa
+jejunum
+joint contracture s
+joint contractures
+joint tissues
+jump leg
+juxtacanalicular connective tissue
+juxtamembrane region
+juxtapapillary
+k13 gene
+kazald1
+keratinocytes
+kidney
+kidney 's
+kidney biopsy samples
+kidney cells
+kidney graft
+kidneys
+kinetochore
+kinocilia
+kinocilium
+kiss1
+knee
+knee extensor
+knee extensors
+knee flexors
+knee joint loose body
+knees
+knockout cells
+kpsMTII
+lIPL
+labial glands
+labial plate
+labium majus
+laboratory strain
+lacked fresh tissue
+lacrimal duct narrowing
+lacrimal systems
+lactiferous duct
+lamellar bone
+lamellipodia
+lamellipodial
+lamellipodium - like
+lamina I
+lamina cribrosa
+lamina dura
+laminae I - IV
+laminae II
+large bowel
+large mitoribosomal subunit
+larger arteries
+laryngeal
+laryngeal mucosa
+larynges
+larynx
+late endosomes
+lateral femur
+lateral fibrous
+lateral incisors
+lateral ischial
+lateral malleolus
+lateral occipital ( LO ) cortex
+latissimus dorsi musculocutaneous
+layer
+layer 2 / 3
+layer V pyramidal neurons
+layer VI
+layers
+lead leg
+leading edge
+leading edges
+leaflet of phospholipid bilayers
+left
+left DRG
+left abdominal side
+left anterior descending artery
+left anterior descending coronary artery
+left anterior descending coronary artery region
+left arm
+left atrial
+left atrial ( LA ) roof
+left atrial appendage
+left atrium
+left breast
+left cardiac ventricle
+left caudate nucleus
+left colon
+left distal tibia
+left eye
+left femur
+left fusiform gyrus
+left hand
+left hemidiaphragm
+left hepatic duct
+left hepatic vein
+left hippocampus
+left inferior
+left inferior parietal lobule
+left jugular vein
+left kidney
+left lobes
+left lung
+left main coronary artery
+left maxillary canine
+left middle frontal gyrus
+left midventricular
+left obturator artery
+left obturator vein
+left pre / postcentral gyrus
+left precentral gyrus
+left putamen
+left recurrent laryngeal nerve
+left renal vein
+left superior frontal gyrus
+left superior pulmonary vein
+left superior temporal gyrus
+left superior temporal longitudinal fasciculus
+left temporal
+left temporal lobe
+left testis
+left thigh
+left ventricle
+left ventricular
+left ventricular basal anterior
+left ventricular outflow tract
+leg
+leg muscles
+legs
+lens
+leptin
+leptin gene
+leptin genes
+lesser trochanter
+lethal fetal liver
+leucine - rich repeat kinase 2
+leucocyte
+leucocytes
+leukemia cells
+leukemia inhibitory factor gene
+leukemic cells
+leukemic mouse cell lines
+leukemic stem cells
+leukocyte
+leukocyte populations
+leukocytes
+levator scapulae
+levator scapulae ( LS ) muscle
+lgG
+lgG1
+lgG2a
+lgG2a antibody
+libraries
+library
+ligaments
+liganded
+light - regulated genes
+limb
+limb malformation
+limb side
+limbal
+limbs
+limbs anomalies
+line
+lines
+lingual
+lingual gyrus
+lingual nerve
+lip
+lipid - bilayer
+lipid bilayer
+lipid bilayers
+lipid bodies
+lipid droplet
+lipid droplets
+lipid membranes
+lipogenic gene
+lipoic acid synthase gene
+lipolytic
+live - cell
+live cells
+live tissue
+liver
+liver 's
+liver ,
+liver cancer cells
+liver cell
+liver cells
+liver homogenates
+liver microsomes
+liver parenchyma
+liver samples
+liver sinusoids
+liver tissue
+liver tissues
+livers
+living cells
+lobe
+lobes
+local parieto - occipital
+loci
+loci of genes
+locus
+locus coeruleu
+locus coeruleus
+long - sought hair - cell
+long arm of rice chromosome 12
+long coiled embolus
+long convoluted copulatory duct
+long noncoding RNA PVT1
+loops
+loose bodies
+loose body
+loricrin
+low - density lipoprotein receptor ( LDL - R ) gene
+low - tumorigenic CT - 26 - low cells
+low - tumorigenic CT - 26 - low colon cancer cells
+low back
+low density lipoprotein receptor
+lower
+lower - body
+lower - extremity
+lower - limb
+lower - thoracic ( T9 )
+lower extremities
+lower extremity
+lower gingiva
+lower leg
+lower limb
+lower limb muscles
+lower limbs
+lower lip
+loxP
+lumbar disc herniation
+lumbar lordosis
+lumbar muscles
+lumbar pars interarticulars
+lumbar spondylolisthesis
+lumbar vertebra
+luminal - like
+luminal cells
+lung
+lung ( A549 )
+lung alveoli
+lung biopsy specimens
+lung epithelial barriers
+lung lobes
+lung tissues
+lungs
+luteinizing hormone / choriogonadotropin receptor
+lymph node
+lymph nodes
+lymphocyte
+lymphocyte B cell line BJAB
+lymphocytes
+lymphocytic
+lymphocytic cells
+lymphoid
+lymphoid cells
+lymphoid organs
+lymphoid tissue
+lymphoid tissue inducers
+lysosomal
+lysosomal membrane
+lysosome
+lysosomes
+m . 14502 T > C
+m1Pas
+mES cells
+mESC
+mESCs
+mGluR1
+mPCs
+mPFC
+mRNA
+mRNAs
+mTOR
+macrophage
+macrophage RAW 264 .
+macrophage cell line
+macrophage cell lines
+macrophage cells
+macrophages
+macrophagic cells
+macrovascular
+macula
+macular
+maf1Δ
+magA
+magnum
+main PA
+main PA branch
+main portal vein
+major histocompatibility complex
+male pronucleus
+malformation
+malformations
+malformed primary teeth
+malignant
+malignant cell
+malignant cell lines
+malignant cells
+malignant colonic obstruction
+mammalian cell
+mammalian cells
+mammalian guts
+mammalian target of rapamycin
+mammalian tissues
+mammary
+mammary gland
+mammary glands
+mandible
+mandibular
+mandibular arch
+mandibular continuity
+mandibular dysostosis
+mandibular lateral displacement
+mandibular rotational displacement
+mandibular setback
+margin
+margins
+marker gene
+marker genes
+marrow
+mass displacing the great vessels
+masseter
+masseter muscle
+mast cell
+mast cells
+matK
+matched adjacent nontumor tissues
+maternal immune cells
+matrix
+matrix metalloproteinase - 9 ( MMP - 9 ) - 1562C > T gene
+matrix of cartilage
+mature
+mature T - cell
+mature bone
+mature lymphocytes
+mavD1
+maxilla
+maxillary
+maxillary alveolar arch
+maxillary arch
+maxillary central
+maxillary central incisors
+maxillary first molar
+maxillary lateral incisors
+maxillary laterals
+maxillary molar bands
+maxillary palp
+maxillary posterior teeth
+maxilliped
+maxillule
+mcr - 1
+mcrA genes
+mechanoreceptors
+medial
+medial forebrain bundle
+medial frontal
+medial frontal brain
+medial frontal cortex
+medial gastrocnemius ( MG ) muscles
+medial malleolus
+medial perforant pathway
+medial prefrontal cortex
+medial sesamoid bone
+medial temporal area
+medial temporal lobe
+medial temporal lobes
+median nerve
+median rhomboid glossitis
+mediator genes
+medium spiny neurons
+medulla
+mefE genes
+megakaryocytes
+megaureters
+meiotic cells
+melan - a cells
+melanocytes
+melanoma
+melanoma cell
+melanoma cell lines
+melanoma cells
+membrane
+membrane - anchored
+membrane - coated
+membrane - less organelles
+membranes
+membranous tegular extension
+memory
+memory B - cell populations
+memory B cells
+memory T ( Tm ) cells
+memory T cells
+memory Th1
+memory Th1 cells
+memory cells
+mesenchymal
+mesenchymal cell population
+mesenchymal cell populations
+mesenchymal cells
+mesenchymal origin
+mesenchymal stem cells
+mesenchymal stem cells ( MSCs )
+mesenchymal stromal cell
+mesenchymal stromal cells
+mesenchymal tissue
+mesenteric arteries
+mesenteric lymph node
+mesenteric lymph nodes
+mesenteric resistance arteries
+mesenteric vein
+mesoaccumbal
+mesoaccumbal neurons
+mesodermal cells
+mesophyll cells
+mesothelial
+mesothelial cells
+mesothelin ( MSLN ) gene
+mesothelium
+metabolic
+metabolic genes
+metastasis suppressor
+metastatic nodule
+metastatic tissue
+methylated genes
+metrics
+mexA
+mexA gene
+mgrB
+mgrB gene
+miR - 101
+miR - 101b
+miR - 10b
+miR - 122 - 5p
+miR - 125b - 2 *
+miR - 135b
+miR - 145
+miR - 148a
+miR - 150
+miR - 155
+miR - 17
+miR - 17 ~ 92
+miR - 17 ~ 92 cluster
+miR - 181
+miR - 20
+miR - 20a
+miR - 21 - 5p
+miR - 211
+miR - 22
+miR - 22 mimics
+miR - 26a
+miR - 27b
+miR - 29a - 5p
+miR - 30a
+miR - 338 - 3p
+miR - 34a
+miR - 375
+miR - 376c
+miR - 424 - 5p
+miR - 450b - 5p
+miR - 451
+miR - 4638 - 5p
+miR - 495
+miR - 622
+miR - 708
+miR - 92a
+miR 221
+miRNA
+miRNA genes
+miRNAs
+miR‑221
+micrencephalic
+micro -
+microRNA
+microRNA - 10b
+microbial genes
+microcephaly
+microcirculatory bed
+microdomains
+microdontia
+microglia
+microglia cells
+microglial
+microglial BV - 2 cell line
+microglial cells
+micronuclei
+micropenis
+microphthalmia
+micropores
+microsatellite loci
+microstomia
+microtrichia
+microtubule
+microtubule asters
+microtubule network
+microtubules
+microvascular beds
+microvascular endothelial cells
+microvessel
+microvessels
+microvilli
+mid - shaft
+midbrain
+middle
+middle cerebral arteries
+middle cerebral artery occlusion
+middle frontal
+middle lobe
+middle meatus
+middle meningeal artery
+middle phalanx of the little finger
+mineralized
+mineralized tissue
+minimum GCIPL
+minor T allele
+minor alleles
+minor physical anomalies
+minor salivary gland
+missing
+missing teeth
+mitochondria
+mitochondrial
+mitochondrial ( mt ) genomes
+mitochondrial DNA genomes
+mitochondrial DNA mutation
+mitochondrial PDP1
+mitochondrial complexes of the electron transport chain
+mitochondrial electron transport chain
+mitochondrial fraction
+mitochondrial genome
+mitochondrial genomes
+mitochondrial myopathies
+mitochondrial myopathy
+mitochondrial structure
+mitochondrial subpopulations
+mitogen - activated protein kinase kinase kinase 3
+mitogenome
+mitogenomes
+mitotic cells
+mitotic human cells
+mitotic spindles
+mitral
+mitral valve
+mobile genome
+mobile tongue
+modified U7 RNA
+modifier
+modifiers
+modulatory
+molar
+molar loss
+molar site
+molar teeth
+molars
+monocyte
+monocyte - derived
+monocyte - derived macrophages
+monocyte chemoattractant protein 1
+monocyte macrophage cells
+monocytes
+monocytic
+monolayer
+monolayers
+morphological abnormalities
+morphological change
+morphologically altered
+mossy cell
+mossy cells
+mossy fibers
+mother cell
+motoneuronal
+motoneurons
+motor
+motor axon
+motor end plates
+motor nerve
+motor neuron
+motor neurons
+mouse
+mouse ESCs
+mouse bone marrow
+mouse brain preparations
+mouse cells
+mouse cerebral cortex
+mouse embryonic cells
+mouse embryonic stem cell
+mouse embryonic stem cells
+mouse fibroblast cell line
+mouse jaw
+mouse liver
+mouse natural killer cells
+mouse ovary
+mouse spleen
+moving limb
+mph ( A )
+mrkD
+msp - 18
+msp - 20
+mt genome
+mt genomes
+mtDNA - less ρ ( o ) cells
+mtDNA Control Region
+mucobuccal
+mucoperiosteal flaps
+mucosa
+mucosa layer
+mucosa tissue
+mucosal
+mucosal recession
+mucosal surfaces
+mucus
+multicellular
+multilayered secondary mouse follicles
+multiple - SNP variants
+multiple abnormalities
+multiple cell
+multiple coronary arteries
+multiple organs
+multiple variants
+multiplexed library
+multipotent
+multipotent adipose derived stem cells
+multipotent cells
+multivessel
+murein sacculus
+murine MM cell line
+murine T cell line
+murine fore - stomach
+muscle
+muscle - specific
+muscle - tendon
+muscle bellies
+muscle belly
+muscle biopsy specimens
+muscle cells
+muscle damage
+muscle stem cell
+muscle tissue
+muscles
+muscular
+muscular arteries
+muscularis propria
+musculoskeletal
+mutY
+mutant
+mutants
+mutated genes
+mutations
+mvaA
+mvaS
+myelin sheath
+myelinated nerves
+myelinating glia
+myelo - monocytic cells
+myeloid
+myeloid - derived suppressor cells
+myeloid cell lineages
+myeloid cells
+myeloid differentiation factor 88
+myeloid lineage precursors
+myeloid lineages
+myeloid precursors
+myeloma cell line NCI - H929
+myeloma stem - like cells
+myelomeningocele
+myenteric plexus
+myoblast
+myoblasts
+myocardial
+myocardial cell
+myocardial tissue
+myocardium
+myocyte
+myocytes
+myofibers
+myofibrillar
+myofibroblast
+myofibroblasts
+myometrium
+myostatin
+myostatin gene
+myotubes
+nail
+naive
+naive CD4 ( + ) T cells
+narG
+narrowing
+nasal
+nascent extracellular matrix
+nascent matrix
+nasopharyngeal
+nasopharynx
+native
+natural killer ( NK ) cells
+natural killer cells
+natural killers
+naïve
+naïve cell
+neck of femur
+neo - bone
+neo - urethra
+neo bone tissues
+neocortex
+neocortical
+neointima
+neoplastic cell
+neoplastic cell lines
+neoplastic cells
+nephron
+nerve
+nerve canal
+nerve cells
+nerve ending
+nerve fiber
+nerve fibres
+nerve terminals
+nerves
+nervous cells
+nervous fibers
+netB
+netB gene
+netB genes
+network
+networks
+neural
+neural cell - types
+neural cells
+neural fiber
+neural network
+neural networks
+neural pathways
+neural population
+neural precursor cell
+neural precursor cells
+neural progenitor
+neural progenitors
+neural stem cell
+neural stem cells
+neural stem cells ( GLAST ( + ) CD15 ( + ) CD133 ( + ) )
+neural stems cells
+neural structure
+neural tissue
+neural tissues
+neurites
+neuritic domain
+neuroblasts
+neuroblasts ( PSA - NCAM ( + ) CD15 ( + ) )
+neurocytic
+neurogenic domains
+neuromioarterials glomus bodies
+neuromuscular junctions
+neuron
+neuronal
+neuronal cell
+neuronal cell bodies
+neuronal cell layer
+neuronal cells
+neuronal dendrite
+neuronal ensemble
+neuronal populations
+neuronal receptor
+neuronal structures
+neuronal tissue
+neurons
+neuropil
+neurosensory structures
+neurospheres
+neurotypic cells
+neurovascular
+neurovascular structures
+neutrophil
+neutrophil extracellular trap
+neutrophilic
+neutrophils
+nevus flammeus
+nigrosome - 1
+nirK
+nirS
+nitrergic
+nociceptive C
+nociceptive neurons
+nociceptor
+nociceptors
+node
+nodes
+nodular
+nodule
+nodules
+non - CSCs
+non - SP ( MP ) cells
+non - cancer
+non - cancer cells
+non - cancerous
+non - cancerous tissues
+non - cell
+non - dividing cells
+non - epithelial cells
+non - essential genes
+non - failing hearts
+non - hematopoietic cell fraction
+non - human anthropoid hands
+non - irradiated liver tissue
+non - malignant cell line , L929
+non - neoplastic kidney
+non - overlapping genes
+non - progenitors
+non - retractile mutants
+non - ribosomal peptide synthetase ( NRPS ) genes
+non - tumor tissue
+non - tumorous gastric epitheliums
+non - tumorous liver tissues
+non cell
+noncancerous brain tissues
+nonlymphoid
+nonsyntenic genes
+nontorsed undescended testis
+nontumor
+nontumor samples
+nontumor tissues
+norB
+normal
+normal - appearing ( NA ) WM
+normal - appearing white matter
+normal HaCaT lines
+normal brain
+normal cells
+normal mucosa
+normal muscle
+normal osteoblast
+normal samples
+normal tissue
+normal tissues
+nosZ
+nose
+notochordal
+nr1h3
+nr1h3 ( - / - )
+nr1h3 gene
+nuclear
+nuclear bodies
+nuclear body
+nuclear factor Y gene families
+nuclear genes
+nuclear membrane
+nuclei
+nucleolar
+nucleolar organizing region
+nucleoli
+nucleoprotein
+nucleus
+nucleus accumbens
+nucleus of the solitary tract
+nucleus pulposus
+null mES cells
+null mouse embryonic stem cells
+nxrA
+o - methyl transferase 12 gene
+obturator artery
+obturator vein
+occipital
+occipital artery
+occipital cortices
+occipital lobe
+occipital lobe regions
+occlusion
+ochondria in
+ocular
+ocular adnexa
+ocular malformations
+ocular motor
+oculocutaneous albinism
+odd chromosomes
+oesophagus
+offending vessels
+oil bodies
+older eyes
+olfactory bulb
+olfactory cilia
+olfactory terminals
+olfactory tubercle
+oligodendrocyte
+oligodendrocytes
+omental
+omentum
+omt12
+oncogene
+oncogenes
+oncogenic
+oncogenic microRNA
+oncogenic suppressor p53
+oncosomes
+one matrix ,
+oocyte
+oocyte - cells
+oocytes
+open - cell structure
+open cellular systems
+open reading frame
+open reading frames
+operon
+ophthalmic
+optic cup
+optic disc
+optic nerve
+optic nerve head
+optic nerve heads
+optic nerve sheaths
+optic nerves
+oral cleft
+oral clefts
+oral mucosa
+oral tongue
+orbital T cell
+orexin
+organ
+organ - like
+organelle
+organelles
+organization
+organoids
+organotypic slices
+organs
+orofacial clefts
+ortholog
+orthologs
+orthologues
+os coxae
+os trigonum
+ossa coxae
+osseocutaneous free tissue
+osseous
+ossification centers
+osteoblast
+osteoblast - lineage cells
+osteoblast cells
+osteoblastic
+osteoblastic cells
+osteoblasts
+osteoclast
+osteoclastic
+osteoclastic cells
+osteoclasts
+osteogenic
+osteoprogenitor - like cells
+osteoprogenitor MC3T3 - E1 cells
+osteosarcoma cells
+outer forearm
+outer hair cells
+outer layer
+outer layers
+outer membrane
+outer membranes
+outer mitochondrial membrane
+outer retinal tubulations
+outer segment photoreceptor
+oval nucleus
+ovarian
+ovarian follicle
+ovarian follicles
+ovarian tissue
+ovarian tissues
+ovaries
+ovary
+overjet
+oviduct
+oviduct tracts
+oviductal
+oviductal tracts
+ovum
+p .
+p21
+p21 gene
+p53
+p53 tumor suppressor gene
+p62
+pMP41
+pN3 lymph node
+pRISMC
+paa
+paa genes
+paediatric tonsillectomy specimens
+pair of ribs
+palate
+palate .
+palate deformities
+paleopulmonic parabronchi
+pallidum
+palmar cutaneous branch of the median nerve
+palmar plates
+palp
+pancreas
+pancreatic
+pancreatic ( MIA PaCa - 2 )
+pancreatic acini
+pancreatic anterior
+pancreatic body
+pancreatic islet
+pancreatic islets
+pancreatic stellate cells
+pancreatic tissue
+pancreatic α - cells
+pancreatic β - cells
+paneth cells
+papC
+papilla
+papilla of Vater
+papillae
+papillary dermis
+papillary stalk
+parabrachial area
+paracentral lobule
+paraffin - embedded prolactinoma tissue
+paraffin - embedded tissue
+paraffin - embedded tissues
+parahippocampal
+parahippocampal cortex
+parallel fibers
+parameatal foreskin
+paramedian epigynal pockets
+paraspeckle
+paraspeckles
+paraspinal muscle
+paraspinal muscles
+parasympathetic
+parathyroid glands
+paraventricular nucleus
+parenchyma
+parenchymal
+parenchymal stroma
+parent
+parent data sets
+parent genome
+parent vessel
+parental clone
+parental pronuclei
+paretic limb
+parietal
+parietal areas
+parietal bone
+parietal cortex
+parotid gland
+parotid glands
+pars
+pars interarticularis
+pars interarticulars
+pars plana
+part
+part of the body
+partial stenosis
+partial thrombosis
+particular gene
+passage cells
+patella
+patellae
+patellar
+patellar tendon
+patent ductus arteriosus
+pathology tissue
+pathway
+pathway regulatory gene
+pathways
+paw
+paws
+peduncle
+peg shaped tooth
+pelvic
+pelvic - leg
+pelvic angle
+pelvic floor
+pelvic ganglia
+pelvic organs
+pelvic visceral nerves
+pelvis
+penile erosion
+penis
+perforant pathway
+perforating artery
+perforating femoral arteries
+perforator vessels
+peri - appendiceal
+perianal fistula
+perianal fistulas
+pericardial sac
+pericardium
+pericytes
+perineal branch
+perineal branches
+perineal skin
+perineum - breech - tail
+perinuclear region
+periodontal
+periodontal ligament
+periodontal tissue
+periodontal tissues
+periosteal dura
+periosteum
+periostin
+peripapillary retinal nerve fiber layer
+peripheral V1
+peripheral blood cells
+peripheral blood lymphocytes
+peripheral blood mononuclear cells
+peripheral macula
+peripheral monocytes
+peripheral reference vessel
+peripheral sites
+peripheral sympathetic nervous system
+peripheral tissues
+peripheral vein
+periphery tissue
+periphery tissues
+perisinusoidal cells
+peritoneal
+peritoneal macrophages
+peritoneum
+perivascular
+permanent first molars
+permanent incisors
+permanent molar
+permanent successor
+permanent teeth
+permanent tooth
+peroneal tendon
+peroneus longus
+peroxidase genes
+peroxisomal
+peroxisome
+peroxisomes
+pfK13
+pfcrt
+pfdhfr
+pfdhps
+pfmdr1
+pgk1
+phagocytes
+phagocytic
+phagocytic cells
+phagosome membrane
+phalli
+phallic glans
+phallic structures
+phallus
+pharyngeal
+pharyngeal constrictor muscles
+pharyngeal gland
+pharynx
+phenotypic effect
+phosphatidylinositol 3 - kinase catalytic subunit alpha
+phospholipase A2 ( PLA2 ) gene
+phospholipid bilayers
+photodamage
+photoreceptor
+photoreceptor cells
+photoreceptors
+photosystem I
+photosystem II
+photosystem II reaction centres
+pigment cell
+pigment cell - types
+pigment cell types
+pili
+pioneer genes
+piriform cortex
+piriformis
+pits
+pituitary
+pituitary gland
+pituitary mass
+place cells
+placenta
+placental
+placentas
+planktonic cells
+plant cell
+plant cells
+plant tissue
+plant tissues
+plantar fascia
+plantaris muscles
+plantarum 70810 cells
+plaque
+plaques
+plasma
+plasma cell
+plasma cells
+plasma membrane
+plasma membranes
+plasmablast
+plasmablasts
+plasmalemma
+plastid forms
+plastidial
+plastids
+plate
+platelet
+platelet lysate
+platelets
+plates
+pleiotropic effects
+pleura
+plexus
+plumage
+plumose
+pluripotent stem cells
+pmERC
+pockets of cells
+podocyte
+podocytes
+polA
+pollen mother cells
+pollen wall
+polycystic liver disease
+polymerase 1 and transcript release factor
+polymerase genes
+polyp
+polyps
+polyribosome
+polyribosomes
+polysomes
+poor soft tissue
+popliteal artery
+popliteal vein
+poration
+porcine liver
+pore
+pores
+portal - right renal venous
+portal vein
+portal vein blood
+positive cells
+positive selection sites
+post - middle cerebral artery occlusion
+post - synaptic
+postauricular flap
+posterior cerebral arteries
+posterior cerebral artery
+posterior cingulate cortex
+posterior cingulate gyrus
+posterior cortical regions
+posterior femoral cutaneous nerve
+posterior limb of the internal capsule
+posterior maxillary teeth
+posterior parietal
+posterior parietal cortex
+posterior superior iliac spine
+posterior tibial
+posterior urethral valves
+posteroseptal accessory pathways
+postsynaptic
+postsynaptic densities
+pre - adipocyte
+pre - adipocytes
+pre - and postganglionic neurons
+pre - coupled complex
+pre - treated cells
+preadipocytes
+preapoptotic genes
+precentral
+precentral cortical
+precuneus
+precursor cells
+prefrontal
+prefrontal cortex
+prefrontal cortical
+prefrontal cortical ( PFC ) neurons
+preganglionic neurons
+pregnant
+premolar teeth
+premolars
+preproglucagon
+presenilin 1
+presenilin 1 gene
+pressurized mesenteric arteries
+prestalk A ( pstA ) cells
+prestalk cell
+presynaptic
+presynaptic active zone
+presynaptic components of large synapses
+presynaptic membranes
+presynaptic nerve terminals
+presynaptic origin
+primary anterior teeth
+primary cilia
+primary cilium
+primary dentition
+primary effector cells
+primary electrical disorder
+primary incisors
+primary molars
+primary second molar
+primary sensory cortex
+primary smooth muscle
+primary somatosensory
+primary somatosensory cortex
+primary teeth
+primary tumour tissue
+primary vagal
+principal cells
+pro - inflammatory M
+pro - inflammatory macrophages
+profunda femoris artery
+progenitor
+progenitor cells
+progenitor domain
+progenitors
+progeny
+prognathism
+progressive pseudorheumatoid chondrodysplasia
+projection neurons
+projections
+prolamellar bodies
+proliferating cell nuclear antigen
+proline dehydrogenase ( ProDH ) genes
+promoter
+promoter 1A
+promoters
+pronator quadratus
+pronator quadratus ( PQ ) muscle
+pronucleus
+proprotein convertase subtilisin - kexin type 9
+proprotein convertase subtilisin / kexin type 9
+prostate
+prostate ( PC3
+prostate tissue
+prostatic
+prostatic ducts
+protected cells
+protective extracellular matrix
+protein - coding genes
+protein coding gene
+protein encoding gene ABCB1
+protein kinase C delta binding protein
+proteinaceous matrix
+protofibril
+protoplasts
+protrude
+protrusions
+protrusive
+proventricular
+proximal - distal limb
+proximal PA trunk
+proximal non - ciliated epithelial cells
+proximal tibia
+proximal tubular
+proximodistal limb
+pseudocysts
+pseudogene
+pseudopodia
+pseudopods
+pseudotumor
+pseudotumors
+psoas major muscle
+psoas muscle
+pstV ( A ) cells
+pudendal nerve
+pulmonary
+pulmonary arterial
+pulmonary arteries
+pulmonary arterioles
+pulmonary artery
+pulmonary artery collaterals
+pulmonary macrophages
+pulmonary vascular
+pulmonary veins
+pulp
+pupillary
+pupils
+putamen
+putative candidate genes
+putative hydrolase
+putative open reading frames
+putative sensory cell
+putative target gene
+putative target genes
+putative tonoplast dicarboxylate transporter gene
+pyknotic nuclei
+pyloric ring
+pylorus
+pyramidal ( PN ) neurons
+pyramidal cells
+pyramidal neurons
+qHSCs
+qPSC
+qPSCs
+quadriceps
+quadriceps muscles
+quantitative trait loci
+quantitative trait locus
+queenright subcolonies
+quenching sites
+r ( 20 ) syndrome
+r ( 8 ) ( : : p11 .
+r ( 8 ) ( : : p11 . 22→q11 . 21 : : )
+rDNA
+rRNA gene
+radial glia - like neural stem cells
+radial glial cells
+radial head
+raft
+rare variants
+rat brain
+rat brain slices
+rat brains
+rat epididymal
+rat epididymis
+rat femur
+rat glioma - 2 ( RG2 ) cells
+rat lung
+rat spinal cord
+rates
+rbcL
+real hands
+receptor cells
+receptor complex
+recession
+recessive
+recessive PKD
+rectal
+rectal biopsy specimens
+rectal cell
+rectal mucosa
+rectal tissue
+rectum
+rectus femoris
+rectus femoris muscle
+recycling
+recycling of synaptic vesicles
+red blood cell
+red blood cells
+red marrow rests
+reference genome
+region
+regional LNs
+regional lymph nodes
+regions
+regions of the chromosome
+regions of the genome
+regulating adult stem cells
+regulator
+regulators
+regulatory
+regulatory T ( Treg ) cell
+regulatory T cells
+regulatory elements
+regulatory enzyme genes
+regulatory genes
+regulatory particle
+regulatory small RNA genes
+regulon
+remains
+remnant
+renal
+renal allograft
+renal arteries
+renal artery
+renal cortex
+renal interstitial fibroblast - like cells
+renal parenchyma
+renal pedicle
+renal sites
+renal tissues
+renal vein
+renal vessels
+renalase
+replication complex
+replication fork
+reporter
+reporter constructs
+reporter gene
+repressor element - 1 silencing transcription factor
+resD gene
+resection cavity
+resection margin
+resistant cell line
+respiratory airway
+respiratory barrier
+respiratory complexes
+respiratory mucosa
+respiratory muscles
+respiratory tract
+rete ridges
+reticulate chorion
+retina
+retinacula
+retinaculum
+retinal
+retinal capillary endothelial cells
+retinal ganglion cell
+retinal ganglion cell layer
+retinal ganglion cells
+retinal nerve fiber layer
+retinal nerve fibre layer
+retinal pigment epithelial
+retinal structure
+retinal toxicity
+retinal vessels
+retrognathia
+retrograde intussusception
+retrolateral incision on the cymbium
+retrosplenial cortex
+reverse Hill - Sachs lesion
+rhabdomeres
+rhabdoviral particles
+rib
+rib 1
+rib 2
+rib 3
+rib cage
+ribcage
+ribonucleoprotein complexes
+ribosomal
+ribosomal RNA ( rRNA ) genes
+ribosomal gene cluster
+ribosomal genes
+ribosome
+ribosome 's
+ribs
+ribs 4 - 8 / 9
+right
+right adrenal gland
+right atrial
+right atrium
+right basal ganglia
+right calcaneus
+right colon
+right coronary artery
+right eye
+right frontal regions
+right fusiform gyri
+right hand
+right hemicolon
+right hemisphere
+right hemisphere of the cerebellum
+right hippocampus
+right inferior frontal gyrus
+right internal inguinal ring
+right kidney
+right knee
+right lamina of T1
+right little finger
+right lung lobes
+right middle
+right middle cerebral artery occlusion
+right paratracheal lymph node station 4R
+right posterior sectoral duct
+right precentral gyrus
+right superior PV
+right superior frontal gyrus
+right temporal lobe
+right vas deferens
+right ventricle
+right ventricular
+right ventricular area
+right ventricular dilation
+right ventricular outflow tract ( RVOT ) wall
+ring
+ring ( 20 ) syndrome
+ring chromosome 20 syndrome
+rmpA
+rmtB
+roadblock genes
+robust viromics
+rol ABC Genes
+rol ABC genes
+rol genes
+root
+root canal filled teeth
+root ganglion
+root thirds
+roots
+rosette cells
+rostral ventrolateral medulla
+rostrum
+rough endoplasmic reticulum
+rpoB
+rpoC1
+rs10767664
+rs11030096
+rs11030104
+rs11206510
+rs11583680
+rs11591147
+rs1205
+rs12979860C
+rs12979860CC
+rs12979860CT
+rs1801725
+rs1805098
+rs2072407 variant
+rs2227282
+rs2228000 C > T
+rs2228001 A > C
+rs2229090 G > C
+rs2243250
+rs2306235
+rs2479409
+rs2941484
+rs2977939
+rs373863828 - A
+rs373863828 - A ( p . Arg457Gln ) , of CREBRF
+rs373863828 - A ( p . Arg457Gln ) , of the CREBRF gene
+rs373863828 - A of CREBRF
+rs3741206
+rs3741211
+rs4735692
+rs6265
+rs7481311
+rs78589034 variant
+rs8099917
+rs8099917 G
+rs8099917GG
+rs8099917TT
+rs860170 ( TAS2R16 )
+rs988712
+rs9939609 of the gene FTO
+rtM204I
+rtM204V
+rumen
+ruminal fistulas
+rym4
+sCVOs
+sSMC
+sSMC ( 8 )
+sacrum
+salinity - treated tissues
+salivary gland
+salivary gland types
+samples
+saphenous vein
+saphenous veins
+sarcolemmal
+sarcomere
+sarcoplasmic reticulum
+satellite cells
+sc fat
+scCRISPR
+scabs
+scalp
+scaphoid
+scapholunate
+scapula
+scar
+scars
+sciatic nerve
+sclerenchyma
+sclerenchyma cells
+scoliosis
+scrotal position
+scrotum
+sdeA
+sebaceous gland
+sebaceous glands
+sebocytes
+second fetus
+second premolar
+second upper molars
+secondary cell wall
+secondary ossification centers
+secondary preantral follicles
+secondary walls
+secreting cells
+secretory cells
+secretory granules
+secretory population
+secretory products
+secretory tissues
+sections
+seed cell
+seed cells
+segmental portal vein
+segmented limbs
+segments A and B
+sella
+sella turcica
+sellar
+semicircular canal
+semimembranosus
+semimembranosus tendon
+seminal
+seminal vesicles
+semitendinosus
+semitendinosus muscle
+semitendinosus tendon
+semitendinosus tendons
+sensilla
+sensitize cells
+sensitized
+sensitized AC16 cells
+sensitized breast cancer cells
+sensitizing breast cancer cells
+sensor
+sensorimotor cortex
+sensory afferents
+sensory and motor areas
+sensory cells
+sensory circumventricular organs
+sensory hair cells
+sensory neurons
+sensory receptors
+sentinel lymph node
+sentinel lymph nodes
+sentinel node
+sentinel nodes
+septa
+septal nucleus
+septum
+sequenced glycoprotein
+sequences
+serious bronchial stenosis
+serosa
+serotonin
+serotonin neurons
+serrated
+serrated polyps
+serratus anterior
+serratus anterior muscle
+serratus anterior muscles
+serratus posterior superior
+serum deprivation response protein
+sesamoid
+sesamoids
+setae
+seventh cervical spinous process
+severe deformity
+sexine layer
+sexual organs
+sfa
+sgeh gene
+shape of body
+sheath
+shell
+short palate , lung and nasal epithelium clone 1
+sick
+sick RBC
+sick RBCs
+sick red blood cell
+sickle cell
+side muscles
+side population
+siglec - 1
+signal transducer and activator of transcription 3
+signalosome
+signet ring cell
+simple cysts
+single - cell
+single - celled plant trichomes
+single - copy genes
+single - gene
+single - rooted
+single - stranded DNA genomes
+single QTL
+single T - tubules
+single cell
+single polar flagellum
+single ventricle
+sites
+skeletal abnormalities
+skeletal malocclusion
+skeletal muscle
+skeletal muscle - specific
+skeletal muscle triads
+skeletal muscles
+skeletal tissues
+skeletogenic mesenchyme
+skin biopsy samples
+skin cell
+skin cells
+skin fibroblasts
+skin grafts
+skin layer
+skin nodule
+skin tissue
+skull
+slc30a3
+slip of tendon
+slit skin smear
+smPparγ
+small
+small bowel
+small extracellular vesicles
+small intestinal submucosa
+small intestine
+small intestines
+small ribosomal subunit
+small ribosomal subunit gene
+small round blue cells
+small subunit
+small supernumerary marker chromosome
+small vessels
+smooth muscle
+smooth muscle cells
+smooth muscle fibres
+smtA
+smtB
+sodA
+sodA gene
+sodB
+soft
+soft - tissue
+soft palate
+soft tissue
+soft tissues
+soleus
+soleus muscles
+solid organ
+soluble
+somatic cells
+somatosensory cortex
+somatotroph hyperplasia
+son of sevenless homolog 1
+spastic CP
+spastic cerebral palsy
+specific effector genes
+specific gene
+specified pstA cells
+specimens
+sperm
+sperm cells
+spermathecal
+spermaticus
+spermatozoa
+spermatozoon
+sperms
+spheroid
+sphincter
+sphincters
+spike gene
+spinal
+spinal anomalies
+spinal cord
+spinal deformity
+spinal dorsal horn
+spinal dysraphism
+spinal nerves
+spinal stenosis
+spinal trigeminal nucleus
+spination
+spindle
+spindle microtubule
+spindled cells
+spine
+spine - neck
+spine membrane
+spines
+spinopelvic
+spinous process
+spleen
+spleen of mice
+spleens
+splenic
+splenic artery
+splenic tissue
+splenium of the corpus callosum
+splenocytes
+splenogonadal fusion
+spongiosal tissue proximally
+sporophytic secretory tapetum
+squamous cell subset
+ssa - miRNA - 21
+stalk
+stem
+stem ( NES ) cells
+stem - like
+stem / progenitor - like
+stem cell
+stem cell origin
+stem cells
+stereocilia
+stereociliary
+sternal
+sternocleidomastoid
+sternum
+steroidogenesis genes
+steroidogenic genes
+stiff loopy colon
+stigmal vein
+stimulated cells
+stinging hairs
+stomach
+stomas
+straight configuration saphenous vein
+strains
+stratum corneum
+stress fibers
+stress granules
+striatal
+striatal projection neurons
+striated muscle
+striatum
+stricture
+strictures
+stroma
+stromal
+stromal cells
+stromal vascular cells
+structural
+structural brain
+structural changes
+structural respiratory chain complex or assembly factor defects
+structural respiratory chain subunit or assembly factor defects
+structurally
+structure
+structure of the brain
+structure of the virus
+structures
+structures of the stereoms
+stump
+stumps
+stx2
+sub - cellular compartments
+sub - epithelial
+sub - serosal area
+sub - urothelium
+subacute lower extremity
+subaortic
+subcapsular sinus
+subcellular
+subcellular compartment
+subcellular localization
+subcellularly
+subchondral bone
+subchondral plate
+subclavian vein
+subcolonies '
+subcortical
+subcortical gray matter structures
+subcortical structures
+subcutaneous adipose tissue
+subcutaneous fat
+subcutaneous pedicle
+subcutaneous tissue
+subcutaneous tissues
+subgenomes
+subglottic area
+subglottic stenosis
+subiculum
+submucosal ureter
+subpectoral
+subsarcolemmal
+subscapular
+subsegmental portal vein
+subsets
+substantia nigra
+subtelomeric
+subthalamic
+subthalamic nucleus
+subungual areas
+subventricular zone
+suf
+sul1
+super - charged NK cells
+super - erupted opposing tooth
+super - erupted teeth
+superficial
+superficial femoral artery
+superficial pancreatic head lymph node
+superficial tissue
+superior
+superior cerebellar artery
+superior frontal gyrus
+superior gluteal artery
+superior mesenteric arteries
+superior mesenteric vein
+superior parietal gyrus
+superior temporal gyrus
+supported bilayers
+suprabasal layer
+supracrucal plexus vascular
+suprasphincteric fistulas
+sur genes
+surA
+surB
+surC
+surD
+surface
+surface - adherent cells
+surface - immobilized small vesicles
+surface cells of these epithelial
+surface ectoderm
+surface structure of a bone
+surfaces
+surfaces of human bone
+surgical margin
+surgical margins
+surgical scars
+surgical specimens
+surgically reconstructed human knee
+susceptibility genes
+sympathetic trunk
+synaptic
+synaptic elements
+synaptic membranes
+synaptic terminals
+synaptic vesicle
+synaptic vesicles
+synaptically
+synaptoneurosomes
+synaptosomes
+syncytial trophoblasts
+syncytiotrophoblast
+syncytiotrophoblastic
+syndactyly
+synovial
+synovial tissue
+synoviocytes
+synovium
+syntenic
+syntenic orthologs
+synthetic oviduct
+tail
+tail vein
+talus
+tapetal cell
+tapetal layer
+tapetum
+target cell
+target cells
+target gene
+target genes
+targeted genes
+targeted loci
+tarsal kink
+tarsomere IV
+tarsomeres II - III
+tcaRAB
+tdTomato
+tear ducts
+teat
+teeth
+telencephalon
+telomerase reverse transcriptase gene
+telomere
+telomeres
+telomeric DNA
+telson
+temporal
+temporal RNFL
+temporal bone
+temporal bones
+temporal cortex
+temporal cortices
+temporal lobe
+temporal lobes
+temporal pole
+temporalis
+temporalis muscle
+temporalis muscles
+tendon
+tendon canal
+tendon tissue
+tendons
+terminals
+testes
+testicle
+testicular
+testis
+tetralogy of Fallot
+thalamic
+thalamus
+thanataphoric dysplasia
+thermogenic adipocytes
+thi1 mutant
+thiamine - biosynthesis gene
+thiamine biosynthesis genes
+thin - cap fibroatheroma
+third lumbar vertebra
+third molar
+third molar root
+thoracic
+thoracic aorta
+thoracic esophagus
+thoracic spine
+throat
+thymic
+thymic epithelial cells
+thymic mass
+thymic masses
+thymidine kinase 1
+thymocyte
+thymocytes
+thymus
+thyroid
+thyroid cover
+tibia
+tibiae
+tibial
+tibialis
+tibialis anterior
+tibialis anterior muscle
+tissue
+tissue blocks
+tissue composition
+tissue layer
+tissue piece
+tissue pieces
+tissue regions
+tissue samples
+tissue sections
+tissue specimens
+tissue spots
+tissue types
+tissues
+to the glans
+toe
+toe syndactyly
+tongue
+tonoplast
+tonsillar
+tonsils
+toolmaker
+tooth
+tooth components
+tooth loss
+tooth structure
+topographically - defined regions
+topological boundaries
+topological domains
+tpeL
+trabecular
+trabecular bone
+trabecular cardiomyocytes
+trabecular meshwork
+trachea
+trachea mucosa
+tracheal
+tracheal epithelium
+tracheobronchial
+tract
+tracts
+trait loci
+transcribed genes
+transcribed regions
+transcript variant
+transcription factor AP1
+transcriptional complex
+transfected cells
+transfected neurons
+transformed cells
+transforming growth factor beta receptor 1
+transgene
+transgenes
+transgenic
+transgenic line
+transgenic system
+transient receptor potential melastatin 7
+transmembrane
+transplanted
+transplanted cells
+transplanted organs
+transposition
+transsphincteric
+transsphincteric fistulas
+transverse - axial tubular system
+transverse colon
+transverse colons
+trapezius
+treating the cells
+treatment margins
+tree hollows
+tri - functional RhS enzyme
+triad
+triceps
+triceps brachii ( TB ) tendon
+trichome
+trichomes
+trigeminal nerve division
+triple fusion ( TF ) reporter gene
+triradiate cartilage
+trisomic placentas
+trnL
+trnL gene
+trophectoderm
+trophoblast
+trophoblastic cells
+trophoblasts
+trunk extensors
+tsh
+tubercles
+tuberoinfundibular dopamine ( TIDA ) neurons
+tuberous sclerosis complex of proteins
+tubular
+tubular epithelial cells
+tubular glands
+tubule - initiating cells
+tubules
+tumor
+tumor - associated KIAA0101
+tumor - draining LN
+tumor - draining LNs
+tumor - infiltrating CD8 ( + ) T cells
+tumor - infiltrating T cells
+tumor - infiltrating lymphocytes
+tumor - suppressor gene
+tumor cell
+tumor cell lines
+tumor cells
+tumor cells with stem - like properties
+tumor infiltrating T lymphocytes
+tumor infiltrating lymphocytes
+tumor initiating cells
+tumor model
+tumor protein 53
+tumor samples
+tumor stem cells
+tumor suppressing
+tumor suppressor
+tumor suppressor gene
+tumor suppressor gene p53
+tumor suppressor genes
+tumor suppressor phosphatase and tensin homolog
+tumor suppressors
+tumor tissue
+tumor tissues
+tumoral
+tumoral cells
+tumors
+tumorspheres
+tumor‑platelet ( T‑P ) complex ,
+tumour cell
+tumour cells
+tumour tissue
+tumour tissue isolates
+tumour tissues
+tunica media
+tunnel
+tv1
+tv2
+twist family bHLH transcription factor 1
+tympanic membranes
+type - 1 cells
+type - B aortic dissection
+type 2 helper cell
+type B AoD
+type B aortic dissection
+type B dissection
+type I IFNβ
+type II pneumocytes
+type III IFNλ1
+type III IFNλ2 / 3
+type IV pili
+udder
+udder - pelvic limb
+ulnar
+ultra - conserved element ( UCE ) loci
+ultrastructural
+ultrastructure
+umbilical artery
+umbilical cord
+umbilical cords
+umbilical vein
+umbilical veins
+uncinate fasciculus
+uncoupling protein 1 ( UCP1 ) gene
+uncultured chorionic villi
+undescended testes
+undescended testicle
+undescended testis
+unicellular trichomes
+unichromosomal
+unigenes
+unilateral cerebral palsy
+unique open reading frames
+univentricular heart malformations
+univentricular physiology
+unknown primary of origin
+unmarked cells
+unmyelinated axons
+upp gene
+upper
+upper ( n = 28 ) extremity
+upper - body
+upper - thoracic ( T4 )
+upper airway
+upper esophagus
+upper extremity
+upper eyelids
+upper gastrointestinal tract
+upper lateral incisor
+upper limb
+upper limbs
+upper lobe
+upper lobes
+upper lung lobes
+upper molar teeth
+upper pole
+upper pole of the testicle
+upper primary incisors
+upper respiratory tract
+upper third
+upper third of the auricle
+upregulated genes
+ureter
+ureteral
+ureteral obstruction
+ureteroceles
+urethra
+urethral plate
+urinary bladder
+urinary bladder cells
+urinary tract
+urothelial
+urothelial layer
+urothelial layer 's
+urothelium
+uterine
+uterine arteries
+uterine artery
+uterine cervix
+uterine gland
+uterine glands
+uterus
+utrophin
+vHipp
+vacuole
+vacuoles
+vagal
+vagal afferents
+vagal fibers
+vagal nerve
+vagina
+vaginal
+vaginal septum
+vaginal specimens
+vagus nerve
+valve
+vapA
+variant
+variant 1
+variants
+variants in the gene
+vas deferens
+vascular
+vascular anomalies
+vascular endothelial
+vascular endothelial cell
+vascular endothelial cells
+vascular endothelial growth factor
+vascular endothelium
+vascular graft
+vascular limb
+vascular media
+vascular network
+vascular smooth muscle cells
+vascular tissues
+vascular tubes
+vasculature
+vastus intermedius
+vastus lateralis
+vastus lateralis muscles
+vastus lateralis surface
+vastus medialis
+vegetative cells
+vein
+vein R < sub > 4 < /sub >
+vein graft model
+vein grafts
+veins
+venous sinuses
+ventral - temporal pathway
+ventral bud
+ventral hippocampus
+ventral pancreas
+ventral stream
+ventral striatum
+ventral tegmental area
+ventral tegmental dopamine
+ventricles
+ventricular
+ventricular - subventricular zone
+ventricular cardiac cell
+ventricular myocardium
+ventricular myocytes
+ventricular walls
+ventro - medial sulcus tissues
+ventromedial hypothalamus
+ventromedial prefrontal cortex
+venules
+vertebrae
+vertebral
+vertebral anomalies
+vertebral body
+vertebral bone
+vertebral column
+vertebral venous sinuses
+vesicle
+vesicles
+vessel
+vessel wall
+vessels
+vibrating vocal folds
+vibrissa
+villi
+villous
+viperin
+viral components
+viral gene
+viral genome
+viral genome types
+viral glycoprotein ( s )
+viral particles
+virions
+virus - armed carrier cells
+virus - like particles
+virus particles
+viscera
+visceral
+visceral adipose tissue area
+visceral fat
+visceral fat pads
+visceral ganglia
+visceral mass tissue
+visual cells
+visual cortex
+vitamin D receptor
+vitellogenin gene
+vmPFC
+vocal cords
+vocal fold
+vocal folds
+vocal nodules
+vocalis muscles
+volar beak ligament
+volar locking plate
+volar plate
+volar plates
+vraSR
+vulvar
+walKR
+wall
+wall layers
+wall of the sarcoplasmic reticulum
+walls
+wcaG
+wet cells
+whisker
+white
+white - matter
+white adipose tissue
+white blood cells
+white line
+white matter
+white matter atrophy
+whole - body
+whole - brain
+whole - cell
+whole - gut
+whole blood cells
+whole body
+whole brain
+whole cell
+whole chromosomes
+whole femur
+whole genome sequences
+whole liver normal tissue
+whole tissue
+wide - type ( WT ) strain
+wild
+wild - type
+wild - type Nav1 .
+wild - type strain
+wild type
+wild type p53
+wildtype
+wildtype mice intestinal
+wing
+wings
+within the forceps minor
+woody tissue
+wrinkle
+wrinkles
+wysR3
+wysR3 gene
+xanthoma cells
+xanthophores
+ybtS
+yeast cells
+yolk
+zinc finger E‑box binding homeobox 2 antisense RNA 1
+zip10
+zygoma
+zygomatic bone
+zygotes
+zygotic
+ΔMexAB - OprM
+ΔMexCD - OprJ
+ΔMexEF - OprN
+ΔMexXY - OprM
+ΔarnBCADTEF
+ΔarnE
+ΔarnF
+ΔarrMab mutant
+ΔphoP
+ΔphoPQ
+ΔphoQ
+ΔpmrA
+ΔpmrAB
+ΔpmrB
+ΔwysR3
+α - cell
+α - cells
+α - gliadin genes
+α1 ( I ) Collagen
+α1 ( I ) collagen
+α2 ( I ) collagen
+β - ACTIN
+β - MHC
+β - actin ( C374S )
+β - alanine aminotransferase
+β - alanine aminotransferase gene
+β - cells
+γH2AX
+∆l sku70∆lslig4
+∆lsku70∆lsku80∆lslig4
+∆lslig4

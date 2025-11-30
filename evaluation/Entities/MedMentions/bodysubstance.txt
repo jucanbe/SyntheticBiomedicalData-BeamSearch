@@ -1,0 +1,265 @@
+" Dropped " Gallstones
+BALF
+BM sample
+Bile
+Blood
+Blood sample
+Blood samples
+Bloods
+Bronchoalveolar lavage fluid
+Bronchoalveolar lavage fluids
+CSF
+CSF samples
+Cerebrospinal fluid
+Cholesterol calculus
+Cord Blood
+Cord blood
+DBS
+Dentin
+Enamel
+Faecal
+Faeces
+GCF
+Gastric fluid
+Gastrointestinal acid
+Gingival Crevicular Fluid
+HEAM
+HPD
+Human particulate dentin
+ISF
+Inflammatory infiltrates
+Median serum
+Morning urine samples
+Mucosa
+NPAs
+Nasopharyngeal aspirates
+PRF
+PRP
+Pathological specimens
+Peripheral Blood
+Peripheral blood
+Plasma
+Plasma samples
+Platelet rich plasma
+SBF
+SHU
+Saliva
+Samples
+Sebum
+Secretion
+Semen
+Serum
+Serum samples
+Stone
+Umbilical Cord Blood
+Urinary
+Urinary Tract Calculi
+Urinary stones
+Urine
+Urine Specimens
+Urine samples
+Urines
+Venous blood
+Water
+Whole blood
+acidic urine
+adhesive
+amniotic fluid
+aqueous
+aqueous humor
+arterial blood samples
+ascetic fluid
+ascetic fluids
+aspirates
+atheroma plaques
+atherosclerotic plaque
+atherosclerotic plaques
+autologous samples
+bile
+bile vessels
+biofluids
+biological fluids
+biological matrices
+blood
+blood components
+blood drop
+blood levels
+blood sample
+blood samples
+blood serum
+blood specimen
+blood staining
+body - fluid
+body fluid
+body fluid cultures sampled
+body fluids
+bolus
+bone marrow aspirate
+bone marrow aspirates
+bone marrow samples
+brain slice model
+breast milk
+breast milk samples
+breath
+bronchoalveolar lavage fluid
+bronchoalveolar lavage fluids
+capillary ( children ) sample
+capillary blood
+capillary microsamples
+cell - free supernatant
+cemented
+centrifuged
+cerebral spinal fluid
+cerebrospinal fluid
+cervicovaginal fluid
+chalklike discharge
+cholesterol calculus
+cord blood
+crystal
+culture supernatant
+dentin
+dentine
+digested food
+discharge
+dried blood spot samples
+dried blood spots
+dropped gallstones
+dung
+enamel
+eosinophilic infiltrate
+eosinophilic inflammatory infiltrates
+excreta
+excretion
+exocrine solutions
+extracellular liquid
+exudate
+exudates
+faecal
+faeces
+fecal
+fecal samples
+fecally
+feces
+fetal blood
+fluid
+food bolus
+fragment
+fragments
+fresh
+fresh thicker samples
+gallstone
+gallstones
+gastric fluid
+gastric juice
+gill mucus
+hUCB
+hemolymph
+human granulocytes
+human particulate dentin
+human plasma
+human serum
+hyaline
+induced sputum
+infected assailant secretions
+inflammatory cell infiltrate
+inflammatory cell infiltrates
+interstitial fluid
+intestinal fluid
+intestinal mucus
+liver specimens
+macular fluid
+matrix
+milk
+mucosal
+mucus
+mucus trap
+mucus traps
+nasal wash
+pancreatic juices
+pathology specimens
+patient 's peripheral blood
+patient - derived samples
+patient sample
+patient samples
+patient specimen
+peripheral blood
+peritoneal fluid
+plasma
+plasma analytes
+plasma bags
+plasma samples
+plasmas
+plasmatic
+platelet - rich fibrin
+platelet rich plasma
+polyclonal serum
+pre - biopsy serum
+pretransplant sera
+prostatic specimens
+psammoma bodies
+rectum samples
+root dentin
+rumen fluid
+saliva
+saliva samples
+salivary
+sample
+sample sets
+samples
+scat samples
+sebum
+sebum components
+secretions
+semen
+seminal plasma
+sera
+seric
+serum
+serum ( NBCS ) environment
+serum environment
+serum samples
+simulated body fluid
+skull specimens
+slice
+smear - positive sputum sample
+specimens
+sputa
+sputa samples
+sputum
+sterile ascetic fluid groups
+sterile fluids
+stimulated saliva
+stone
+stone disease
+stones
+stool
+stool samples
+stools
+supernatant
+supernatants
+synovial fluid
+tissue fluids
+trapped water
+umbilical cord blood
+umbilical cord bloods
+uric acid stones
+urinary
+urinary calculi
+urinary samples
+urinary sediment samples
+urinary tract calculi
+urine
+urine samples
+urine sediment
+venous
+venous blood
+venous blood sample
+venous plasma
+vitreous humor
+water
+whole - blood
+whole blood
+whole blood samples
+wound specimen
+wound swab
+wound swab samples

@@ -1,0 +1,624 @@
+T0.8
+=== 1C - CONGRUENCE
+{
+  "cosine_similarity_embedding_mean": 0.9882,
+  "js_divergence_pairwise_distances": 0.0491,
+  "earth_movers_distance_wasserstein": 0.0339
+}
+
+=== 2C - COVERAGE ===
+{
+  "vocab_recall_pct": 37.5371,
+  "convex_hull_ratio_syn_over_real_pca": 0.5602,
+  "coverage_nn_similarity_ge_0.8_pct": 99.86
+}
+
+=== 3C - CONSTRAINT ===
+{
+  "constraint_violation_rate_pct": 0.3994,
+  "constraint_valid_samples_pct": 99.6006
+}
+
+=== 4C - COMPLETENESS ===
+{
+  "proportion_required_clinical_field_pct": 100.0,
+  "missing_data_percentage_required_field_pct": 0.0
+}
+
+=== 5C - COMPLIANCE ===
+{
+  "nearest_real_cosine_similarity_mean": 0.958,
+  "suspected_memorised_samples_pct": 0.0
+}
+
+=== 7C - CONSISTENCY ===
+{
+  "variance_domain_cosine_sim_to_global": 0.0,
+  "maxmin_domain_cosine_sim_to_global": 0.0186,
+  "per_domain": {
+    "anatomicalstructure": {
+      "cosine_sim_to_global_mean": 0.9995,
+      "num_sentences": 5376
+    },
+    "biologicfunction": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 7195
+    },
+    "chemical": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 6448
+    },
+    "finding": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 6813
+    },
+    "healthcareactivity": {
+      "cosine_sim_to_global_mean": 0.9999,
+      "num_sentences": 6715
+    },
+    "medicaldevice": {
+      "cosine_sim_to_global_mean": 0.9969,
+      "num_sentences": 1291
+    },
+    "organization": {
+      "cosine_sim_to_global_mean": 0.9998,
+      "num_sentences": 5743
+    },
+    "spatialconcept": {
+      "cosine_sim_to_global_mean": 0.9999,
+      "num_sentences": 5883
+    },
+    "bodysystem": {
+      "cosine_sim_to_global_mean": 0.9967,
+      "num_sentences": 1366
+    },
+    "injuryorpoisoning": {
+      "cosine_sim_to_global_mean": 0.9991,
+      "num_sentences": 2524
+    },
+    "eukaryote": {
+      "cosine_sim_to_global_mean": 0.9994,
+      "num_sentences": 3832
+    },
+    "intellectualproduct": {
+      "cosine_sim_to_global_mean": 0.9989,
+      "num_sentences": 3993
+    },
+    "bacterium": {
+      "cosine_sim_to_global_mean": 0.9921,
+      "num_sentences": 657
+    },
+    "clinicalattribute": {
+      "cosine_sim_to_global_mean": 0.9989,
+      "num_sentences": 2532
+    },
+    "food": {
+      "cosine_sim_to_global_mean": 0.9941,
+      "num_sentences": 988
+    },
+    "populationgroup": {
+      "cosine_sim_to_global_mean": 0.9962,
+      "num_sentences": 2003
+    },
+    "researchactivity": {
+      "cosine_sim_to_global_mean": 0.9979,
+      "num_sentences": 3628
+    },
+    "bodysubstance": {
+      "cosine_sim_to_global_mean": 0.9959,
+      "num_sentences": 1255
+    },
+    "professionaloroccupationalgroup": {
+      "cosine_sim_to_global_mean": 0.9932,
+      "num_sentences": 1911
+    },
+    "biomedicaloccupationordiscipline": {
+      "cosine_sim_to_global_mean": 0.9941,
+      "num_sentences": 1527
+    },
+    "virus": {
+      "cosine_sim_to_global_mean": 0.9814,
+      "num_sentences": 331
+    }
+  }
+}
+
+T0.6
+=== 1C - CONGRUENCE
+{
+  "cosine_similarity_embedding_mean": 0.9882,
+  "js_divergence_pairwise_distances": 0.0571,
+  "earth_movers_distance_wasserstein": 0.0332
+}
+
+=== 2C - COVERAGE ===
+{
+  "vocab_recall_pct": 34.339,
+  "convex_hull_ratio_syn_over_real_pca": 0.6573,
+  "coverage_nn_similarity_ge_0.8_pct": 99.8
+}
+
+=== 3C - CONSTRAINT ===
+{
+  "constraint_violation_rate_pct": 0.3581,
+  "constraint_valid_samples_pct": 99.6419
+}
+
+=== 4C - COMPLETENESS ===
+{
+  "proportion_required_clinical_field_pct": 100.0,
+  "missing_data_percentage_required_field_pct": 0.0
+}
+
+=== 5C - COMPLIANCE ===
+{
+  "nearest_real_cosine_similarity_mean": 0.9572,
+  "suspected_memorised_samples_pct": 0.0
+}
+
+=== 7C - CONSISTENCY ===
+{
+  "variance_domain_cosine_sim_to_global": 0.0,
+  "maxmin_domain_cosine_sim_to_global": 0.0187,
+  "per_domain": {
+    "anatomicalstructure": {
+      "cosine_sim_to_global_mean": 0.9995,
+      "num_sentences": 5198
+    },
+    "bacterium": {
+      "cosine_sim_to_global_mean": 0.992,
+      "num_sentences": 683
+    },
+    "biologicfunction": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 7192
+    },
+    "finding": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 6737
+    },
+    "healthcareactivity": {
+      "cosine_sim_to_global_mean": 0.9999,
+      "num_sentences": 6800
+    },
+    "researchactivity": {
+      "cosine_sim_to_global_mean": 0.9983,
+      "num_sentences": 3801
+    },
+    "spatialconcept": {
+      "cosine_sim_to_global_mean": 0.9999,
+      "num_sentences": 5982
+    },
+    "chemical": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 6524
+    },
+    "intellectualproduct": {
+      "cosine_sim_to_global_mean": 0.9991,
+      "num_sentences": 4185
+    },
+    "organization": {
+      "cosine_sim_to_global_mean": 0.9999,
+      "num_sentences": 5867
+    },
+    "biomedicaloccupationordiscipline": {
+      "cosine_sim_to_global_mean": 0.9954,
+      "num_sentences": 1732
+    },
+    "medicaldevice": {
+      "cosine_sim_to_global_mean": 0.9965,
+      "num_sentences": 1258
+    },
+    "professionaloroccupationalgroup": {
+      "cosine_sim_to_global_mean": 0.9952,
+      "num_sentences": 2190
+    },
+    "bodysystem": {
+      "cosine_sim_to_global_mean": 0.997,
+      "num_sentences": 1279
+    },
+    "eukaryote": {
+      "cosine_sim_to_global_mean": 0.9992,
+      "num_sentences": 3673
+    },
+    "injuryorpoisoning": {
+      "cosine_sim_to_global_mean": 0.9989,
+      "num_sentences": 2280
+    },
+    "populationgroup": {
+      "cosine_sim_to_global_mean": 0.9966,
+      "num_sentences": 1987
+    },
+    "clinicalattribute": {
+      "cosine_sim_to_global_mean": 0.9985,
+      "num_sentences": 2237
+    },
+    "bodysubstance": {
+      "cosine_sim_to_global_mean": 0.9947,
+      "num_sentences": 1352
+    },
+    "food": {
+      "cosine_sim_to_global_mean": 0.9938,
+      "num_sentences": 971
+    },
+    "virus": {
+      "cosine_sim_to_global_mean": 0.9813,
+      "num_sentences": 370
+    }
+  }
+}
+
+T0.4
+=== 1C - CONGRUENCE
+{
+  "cosine_similarity_embedding_mean": 0.9873,
+  "js_divergence_pairwise_distances": 0.0445,
+  "earth_movers_distance_wasserstein": 0.0277
+}
+
+=== 2C - COVERAGE ===
+{
+  "vocab_recall_pct": 33.8181,
+  "convex_hull_ratio_syn_over_real_pca": 0.4841,
+  "coverage_nn_similarity_ge_0.8_pct": 99.66
+}
+
+=== 3C - CONSTRAINT ===
+{
+  "constraint_violation_rate_pct": 0.2342,
+  "constraint_valid_samples_pct": 99.7658
+}
+
+=== 4C - COMPLETENESS ===
+{
+  "proportion_required_clinical_field_pct": 100.0,
+  "missing_data_percentage_required_field_pct": 0.0
+}
+
+=== 5C - COMPLIANCE ===
+{
+  "nearest_real_cosine_similarity_mean": 0.96,
+  "suspected_memorised_samples_pct": 0.0
+}
+
+=== 7C - CONSISTENCY ===
+{
+  "variance_domain_cosine_sim_to_global": 0.0,
+  "maxmin_domain_cosine_sim_to_global": 0.0148,
+  "per_domain": {
+    "anatomicalstructure": {
+      "cosine_sim_to_global_mean": 0.9996,
+      "num_sentences": 5436
+    },
+    "biologicfunction": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 7223
+    },
+    "chemical": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 6798
+    },
+    "finding": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 6943
+    },
+    "healthcareactivity": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 6979
+    },
+    "organization": {
+      "cosine_sim_to_global_mean": 0.9999,
+      "num_sentences": 6293
+    },
+    "spatialconcept": {
+      "cosine_sim_to_global_mean": 0.9999,
+      "num_sentences": 6253
+    },
+    "intellectualproduct": {
+      "cosine_sim_to_global_mean": 0.9993,
+      "num_sentences": 4374
+    },
+    "medicaldevice": {
+      "cosine_sim_to_global_mean": 0.9969,
+      "num_sentences": 1426
+    },
+    "researchactivity": {
+      "cosine_sim_to_global_mean": 0.9984,
+      "num_sentences": 3993
+    },
+    "injuryorpoisoning": {
+      "cosine_sim_to_global_mean": 0.9991,
+      "num_sentences": 2714
+    },
+    "professionaloroccupationalgroup": {
+      "cosine_sim_to_global_mean": 0.9959,
+      "num_sentences": 2281
+    },
+    "bodysystem": {
+      "cosine_sim_to_global_mean": 0.9973,
+      "num_sentences": 1376
+    },
+    "clinicalattribute": {
+      "cosine_sim_to_global_mean": 0.9988,
+      "num_sentences": 2645
+    },
+    "eukaryote": {
+      "cosine_sim_to_global_mean": 0.9995,
+      "num_sentences": 4405
+    },
+    "bodysubstance": {
+      "cosine_sim_to_global_mean": 0.9957,
+      "num_sentences": 1515
+    },
+    "biomedicaloccupationordiscipline": {
+      "cosine_sim_to_global_mean": 0.9961,
+      "num_sentences": 1590
+    },
+    "populationgroup": {
+      "cosine_sim_to_global_mean": 0.9977,
+      "num_sentences": 2146
+    },
+    "bacterium": {
+      "cosine_sim_to_global_mean": 0.9936,
+      "num_sentences": 758
+    },
+    "food": {
+      "cosine_sim_to_global_mean": 0.9942,
+      "num_sentences": 1016
+    },
+    "virus": {
+      "cosine_sim_to_global_mean": 0.9852,
+      "num_sentences": 371
+    }
+  }
+}
+
+T0.2
+=== 1C - CONGRUENCE
+{
+  "cosine_similarity_embedding_mean": 0.9886,
+  "js_divergence_pairwise_distances": 0.0381,
+  "earth_movers_distance_wasserstein": 0.0278
+}
+
+=== 2C - COVERAGE ===
+{
+  "vocab_recall_pct": 30.6852,
+  "convex_hull_ratio_syn_over_real_pca": 0.5046,
+  "coverage_nn_similarity_ge_0.8_pct": 99.78
+}
+
+=== 3C - CONSTRAINT ===
+{
+  "constraint_violation_rate_pct": 0.3581,
+  "constraint_valid_samples_pct": 99.6419
+}
+
+=== 4C - COMPLETENESS ===
+{
+  "proportion_required_clinical_field_pct": 100.0,
+  "missing_data_percentage_required_field_pct": 0.0
+}
+
+=== 5C - COMPLIANCE ===
+{
+  "nearest_real_cosine_similarity_mean": 0.9593,
+  "suspected_memorised_samples_pct": 0.0
+}
+
+=== 7C - CONSISTENCY ===
+{
+  "variance_domain_cosine_sim_to_global": 0.0,
+  "maxmin_domain_cosine_sim_to_global": 0.0164,
+  "per_domain": {
+    "anatomicalstructure": {
+      "cosine_sim_to_global_mean": 0.9995,
+      "num_sentences": 5324
+    },
+    "bacterium": {
+      "cosine_sim_to_global_mean": 0.993,
+      "num_sentences": 734
+    },
+    "biologicfunction": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 7195
+    },
+    "eukaryote": {
+      "cosine_sim_to_global_mean": 0.9991,
+      "num_sentences": 3866
+    },
+    "finding": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 6773
+    },
+    "healthcareactivity": {
+      "cosine_sim_to_global_mean": 0.9999,
+      "num_sentences": 6758
+    },
+    "spatialconcept": {
+      "cosine_sim_to_global_mean": 0.9999,
+      "num_sentences": 6060
+    },
+    "chemical": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 6596
+    },
+    "organization": {
+      "cosine_sim_to_global_mean": 0.9999,
+      "num_sentences": 6067
+    },
+    "researchactivity": {
+      "cosine_sim_to_global_mean": 0.9979,
+      "num_sentences": 3554
+    },
+    "intellectualproduct": {
+      "cosine_sim_to_global_mean": 0.9992,
+      "num_sentences": 4094
+    },
+    "medicaldevice": {
+      "cosine_sim_to_global_mean": 0.9967,
+      "num_sentences": 1317
+    },
+    "clinicalattribute": {
+      "cosine_sim_to_global_mean": 0.9986,
+      "num_sentences": 2432
+    },
+    "bodysubstance": {
+      "cosine_sim_to_global_mean": 0.9952,
+      "num_sentences": 1331
+    },
+    "bodysystem": {
+      "cosine_sim_to_global_mean": 0.9974,
+      "num_sentences": 1404
+    },
+    "injuryorpoisoning": {
+      "cosine_sim_to_global_mean": 0.9988,
+      "num_sentences": 2498
+    },
+    "professionaloroccupationalgroup": {
+      "cosine_sim_to_global_mean": 0.9946,
+      "num_sentences": 2138
+    },
+    "biomedicaloccupationordiscipline": {
+      "cosine_sim_to_global_mean": 0.9958,
+      "num_sentences": 1507
+    },
+    "populationgroup": {
+      "cosine_sim_to_global_mean": 0.9962,
+      "num_sentences": 1934
+    },
+    "food": {
+      "cosine_sim_to_global_mean": 0.9951,
+      "num_sentences": 1053
+    },
+    "virus": {
+      "cosine_sim_to_global_mean": 0.9836,
+      "num_sentences": 356
+    }
+  }
+}
+
+T0.01
+=== 1C - CONGRUENCE
+{
+  "cosine_similarity_embedding_mean": 0.9881,
+  "js_divergence_pairwise_distances": 0.0432,
+  "earth_movers_distance_wasserstein": 0.0302
+}
+
+=== 2C - COVERAGE ===
+{
+  "vocab_recall_pct": 30.8299,
+  "convex_hull_ratio_syn_over_real_pca": 0.5347,
+  "coverage_nn_similarity_ge_0.8_pct": 99.78
+}
+
+=== 3C - CONSTRAINT ===
+{
+  "constraint_violation_rate_pct": 0.4545,
+  "constraint_valid_samples_pct": 99.5455
+}
+
+=== 4C - COMPLETENESS ===
+{
+  "proportion_required_clinical_field_pct": 100.0,
+  "missing_data_percentage_required_field_pct": 0.0
+}
+
+=== 5C - COMPLIANCE ===
+{
+  "nearest_real_cosine_similarity_mean": 0.9589,
+  "suspected_memorised_samples_pct": 0.0
+}
+
+=== 7C - CONSISTENCY ===
+{
+  "variance_domain_cosine_sim_to_global": 0.0,
+  "maxmin_domain_cosine_sim_to_global": 0.0227,
+  "per_domain": {
+    "anatomicalstructure": {
+      "cosine_sim_to_global_mean": 0.9994,
+      "num_sentences": 5232
+    },
+    "biologicfunction": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 7220
+    },
+    "bodysystem": {
+      "cosine_sim_to_global_mean": 0.9952,
+      "num_sentences": 1433
+    },
+    "finding": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 6873
+    },
+    "healthcareactivity": {
+      "cosine_sim_to_global_mean": 0.9999,
+      "num_sentences": 6877
+    },
+    "injuryorpoisoning": {
+      "cosine_sim_to_global_mean": 0.9986,
+      "num_sentences": 2447
+    },
+    "spatialconcept": {
+      "cosine_sim_to_global_mean": 0.9999,
+      "num_sentences": 6088
+    },
+    "chemical": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 6692
+    },
+    "intellectualproduct": {
+      "cosine_sim_to_global_mean": 0.9992,
+      "num_sentences": 4362
+    },
+    "organization": {
+      "cosine_sim_to_global_mean": 0.9999,
+      "num_sentences": 6058
+    },
+    "professionaloroccupationalgroup": {
+      "cosine_sim_to_global_mean": 0.9945,
+      "num_sentences": 2261
+    },
+    "researchactivity": {
+      "cosine_sim_to_global_mean": 0.998,
+      "num_sentences": 3705
+    },
+    "biomedicaloccupationordiscipline": {
+      "cosine_sim_to_global_mean": 0.9953,
+      "num_sentences": 1600
+    },
+    "bodysubstance": {
+      "cosine_sim_to_global_mean": 0.9946,
+      "num_sentences": 1213
+    },
+    "eukaryote": {
+      "cosine_sim_to_global_mean": 0.9991,
+      "num_sentences": 3892
+    },
+    "clinicalattribute": {
+      "cosine_sim_to_global_mean": 0.9983,
+      "num_sentences": 2661
+    },
+    "medicaldevice": {
+      "cosine_sim_to_global_mean": 0.9966,
+      "num_sentences": 1322
+    },
+    "populationgroup": {
+      "cosine_sim_to_global_mean": 0.9974,
+      "num_sentences": 1848
+    },
+    "virus": {
+      "cosine_sim_to_global_mean": 0.9772,
+      "num_sentences": 456
+    },
+    "bacterium": {
+      "cosine_sim_to_global_mean": 0.993,
+      "num_sentences": 791
+    },
+    "food": {
+      "cosine_sim_to_global_mean": 0.993,
+      "num_sentences": 836
+    }
+  }
+}

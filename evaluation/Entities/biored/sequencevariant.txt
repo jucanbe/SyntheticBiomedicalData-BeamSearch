@@ -1,0 +1,900 @@
+( CCTTT ) 10
+( CCTTT ) 13
+( CCTTT ) 14
+( G -- > A ) at nucleotide position 2141
+( G -- > C ) substitution at position 1201
+( GCG ) 6 ( GCA ) 3GCG sequence was replaced by ( GCG ) 6 ( GCA ) ( GCG ) 4 ( GCA ) 3GCG
+( R ) allele at codon 620
+( TAC -- > AA ) at codon 329
+( W ) allele at codon 620
+( proline ) with a polar amino acid ( serine ) at position 29
++14 bp C-to-T
++1858C > T
++25 G- > A
++3100 T/G
++8365 C/T
+-1021C/T
+-1021T
+-107C/T
+-1082 ( G/A )
+-1123 G > C
+-120 bp duplication
+-120-bp duplication
+-1240 L/S
+-134delA
+-141Cins > del
+-3170G > A
+-3279 , A/C
+-3279 AC
+-3279 CC
+-395A
+-395G
+-4-basepair G-to-A
+-4-bp G-to-A
+-455G > A
+-511C/T
+-521 C/T
+-521C/T
+-6054 , deletion/ATT
+-616C/G
+-652 6N del
+-652 6N ins/del
+-857C/T
+-857CT
+-889TT
+-924 , A/G
+-930A > G
+-930G
+1-bp insertion
+1.44-Mb contiguous gene deletion
+10034 T
+10034C > T
+101-bp deletion
+105-bp deletion encompassing bases 1078-1182
+111G
+1123T -- > G
+118-119insA
+1188-A/C
+1188-C-allele
+12-nucleotide insertion/deletion ( indel )
+125-126insAA
+127G > A
+1284A > C
+1359 G/A
+137-bp insertion
+14-bp deletion
+143-bp T-to-C
+144 G > A
+1469T- > G
+1494del6
+15 kb deletion
+15-bp deletion
+157delMTTTVP
+1601G > A
+1665delC
+1691G > A
+1858C/T
+1858T
+19-base pair deletion
+192Q/R
+192RR
+20 bp insertion/deletion polymorphism 1,109 bp upstream of the initiation codon
+20210G > A
+203A
+203G > A
+2172_2173insCCCC
+217_218insC
+222insT
+2238-9del AG
+2250G/C
+25 * G > A
+2623G > T
+272gly -- -- stop
+273ser -- -- phe
+279delGAG
+28 bp variable number of tandem repeats
+3-bp deletion
+30 nucleotide deletion
+302H
+30delG
+313delT
+32 base-pair ( DD32 ) deletion
+32-bp deletion
+326 from Ser to Cys
+326Ile
+33-bp genomic deletion
+338G > A
+3472delC
+35 delG
+352-kb deletion
+399 Gln
+4 bp insertion/deletion
+4070A > G
+4153delA
+457_458insG
+46delS
+5 nucleotide deletion
+5.5 kb deletion
+521T > C
+536C > T
+5382insC
+55M/L
+6-base insertion
+643C > T
+657del5
+677 C > T
+677C > T
+689 AA
+6bINS
+714C-
+735-6 TG > AT
+7488 T
+7488C
+7488CC
+7488T/C
+7488TC
+7488TT
+783insG
+8 nucleotide deletion
+8-bp nucleotide ( TTAAATGG ) deletion
+807C > T
+835del18
+85-bp deletion
+888delC
+899dupC
+912delTA
+96 bp insertion
+A -- > G
+A -- > G transition at 127 position
+A 11666C
+A 1166C
+A > G
+A > G at nucleotide 313
+A at position -1082
+A to C substitution at nucleotide 879
+A to G
+A to G transition at codon 557 ( AAG -- > GAG )
+A was replaced by a G in codon 38
+A/G
+A/G transition -1,071 bp
+A118
+A118D
+A118G
+A1359
+A1359A
+A1762T
+A190T
+A207D
+A2718G
+A2803G
+A30P
+A442V
+A467T
+A49T
+A53T
+A6V
+AC+AA
+ACG -- > AAG substitution in codon 420
+AFF344-345ins
+AG-deletion at nucleotide 652 and 653
+AG-dinucleotide
+AVAQ 594-597 deletion
+Ala )
+Ala467Thr
+Ala569Val
+Ala7Val
+Ala88Thr
+Arg 1306 Trp
+Arg124Cys
+Arg124Leu
+Arg158 Pro
+Arg16Gly
+Arg353Gln
+Arg389Gly
+Arg399Gln
+Arg555Trp
+Arg642Cys
+Arg64Trp
+Arg70
+Arginine ( R ) to Glycine ( G ) mutation at position 76
+Asn -- > Ser substitution at codon 127
+Asn-type and Lys-type transfectant
+Asn127Ser
+Asn45Ser
+Asp218Asn
+C -- > T
+C allele at -31
+C allele at -511
+C to G
+C to T
+C to T at 33468
+C to T transition at nucleotide 3916
+C-1228T
+C-344 T
+C-to-G transition was identified at nucleotide 857
+C-to-T substitution at -31
+C105Vfs114X
+C111G
+C139T
+C203S
+C262
+C262T
+C282Y
+C311A/C314A/L351A
+C35322C
+C35322T
+C417T
+C61G
+C88Y
+CAG repeat
+CC to TT
+Cys 23 Ser
+Cys 23-Ser 23
+D allele for the -1607
+D2267
+D25N
+D299G
+D302H
+D374Y
+D401H
+D418D
+D487_S488_F489 deletion
+D541E
+D542A
+D90A
+D90A-SOD1
+DD32 deletion
+DD32/DD32
+Delta30
+Delta695-725
+DeltaG91
+E325K
+E333D
+E359K
+E542K
+E545K
+E546K
+E831X
+E873-TAG
+E873stop
+E873stop/A467T
+Ex2+860G > C
+F826Y
+G -- > A
+G -- > A substitution at codon 1763
+G -- > A transition at 1032 position
+G -- > C substitution at position 135
+G -- > C transversion at 1245 position
+G > A
+G > C
+G > T substitution at nucleotide c.898
+G for A at cDNA nucleotide position 323
+G to A
+G to A at nucleotide position 1359
+G to A or G to C substitution at nucleotide position 1138
+G to A substitution in nucleotide 256
+G to C at codon 158
+G to C point mutation in exon 4 ( base 308 )
+G- > A
+G-395A
+G-to-A
+G/A
+G/C
+G1103R
+G118
+G12D
+G1359A
+G1359G
+G135C
+G145R
+G158R
+G1681A
+G1764A
+G183S
+G1896A
+G1899A
+G196S
+G22 5A
+G246X
+G380R
+G3853A
+G472A
+G51S
+G593S
+G6410 by T
+G6410T
+G7958
+G7958A
+G86R
+GAC/GAT
+GAG deletion
+GAT -- > GAG substitution replaces aspartic acid by glutamic acid in codon 416
+Gln/Gln
+Gln266His
+Gln27Glu
+Glu 272 to stop
+Glu873Stop
+Gly ( 388 ) Arg
+Gly -- > Asp change at codon 322
+Gly2079Val
+Gly322Asp
+Gly388Arg
+Gly49Ser
+Gly594Val
+H1047L
+H1047R
+H194Q
+H472Q
+His-to-Arg substitution at amino acid 161
+His43Arg
+His626Arg
+I146L
+I1762A
+I238M
+I280S
+IVS16+1G > A
+IVS21-2delAG
+IVS3 + 18C > T
+IVS3+1G > A
+IVS3+1G/A
+IVS51 + 1G -- > A
+IVS8 -2A > G
+IVS9 + 217T
+IVS9+459 , A/G
+IVS9+459 AA
+IVS9+459 GA+GG
+IVS9+459 GG
+Ile ( 146 ) -- > Leu
+Ile/Val
+Ile105Val
+Ile262fs
+Ile326Ile
+Ile462Val
+K294E
+K386T
+L1503Q
+L1503R
+L490R
+L501I
+L50R
+L809L
+L858R
+L89R
+Leu103Val
+Leu269Phe
+Leu849His
+Lys to Asn at position 198
+Lys198Asn
+M 235
+M200V
+M235T
+M244
+M404V
+Met/Met at residue 175
+Met1Leu
+Met326Ile
+Met326Met
+Met326Met/Met326Ile/Ile326Ile
+N157K
+N221D
+N372H
+N40D
+N495K
+N673S
+P120T
+P136L
+P163S
+P291A
+P29S
+P407Q
+P631H
+P686fs
+Pro154Ala
+Q126R/G158R
+Q126R/IVS3+1G > A
+Q126R/del418T
+Q460R
+Q48H
+Q536X
+R to G mutation at position 76
+R124C
+R1306W
+R138Q
+R140Q
+R140Q-podocin
+R140Q/-
+R171Q
+R211H
+R215W
+R227Q
+R246W
+R266W
+R3500Q
+R462Q
+R47W
+R58fs
+R620W
+R76G
+Rs13266634
+Rs702553
+S140G
+S276T
+S429T
+S482X
+S555
+S75X
+S810L
+SNP 10510452_139
+Ser -- > Cys substitution at the codon 326
+Ser1245Cys
+Ser136
+Ser311Cys
+Ser326Cys
+Ser424Ser
+Ser473
+Ser9
+T -- > G transversion at nucleotide 4508
+T > C
+T > G
+T allele at -31
+T allele at -511
+T deletion at 5063
+T nucleotide deletion , which predicts a frameshift mutation from codon 219
+T to A transition at the nucleotide position +387
+T to C
+T2734
+T2734C
+T3801C
+T704C
+T71N
+TGAG deletion
+Tdel219
+Thr60Met
+Tyr428Tyr
+Tyrosine ( Tyr ) instead of a Term
+V175M
+V1764M
+V244
+V244M
+V311fs
+V561X
+V600E
+V876E
+V89L
+Val158Met
+Val175Met
+Val34Leu
+Val539Asp
+Val624-Val625del
+Y245X
+Y248del
+Y329fs
+Y355X
+Y67X
+adenine 474 deletion
+adenosine , guanosine , cytidine , and thymidine in position 118
+alanine for proline at amino acid 286
+alanine for valine at position 88
+and GGC repeat
+arginine ( CGA ) by a stop ( TGA ) at amino-acid 469
+arginine 124-to-cysteine
+arginine 150 proline
+arginine 555-to-tryptophan
+arginine 714
+arginine at amino acid position 229 by glycine
+arginine by a tryptophan
+arginine by glutamine at amino acid position 714
+arginine by glutamine at position 714
+arginine residue for the proline residue at position 158
+arginine to tryptophan at codon 198
+arginine84
+arginine84 to glutamine
+asparagine ( AAC ) for serine ( AGC ) at residue 45
+aspartic acid by tyrosine
+aspartic acid to histidine substitution at amino acid position 401
+c. * 469 C > A
+c. * 557G > A
+c. 1093-1G > T
+c.-17T > C
+c.1052delA
+c.1072T > C
+c.1074G > T
+c.1092 +1G > A
+c.1094C > T
+c.1138G > A
+c.1138G > C
+c.1146+25insA
+c.1151C > A
+c.1177-1178delAA
+c.1181_1186+20del26
+c.1182C > T ,
+c.1234delA
+c.1239 +1G > A
+c.1272C > T
+c.1284T > C
+c.1358T -- > C
+c.1445T > G
+c.1471C > T
+c.1475G > A
+c.1483-1G > C
+c.14_15insC
+c.1546_1547insC
+c.1627A > T
+c.1712C > T
+c.171T > C
+c.1811_1812delAT
+c.185C > T
+c.1930C > T
+c.1932delC
+c.1970_2177del
+c.201C > A
+c.2113_2114delGG
+c.2187delA
+c.229T > C
+c.2380 +1G > A
+c.2406C -- > A
+c.2444A > C
+c.2477G > C
+c.2552T > A
+c.2554+1G > T
+c.2607C > A
+c.262G > A
+c.2633+1G > C
+c.263C > T
+c.28T > C
+c.2992C > T
+c.304G > A
+c.304delA
+c.304ins ( GCG ) ( 7 )
+c.310 G > T
+c.342delA
+c.357-3C > G
+c.357C > T
+c.35delG
+c.3703T > C
+c.407C > T
+c.429_452dup
+c.436_436+1delAG
+c.444-62C > A
+c.461_462delAG
+c.463-6T > G
+c.465G > T
+c.467C > A
+c.468C > T
+c.471 C > T
+c.474delA
+c.475G > A
+c.528delT
+c.549delC
+c.579 G > A
+c.592C -- > T
+c.609+28_610-16del
+c.610-2A > G
+c.611delG
+c.640_667del28
+c.643T > C
+c.6799G -- > A
+c.686C > G
+c.689C > G
+c.695T > A
+c.715_717delGTC
+c.73G > A
+c.742_744delTAC
+c.798C > T
+c.7A > T
+c.824T > C
+c.855 +1G > C
+c.871 G > A
+c.892C > T
+c.899-1142del
+c.920T > G
+c.94C > T
+c.973G > A
+c.97GCC [ 9 ] + [ 10 ]
+c.G1714A
+c.G1714C
+changes asparagine 86 for alanine and eliminates amino acids 87 , 88 , and 89 ( arginine , threonine , and proline )
+codon 358 , tyrosine to histidine
+codon 435 ( Thr )
+codon 787 CAG/CAA
+cytosine insertion
+cytosine residue with thymidine
+cytosine to guanine transversion at nucleotide 1451
+del ( 1 ) ( p31.2p32.3 )
+del 92 nucleotide -19/+73
+del- ( 439-443 )
+del642T
+deletion ( 10-12Mb )
+deletion ( TGAG )
+deletion of 6 bp at position 1494
+deletion of C at nucleotide 888
+deletion of amino acids 809-852
+deletion of glycine-91
+deletion of the coding sequence ( nt 1314 through nt 1328 )
+deletion of valine 624 , valine 625
+deletion/ATT
+dup24bp
+dup27bp
+dup33bp
+duplication of GCC
+four-basepair deletion
+g.2839T > G
+g.2885G > C
+g.3318-15C > T
+g.3318-34C > T
+g.3318-35T > G
+g.3318-6T > A
+g.3352delG
+g.3395C > T
+g.3426G > A
+g.3455_3460del
+g.3503C > T
+g.3512C > A
+g.3627A > C
+g.3697G > A
+g.3774G > A
+g.3795G > A
+g.3816C > A
+g.80_87delT CGCGAAG
+g.99367-102002del
+g.ORF15 + 652-653delAG
+gene insertion/deletion
+glutamate by glycine
+glutamic acid 333 by aspartic acid
+glutamic acid residue ( GAA ) to a premature termination codon ( TAA )
+glutamic acid to a stop codon
+glutamine repeat
+glutamine replacement of arginine
+glutamine with lysine at residue 223
+glycine ( Gly ) with arginine ( Arg )
+glycine to arginine substitution at amino acid 86
+glycine to glutamine
+glycine-594-valine
+guanine ( CGA ) by adenine ( CAA )
+guanine insertion/deletion ( G/D ) , the -1607 promoter polymorphism
+guanine to cytosine
+histidine 626-to-arginine
+indel polymorphism at position -4825
+ins/del 6 bp
+insertion introduced eight additional amino acids
+insertion of ( GCG ) 4GCA
+insertion of 15 nt duplicating the first 15
+insertion of the four nucleotides CCCC
+insertion/deletion
+insertion/deletion ( long allele-L/short allele-S ) of 43 bp
+lacking the five terminal amino acids of exon XI ( 439-443 )
+leucine 269 to phenylalanine
+leucine to methionine
+lysine ( in 1A1 ) rather than glutamine ( in 1A5 ) at amino acid 223
+lysine at residue 223
+lysine by glutamic acid
+lysine for glutamic acid at amino acid 325
+methionine ( ATG ) by threonine ( ACG ) at codon 453
+methionine -- > valine substitution at codon 404
+methionine to threonine substitution at codon 235
+mutation at codon 418 of exon 9 ( GAC -- > TAT )
+nine nucleotide insertion
+nine-nucleotide deletion starting at position 1952
+nucleotide T insertion at 7916 and 7917
+p. Asp291Asn
+p. Gln193Gln
+p. Glu104X
+p. Pro184ArgfsX19
+p.A1369S
+p.A27fsX132
+p.A365E
+p.A384D
+p.Ala204Asp/p.Asp70Gly-p.Ala539Thr
+p.Ala88Val
+p.Arg104
+p.Arg127His
+p.Arg284Pro
+p.Arg58fs
+p.Asn62
+p.Asp25Asn
+p.Asp46_Gln48delinsGlu
+p.Asp50Asn
+p.C615R
+p.Cys77Arg
+p.D2267N
+p.D572H
+p.D572N
+p.D815A
+p.E300X
+p.E947stop
+p.F366L
+p.F482C
+p.G159R
+p.G196S
+p.G204VfsX17
+p.G204VfsX28
+p.G204_K247del
+p.G380R
+p.G705RfsX16
+p.G821R
+p.G821S
+p.Glu155Asp
+p.Glu177LysfsX44
+p.Gly102Arg
+p.Gly160Ser
+p.K543X
+p.Leu275Pro
+p.Leu307Arg
+p.M453T
+p.N102DfsX4
+p.P230R
+p.Pro27ProfsX54
+p.Q298X
+p.R127H
+p.R198W
+p.R229G
+p.R246Q
+p.R315X
+p.R32W
+p.R34X
+p.R34X-linked
+p.R428C
+p.R469 [ R , X ]
+p.R491C
+p.R50X
+p.R58fs
+p.R962T
+p.S1235P
+p.S216P
+p.Ser119fsX
+p.Ser157Ser
+p.Ser19CysfsX24
+p.Ser412ValfsX12
+p.Ser555Leu
+p.Ser63Asn
+p.T286M
+p.Thr26
+p.Tyr65X
+p.V239del
+p.V657_G726
+p.Val153Ile
+p.Val167Met
+p.Val204Asp
+p.Val204Asp/p.Asp70Gly-p.Ala539Thr
+p.Val37Ile
+p.W10R
+p.W111X
+p.W290L
+p.W492X
+p.W826S
+p.Y358H
+p.Y67X
+phenylalanine to the polar hydrophilic cysteine in exon 6 at codon 482
+proline 484 by arginine
+proline residue for arginine residue at position 150
+r.2521_2634del
+rs1019731
+rs1052133
+rs1061170
+rs10811661
+rs10942891
+rs10954213
+rs10973794
+rs11079788
+rs1111875
+rs1155794
+rs1155974-T
+rs11708067
+rs11708067-A
+rs11708067-G
+rs11798018
+rs11891426
+rs11915160
+rs12141189
+rs1217412
+rs12910509
+rs13266634
+rs1329428
+rs1410996
+rs1441817
+rs1611115
+rs1639679
+rs1695
+rs17015215-V274I
+rs17250932
+rs1799998
+rs1800255
+rs1800587
+rs1800734
+rs1800872
+rs1800896
+rs1801184
+rs1805054
+rs1870377
+rs1884614
+rs1966265
+rs2004640
+rs204890
+rs2066865
+rs2070197
+rs2071197
+rs2071349
+rs2073162
+rs2073162-A
+rs2073163
+rs2073163-C
+rs2073601
+rs2073601-rs2073416
+rs2144908
+rs2230912
+rs2234671
+rs2236624-CC
+rs2237892
+rs2271683
+rs2274700
+rs2277025
+rs2476601
+rs2479717
+rs2488457
+rs25487
+rs25531
+rs2622604
+rs2648875
+rs2720709
+rs2738751
+rs2844580
+rs35320474
+rs35435463
+rs368698783
+rs3753394
+rs3761422
+rs3790757
+rs3806325
+rs3818247
+rs4073
+rs4402960
+rs4539
+rs461155
+rs4704559
+rs4704560
+rs4810424
+rs4828037
+rs4912138
+rs5393
+rs5751876
+rs5966709
+rs6232
+rs6235
+rs6275
+rs6277
+rs6387
+rs6410
+rs6693503
+rs702553
+rs713041
+rs729302
+rs734312
+rs7535263
+rs757229
+rs7582694
+rs763780
+rs7754840
+rs7802
+rs800292
+rs8041922
+rs8050136
+rs8099917
+rs861019
+rs9271366
+rs9659997
+rs9932581
+serine by leucine at amino acid position 555
+serine by proline at codon 1235
+serine to glycine at position 51
+single base pair deletion
+single base pair deletion of a cytosine nucleotide
+stop codon for glutamine at codon 298
+threonine for lysine
+threonine to alanine
+thymidine to cytosine mutation at position 28
+tryptophan to arginine substitution at amino acid 10
+tyrosine codon at amino acid position 67 into a stop
+valine ( GTG ) to a methionine ( ATG )
+valine ( Val ) to alanine ( Ala ) substitution at amino acid 16
+valine [ V ] to methionine [ M ] substitution at position 244
+valine-539-aspartic acid

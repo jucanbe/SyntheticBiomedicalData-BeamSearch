@@ -1,0 +1,656 @@
+( EMCs )
+AA CRASH
+ACL injury
+AFF
+AFFs
+AKI
+AREs
+ATV - related
+Abdominal trauma
+Acute Anterior Cruciate Ligament Tear
+Acute Kidney Injury
+Acute kidney injury
+African - American CRASH
+Ankle Fractures
+Associated Injuries
+Atraumatic
+Avulsion fractures
+Avulsions
+Axillary artery injury
+BTAI
+Bicondylar Tibial Plateau Fractures
+Bite wounds
+Botulism
+Brachial Plexus Injuries
+Brain Injury
+Brainstem Injury
+Burn
+Burned
+CCI
+CCI injury
+Cardiac
+Cardiac Toxicity
+Cartilage Degradation
+Cartilage degradation
+Cerebral Contusions
+Cervical Laceration
+Cervical laceration
+Chronic Monteggia Fracture
+Collision
+Concussion
+Contusion Spinal Cord Injury
+Craniomaxillofacial Injury Caused by a Pneumatic Nail Gun
+Crashes
+DRF
+Damage
+Dental trauma
+Dialysis - related
+Diffuse traumatic brain injury
+Dislocation
+Distal Radius Fracture
+Dog Bites
+Dog bite s
+EMCs
+Ecotoxicity
+Environmental Exposure
+Eyelid injuries
+FB
+FOPE
+Femoral Fractures
+Femur Neck Fracture
+Fielding type II atlantoaxial subluxation
+Focal periphyseal oedema
+Foot
+Foreign - body
+Fracture
+Fractures
+GLS
+Genotoxic effect
+Graft strain
+HPC
+HPCs
+HS
+Hamstring - Strain Injury
+Hamstring - strain injuries
+Head trauma
+Heat - stress
+Heat stress
+Hepatic ischemia - reperfusion injury
+Hepatotoxicity
+Hip Fracture
+I / R
+I / R injury
+IR exposure
+IRI
+Induced Renal Injury
+Injuries
+Injury
+Ischaemia / reperfusion ( I / R ) injury
+Ischemia / reperfusion ( I / R ) injury
+Ischemic - Reperfusion Injury
+Kidney injury
+LV global longitudinal systolic strain
+Laceration
+Lead poisoning
+Locked Posterior Shoulder Dislocation
+Locked posterior shoulder dislocation
+MVC
+Missed Monteggia fracture
+Monteggia fracture
+NIHL
+Nasal bone fractures
+Nephrotoxicity
+Neurotoxicity
+Ocular toxicity
+Open Laryngotracheal Trauma
+Ototoxic
+Perineal injuries
+Periprosthetic
+Photoaging
+Posterior dislocation
+R
+R injury
+RI
+Radiation
+Reperfusion - Induced
+Reperfusion Injury
+Reperfusion injury
+Rupture of the flexor pollicis longus tendon
+Ruptured
+SCI
+SHS
+Scald
+Scald burn
+Scalds
+Secondary Brain Injury
+Secondhand Smoke
+Secondhand Tobacco Smoke
+Self - Injury
+Severe Thermal Burn Injuries
+Severe burn injuries
+Sexual Abuse
+Skin Injuries
+Soft tissue injury
+Spinal Cord Injury
+Spinal cord injury
+Spine fracture
+Spine fractures
+Splenic Injury
+Splenic injury
+Splenic rupture
+Subluxation
+Surgical Wounds
+T
+TBI
+TBIs
+TBSA
+Tendon Displacement
+Tibia stress fracture
+Tissue damage
+Tooth wear
+Toxic effect
+Toxic encephalopathy
+Toxicities
+Toxicity
+Transphyseal fractures
+Trauma
+Trauma events
+Traumatic Brain Injury
+Traumatic and Atraumatic
+Traumatic brain injury
+Traumatic onset
+Unintentional Injuries
+Unrecognized dislocation
+Vascular Injuries
+Vascular Injury
+Vertebral Fracture
+abdominal trauma
+accidental injuries
+acute
+acute ACL injury
+acute brain injury
+acute graft rejection
+acute kidney
+acute kidney injury
+acute lung injury
+acute prenatal insult
+acute soft tissue injury
+acute spinal cord contusion injury
+adverse device related event
+adverse radiation effects
+adverse tissue reactions
+aflatoxicosis
+alleging assault
+aneurysm recanalization
+ankle fracture
+ankle fractures
+ankle sprains
+anterior
+anterior cruciate ligament ( ACL ) injury
+anterior cruciate ligament tears
+anterior dislocation
+anterior dislocations
+aortic injuries
+appendicular fractures
+arterial injury
+asbestos exposure
+atlantoaxial subluxaion
+atlantoaxial subluxation
+atraumatic
+atraumatic onset
+atypical femur fractures
+autocastration
+avulsed
+avulsion
+axial
+axonal damage
+barotrauma
+bicondylar plateau fractures
+bicondylar tibial plateau fractures
+bio - aerosol weapons lingering
+birth injury
+bite
+bite injuries
+bites
+blast - induced damage
+blast - induced injury
+blast injury
+blunt thoracic aortic injury
+bone fractures
+bone fragment
+bone injury
+bones Injury
+bony injuries
+botulism
+brachial plexus injuries
+brain damage
+brain injury
+brainstem injuries
+brainstem injury
+breaching
+bucking
+burn
+burn injury
+burn wounds
+burned
+burned TBSA
+burns
+capsule tears
+cardiac
+cardiac injury
+cardiac toxicity
+cardiotoxic
+cardiotoxicity
+cardiovascular
+cardiovascular toxicity
+cartilage damage
+cartilage degradation
+causal exposure
+cause toxicity
+cerebral
+cerebral toxicity
+cervical
+cervical laceration
+cervical lacerations
+cervical spine injuries
+chest trauma
+chipping
+chipping fractures
+chronic locked posterior shoulder dislocation
+chronic radial head dislocation
+clavicle fractures
+closed fractures
+cold effects
+collateral damage
+collision
+collisions
+colon perforation
+concussion
+concussions
+constriction injury
+contaminated soil
+contusion
+contusion SCI
+contusion spinal cord injury
+contusions
+corneal abrasions
+cortical damage
+crash
+crashes
+crown fracture
+crown fractures
+crush
+damage
+damage of internal organs
+damaged brain
+damaged severely
+date contusions
+dental microwear
+dental trauma
+dental wear
+depressed fracture
+device malfunction
+diffuse TBI
+dirtbike ( n = 363 ) - related trauma
+dislocated
+dislocated hips
+dislocation
+dislodgement
+dislodgements
+disorders
+disruption of thyroid hormones
+distal radius fracture
+dog - bitten
+dog bite
+dog bite injuries
+dog bite s
+dog bites
+drowning
+drug poisoning
+drug toxicity
+dural tear
+early brain injury
+ecotoxicity
+electric shock
+enamel damage
+enamel microcracks
+envenoming
+environmental exposure
+environmental exposures
+exposed in the most polluted site
+exposure
+exposure to
+exposure to IR
+exposure to asbestos
+exposure to environmental contaminants
+exposure to noise
+exposures
+exposures to radiation
+extensor tendon injury
+facial bone fractures
+facial injuries
+facilitate egestion of the foreign material
+failure
+falls
+femoral defects
+femoral fracture
+femoral fractures
+femoral neck fracture
+femoral neck fractures
+femoral rasping
+femur fractures
+fleck
+flexor tendon -injury
+flexor tendon injury
+foliar injury
+foot
+footshock
+foreign bodies
+foreign body
+foreign body ingestion
+foreign material
+foreign material that could be ingested
+foreign object
+fracture
+fracture displacement
+fracture loads
+fracture neck of femur
+fracture type
+fractured
+fractures
+fractures of the femoral neck
+functional cerebrovascular impairment
+genital injury
+genotoxic effects
+graft strain
+gunshot injuries
+hamstring - strain injury
+hamstring injuries
+hamstring injury
+hanging
+harm
+harmful effect
+head injuries
+head injury
+heat - stressed
+heat stress
+heat stress effects
+hepatic IRI
+hepatic injury
+hepatic ischemia - reperfusion injury
+hepatotoxicity
+high - energy fracture
+hip fracture
+hip fractures
+iatrogenic injuries
+immunotoxic abnormalities
+immunotoxicity
+impaired
+impaired toxicity
+induced renal injury
+induced toxicity
+infective bites
+infective mosquito bites
+ingestion
+inhalation
+injure
+injured
+injuries
+injurious
+injury
+injury of lung
+injury pattern
+insect sting
+insecticide - poisoning
+insecticide poisoning
+insult
+insulted
+intentional
+intentional injuries
+intentional injury
+internal organ injury
+intestinal injury
+irradiation
+irreversible
+ischaemia - reperfusion injury
+ischemia - reperfusion
+ischemia - reperfusion injuries
+ischemia - reperfusion injury
+ischemia / reperfusion
+ischemia reperfusion
+ischemia reperfusion damage
+kidney injury
+laceration
+lacerations
+laryngospasm
+lateral patellar translation
+less toxic
+liver injury
+locked posterior shoulder dislocation
+longitudinal fracture
+lower extremity fractures
+lung damage
+lung injury
+mFPI
+mechanical rupture
+mechanical trauma
+mechanical wounding
+medial malleolar fracture
+medial malleolar fractures
+microcracks
+microfracture
+microfractures
+midline fluid percussion injury
+minor
+minor trauma
+motor vehicle collision
+multiple associated injuries
+multiple fractures
+multiple injuries
+multiple stress fractures
+musculoskeletal
+musculoskeletal injuries
+nasal bone fracture
+nasal bone fractures
+nature of injury
+neck contusions
+nephrotoxicity
+nerve
+nerve crush
+nerve damage
+nerve injury
+nerve root injury
+neural tissue damage
+neuronal damage
+neuronal injury
+neurotoxic effects
+neurotoxicity
+neurotrauma
+neurovascular injury
+noise - induced hearing loss
+objects
+occupational
+occupational exposure
+occupational injuries
+occupational injury
+occupationally exposed
+ocular injury
+open fractures
+open laryngeal traumas
+ophthalmic
+optic nerve injury
+organ injury
+orthopaedic
+other exposures
+ototoxic effects
+ovarian injury
+ovotoxicity
+oxidative damage
+paediatric trauma
+patellofemoral instability
+pelvic fracture
+pelvic injury
+perinatal brain injury
+perinatal injury
+perineal injuries
+perinephric stranding
+periocular injuries
+peripheral nerve injuries
+peripheral nerve injury
+periprosthetic
+periprosthetic fracture
+periprosthetic hip fracture
+perpetration
+photoaging
+phrenic nerve injuries
+physical injuries
+phytotoxicity
+pinching
+poisoning
+poisonings
+post - TBI
+post - injury
+post - traumatic rupture
+post procedural bleed
+posterior capsule rupture
+posterior capsule tears
+posterior dislocation
+posterior traumatic dislocation
+posthemorrhage
+pre - fracture
+pre - injury
+preinjury
+pro - inflammatory insult
+puncture
+punctures
+radial fractures
+radiation
+radiation exposure
+radiation exposures
+radiotoxicity
+re - dislocations
+recent
+recent lesions
+reinjuries
+reinjury
+renal injuries
+renal injury
+renal toxicity
+reperfused
+reperfusion
+reperfusion ( I / R ) cerebral injuries
+reperfusion ( I / R ) injury
+reperfusion damage
+reperfusion injury
+respiratory injury
+rib fracture
+rib fractures
+rupture
+ruptured
+ruptures
+safety issues
+scald
+scald burn
+scald injuries
+scald injury
+scalded
+scalding
+sciatic nerve injury
+secondary brain injury
+secondary injury
+secondhand smoke
+secondhand tobacco smoke
+self - harm
+self - harmed
+self - injury
+self - mutilating behavior
+severe burn injuries
+severe burns
+sexual abuse
+shoulder dislocation
+significant
+skin injuries
+skin injury
+skull fracture
+snagged
+snowmobile
+soft tissue injuries
+spinal
+spinal cord
+spinal cord injury
+spine fracture
+spine fractures
+spine injury
+splenic injury
+splenic rupture
+sporting accident
+strain
+stress fracture
+stress fractures
+stroke
+structural
+structural brain injury
+subluxation
+surgical wounds
+symptomatic patellofemoral instability
+systemic
+systemic injuries
+thermal injury
+thoracic injury
+thoracic spinal injuries
+thumb injuries
+thymic damage
+thyroid hormone - disrupting
+thyroid hormone disruption
+tibia stress fracture
+tissue damage
+tissue effect
+tissue injury
+toluene - induced toxicity
+toxic
+toxic consequences
+toxic effect
+toxic effects
+toxicities
+toxicity
+toxicity of toluene
+toxicological effects
+traffic accident
+traffic accidents
+traffic crash
+traffic injuries
+transphyseal fracture
+transphyseal fractures
+trauma
+traumata
+traumatic
+traumatic birth
+traumatic brain injuries
+traumatic brain injury
+traumatic events
+traumatic injuries
+traumatic injury
+traumatic joint injuries
+traumatic onset
+traumatization
+tube dislodgement
+tympanic membrane perforation
+unintentional
+unintentional injuries
+unintentional injury
+unstable fractures
+upper limb injury
+vaccination failure
+vascular injuries
+vascular injury
+ventilator - induced lung injury
+vertebral artery injury
+vertical sub capital fractures
+vibration exposure
+violent trauma
+weaning failure
+wound
+wound complication
+wound complications
+wounded
+wounds

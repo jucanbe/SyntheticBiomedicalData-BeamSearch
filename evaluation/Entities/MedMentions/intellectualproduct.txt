@@ -1,0 +1,4220 @@
+" 5 Whys " technique
+" Childhood Obesity Risk Evaluation " ( CORE ) - index
+" Childhood Obesity Risk Evaluation ( CORE ) " index
+" Five Whys " method
+" Stent Tracker " application
+" Yellow Card " antimicrobial scheme
+# NCT01510613
+( CENTRAL )
+( DGCG ) database
+( GO )
+( ICD - 10
+( KEGG )
+( MISET )
+( SRS )
+0
+0 software
+00
+015 .
+034
+1
+1 software
+10 - point Likert scale
+14
+14i / a type
+15
+196 - item food frequency questionnaire
+1TCM
+1st class
+1stclass
+2
+2 - sample paired t test
+2 - sample t test
+2 . 1
+24 - point neurologic deficit scoring system
+2D - IDA
+2D projected images
+2D projection images
+3
+3D Systems
+3D images
+4
+5 - point Likert Scale
+5 - point Likert scale
+5 - point scale
+56 biotype 1
+5YFV
+6B
+72 - item questionnaire
+8 - question - survey
+8 . 1
+A Rosetta stone
+A case study
+A1
+AAP guidelines
+AAQI
+AAT
+ABIDE
+ABSITE
+ACA
+ACD / Percepta ™
+ACR Sjogren 's criteria
+ACR criteria
+ACS
+AD Assessment Scale
+ADA DKA guidelines
+ADAS
+ADHD - 200
+ADHD Cognitions Scale
+ADOS 2
+AECG
+AEI
+AEP
+AGES - Reykjavik study atlases
+AHI
+AIC
+AIDR 3D
+AJCC stage distributions
+AJCC staging
+AKIN
+ALGORITHM
+ALL - 2009 protocol
+ALSFRS - R
+AMED
+AMSTAR
+AMT
+AND gate
+ANN
+AO / OTA [ Arbeitsgemeinschaft für Osteosynthesefragen / Orthopaedic Trauma Association ] classification
+AO Foundation
+AOFAS
+APPs
+AQI
+ASES
+ASES score
+AUSCAN
+Aarhus protocol
+Abstracts
+Accessions
+Achievement
+Acute Kidney Injury Network
+Adaptive Iterative Dose Reduction ( AIDR ) 3D
+Address
+Addressing
+Adverse Events Profile
+Affordable Care Act
+Agreement
+Ai
+Akaike 's Information Criterion
+Algorithm
+Alternative Payment Models reimbursement models
+Altheide 's document analysis model
+Alzheimer Disease Assessment Subscale Non - Cog
+Amazon Mechanical Turk
+Amendment
+American - European Consensus Group
+American Board of Surgery In - Training Examination
+American College of Rheumatology ( ACR ) Sjogren 's criteria
+American College of Rheumatology ( ACR ) criteria
+American Shoulder and Elbow Surgeons
+American Thoracic Society guidelines
+Anatomical Therapeutic Chemical Classification / defined daily doses system
+Anatomical Therapeutic Chemical classification system
+Anecdotal
+Anecdotal observations
+Annals of Internal Medicine
+Anthology
+Anthropometric Indicators
+Anthropometric parameters
+Apache
+Appendix A
+ArcGIS
+Archives Internal Medicine
+Area Health Resource File
+Article
+Articles
+Arts survey
+Assessment Tool
+Assessment tools
+Association
+Atlas .
+Atrocrates kandai sp .
+Attention - Deficit Hyperactivity Disorder
+Attentional Load
+Attitude Toward Treatment and Health Scale
+Attitudes toward Aging Scale
+Australian Dietary Guidelines
+Autism Brain Imaging Data Exchange
+Autism Diagnostic Observation Schedule - second edition
+Autobiographical Memory Test
+B
+B2
+BANS - S
+BASIS - 32
+BC Perinatal Database Registry
+BCLC stages
+BCS
+BEAST v1 .
+BEST
+BHEI - R
+BIS / BAS scales
+BLAST
+BLUEPRINT projects
+BMI
+BMJ
+BMJ Quality & Safety
+BN - 20
+BODE - index
+BPII
+BPII score
+BPL
+BRENDA
+BSL - 2
+BSL - 3
+BSL - 4
+Baby - friendly - accredited maternity facilities
+Baby FaceTime
+Balance Evaluation Systems Test - brief version
+Banff Patella Instability Instrument
+Barcelona clinic liver cancer stage
+Barratt attentional impulsiveness
+Barthel Index
+Bayesian
+Bayesian Markov Chain Monte Carlo algorithm
+Bayesian Networks
+Bayesian Penalized Likelihood Reconstruction Algorithm
+Bayesian inference
+Bayesian mixing model framework
+Bayesian network
+Bayesian networks
+Bayesian penalized likelihood ( BPL ) reconstruction algorithm
+Bayesian stochastic search variable selection method
+Bedford Alzheimer Nursing Severity - Scale
+Begg test
+Behavior and Symptom Identification Scale
+Behavioral criteria
+Bending rules
+Benthic injury dose - response models
+Berg Balance Scale
+Bergey 's Manual specification
+Berlin - Frankfurt - Munster group
+Best - fit regression analyses
+Bio - CBCT - est
+BioArray HEA BeadChip , Immucor , Warren , NJ
+Bioinformatics
+Biolog and metagenomic methods
+Biomedical Entity Search Tool
+Biosafety
+Biosafety Level 4
+Biosafety level 4
+Biospark
+Bland - Altman analysis
+Bland - Altman plot
+Bland - Altman plots
+Blenke cascade system
+Block food - frequency questionnaire
+Body Cathexis Scale
+Bonferroni 's correction
+Boolean
+Borg Exertion Scale
+Born surface area calculations
+Brands
+Brasil flux network
+Brazilian Healthy Eating Index Revised
+Brazilian Ichneumonidae species
+Brazilian Longitudinal Study of Adult Health
+Brief - BESTest
+Bristol stool scale
+Budapest Criteria
+Budapest criteria
+Budget Survey
+BurnCase 3D
+C .
+C29
+CAGE
+CAGEd - oPOSSUM
+CAGEd - oPOSUM web tool
+CAMSEC database
+CAP system
+CAPS
+CAS registry number
+CASE REPORT
+CAT
+CAT questionnaire
+CCCHR
+CCM
+CCS
+CCSD ( T )
+CCSd
+CD - RISC
+CD activity
+CDAI
+CDG
+CDR - SB
+CDSS
+CE - T1w
+CFS
+CG models
+CGI - I
+CHA2D2 - VASc score
+CHADS2
+CHEMM - IST
+CHIPPS
+CI
+CIDI
+CINAHL
+CINAHL databases
+CINAHL plus
+CISS
+CLM3 . 5
+CMAP
+CMS Hospital Compare website
+CMS2728
+COG
+COLD registry data
+COPD assessment test
+CORE - index
+CORE - index score
+CORRECT
+COX regression models
+COnsensus - based Standards for the selection of health Measurement INstruments
+CPT
+CPT code
+CPT code 29888
+CPT codes
+CRAN
+CREST
+CS
+CSAQ
+CSFQ
+CST
+Card Sorting Test
+Caregiver Burden Inventory
+Carolinas Comfort Scale
+Case Presentation
+Case Report
+Case Reports
+Case Study
+Case definition
+Case report
+Cases
+CatWalk
+Categories
+Categorization
+Categorizations
+Category
+Cell - type
+Cell Reports
+CellProfiler software
+Central Husbandry Registe
+Centre for Epidemiological Studies - Depression ( CES - D ) scale
+Century Public Land Survey System
+Cepstral Spectral Index
+ChEMBL database
+Chair Rising Test
+Changes in Sexual Functioning Questionnaire
+Charlson co - morbidity index
+Charlson comorbidity index
+Checklist
+ChemCAD
+Chi - Square test
+Chi - square analyses
+Chi - square test
+Chi - square tests
+Chi - squared test
+Chi square test
+Child - Pugh classification
+Child - Pugh score
+Children 's Sleep Assessment Questionnaire
+China Knowledge Resource Integrated Database
+Chronologies
+Cited references
+Class III
+Class V
+Classification
+Classifying
+Clavien - Dindo - Grading system
+Clavien - Dindo classification
+Clear
+ClinVar database
+Clinical
+Clinical Decision Support System
+Clinical Dementia Rating scale - Sum of Boxes
+Clinical Global Impression - Improvement
+Clinical Global Impressions - Improvement
+Clinical Guideline
+Clinical Guidelines
+Clinical Modification codes 470 - 478
+Clinical Pearls
+Clinical Practice Research Datalink
+Clinical Resource Efficiency Support Team ( CREST ) scoring system
+Clinical activity
+Clinical data
+Clinical decision theory
+Clinical judgment
+Clinical records
+ClinicalTrials .
+ClinicalTrials . gov
+Cloud - based MOTIFSIM
+ClueGO
+ClueGO software
+CluePedia App
+CoDe model
+Coalescent simulations
+Coarsened Exact Matching
+Cochin questionnaires
+Cochrane
+Cochrane CENTRAL
+Cochrane Central
+Cochrane Central Register of Controlled Trials
+Cochrane Collaboration bias assessment tool
+Cochrane Database of Systematic Reviews
+Cochrane Library
+Cochrane Library databases
+Cochrane Wounds Group Register
+Cochrane databases
+Cochrane electronic databases
+Cochrane library databases
+Cochrane systematic review
+Code of Marketing of Breast - milk Substitutes
+Commentary
+Comments on Beamer et al .
+Commercial
+Commercially
+Common Terminology Criteria for Adverse Events
+Commonwealth Fund International Health Policy ( IHP ) survey
+Communication Scale
+Comparative Toxicogenomics Database
+Composite Cortical State
+Composite Cortical State distance
+Composite International Diagnostic Interview
+Concordance Index
+Condom Barriers Scale
+Condom Barriers Scales
+Connor - Davidson Resilience Scale
+Construct
+Consumer - centered Open Personal Health Record platform
+Continuum Model
+Continuum model
+Controlled Oral Word Association Test
+Controlled Trial
+Conventional viewpoints
+Convergence Insufficiency Symptom Survey
+Copenhagen Psychosocial Questionnaire II
+Core I and Biomarkers I modules
+Cornell Scale for Depression
+Correction
+Correlation based feature selection
+Correlation tests
+Covi Anxiety Scale
+Cox - proportional hazard risk analysis
+Cox - proportional hazards analyses
+Cox modeling
+Cox models
+Cox proportional - hazards models
+Cox proportional hazard model
+Cox proportional hazard regression
+Cox proportional hazard regression models
+Cox proportional hazards
+Cox proportional hazards model
+Cox proportional hazards modeling
+Cox proportional hazards models
+Cox proportional hazards regression
+Cox proportional hazards regression methodology
+Cox proportional hazards regression modeling
+Cox regression
+Cox regression analysis
+Cox regression model
+Criteria
+Critical Appraisal Checklist for Studies Reporting Prevalence Data
+Cronbach 's alpha
+Cross - React
+Cryo On - Line Data Registry
+Cryotop method
+Current Procedural Terminology
+Current Procedural Terminology ( CPT ) codes
+Curriculum
+Cytoscape App
+D
+D3
+DASP
+DASP2
+DASP2 GenBank
+DASS
+DAVID online tool
+DBIS - N
+DC
+DDM
+DDS
+DGVMs
+DISC - IV
+DLQI
+DNA model
+DNN
+DOB
+DOHaD
+DREEM
+DRG
+DRRs
+DS - GPA
+DS14
+DSM - IV
+DSM - IV - TR
+DSM - IV - TR criteria
+DSM V
+DST
+DTQ
+DVH
+Dallas lesion set
+Danish Gynecological Cancer Database
+Danish Gynecology Cancer Database
+Dartmouth Institute 's data files
+Data
+Data Analytics APPs
+Data Sets
+Data set
+Database
+Databases
+Dataset
+Datasets
+Dax 's Case
+De Ramon
+DePick
+Declaration of Helsinki and principles of Good Clinical Practice
+Definition
+Definitional
+Definitions
+Dementia Evidence Toolkit
+Dentaurum
+Depression Anxiety Stress Scale
+Dermatology Life Quality Index
+Describing
+Description
+Descriptive
+Descriptive Analysis
+Descriptive statistics
+Designations
+Developmental Origins of Health and Disease
+Di
+Di0
+DiI
+DiII
+DiIII
+Diabetes Technology Questionnaire
+Diagnosis - Related Group
+Diagnostic and Statistical Manual of Mental Disorders
+Diagnostic criteria
+Diagram
+Diet Quality Index
+Dietary Guidelines
+Dietary Reference Intakes
+Digitally reconstructed radiographs
+Directed Functional Networks
+Disabilities of Arm , Hand and Shoulder questionnaire
+Disruptive Behavior International Scale
+Disruptive Behavior International Scale - Nepali version
+Distribution - adding
+Distribution maps
+Docking studies
+Documentation
+Dosimetry software
+Dr .
+Dr . Maddux
+Drug Effects Questionnaire
+Dual regression independent component analysis
+Dundee Ready Education Environment Measure
+Dutch National Organ Transplant Registry
+Dykens Hyperphagia Questionnaire
+E - plate Eiken
+E . Navarro
+E . Ripoll
+EA1
+EAR cut - off point method
+EASL Clinical Practice Guidelines
+EB
+EBFST
+EBSCO
+ECONOMIC MODEL
+ED2
+EDASA Scientific compound library
+EDSS
+EE99
+EE99 protocol
+EFSA
+EHR
+EHR data base
+ELSA - Brasil
+ELSA - Brasil 's
+EM databases
+EMBASE
+EMBASE databases
+EMR
+EMTALA
+ENCODE
+EORTC QLQ - C30
+EPDS
+EPIC
+EPIN - R
+EPIWEB
+EPIWEB 4 . 1
+EQ - 5D
+EQ - 5D - 5L
+EQ - 5D - 5L Value Sets
+EQ - 5D - 5L value sets
+EQ - VAS
+EQAs
+ES
+ESS
+ETDRS
+EU - AIR
+Early Stage
+Early Trauma Inventory
+Early Treatment Diabetic Retinopathy Study methods
+Ease of Language Understanding model
+Eating Disorder Inventory - 2
+Ecological niche modelling
+Edinburgh Postnatal Depression Scale
+Egger test
+Electronic Medical Records
+Electronic databases
+Elementary School
+Elsevier Science Direct databases
+Email addresses
+Embase
+Emergency Medical Treatment and Labor Act
+Empathy Scale
+Endocrine Society Guidelines
+Enforcement Jurisdiction
+England 's policy document
+EpiDerm ™
+Epstein
+Epstein and Hutchins classification
+Epworth Sleepiness Scale
+EqP
+Estimation Technique
+Estonian version of the Subjective Well - Being Under Neuroleptic Scale
+EudraCT number
+EuroQoL Five Dimensions Questionnaire
+EuroQol questionnaire
+European
+European Adrenal Insufficiency Registry
+European Organisation for Research and Treatment of Care ( EORTC ) Core Quality of Life Questionnaire ( QLQ - C30 )
+European Organization for the Research and Treatment of Cancer Quality of Life Questionnaire C30
+European criteria
+Evaluating
+Evaluation
+Evaluations
+Evolutionary Model With Modularity
+Evolutionary Theory
+Executive Summary
+Expanded Disability Status Scale
+Expanded Prostate Cancer Index Composite
+Expectations Scale
+Experimental Model
+Exposure - response models
+Eysenck Personality Inventory Neuroticism scale - Revised
+FACIT - F
+FACT - BL
+FAKT
+FARNA
+FDA
+FDA approved HDACi
+FE models
+FEA
+FFQ
+FFT
+FI
+FIA
+FIDELIS
+FLASHE
+FLASHE Study
+FLASHE surveys
+FMI
+FRL
+FSFI
+FSL
+FSL model
+FSS
+FST
+Fabrication
+FaceTime
+Facebook
+Falls Efficacy Scale
+Family Databases
+Fast Peak - Searching Algorithm
+Fatigue Assessment Scale
+Fatigue Impact Scale
+Fatigue Scale for Motor and Cognitive Functions
+Fatigue Severity Scale
+Fatigue severity
+Female Sexual Function Index
+Femoral fixation
+Fertility and Pregnancy - An Epidemiologic Perspective
+Final analysis
+Finite element analyses
+Finnish Longitudinal Employer - Employee Data ( FLEED ) of Statistics
+Finnish nationwide register
+First Draft
+Firth 's bias - adjusted estimate
+Fisher 's equation
+Fisher 's exact test
+Fisher 's exact tests
+Fisher exact test
+Fisher exact tests
+Five - point scales
+Five Year Forward View
+Flinders Resistant Line
+Flinders Sensitive Line
+Fluidigm platform
+FluorMod
+Follow - up data
+Fontaine
+Fontaine classification
+Forensic Odontology Reports
+Forest Inventory and Analysis ( FIA ) data
+Formula
+Formulas
+Fourth Edition
+Fractional polynomial regression analysis
+Frailty Index
+FraktalWandler
+Framework
+Frank Maddux
+Freiburg Mindfulness Inventory
+Fulton 's index
+Functional Assessment of Cancer Therapy Bladder Cancer
+Functional Assessment of Chronic Illness Therapy - Fatigue
+Functional Independence Measure
+Functional Independence Measure - motor
+Functional independence measure
+Fuzzy
+Fuzzy C - means
+G2 tumor grade
+GAD - 7
+GBD
+GCO
+GCS
+GEE
+GEMMA
+GG
+GG system
+GG1
+GG2
+GG3
+GIMEMA LAL 0904 protocol
+GIS
+GLUKINSLOOP 2 .
+GLUKINSLOOP 2 . 0
+GMFCS
+GMFCS level
+GMFCS levels
+GMMs
+GO
+GO terms
+GOHAI index
+GOLD
+GOLD Executive Summary
+GOs
+GPR
+GR
+GR Class I
+GRADE
+GRADSCOPT
+GRID - HDRS₁₇
+GRID - Hamilton Depression Rating Scale
+GRid Accelerated Directly SCoring OPTimizing
+GSuite HyperBrowser
+Gardner - Robertson
+Gaussian mixture modeling
+Gaussian mixture models
+Geistlich Bio - Graft ( ® )
+GenBank
+Gene Expression Omnibus
+Gene Expression Omnibus ( GEO ) database
+Gene Ontology
+Gene ontology
+GeneSpring 13 .
+Generalized Anxiety Disorder 7 - item scale
+Generalized estimating equation
+Genetic Model
+Genus
+Geographical Information System
+George 's Respiratory Questionnaire
+Geriatric Anxiety Inventory
+Geriatric Depression Scale
+GetCheckedOnline
+Glasgow Coma Scale
+Gleason 7 or above
+Gleason GG
+Gleason and D ' Amico
+Gleason and D ' Amico risk
+Gleason grade grouping
+Global Burden of Disease Study
+Global Burden of Disease study
+Global Initiative for Chronic Obstructive Lung Disease
+Global Student Health Survey questionnaire
+Global network descriptors
+Global test
+Goal
+Goals
+Good Laboratory Practice
+Google
+Google Scholar
+Grade
+Grade 2
+Grade 5
+Grade Group
+Grade Groups
+Graded
+Graded Structure
+Grades 1 and 2
+Grades 3 and 4
+Grading
+Grading of Recommendations Assessment , Development , and Evaluation
+Graph - theoretical model
+Gray method
+Grinyo
+Gross Motor Function Classification System
+Grounded
+Grounded Theory
+Group
+Group A
+Group B
+Guidelines
+HA curves
+HADS
+HAM - D
+HAQ - DI
+HAQI
+HAS - BLED score
+HI
+HIM
+HIRD
+HIRD software
+HIV database
+HLQ
+HR
+Hadamard combinations
+Hadamard scheme
+Hadoop and Spark
+Haldane´s Rule
+Halsted 's approach
+Hamamatsu Photonics K .
+Hamilton Rating Scale for Depression
+Hamilton Rating Scale for Depression score
+Hangzhou criteria
+Happe Strange Stories test
+Harrell 's C statistic
+Harris ' 100 - point scale
+Health App
+Health Assessment Questionnaire - Disability Index
+Health Center Program Uniform Data System
+Health Literacy Questionnaire
+HeartKeeper
+HeartKeeper app
+Helkimo anamnesis
+Hermes Internal Radiation Dosimetry
+Hestia criteria
+Heuristic
+Hi - C datasets
+HieranoiDB
+Hieranoid
+Hieranoid algorithm
+Hieranoid trees
+Hilbert space
+HoR - positive / HER2 - negative subgroup
+Hollander score
+Holm - Sìdak post hoc test
+Hologic
+Hologic 10Q system
+Hopkins Symptom Checklist - 25
+Hospital Anxiety and Depression Scale
+Hospital Compare metrics
+Hospital for Special Surgery Foot & Ankle Surgery Expectations Survey
+Human Ageing MARK - AGE algorithm
+Human Gene Mutation database
+I
+I ( 2 ) index
+I ( 3 ) Model
+IBIS
+ICD - 10
+ICD - 9
+ICD - 9 - CM
+ICD - 9 - CM codes
+ICD - 9 codes
+ICD - 9 diagnosis codes
+ICD9 codes
+ICEP
+ICF
+ICH
+ICH - GS
+ICHI
+ICM
+ICMR - INDIAB study
+ICNP
+ICR - detailed
+ICR - standard
+ICT
+ICWR - 1 Model
+ICWR - 1 model
+IES - R
+IF - THEN rules
+IFLS - East
+II
+III of development
+IIQ - 7
+INFORMAS
+INTERMACS I
+INTERSALT
+IPA software
+IPAQ
+IPI
+IPSS
+IRB - approved
+IRCT201511032321N2
+ISAR
+ISAR tool
+ISBI VESSEL12 challenge
+ISO 15189
+ISS
+ISS scores
+ITSQ
+IUCN category
+IVB
+IVC
+Ideal cardiovascular health
+Identification of Seniors At Risk ( ISAR ) screening tool
+IeDEA
+Illumina HiSeq 2000
+Illumina MiSeq amplicon sequencing
+Illumina MiSeq platform
+Illumina pair - end sequencing
+Image
+Images
+ImmunoCAP system
+Impact of Event Scale - Revised
+Impact prognostic index
+InParanoid algorithm
+Independent
+Independent t - tests
+Index
+Indexes
+India Newborn Action Plan interventions
+Indices
+Indonesian Family Life Survey - East
+Indoor records
+Infant Caregiver and Engagement Phases
+Informed consent
+Infrastructure
+Ingenuity pathway analyses
+Injury Severity Score
+Injury Severity Scores
+Input
+Instability Severity Score
+Institutional Review Board approval
+Instruction
+Instrument
+Integrative Neuroinformatics Tool
+Integrative Review
+InterProScan
+Interagency Registry for Mechanically Assisted Circulatory Support ( INTERMACS )
+Internal Coordinate Mechanics
+International Classification for Nursing Practice
+International Classification of Diseases
+International Classification of Diseases , Ninth Revision
+International Classification of Diseases , Ninth Revision , Clinical Modification
+International Classification of Diseases , Ninth Revision infection codes
+International Classification of Diseases 9th Edition
+International Classification of Functioning , Disability and Health
+International Continence Society scoring
+International Liver Transplant Society Practice Guidelines
+International Liver Transplant Society diagnostic and management guidelines
+International Multicenter Registry
+International Obesity Task Force definitions
+International Physical Activity Questionnaire
+International Society for Heart and Lung Transplantation Registry
+International Society of Blood Transfusion
+International Statistical Classification of Diseases and Related Health Problems , 10th Revision ( ICD - 10 )
+International epidemiologic Databases to Evaluate AIDS
+International prostate symptom score
+Internet Survey
+Interpersonal - Psychological Theory
+Interpretation
+Interspecies correlation estimation models
+Interspecific mixtures
+Intervention study
+Interview transcripts
+Investigation
+Iowa Gambling Task
+Iran Medex
+Iranian Registry
+J . M .
+J . M . Cruzado
+J . Torras
+JAMA
+JAMA Internal Medicine
+JASPAR TF binding profiles
+JBI - MAStARI extraction tool
+JCCRC
+JK * 02N . 14
+JULES
+Japan Perinatal Registry Network database
+Japanese classification of colorectal carcinoma
+Japanese national database
+Jorge - Wexner score
+Journal of Experimental Psychology : Human Perception and Performance , 41 , 940 - 957 , 2015
+Journal of Proteomics
+Juicer
+Jupyter Notebook
+K .
+K1
+K2
+K20
+K5
+K57
+KAP
+KAPs
+KCAT questionnaire
+KDOQI criteria
+KEGG
+KEGG annotation
+KOBASS
+KPS
+KRV statistic
+Kaplan - Meier method
+Kaplan - meier database
+Kappa
+Kappa statistics
+Karnofsky Performance Score
+Kawasaki
+Kenya 's second AIDS Indicator Survey
+Kersa HDSS database
+Kids ' Inpatient Database
+Kidscreen - 27 ( KS - 27 ) self - and parent forms
+Kinesiographic data
+Kirwan and Stark 's Mnemonic Similarity Test
+Knowledge
+Knowledge - Based
+Koch 's postulates
+Koos Grade I
+Koos Grade II
+Koos Grade III
+Koos grade
+Korean guidelines
+Kruskal - Wallis and Mann Whitney U tests
+Kruskal - Wallis test
+Kruskal - Wallis tests
+Kumagai sp . n .
+Kyoto Encyclopedia
+Kyoto Encyclopedia of Genes and Genomes
+L .
+L . delfinado Mulieri
+LAI
+LCBI
+LEAP
+LFPI
+LILACS
+LIVIVO
+LMS method
+LNP
+LNP - Chlo
+LOLA11
+LSAB kits
+LSAS
+LTHome
+LW
+LabRS
+Laboratory Guidelines .
+Laboratory records
+Lagged models
+Lancet and New England Journal of Medicine
+Langmuir isotherm
+Langmuir model
+Large - Scale Neuromorphic Systems
+Late Effects of Normal Tissues - Subjective , Objective , Management and Analytic toxicity assessments
+Latent moderated structural models
+Lauren
+Law
+Lead Integrity Alert
+Learning Needs Scale
+Legislation
+Legislation documents
+Lessons
+Lexi - Interact Online database
+LiSat - 11
+Liebowitz Social Anxiety Scale
+Ligand Based Approaches
+Ligand dependent restoration
+Likert - type scales
+Likert scale
+Lilacs
+Linear Neighborhood Propagation
+Linear association methods
+Linear mixed models
+Linkage Model
+Lipinski 's rule of five
+Lipoptilocnema species
+Lipschitz - continuous
+Literature
+Literature Review
+Log - Rank test
+Log - rank test
+Logistic regression models
+Long - Lag Intervention Studies
+Lose It !
+Lots
+Lund and Browder diagrams
+Lysholm
+LysoPlex
+M - SHIME
+M .
+M . Hueso
+MACHETE
+MASCC antiemesis tool
+MBI
+MD in the July issue of NN & l ( " CMO looks at ways to put meaning behind ' quality care ' " )
+MDS - UPDRS
+MDS - UPDRS - III
+ME2
+MEDAS
+MEDLINE
+MEDLINE databases
+MEDLINE search
+MEGA 7 software
+MELD
+MELD score
+MEMENTO
+METABRIC
+METHODS
+METLIN database
+MICCAI LOLA11 challenge
+MIL
+MIL methods
+MIS
+MITERRA - Europe model
+MLP
+MM - PBSA method
+MODEM Legacy Model
+MOOSE guidelines
+MP2 / cc - pVTZ level
+MPI
+MPOWER database
+MPPD v .
+MRCI
+MRS
+MRS score
+MRS scores
+MSBOS
+MSI data
+MSM
+MSPD parameters
+MSSS
+MSTS score
+MY
+Magiran
+Magnetic resonance images
+Malaise Inventory
+Malaria Information System
+Mann - Whitney
+Mann - Whitney test
+Mann - Whitney tests
+Mantel test
+Marine Natural Products
+MarketScan ® Databases
+Marx activity scale
+MassARRAY technology
+Mathematical modeling
+Matlab2013b
+Matsuda index
+Maudsley Staging Model
+Mayo Elbow Score
+McMaster Critical Appraisal Tool
+McNemar 's
+McNemar 's test
+McNemar test
+MeSH
+MeSH terms
+Mean CORE - index score
+Measurement Tool to Assess Systematic Reviews
+MediGuard
+Medical Evidence Report form
+Medical Expenditure Panel Survey
+Medical Outcome Study Short Form General Health Survey
+Medical Outcomes Study 36 - Item Short - Form Health Survey
+Medical Outcomes Study Short Form
+Medical Research Council dyspnea score
+Medical Subject Headings
+Medical records
+Medicare Access and Children 's Health Insurance Program Reauthorization Act
+Medicare Access and Children 's Health Insurance Program Reauthorization Act of 2015
+Medication Harmony
+Medication Regimen Complexity Index
+Medication history
+Mediterranean Diet Adherence Screener
+Medline
+Medline OVID
+Medtronic CareLink ( ® ) network
+Mello - Patiu , sp .
+Mental Component Summary Score
+Merit - Based Incentive Payment Systems
+Messages
+Meta - Analysis
+Meta - analysis
+MetaDrug ™ software
+MetaboAnalyst
+Metadata
+Method
+Methods
+Microbiological
+Microsoft Excel 2007
+Midrib
+Milan
+Milan criteria
+Millennium Development Goal 6
+Mimics
+Misclassification
+Miseq
+Mismatched Alignment CHimEra Tracking Engine )
+Mitogenomic genealogies
+MixSIAR
+Mixed - methods
+Mixture modeling
+MoCA
+Mobile Information Support Evaluation Tool
+Model
+Model for end - stage liver disease
+Models
+Models of Cox proportional hazards regression
+Modified Fatigue Impact Scale
+Module
+Molecular Psychiatry advance online publication
+Molecular characterization of cancer samples
+Molecular docking
+Molecular docking studies
+Molecular docking study
+Montgomery - Asberg Depression Rating Scale
+Montreal Cognitive Assessment
+Montreal Cognitive Assessment tool
+Mortality Prediction Model
+Motor Severity Stereotypy Scale
+Movement Disorder Society - Unified Parkinson 's Disease Rating Scale
+Movement Disorder Society Unified Parkinson 's Disease Motor Rating Scale
+MrBayes and PhyML software
+Mucosal - Simulator of the Human Microbial Intestinal Ecosystem
+Multi - center Evaluation of the Accuracy of the Contrast MEdium INduced Pd / Pa RaTiO
+Multi - class
+Multi - layer perceptron
+Multicategorical moderation model
+Multicenter National Database
+Multidimensional Mood State Questionnaire
+Multilevel models
+Multilinear Engine 2
+Multiple - Path Particle Dosimetry model
+Multiple linear regression analysis
+Multiple logistic regression analyses
+Multiple regression analyses
+Multiple regression analysis
+Multivariable Cox regression analysis
+Multivariable partition ( nonisocaloric )
+Multivariable regression
+Multivariable regression analyses
+Multivariate Cox regression analysis
+Multivariate Model
+Multivariate binary logistic regression analysis
+Multivariate linear regression modeling
+Multivariate logistic regression models
+Multivariate models
+Multivariate regressions
+Musculoskeletal Tumor Society ( MSTS ) scoring system
+Music
+MyHEART
+MySQL
+NASS - CDS
+NBLAST
+NCBI - BLAST algorithm
+NCBI database
+NCDB
+NCDS
+NCT01242293
+NCT01629966
+NCT01766401
+NCT01844115
+NCT02162069
+NEMo
+NEQ
+NHANES
+NHANES formulae
+NHIS
+NHL - BFM
+NHS
+NIS
+NP _ 001288334 . 1
+NRS
+NRV
+NTR registration number : 5586
+NTR2153
+NVivo 10
+Naming Therapy
+National Cancer Data Base
+National Cancer Database
+National Causes of Death Register
+National Child Development Study
+National Death Index
+National Diabetes Data Group criteria
+National Dietary Survey
+National Health Insurance Research Database
+National Health Insurance Research database
+National Health Interview Survey
+National Health Policy
+National Inpatient Care Register
+National Inpatient Sample database
+National Institutes of Health Stroke Scale
+National List of Essential Medicines
+National Maternity Review
+National Men 's Health Policy
+National Surgical Quality Improvement Program
+National Surgical Quality Improvement Program Participant Data Use File
+Nationwide Inpatient Survey
+Natural Referent Vowel ( NRV ) framework
+Naïve Bayesian formula
+Nei 's gene diversity
+Neotropical species
+Netherlands Trial Register
+Neuropsychological Assessment Battery
+Neurostimulation Uncertainty Viewer ( nuView or νView ) tool
+Newcastle - Ottawa Scale
+News
+Noise Exposure Questionnaire
+Nomenclature Proposal
+Non - English - language manuscripts
+Noninvasive
+North American Symptomatic Carotid Endarterectomy Trial method
+Northern New England biomarker registry
+Norwegian Hip Fracture Registry
+Norwegian Prescription Database
+Notes
+Novel Species
+Novotec
+Numeric Rating Scale
+Nurse survey data
+Nusmile
+O
+O serotype
+OBJECTIVE
+OCDS
+ODE
+ODI
+OLINDA / EXM
+OMIM : 608310
+OPLSAA force field
+OPTIMUM
+OSEM
+OTUs
+OVID EBM Reviews
+Obamacare
+Objective
+Objective Record
+Obsessive and Compulsive Drinking Scale
+Occupational Stress Inventory - Revised Edition
+Odom grading system
+Omaha System
+One - sample test
+Online database systems
+Open Data Science Tools
+OpenGrey
+Operating Procedures
+Oral Trail Making Test B
+Ordinal regression
+Orthopaedic Trauma Association Classification
+Oswestry Disability Index
+Oulu Patient Classification
+Oversampling
+Ovid
+Oxford MEST classification
+Oxford University Press
+PAM
+PAM - 13
+PAML software
+PANSS
+PANSS total score
+PAT
+PCL
+PCM
+PCS
+PDI
+PDO
+PEDT
+PGA
+PGI - I
+PHIS
+PHQ
+PHQ - 2
+PHQ - 9
+PHR
+PHRs
+PI
+PI - RADS
+PIC
+PISQ - 12
+PITA
+PLOS Medicine
+PLS
+PLSS
+POST
+PPC algorithm
+PRAMS
+PRE
+PREDIMED
+PREvención con DIeta MEDiterránea
+PRISMA
+PRISMA guidelines
+PRO
+PROMETRICS 2011 database
+PROMIS
+PROs
+PSI - SF
+PSO
+PTQ
+PWLS - ndiSTV
+Padua
+Pain Catastrophizing Scale
+Pain Disability Index
+Pain Index
+Paired Student t test
+Paired samples t - tests
+Pairwise statistical testing
+Parallel classification
+Parameter - adding
+Parenting Stress Index - Short Form
+Particle Swarm Optimization
+Passing - Bablok regression analysis
+Pathway analysis
+Patient - Reported Outcome Measurement Information System
+Patient - Reported Outcomes Measurement Information System
+Patient - reported outcomes
+Patient -simulated videos
+Patient Activation Measure
+Patient Choice Policies
+Patient Global Assessment of disease
+Patient Health Questionnaire
+Patient Protection and Affordable Care Act
+Patient information
+Patient records
+Pearson 's chi - square test
+Pearson 's correlations
+Pearson Chi - square
+Pearson correlation
+Pearson r correlation
+Pearsons χ ( 2 ) test
+Pederson Difficulty Index
+Pediatric Health Information System ( PHIS ) Database
+Pediatric Quality of Life Inventory ™
+PedsQL ™
+Penner serotype HS : 6
+Penumbra , Inc .
+Perceived Stress Scale
+Perinatal Society of Australia and New Zealand Guideline for Perinatal Mortality
+Perl
+Perseverative Thinking Questionnaire
+Personal Health Record
+Personal Health Records
+Personal health records
+Perspective database
+PhD
+Photonic
+Phylum
+Physical
+Physical Component Summary
+Physical and Mental component score
+Pivot anchoring
+Poisson models
+Poisson regression
+Pokémon GO
+Policy
+Pool - Seq data
+Porto criteria
+Position - Specific Iterated Basic Local Alignment Search Tool ( PSI - BLAST )
+Positive and Negative Syndrome Scale
+Positive and Negative Syndrome Scale ( PANSS ) total score
+Post - KAP
+Practical Guide
+Preclinical data
+Preclinical models
+Predefined settings
+Predictive Factors
+Preferred Reporting Items for Systematic Reviews and Meta - Analyses
+Pregnancy Risk Assessment Monitoring System
+Premature Ejaculation Diagnostic Tool
+Premier Perspective Database ( TM )
+Premier database
+Prescription
+Prescription data
+Pretested interviewer administered questionnaires
+Previous descriptions
+Previous studies
+Prigogine theorem
+Primary Prophylaxis
+ProAnalyst
+ProQOL
+ProQuest
+ProQuest Dissertation
+ProQuest Dissertations and Theses
+Professional Quality of Life ( ProQOL ) scale
+Professional Quality of Life Scale
+Professional reinventions
+Prognostic
+Proquest
+Prospective database
+Prostate Imaging Reporting and Data System
+Protocol
+PsycINFO
+PsycINFO Database Record
+PsychInfo
+Psychological Association 's journal
+PtGA
+Pub - Med
+PubMed
+PubMed Library
+PubMed corpus
+PubMed database
+Public Health
+Public health
+Published data
+Published registry
+Pubmed
+Pyramids and Palm Trees test
+Python
+Q .
+Q1 windows
+QCs
+QIIME - CR
+QIIME closed reference
+QLQ - C30
+QOLIE - 10
+QS11
+QSR Nvivo 11 software
+Quality - of - Life scale
+Quality of Life in Epilepsy Inventory 10
+Quantile median regression analysis
+Questionnaire
+Questionnaires
+R
+R package " DensParcorr "
+R package finepop
+R software
+RAFAELA ( ® ) System
+RAND
+RAS
+RBS - R
+RBV
+RCN records
+RDA
+RDC
+RDI
+RDS
+RDS methods
+REACT
+REB
+RECIST
+RENAME
+REST - 2009 software
+REVIEW OF THE LITERATURE
+RFE
+RGB - D
+RGB - D video
+RMDQ
+RMS angle detection error
+RNA - Seq data
+RNActive ® Technology
+ROE questionnaire
+RP - HPLC - UV )
+RPAM
+RPEmus
+RPEres
+RT
+RW
+Random Walker ( RW ) formulation
+Random walk
+Rao - Scott χ ( 2 ) test
+Rasch PCM
+Rasch partial credit model
+Rationale / Objectives
+Ravens Progressive Matrices
+Receiver operator curve assessment
+Reclassification
+Recommended Dietary Intake
+Record
+Recordings
+Records
+Recovery Assessment Scale
+Register
+Registry
+Regression
+Regression analyses
+Regression analysis
+Regression models
+Remarks
+Remote optical detection
+Repetitive Behavior Scale - Revised
+Report
+Reported
+Reports
+Research reports
+Residential segregation
+Resistance and Endurance exercise After ChemoTherapy
+Respond to
+Response Evaluation Criteria In Solid Tumors
+Response Evaluation Criteria in Solid Tumor
+Response Evaluation Criteria in Solid Tumors
+Responses
+Retrospective chart
+RevMan 5 .
+Review
+Review Article
+Review Manager 5 .
+Review articles
+Review of Literature
+Review of the Literature
+Revised Amyotrophic Lateral Sclerosis Functional Rating Scale
+Rhinoplasty Outcome Evaluation ( ROE ) questionnaire
+Richardson
+Riggia nana
+Rinsing paired - agent model
+Risking Connection
+Roadmap Epigenomics
+Robson 's TGCS
+Robson 's Ten - group Classification
+Robson 's Ten - group classification system
+Rockwood Frailty Index
+Roland - Morris Disability Questionnaire
+Rome III
+Rome III criteria
+Rome criteria and constipation severity score
+Rood 's Criteria
+Rotterdam criteria
+SABCS
+SAIL
+SANE
+SANE scores
+SCI - PHY
+SDAP
+SDQ
+SEQ
+SEWS
+SF - 12
+SF - 12v2
+SF - 36
+SF - 36 questionnaire
+SF - 6D
+SFLD
+SGRQ
+SHFCS
+SIPOC diagram
+SKAR
+SLE Disease Activity Index 2000 ( SLEDAI - 2 K ) scores
+SLEDAI - 2 K scores
+SMFA
+SMOTE
+SMOTE approach
+SMOTE approaches
+SPIED
+SPSS 16 version
+SPSS 21 software
+SPSS Visualization Designer v1 .
+SPSS database
+SPSS software
+SPSS software version 16
+SPSS statistics 22 software
+SPSS version 16 .
+SPSS version 20 .
+SPSS version 21
+SPSS version 22
+SPW
+SR
+SRM
+SRS
+SRS - 22
+SS - UP
+SSI
+ST
+ST types
+ST23
+ST23 - K1
+ST65
+ST65 - K2
+STAID
+STAID subtype
+STAID subtypes
+STATA
+STATA Version 13 .
+STATA software
+STATA ™ version 13
+STI
+STORMS
+STRING
+SULEV
+SWATH ( ® )
+SWN - K - E
+SYBR Green PCR Master Mix
+Sampling Survey International
+Satisfied
+Scale
+Schedule
+Scher classification
+Scholar Google
+SciELO
+Scielo databases
+ScienceDirect
+Scientific Information Databases
+Scientific Literature
+Scientific Statement
+Scoliosis Research Society Patient Questionnaire - 22
+Scopus
+Secure - Anonymized - Information - Linkage
+Sel - Plex
+Self - Efficacy Scale
+Sensory profiles
+Sepsis - 3 guidelines
+Seq data
+Sequenom Mass Array platform
+Serogroup H
+Serotype
+Session Evaluation Questionnaire
+Shanghai Food Consumption Survey
+Shannon 's information index
+Short - Form 36 item Health Survey
+Short Form ( SF ) - 12
+Short Form - 12
+Short Form - 36
+Short Form 12 Physical Component Summary scores
+Short Form Health Survey
+Short Form Health Survey questionnaire
+Short Portable Mental Status Questionnaire
+Shutter - Speed model
+Single Assessment Numeric Evaluation ( SANE )
+Sino - Nasal Outcome Test - 20
+SinoMed
+SoMe
+Social Responsiveness Scale
+Society for Maternal - Fetal Medicine guidelines
+Society of Thoracic Surgeons risk scores
+Software
+Sources of Meaning and Meaning in Life Questionnaire
+Spearman 's correlation
+Spearman 's test
+Spearman correlation
+Species
+Speech ver 4
+Spiritual Attitude Scale
+Spiritual Health Scale
+SpringerLink
+St .
+Standard protocol
+Standardized Early Warning Score
+Standards
+Stata
+Stata 12 .
+Stata software
+Stata version 12 .
+State
+Statewide Health Planning and Development database
+Statewide Planning and Research Cooperative System ( SPARCS ) database
+Statistical Package for Social Sciences ( SPSS ) version 16
+Statistical algorithms
+Statistical models
+Statistical tests
+Stent Tracker
+Stepwise regression analysis
+Strain Select , UPARSE bioinformatics pipeline
+Strange Stories Test
+Strengths and Difficulties Questionnaire
+Stroke risk
+Structural Connectivity
+Structural Database of Allergens
+Structure - Function Linkage Database
+Structure Elucidation
+Student - t
+Student two - tailed paired t test
+Study
+Subgroup
+Subgroups
+Subpopulations
+Subscales
+Subsets
+Subtypes
+Suicidal Affect - Behavior - Cognition Scale
+Suite Entry and Exit Procedures
+Summary
+Supplementary data
+Supplementary information
+Surgeon General 's Report
+Survey
+Survey SNOT - 20
+Survey questionnaire
+Surveys
+Survival statistics
+Surviving Sepsis Campaign guidelines
+Swedish Hernia Register
+Swedish Knee Arthroplasty Register
+Swedish Test of Intelligibility
+Swedish Web System for Enhancement and Development of Evidence - Based Care in Heart Disease Evaluated According to Recommended Therapies ( SWEDEHEART )
+Swedish Web system for Enhancement and Development of Evidence - based care in Heart disease Evaluated According to Recommended Therapies ( SWEDEHEART )
+Swedish pediatric quality registry , SWEDIABKIDS
+Symptom Checklist
+Symptom Checklist 90
+Symptom Scale
+Systematic Algorithm
+Systematic Literature Review
+Systematic Review
+Systematic Reviews
+Systematic review
+Systematic reviews
+Systemic Lupus International Collaborating Clinics / ACR Damage Index ( SDI ) scores
+T - test
+T - tests
+T stage
+T2w images
+TANGO
+TEQ
+TG43 algorithm
+TGCS
+THY3
+TIS
+TLI
+TMT
+TNC
+TNM classification
+TNM stage I / II
+TNM stages
+TNM staging
+TNM staging system
+TPP
+TRAFk
+TRI
+TRM
+TS classification
+TSCC
+TSK
+TSRQ
+Tailoring of education and self management programs
+Tampa Scale of Kinesiophobia
+Tanaka
+TardiBase
+TargetScan
+Techniques
+Technological developments
+Tegner activity score
+Ten - group classification
+Test Battery for Attention Performance version 2 .
+Test result audit and feedback
+Test set
+Tested
+Testing set
+Tests
+Text Revision ( DSM - IV - TR
+Thase and Rush staging model
+The Daniel K . Inouye College of Pharmacy Scripts
+Thomson ISI - Web of Science
+Tiger DRS Inc .
+ToetsingOnline .
+Tofts model
+Tomita score ( TS ) classification
+Tool
+Toronto Empathy Questionnaire
+Tox21
+ToxCast
+Training Center grant
+Transition Preparation Programme
+Translating Neurocognitive Models
+Transplant Waiting List
+Trial Making Test
+TruSeq
+Trunk Impairment Scale
+Truven Health MarketScan ( ® ) Administrative Claims Databases
+Truven Health MarketScan database
+TuLIP
+Tukey 's HSD
+Tukey studentized range ( honest significant difference ) test
+Tukey tests
+Tumor Responding Index
+Tweets
+Twin studies
+Two - Level Iterative clustering Process
+Type 2
+UDI - 6
+UPDRS
+UPGMA
+US Scientific Registry
+US administrative claims database
+Ultrasound Corner section of CHEST
+Unified Parkinson 's disease rating scale
+Uniform Determination of Death Act 1981 ( USA )
+United States Renal Data System
+Univariable and multivariable Cox regression analyses
+Universal Design India Principles
+Universal Design approach
+Universal Design perspective
+Unpaired Student 's t - test
+Unpaired t - test
+Unprepared
+V
+VA eScreening program
+VARC - 2 criteria
+VAS - F
+VD
+VDs
+VESSEL12 database
+VPPS - S
+VSS
+VUE
+VUE - art
+VUE - ven
+VUE images
+VUE sets of images
+Validated model
+Vancouver B1
+Vancouver Scar Scale
+Vancouver Type A and B
+Vancouver scar scale
+Vancouver type A
+Vanderbilt Psychotherapy Process Scale - Short form
+Verisk Health claims database
+Version
+Versions
+VetStat
+Veterans Affairs Medical Center
+Video
+Vieste Charter
+Virchow 's Triad
+Virtual docking analysis
+Vocabulary
+WARPS
+WARPS / STAID classification
+WARPS subtype
+WFIRS - P
+WFIRS - P Scales
+WGN
+WHO - UCLA AVLT
+WHOQOL - OLD
+WHOQOL - OLD questionnaire
+WISER
+WOMAC
+Water Framework Directive
+Web - based Alternative Non - animal Method Database
+Web - based Testing Service
+Web - based testing service
+Web - of - Science ( WoS ) data
+Web Tool
+Web of Science
+Web of Science databases
+Web of Science search
+Web of Sciences databases
+Web of science
+Weiss Functional Impairment Rating Scale - Parent Report
+Well - being of Future Generations Act
+Western Ontario and McMaster Universities Arthritis Index
+Wilcoxon
+Wilcoxon Signed - Rank Test
+Wilcoxon signed - rank test
+Wilcoxon signed rank test
+Wilcoxon tests
+Wild
+Winter 's Classification
+WoS Subject
+World Health Organization Classification
+World Health Organization University of California - Los Angeles , Auditory Verbal Learning Test
+XP " points
+XP _ 005979709 . 1
+XP _ 006929910 . 1
+Xi - Class
+Xi - class
+YFS
+YMRS
+YSR
+Yellow Card Scheme
+Youden Index
+Young Finns Study
+Young Mania Rating Scale
+ZIP code
+Zernike moments ( ZM ) descriptor
+abbreviated version
+abstract action sentence
+abstract images
+abstracts
+academic journals
+academic studies
+accession no .
+accession no . NP _ 001005727 . 1
+accession no . NP _ 001230122 . 1
+accession no . NP _ 001269294 . 1
+accession no . NP _ 035256 . 2
+accession no . NP _ 742028 . 1
+accession no . NP _ 776851 . 1
+accession no . XP _ 005688516 . 1
+accession number
+accessions
+account
+accounted
+accredited facilities
+accurate annotation
+accurate answers
+achievement
+acoustic species
+act heuristically
+actor - network theory
+ad hoc analyses
+adaptation
+additional discriminators
+additional value
+additive model
+additive p 0 . 031
+address
+addressed
+addresses
+adjunctive tests
+adjusted Cox models
+adjusted models
+administered questionnaire
+administrative data
+administrative databases
+administrative datasets
+administrative health care database
+advanced search tool
+advanced tumor , node , metastasis ( TNM ) classification system stage
+aggregate air quality index
+aggressive triple - negative subtype
+agreement
+agreements
+air quality index
+alcohol commissioning models
+alcohol misuse standard
+algal blades
+algorithm
+algorithms
+alien species
+alignment tool
+all - payer database
+alpha function
+alternative tests
+alternative version
+amendment
+analogous expert
+analytical methodology
+analytical model
+analytical models
+analytics APPs
+analytics pipelines
+anecdotal observations
+anecdotal reports
+anesthesia type
+angle detection error
+animal species
+animated creatures
+annotation
+annual Clinical and Laboratory Standards Institute guidelines
+annual Life Satisfaction Surveys
+anonymised feedback report
+anonymous questionnaire
+answer
+answered
+answers
+anthony .
+anthropometric
+anthropometric measurements
+anthropometric measures
+antigenic index
+anxiety scales
+apnea - hypopnea index
+apoptosis index
+apoptotic index
+app
+application
+appointment lead time policies
+approach
+appropriate methods
+approval
+approved by Institutional Review Board
+apps
+aquatic environment index
+arterial ( VUE - art )
+article
+articles
+artificial neural network
+artificial neural network module
+artificial neural networks
+assessment tool
+assessment tools
+atlas
+atlases
+attach / detach tests
+attentional load
+attitudes index
+audio
+audiovisual
+aug - cc - pV5Z
+authors question
+auto - context model
+automated algorithm
+automatic framework
+autoregressive - moving - average ( ARMA ) modeling
+available data
+average pain intensity
+background - free image
+bacterial species
+balance subscale
+barcode
+barcodes
+base model
+baseline logistic EuroSCORE
+baseline questionnaire
+baseline series
+battery
+before - and - after study pooling individual data
+behavioral scores
+bench tests
+bi - directional DNA walking machine
+bibliographic
+bibliographic databases
+bifactor model
+binary classification
+bio - computation
+bioarchaeological record
+biochemical
+biochemical predictors
+bioinformatic
+bioinformatics tools
+biomedical entity search tool
+biosafety level 3
+biostatistic tools
+biotype 2
+biotypes
+birth certificate data
+bivariate random effects model
+blind
+blogs
+body
+body mass index
+book
+booklet
+books
+border
+bottoms - up model - based approach
+boundaries
+boundary
+brain module
+brand
+brands
+breast module BR - 23
+breed
+breeds
+browning index
+browsing
+budget
+built - in knowledge
+burden
+bylaws
+cT2N2M0
+ca
+ca / CAGEd _ oPOSSUM
+calculation model
+cancer - related radiotherapy
+cancer registry
+candidate items
+care outcomes
+cartridge
+case
+case ascertainment method
+case history
+case report
+case report documents
+case reports
+case studies
+case study
+cases
+catalog
+categorical
+categorical form
+categorically
+categories
+categorization
+categorized
+categorizing
+category
+category rating scale
+causal pathway
+cell - type
+cell bank
+cell type
+cell types
+centrifugal jet spinning
+centrifugal jet spinning technique
+chapter
+chapters
+characterization
+characterizations
+chart
+chart review
+charted
+charts
+checklist
+chemical
+chemical structure
+chemical structures
+chi - square
+chi - square analyses
+chi - square test
+chi - square tests
+chi - squared test
+chronic care model
+chronological
+chronology
+citation data
+citations
+cited data
+cited documents
+cited matrix
+cited references
+citing
+citing documents
+clade C
+class
+class - 1
+class - 2
+class - 3
+class 1
+class 2
+class 3
+class A
+class B
+class C
+class I
+class II
+class III
+class IIIa
+class IV
+class V
+class imbalance
+class imbalance problem
+classes
+classification
+classifications
+classified
+classifiers
+classify
+classifying
+clinical
+clinical activity
+clinical and training practice
+clinical articles
+clinical assessment data
+clinical charts
+clinical data
+clinical database
+clinical datasets
+clinical decision guideline
+clinical decision support system
+clinical diagnostics
+clinical dysfunction ( Di ) indices
+clinical examples
+clinical findings
+clinical guidelines
+clinical information
+clinical literature
+clinical pathways
+clinical practice
+clinical practice guideline
+clinical practice guidelines
+clinical prognostic value
+clinical question
+clinical records
+clinical report
+clinical safety data
+clinical tool
+clinical trial publications
+clinically relevant protocol
+clinicaltrials .
+clinician - administered PTSD scale
+cloud - based MOTIFSIM
+cloud computing application
+cluster algorithms
+cluster codes
+cmmt .
+co - occurring species
+coarse - grained model
+coarse graining ( CG ) approach
+coarsened exact matching procedure
+code
+codes
+coding system
+cog
+cognitive and emotional processing theories
+cognitive domains
+cognitive subscale
+cognitive tests
+collections
+college admission process
+college degree
+colonial
+colonial forms
+color - coding
+colour space
+com
+combinatorial indexed
+commentaries
+commentary
+comments
+commercial
+commercial app
+commercial health app
+commercially
+community member species
+comparative review
+comparison method
+compartmental model
+competing risk model
+competing risk regression
+complex
+complex biological
+complex molecular basis
+complex paired - agent kinetic modeling method
+component
+composite reliability
+compound class
+comprehensive knowledge
+comprehensive medical database
+comprehensive systematic review
+compressed sensing model
+compulsory registers
+computational
+computational framework
+computational model
+computational models
+computational tools
+computer - generated list
+computer database search
+computer program
+computer vision algorithms
+computerised DKA order set
+computerised literature
+computerized treatment plans
+conditioned suppression model
+conduct
+configural processing
+confusion tables
+conicity index
+connectivity
+connectivity map
+consensus classification
+consensus guidelines
+consensus method
+constitution
+construct
+constructed
+constructs
+consultation records
+continuous variation method
+contraceptive plan
+contract
+contracts
+contrast - enhanced volume dataset
+controlled protocol
+conventional methods
+coordinate space
+copyright
+coronal projection images
+coroner 's records
+correlation test
+correspondence
+course of treatment
+craniomaxillofacial articles
+criteria
+cultural knowledge
+culture model
+current guidelines
+current information
+current knowledge
+current literature
+currently working
+curricula
+curricular
+curriculum
+curves
+customized imaging processing software
+dMSBOS
+data
+data driven MSBOS
+data driven maximum surgical blood ordering schedule
+data entry
+data form
+data from national screening statistics
+data preprocessing methods
+data set
+data sets
+data streams
+databank
+database
+database Exome Aggregation Consortium
+database HieranoiDB
+databases
+dataset
+dataset identifier PXD002669
+datasets
+date of birth
+decision - theoretic approach
+decision aids
+decision rules
+decision tree
+deductibles
+deductive systems of inference
+deep learning network
+deep neural network
+deep neural networks
+defined
+defined protocol
+definition
+definitional
+definitions
+deformable registration
+deformably - registered plans
+degree
+delay differential equations model
+delayed test
+demographic data
+demographic information
+demographic sheet
+dental chartings
+dental record
+dental records
+dependencies
+deployment records
+describe
+described
+description
+description of content
+descriptions
+descriptive
+descriptive analysis
+descriptive norms
+descriptively
+descriptor
+descriptors
+design
+design - based F tests
+designation
+designations
+detection method
+detection methods
+developed protocol
+developmental trajectory
+diagnosis - specific graded prognostic assessment
+diagnosis and treatment codes
+diagnosis criteria
+diagnostic criteria
+diagnostic groups
+diagram
+diagrams
+diathesis -stress model
+dichotomous data
+diet price assessment tools
+digit span test
+digital photographs
+dimensionality reduction
+directed acyclic graph
+directed acyclic graphs
+directed functional networks
+disability scale
+disadvantage
+discharge instructions
+discharge records
+disease explanation
+disordered response
+disparate terminology
+disposition index
+dissatisfied
+dissertations
+distance transformation and area - length calculation algorithms
+distant hematogenous metastasis
+distant metastases
+distant metastasis
+distinct classes
+distribution - adding
+distribution models
+diverse cell types
+diversity indexes
+divided into two subgroups
+doctoral degree
+document
+documentation
+documented
+documents
+domain - specific features
+domains
+dominant model
+dominant p 0 .
+dose - histogram
+dose - response model
+dose - response numerical model
+dose - volume histogram
+dosimetry
+dosimetry methods
+draft
+drawing
+drawings
+drift - diffusion model
+drug prescriptions
+dynamic global vegetation models
+dynamical systems
+dynamics
+e - Health Approach
+eFORGE
+eFUMI
+eFUMI method
+eHealth tool
+early - stage
+early detection method
+early stage
+eating restraint
+echocardiogram
+ecological niche modelling
+ecologically valid tools
+economic model
+edition
+edu .
+education
+education model
+educational
+eie . polyu .
+elderly Brazilian Longitudinal Study of Adult Health
+elderly fall risk assessment model
+elderly fall risk assessment scale
+electronic bibliographic databases
+electronic chart
+electronic data entry sheets
+electronic databases
+electronic health record
+electronic health records
+electronic health records ( EHR ) data base
+electronic medical record
+electronic medical records
+electronic medical records system
+electronic molecular descriptors
+electronic records
+electronic wave function methods
+electronically
+electrospinning method
+electrospun
+elementary school
+email
+email invitations
+email lists
+emails
+emergency response schemes
+emotional scales
+emotionally negative film clip
+empathy scale
+empirical Bayes
+empirical literature
+encounters
+engine - based algorithm
+enhancement algorithms
+enloc
+entomological surveys
+entrance and exit procedures
+entry
+envelope drawing
+epidemiologic survey
+epistemological
+epistemological foundations
+eponym
+eponymous disease
+eponymous diseases
+equilibrium partitioning
+equilibrium partitioning ( EqP ) approach
+essay
+estimation
+estimation technique
+estimators
+evaluated plans
+evaluation
+evidence - based clinical guidelines
+eview of the literature
+evolutionary theory
+exactly solvable model
+exciton chirality method
+exemplar
+exhibited
+expected
+expected outcomes
+experimental model
+experimental models
+experimentally tractable genera
+expert
+expert consensus document
+expiration information
+explaining
+explanation
+explanations
+explanatory
+exploration
+exponential fitting model
+extended Function of Multiple Instances
+extended functions of multiple instances
+external quality assessment schemes
+extremely helpfu
+facewise
+family
+farna
+fascinating publication
+fast Fourier transform
+fast small - sample kernel independence test
+fat - tailed breed
+fatigue severity
+feasibility rules
+feature reduction methods
+fibrosis - 4 index
+fidelity scale
+field of public health
+field test
+field tested
+films
+filtering pipeline
+final analyses
+final model
+finite element
+finite element ( FE ) modelling
+finite element analysis
+first - generation
+first - line screening tool
+first phase of the Fund for Innovative DOTS Expansion through Local Initiatives to Stop TB
+first report
+first stage
+fishbone diagram
+fitness planner
+five - bead model
+five - grade recording scale
+fixed effects model
+floral tube
+fluoroscopy image
+follow - up data
+follow - up questionnaire
+follow - up results
+food frequency questionnaire
+food pricing tools
+forensic reports
+format
+formats
+forms
+formula
+formulae
+formulas
+foundational document
+four - factor structure model
+four - item version
+four subtypes
+fracture classification
+frailty index
+frailty status indices
+framework
+framework method
+frenulum
+frozen - thawed cycle
+fruit and vegetable guidelines
+full - length Food Frequency Questionnaire
+full - term
+full - text articles
+full text articles
+function
+function of the upper limbs
+function plots
+functional tests
+functions
+funnel plot
+fuzzy
+fuzzy logic
+gene - based test
+gene - based tests
+gene context information
+gene ontology analysis
+gene sequence data sets
+genealogical
+genealogies
+genera
+general construct
+general index
+general information
+general linear repeated - measures model
+general literature review
+general practitioner - recorded data
+general protocol
+generalised estimating equation model
+generalized partial credit model
+generalized product methods
+generic questions
+genetic data
+genetic model
+genetic models
+genetic program
+genetic rat model
+genome - wide and gene - focussed applications
+genomic
+genus
+geriatric assessment tools
+global burden
+global burden of disease study
+global burden of sepsis
+global datasets
+global longitudinal strain
+goal
+goal - oriented words
+goal of cure
+goal of this paper
+goals
+goals of treatment
+goals persists
+gov
+gov ; NCTO1459770
+gov website
+governance
+gradable
+gradational
+grade
+grade 1
+grade 1 - 2
+grade 3
+grade 3 - 4
+grade I
+grade II
+grade III
+grade group
+graded
+graded categorical structure
+graded structure
+grades
+grades from 1 to 5
+grading
+grading scale
+graft type
+graph
+graph theory metrics
+graphs
+grey literatur
+grounded
+grounded theory
+group
+group 1
+group 2
+group 3
+group A
+group B
+grouped
+groups
+growth reference
+guide
+guide clinical practice
+guide management
+guide tree
+guideline
+guideline - based
+guideline C28 - A3
+guideline levels
+guidelines
+guides
+guiding
+h
+hallmarks
+hand - drawn prototypes
+hazard regression model
+headings
+health - related quality of life scores
+health - risk based air quality index
+health care legislation
+health care reform - related policies
+health economics literature
+health examination data
+health metrics
+health policies
+health policy
+healthcare data
+healthcare system
+height - specific 95th percentile of the US Fourth Report
+heterogeneous index
+heuristic
+heuristic methods
+heuristics
+hic file
+hierarchical occupancy model
+high - definition videography
+high - intensity
+high - intensity model
+high - risk criminal profile
+high dimensional datasets
+high intensity
+high school
+higher cellular grade
+higher education
+higher secondary levels
+higher tumor grade
+histogram equalization method
+histogram hyperbolization
+histologic scores
+histological grade
+histological grade of tumor
+histological score
+histological subtypes
+histopathological records
+histopathological report
+histopathology reports
+historical background
+hk / LNPChloServer /
+holistic AAT
+holistic age assessment tool
+home health data
+hospital - recorded data
+hospital discharge records
+hospital records
+host carrier sister species
+household budget
+http : / / ajpheart .
+http : / / bioinfo .
+http : / / bioinfo . sch . ac . kr / submission /
+http : / / cagedop .
+http : / / chem . gmum .
+https : / / github . com / xqwen / integrative
+https : / / hyperbrowser . uio . no
+human resources policy
+hybrid approach
+hybrid clustering algorithm
+hybrid lattice Boltzmann - immersed boundary method
+hygiene hypothesis
+iPhone Health app
+iTRAQ
+ideal cardiovascular health index
+identifier
+identifiers
+image
+image data
+image registration algorithm
+imaged
+images
+imaging
+imaging files
+imaging reports
+immune computing
+immunoassay format
+importance Likert scales
+importance scale
+in vitro
+increased knowledge
+independent predictor
+independent predictors
+index
+index of association
+index scores
+indexed
+indexes
+indicators
+indices
+indirect method
+individual parts
+individual species
+inference rules
+informatics tools
+information communication technologies
+information communication technology
+informed consent
+infrastructure
+infrastructure of the study
+injection method
+injury severity score
+innovation
+innovations
+innovative approach
+innovative curriculum
+innovative explanations
+input
+input function
+institution - specific guideline
+institutional database
+institutional protocol
+institutional records
+institutional review board approval
+institutional sepsis order set
+institutional tumor registry
+instructed
+instruction
+instructions
+instrument
+instruments
+insulinogenic index
+integrated multiple GEO datasets
+integrative informatics tool
+integrative review
+intellectual property rights
+intensities
+intensity higher
+intensity priors
+intercultural dialog
+interim analysis
+internal dosimetry software
+internal standard method
+international baseline series
+international compliance
+international databases
+international peer - reviewed journals
+international prostate symptom score
+international standards
+internet sites
+internet survey
+interpretable profiles
+interpretation
+interpretations
+interspecific
+interval
+intervention models
+intervention studies
+intervention study
+intra
+intra - item configural processing
+intracerebral hemorrhage grading scale
+intraluminal filament model
+intraspecies
+intraspecific mixtures
+introduction
+intrusion
+intrusions
+investigate
+investigation
+investigations
+invitations
+issue
+issues
+item
+item bank
+item banks
+items
+iterature
+jejuni 81116
+joint counts
+journal
+journal Plastic and Reconstructive Surgery
+journals
+jurisdiction
+jurisdictions
+kenya AIDS indicator survey 2012
+kernel
+kernel RV coefficient ( KRV ) test
+kernels
+keywords
+kinesiographic pattern
+kingdoms
+kinome
+kinome array
+kinome array platform
+kmeans
+knowledge
+knowledge - based
+knowledgebase
+label
+labels
+laboratorial data
+laboratory data
+laboratory methodologies
+laboratory model
+laboratory records
+landmark contemporary Indian Council of Medical Research - India Diabetes ( ICMR - INDIAB ) study
+large
+large - scale Cap Analysis of Gene Expression ( CAGE ) datasets
+large - scale neuromorphic systems
+lateral fluid percussion injury ( LFPI ) model
+law
+laws
+lead time policies
+leaf area index
+leaflet
+leaflet 's
+leaflets
+lecture
+lectures
+legal
+legal claims
+legal issues
+legal limit values
+legalization
+legally documented
+legislated
+legislation
+legislative
+legitimacy
+letters
+level
+level 1
+library
+library designs
+license
+licensed
+life charts
+likelihood inference
+limited knowledge
+linear discriminant model
+linear elastic contractility model
+linear mixed models
+linear neighborhood propagation
+linear regression analysis
+linear time approximation algorithm
+linkages
+list
+list of prescriptions
+lists
+literature
+literature - based
+literature review
+literature reviews
+literatures
+living species
+living will
+local polynomial regression models
+local service networks
+log - linear mixed - effect model
+log - logistic
+log - rank
+log - rank test
+log - rank tests
+log file
+log link
+logical categorization system
+logistic model
+logistic models
+logistic regression model
+long - read data
+longitudinal models
+lookup table
+lot
+lots
+lymphocytic subpopulations
+mHealth App
+mMRC scale
+mRECIST
+mSign
+macro - scale
+magnetic field actuation scheme
+main goal
+management protocols
+mandated
+mandates
+manual
+manufacturer
+manuscript
+maps
+marine natural products
+material
+mathelier @ ncmm . uio . no
+mathematical CART modeling
+mathematical model
+mathematical model - the rinsing paired - agent model
+maximum likelihood approaches
+maximum likelihood method
+maximum surgical blood ordering schedule
+mean MSTS score
+mean field model
+mean modified Barthel index
+mean satisfaction scores
+mean score for satisfaction
+measurement error model
+measures
+mechanistic studies
+media
+media advertisements
+median ASES scores
+medical complaints
+medical curricula
+medical evidence form
+medical images
+medical journals
+medical literature
+medical prescription
+medical prescriptions
+medical record
+medical records
+medical registers
+medication list
+medication lists
+medications
+medicolegal
+message
+messages
+meta - analyses
+meta - analysis
+meta - analyzes
+meta - predictor
+meta - regression
+metabolite prediction software
+metabolomic datasets
+metadata
+metaregression
+method
+method for the extraction
+method modules
+methodological
+methodology
+methods
+methods for sampling
+mice models
+microRNAorg databases
+microarray data set
+microbiological
+microbiological methods
+microbiologically
+micropylar formula
+microsatellite dataset
+midrib
+midribs
+mini - review
+minimal model
+mirMeta
+misclassification
+missing - equals - failed approach
+mixed - method
+mixed - methods approach
+mixed effects models
+mixed logistic model
+mobile application
+mobile health app
+model
+model 's
+model for end - stage liver disease
+model system
+model year
+modeled
+modeling software
+modelling
+models
+moderate intensity
+moderately depressed
+moderating role
+modified Ashworth scale
+modified Gompertz model
+modified RECIST
+modified Racine scale
+modified Rankin Scale
+modified Rankin scale
+modified subgradient extragradient method
+modular structure
+module
+modules
+molecular data
+molecular detection methods
+molecular docking
+molecular docking studies
+molecular network structure
+molecular software
+molecular subtype
+molecular subtypes
+monitoring tools
+mono - exponential fit
+mono - spectrum images
+monocentric prospectively maintained database
+monoscopic images
+monosyllabic words
+moral question
+morphospecies
+mortality prediction model
+mortality prediction models
+motor Functional Independence Measure
+multi - level indicator set
+multi - modal images
+multi - state lifetable Markov model
+multi - step statistical plan
+multicenter clinical data
+multicenter registry
+multicolor images
+multilayer perceptron model
+multimethodological
+multiplatform application
+multiple - choice questionnaire
+multiple instance learning ( MIL ) method ,
+multiple models
+multiple population data
+multiple random forest classifiers
+multiple reactions monitoring
+multiple regression analysis
+multiple replicate images
+multiple subtypes
+multistage stratified cluster survey
+multisyllabic
+multivariable Cox proportional hazard models
+multivariable Cox proportional hazards
+multivariable Cox proportional hazards model
+multivariable Cox regression analyses
+multivariable adjusted Cox proportional hazards regression models
+multivariable analysis
+multivariable cox regression analysis
+multivariable linear regression analysis
+multivariable model
+multivariable models
+multivariable modified Poisson regression
+multivariable regression analyses
+multivariable regression analysis
+multivariate Cox analysis
+multivariate Cox model
+multivariate Cox proportional hazards modeling
+multivariate Cox proportional hazards models
+multivariate Cox regression analyses
+multivariate Cox regression analysis
+multivariate analyses
+multivariate calibration data set
+multivariate classifiers
+multivariate linear prediction model
+multivariate logistic model
+multivariate model
+multivariate prediction model
+multivariate regression analyses
+multivariate regression analysis
+music
+musical
+myPHR . com
+myocardial perfusion image
+myriad
+name
+named
+naming
+naming tests
+nanomaterials
+narcotics law
+national
+national Prescribed Drugs Register
+national administrative claims database
+national cancer registry
+national data sets
+national database
+national guidelines
+national health policies
+national healthcare system
+national monitoring system
+national multicentre population level study
+national radiation protection programmes
+national regulatory framework
+national sample
+national scale - up
+nationwide registry - based
+ndiSTV regularization
+negative
+negative bionomial regression modeling techniques
+negative interpretations
+negative pictures
+net / vischem
+network
+network analysis
+network evolution with modularity
+network model
+network research database
+network structure
+neural network model
+neurocognitive
+neurocognitive knowledge
+neurocognitive models
+neurocognitive variables
+neuroendovascular database
+neurological
+neuropsychological batteries
+neutral
+neutral emotion - inducing pictures
+neutral pictures
+new index
+new method
+new value systems
+news
+newsletters
+newspaper
+nl
+no - preparation
+nodal stage
+nomenclatural notes
+nomenclature
+nomogram
+non - Ewing database
+non - Gaussian kurtosis fit
+non - differentiated
+non - parametric test
+nondomesticated species
+nongreedy algorithm
+noninvasive
+noninvasively
+nonlinear
+nonlinear fitting
+nonparametric methods
+nonsignificant models
+nontypeability
+nontypeable
+nonwords
+normative rules
+notebook
+noted
+notes
+nov
+nov .
+novel species
+null model
+null models
+numerical analysis model
+nursing information support
+nursing intensity data
+nursingstandard .
+nutrient density ( isocaloric ) linear regression models
+nutrient density multivariate regression model
+objective
+objective indices
+objectives
+observational studies
+occupational health questionnaire
+oceanic species
+on line survey
+oncomine
+one - factor model
+one - sided noninferiority test
+online
+online Web server
+online grey literature
+online questionnaire
+online survey
+online surveys
+online video
+open - source software system
+open - source tool
+open tools
+operation reports
+optically transparent zebrafish - based heart failure model
+optimal methods
+optimistic model
+optimization algorithm
+oral health services
+oral reports
+order
+order set
+ordered - subset expectation maximization
+ordered probit models
+ordinary differential equations
+organizational structure
+origin
+original index
+original questionnaire
+orofacial
+orofacial region
+orthographic representations
+other similar apps
+outcome grading scoring systems
+outdated
+outline
+output values
+overall goal
+overarching framework
+overdispersed generalized additive model
+oversampling approaches
+package Ebcoexpress
+package edgeR
+pain diary
+pain interference
+paired - agent kinetic model
+paired comparison test
+paired t - test
+paired t test
+paired t tests
+pairwise FST
+pairwise FST estimator
+pan - class I
+paper
+papers
+papers published
+parallel classifications
+paralog
+paralogous
+paralogs
+parameter - adding
+parameters
+parametric model
+parametric models
+parent - reported
+parental questionnaire
+partial credit model
+partial least squares regression
+particle swarm optimization ( PSO ) algorithm
+partition multivariate regression model
+parts
+password - protected
+patch - wise random forest
+pathology
+pathology report
+pathway analyses
+pathway analysis
+pathways
+patient - level data
+patient - related outcome tool
+patient - reported outcome
+patient - reported outcomes
+patient -simulated video
+patient -simulated videos
+patient dose data
+patient global
+patient information
+patient outcomes
+patient records
+patient reported outcomes
+patient satisfaction metrics
+patient satisfaction questionnaire
+patient satisfaction scoring
+patients ' records
+pattern
+pattern recognition algorithms
+pattern recognition methods
+pdf article
+pediatric guidelines
+pediatric quality of life inventory
+pedigree
+pedigrees
+peer - reviewed articles
+peer - reviewed dental literature
+peer - reviewed journal
+peer - reviewed journal articles
+peer - reviewed journals
+peer - reviewed literature
+peer - reviewed publication
+perceived stress
+perception survey
+periodical
+permit
+personal identification number
+personalised treatment plan
+personality scales
+personalized fitness planner
+perspective
+pessimistic model
+pessimistic models
+pest species
+pharmacokinetic parameters
+phase images
+phonetic
+phonological codes
+phyla
+phylogenetic data
+phylogenetic reconstruction
+phylogenomic and mitogenomic data
+phylum
+physical
+physical vapor deposition
+phytochemical characterization
+pictorial presentation
+picture
+pipeline
+pipelines
+piranga Lima
+pitunauassu Lima
+plan
+planning
+planning strategies
+planning the treatment
+plans
+plant parts
+planta effector screening approach
+plaque index
+plesiomorphic subfamily
+podbean . com / e / mitochondrial - dynamics - impact - endothelial - function /
+policies
+policy
+policy framework
+policy frameworks
+polychromatic images
+polymorphism information content
+polyphyletic
+population - based cancer registries
+population - based model
+portal for users
+position paper
+positive
+positive and negative syndrome scale
+positive identification systems
+positive patient identification system
+positive pictures
+post - intervention
+post - order set
+post - processing
+post - processing algorithms
+post hoc analysis
+post processing
+post test - 1
+post test - 2
+posters
+postintervention
+postoperative morbidity index
+practical
+practice guidelines
+pre - clinical model
+pre - clinical models
+pre - contrast normal - dose scan induced structure tensor total variation regularization
+pre - defined algorithm
+pre - order set
+pre - posttest
+pre - test and post - test
+pre - test and post - test design
+preclinical data
+preclinical models
+preclinical porcine datasets
+predictive
+predictive factor
+predictive factors
+predictive model
+predictive tool
+predictive variables
+predictor
+predictor variables
+predictors
+preoperative ASA scores
+prescription
+prescription data
+prescription list
+prescriptions
+pretest - posttest
+preventive measures
+previously reported
+prey species
+primary prophylaxis
+primitive
+primitives
+principles
+printing software
+prisma - compliant meta - analysis
+probability distribution functions
+problem - based tutorials
+procedure codes
+procedure type
+procedures
+proceedings from this conference
+product description
+professional curricula
+professional documentation
+profile
+profiles
+prognostic
+prognostic scoring system
+prognostic utility
+prognostic value
+prognostic value .
+prognostically
+program
+programme
+programme materials
+programmes
+programming
+programming languages
+programs
+proportional odds ordinal logistic regression models
+proposal
+proposition
+prospective institutional database
+protected designation of origin
+protein databases
+proteomics data
+protocol
+protocol amendment
+protocol number NL54115 .
+protocols
+prototype
+prototype system
+prototypes
+provisional patents
+psychological theory
+psychometric questionnaires
+psychometric scale
+psychometric scales
+psychotherapeutic techniques
+public databases
+public health
+public health domains
+public registration
+publication
+publication databases
+publications
+published
+published articles
+published data
+published estimates
+published evidence
+published guidelines
+published literature
+published nuclear intron data
+published papers
+published protocols
+published publicly available data sets
+published reports
+published sources
+published studies
+published trials
+published work
+python
+quadratic regression models
+quadratic smoothing algorithm
+quality - of - life questionnaires
+quality articles
+quality standard
+quality standards
+quantally
+quantitative tests
+quantum chemical calculations
+queried
+queries
+query
+querying
+question
+questionnaire
+questionnaire - based
+questionnaire assessments
+questionnaires
+questions
+racial residential segregation
+radiochromic . com
+radiographic criteria
+radiological image
+radiological images
+radiotherapeutic
+radiotherapy
+random - effects models
+random forest ( RF ) method
+random walk
+rank
+ranked
+ranking
+rankings
+rapid fixation program
+rat MI model
+ratings
+ratio index
+rational test
+raw sequence data
+rcni . com / donna - wood
+real - time FaceTime
+real data
+real value sets
+recall method
+receipt
+recent case reports
+recent literature
+recently reported
+recessive model
+recessive p 0 . 027
+reclassification
+reclassifying
+recognition test
+recommended intakes
+reconstructing
+reconstruction models
+record
+record species
+recordable data
+recorded
+recording
+recordings
+records
+records of patients
+recovery schemes
+recursive feature elimination
+reference
+reference documentation
+referenced journals
+references
+refined model
+regimens
+regional prescription registry
+registered
+registries
+registry
+registry programme
+regorafenib monotherapy for previously treated metastatic colorectal cancer ) study
+regression
+regression analyses
+regression analysis
+regression methods
+regression model
+regression models
+regression schemes
+regression systems
+regression tree analysis
+regression tree methods
+regularization algorithms
+regulatory
+regulatory applications
+regulatory authorities
+regulatory documents
+regulatory framework
+regulatory frameworks
+regulatory guidelines
+regulatory regime
+reimbursement system
+relative potency factor ( RPF ) method
+releases
+relevant literatures
+remarks
+repeated measurement design
+replacement cost method
+report
+report a case
+report format
+report formats
+report the case
+reported
+reported cases
+reports
+reports from the medical literature
+research article
+research diagnostic criteria
+research registry
+research tools
+residential segregation
+resource - based view
+resource linking patient - reported information
+respond to
+respondent - driven sampling
+response
+response scales
+response to
+responses
+restoration
+restrained eating
+restrained eating index
+retrieved articles
+retrospective review
+retrospectively reviewed
+review
+review articles
+review of literature
+review of the literature
+review papers
+review the literature
+reviewed
+reviews
+revision
+right heart catheterization reports
+risk - adjusted dataset
+risk - adjusted surgical database
+risk - assessment models
+risk factor assessments
+risk model
+role
+roles and responsibilities
+routinely - maintained database
+rs
+rs2148072
+rs2200287
+rs2229238
+rs9525643
+rule
+rules
+safe method
+safety protocols
+safety standards
+sample - specific genomic
+sample t - test
+sample ttest
+sampling approach
+sampling design
+sampling designs
+sampling method
+sampling methods
+sampling strategy
+satisfaction questionnaire
+satisfactory
+satisfied
+savana Mulieri
+scale
+scaled description
+scales
+scaling law
+scar scores
+schedules
+scheme
+schemes
+scientific
+scientific journal articles
+scientific literature
+scientific rationale
+scores
+scoring system
+scoring systems
+screening questions
+screening strategies
+screening tool
+screenshots
+scripted
+sealing method
+search engines
+searchable platform - independent expression database
+second - generation
+security measures
+segment surface models
+segmentation algorithms
+selection methods
+selective index
+selectivity index
+self - administered questionnaire
+self - rated
+self - report
+self - report questionnaires
+self - reported
+self - satisfaction questionnaire
+semi - automated method
+sensing principles
+sensory profile
+sentence
+sentences
+sentential
+sequence
+sequence databases
+sequence identifiers
+sequence repositories
+sequencing data
+sero - status
+serogroup 1
+serogroup B
+serogroup H
+serogroup I
+serogroups
+serologically nontypeable
+serotype
+serotype 9
+serotype H1
+serotype O1
+serotype O8
+serotype b
+serotyped
+serotypes
+serotypes 1
+serotypes O1 and O8
+serotyping
+set
+severity index
+severity scale
+sex - specific tertiles
+sex - stratified Cox proportional hazards model
+shimmers
+short - read data
+short Warwick Edinburgh Mental Wellbeing Scale
+short form
+short form 's
+short form - 36 ( SF - 36 ) self - administered questionnaire
+short form scale
+short musculoskeletal functional assessment
+short screening tool
+signal decision theory
+similar - sounding words
+simple scheme
+simplified interface
+simplified retention model
+single - centre survey
+single - shot Hilbert - Huang transform - based algorithm
+single - tissue - compartment model
+single class
+single gel diffusion method
+single index
+single meta - regression analysis
+sister species
+size scale
+sleep journal
+slide images
+smartphone app
+smartphone application
+smoothed centile charts
+social - cognitive model
+social media
+social security mechanism
+sociodemographic data
+sociological scales
+software
+software WordSmith Tools
+software package
+software systems
+soil pore water
+solution
+source software
+spatial - statistics study
+spatial image
+spatial microsimulation algorithm
+spatial model
+special section
+special sections
+specie
+species
+species '
+species complex
+species inquirenda
+species lists
+species tree
+specific
+specific frailty index
+specific pain questionnaires
+specification
+specimens
+sphingoid base structure
+spline - modeling
+split - half correlations
+spp .
+square root model
+stage II
+stage IIIC / IV disease at diagnosis
+stage IV
+stage IVA
+stage T1b
+stage T1b1
+stage T1b2
+stage at diagnosis
+stage of diagnosis
+staging
+staging groups
+staging models
+stand - alone chapter
+stand - alone software
+standalone software
+standard
+standard methods
+standard operating procedures
+standard protocol
+standardised anaesthetic protocol
+standardize scoring scale
+standardized algorithm
+standardized partial regression model
+standardized protocols
+standards
+state
+state - of - the - art
+state - space models
+state all - payer claims
+statistical
+statistical algorithm
+statistical framework
+statistical guidelines
+statistical methodology
+statistical model
+statistical modeling
+statistical models
+statistical predictive model
+statistical study
+statistical test
+statistically
+statistics
+step - by - step algorithm
+step - by - step protocol
+stimulus types
+stochastic individual - based SEIR ( susceptible - exposed - infectious - recovered ) model
+stories
+story
+strain - specific method
+stratification
+stratifications
+stratifies
+strict laws
+stroke risk
+strong state donor registry
+structural
+structural connectivity
+structural images
+structural transformation method
+structure - based computational method
+structure elucidation
+structured protocol
+structured questionnaire
+structures
+structures of degree programs
+studies
+studies published
+study
+study intervention
+study protocol
+study protocols
+study questionnaire
+sub - genotype VIa
+sub - group
+sub - indexes
+sub - scales
+subcategories
+subclass
+subclasses
+subclassification
+subdivision of the genus
+subfamilies
+subfamily
+subgroup
+subgroup A
+subgroup I
+subgroup P
+subgroups
+subjective Clinical Global Impression
+subjective global assessment
+subjective reports
+suborder
+subpopulation
+subpopulations
+subscale
+subscales
+subset
+subset of the total group
+subsets
+subspecies
+substudy
+subtype
+subtype , 14i / a
+subtypes
+successful aging literature
+succinct review
+suitable methods
+suitable model
+summaries
+summarize
+summarized
+summarizes
+summary
+superspecies
+superultra - low - emission vehicles
+supervision method
+support guidelines
+surgical pathology results
+surgical planning
+surname
+surrogate
+surveies
+survey
+survey SNOT - 20
+survey data
+surveyed
+surveying
+surveys
+susceptible - infected - recovered - susceptible model
+syllables
+synthetic antibody fragment ( scFv ) libraries
+synthetic antibody libraries
+synthetic libraries
+synthetic model
+system
+systematic literature review
+systematic review
+systematic reviews
+systematic test of spatial recognition memory
+systematically review
+systematically reviewed
+t - Tests
+t - test
+t - test analysis
+t - tests
+t test
+t tests
+table
+table games
+tables
+tabulated
+tag method
+task - based questionnaire
+task - independent models
+taxa
+technical note
+technology
+teleretinal treatment plan
+terabases of data
+term
+terminology
+terms
+test
+test batteries
+test for significance
+test guideline 487
+test identifier
+test information curves
+tested
+tested pre - and post
+testing
+testing set
+tests
+text
+text messages
+textbook
+textbooks
+texts
+textual
+the diagnostic interview schedule for children version IV
+theorem
+theoretical framework
+theoretical model
+theoretical predictions
+theoretical solutions
+therapy - oriented complication score system
+three - dimensional structure modeling
+three - dimensional virtual biomodel
+three genera
+ti 5 .
+tibanae Mulieri
+timelines
+titles
+tool
+toolbox
+toolkit
+tools
+topic
+topics
+topography
+topological descriptors
+toxigenic
+trace ratio formula
+trace ratio optimization algorithm
+track collections
+tracking - based elastography algorithms
+traditional protocol
+trail making test
+training protocol
+transcribed
+transcriptions
+transcriptome datasets
+transcriptomic sequencing data
+transcripts
+transdiagnostic neurocognitive models
+translation
+trauma symptom checklist for Children
+treatment algorithms
+treatment plan
+treatment planning
+treatment plans
+treatment strategy
+trial protocol
+trial registration number : R0297
+true non - contrast
+true unenhanced
+ttest
+tumor - node - metastasis stage
+tumor models
+tumor subtype
+tumor subtypes
+tutorial
+tutorials
+two - factor structure
+two - part demand equation model
+two - stage model
+two - tailed
+two - tailed t - test
+two - tier approach
+two population - based , top - down mathematical models
+type 1
+type 1A
+type 2B
+type 4A
+type 4B
+type 5A
+type A2 , A3 , B3 , C1 , and C2 fractures
+type B
+type I
+type of anaesthesia
+type of disease
+types of diseases
+types of infections
+types of stimuli
+typologies
+ubc .
+ultimate goal
+ultralow - emission vehicles
+ultrasonographical
+ultrasound sequence video
+ultraviolet detection
+umbrella systematic review
+umors overlapping
+unambiguous definition
+unbiased parametric texture model
+underprepared
+undersampling
+unexpected
+unigenes
+unique members of class B1
+unit interval
+univariable predictors
+university degree
+unpaired student 's t - test
+unpaired t test
+unprecedented scale
+unprepared
+unpublished data
+unresected
+until
+unweighted pair - group with arithmetic averaging ( UPGMA ) method
+useful information
+utility
+utility index
+valid experimental model
+validated scoring system
+validation methods
+validation set
+validation sets
+value
+value sets
+values
+valve type
+variables conicity index
+variant classification
+various models
+venous ( VUE - ven )
+verbal descriptors
+verbal rating scales
+version
+very much better
+vessel filtering
+veteran - facing portal
+video
+video - clips
+video and neural recordings
+video clips
+videos
+viewpoint
+vignette - based questionnaire
+virtual - unenhanced ( VUE ) images
+virtual unenhanced
+viscoelastic model
+visual analogue scale for fatigue
+visual methods
+visual object naming
+visualizations
+visuo - integrative mode
+vocabulary
+vocabulary words
+vouchers
+vulnerable species
+waiting list
+waiting lists
+walking several blocks
+watch - and - wait " approach
+watch - and - wait ” approach
+water modeling software
+web - based interface
+web - based interventions
+web - based resources
+web - based survey
+web - based tool
+web - based tool version 2 .
+web based
+web tool
+website
+website Gene Infinity
+websites
+webtool
+wellbeing
+wellbeing of man
+what - if " policy
+white Gaussian noise
+wild
+wireframes
+word sequences
+words
+worksheet
+worsened
+worst - case scenario foam pinch model
+written
+written drug information
+www .
+www . clinicaltrials .
+www . trialregister .
+wyeth @ cmmt .
+yes or no
+ypTNM II - III
+µCT images
+χ ( 2 ) analysis
+χ ( 2 ) test , Cramer 's V and τ - b
+χ ( 2 ) tests

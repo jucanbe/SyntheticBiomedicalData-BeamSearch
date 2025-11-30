@@ -1,0 +1,991 @@
+( SEMSs )
+1 . 5 - Tesla magnet
+2 - pin Monotube external fixator
+30 - G needle
+4 Fr catheter
+5 - Fr sheath
+5MAX
+5MAX ACE
+AED
+AESKU
+AMO Catalys femtosecond laser platform
+Abutments
+Acetabular Components
+Acoustic Rhinometer
+Acriva BB UD 613 monofocal IOLs
+Administration Sets
+Administration sets
+Alarm
+AlgoMed
+Anterior legs of Hyrax
+Anterior single implants
+Artificial Pancreas
+Au - PWE
+Au - Paper Electrode
+Au - paper working electrode
+AutoPulse
+B - KPro
+BDD device
+BDD electrode
+BMS
+BPro ( ® )
+Bifocal contact
+Biliary Stent
+Bindex ( ® ) - QUS
+Bindex ( ® ) quantitative ultrasound ( QUS ) device
+Bindex ( ® ) ultrasound device
+Biodex balance device
+Biodex isokinetic dynamometer
+Blood Collection Tubes
+Boston Keratoprosthesis Type 1
+Boston Keratoprosthesis type 1
+Boyden chambers
+C1 laminar hooks
+C2 pedicle screw
+CANTAB
+CCK - 8
+CI
+CIED
+CMP
+CVC tip
+Cambridge Neuropsychological Test Automated Battery
+Carbon Dioxide Laser
+Cardiff pain chart
+Cardiff pain chart records
+Catheter
+Catheter traction
+Celect temporary filters
+Cement Post
+Ceramic Brackets
+Chart
+Cine EPID
+Clip
+Cobalt - 60 Machines
+Colorado needle
+Continuous Flow Left Ventricular Assist Device
+CoreValve
+CoreValve prosthesis
+Cranex 3D
+Crowns
+Cyberknife
+DES
+DES1
+DES2
+DESs
+DMC
+DPAL
+Delivery
+Dental implants
+Devices
+Diagnostic Equipment
+Diode
+Diode Laser
+Diode laser
+Diode lasers
+Dislocated Central Venous Access Device
+Dosimeter
+Dressing
+Drug Delivery System
+Dual Taper Modular
+Durom acetabular shell
+E
+EC
+ECs
+EPID
+ETT
+EUROIMMUNE
+Easy Shade spectrophotometer
+Edwards SAPIEN XT
+Electrodes
+Electronic Cigarettes
+Electronic Traction Table
+Electronic traction table
+Electrospray deposition device
+Embletta X100
+Ender nails
+Endobronchial Valve
+Endocrowns
+Endoscope
+Enseal
+Enseal device
+Enseal tissue - sealing device
+Everolimus - Eluting Stent
+Extravascular Implantable Defibrillator
+FCMBs
+FNA needles
+FPGA
+FPUs
+Fat Analyser AB - 140 TANITA system
+Feeding tube
+Figueroa 's NAM
+FixPlugs
+Florida automated probe
+Foley - type catheter
+Foley - type catheters
+Foley catheter
+Functional instruments
+GJT
+GJTs
+GR - NF / GCE
+GS
+GaAlAs Diode laser
+Gastroenterology - Urology Devices
+Gastrojejunostomy tube
+Gastrojejunostomy tubes
+Gauze
+Gaze
+Gelfoam
+GeneXpert ( ® ) system
+Glass Microsphere
+Greenfield filters
+HARTMANN incontinence pads
+HJA - 750C accelerometer
+Hofer FixPlug
+Hofer Plug
+Hofer TwinPlug
+Hyrax appliance
+ICD
+IMPROVEVACUTER ® tubes
+IMPROVEVACUTER ® tubes with serum clot activator and ge
+IMU
+INOVA
+IUD
+IVC filter
+IVC filters
+Illumina HiSeq 2500
+Illumina MiSeq
+Imitation Brain - Computer Interface
+Implantable sensor devices
+Implants
+Indwelling Urinary Catheter
+Inertial Measurement Unit
+Instrument
+Instruments for the detection and measurement of radiation
+Insulin Pump
+Interacoustics AS
+Khelometer ( ® )
+Kit
+Kitaro cataract surgical system
+LEO +
+LMA
+LMS
+LVAD
+Lab - on - Paper
+Laryngoscope
+Lateral Mass Screw
+Leonardo Mechanograph
+Light Microscope
+LogMAR ( 20 / 20 )
+Lotus device
+Luer adapters
+MAD
+MAX pump
+MB
+MBs
+MN
+MNs
+MR scanner
+MR system
+MRI
+MRI scanner
+Macintosh
+McCoy
+McCoy laryngoscope
+McCoy laryngoscopes
+McGrath
+McGrath laryngoscopes
+Medical Devices
+Medical Linear Accelerators
+Medical linear accelerators
+Metal - on - Metal Bearings
+Metal - on - metal hip resurfacing
+MicroVention
+Microbubbles
+Microneedle
+Microneedles
+Miller
+MinION ( TM )
+MoM bearing
+MoM bearings
+Modern imaging equipment
+Mucosal atomization device
+Multiparticulate Systems
+Nanofluidic device
+Nanosponge
+Nd : YAG Laser
+Nd : YAG laser
+NeMo Probe
+Needle
+Needle Knife
+Neodymium - Doped Yttrium Aluminium Garnet ( Nd : YAG ) lasers
+Neopuff
+NewTom 3 G
+North Carolina manual probe
+Novel Double Needle Minimally Invasive Aspiration Technology
+Oasis HLB cartridges
+Ocular prosthesis
+OrVil system
+PACS
+PDL
+PDLs
+PEG Tube
+PEG tube
+PEG tubes
+PET / CT
+PET / CT System
+PET / CT scanner
+PFUs
+PICC
+PRRS
+PSC
+PSI
+PSIs
+PVs
+Pacemaker
+Pacing System
+Patient - specific instruments
+Pedicle Screw
+Penumbra
+Penumbra system
+Peripherally Inserted Central Catheter
+Petri dishes
+Photron MC2 high - speed camera
+Plugs
+Posterior legs of Hyrax
+Posts
+Press - fit acetabular components
+ProCore needles
+ProGlide ®
+ProGlide ® system
+ProGlide®
+Probe
+Prosthesis
+Pump
+QFlow 500 Probe
+R - COMFI
+RDM
+ROMs
+RPD
+RUS
+Removable Partial Denture
+RhinoMetrics SRE 2100
+RhinoScan
+Rotary instrument
+Rotation - Driven Microfluidic Disc
+Rotors
+Rubber Hand
+SEM
+SEMSs
+SILK
+SLA
+SLActive
+SLM
+SLN
+SMs
+SPC
+SPCs
+SRDA
+SRS
+Scale
+Scalpel
+Scanning electron microscope
+Scepter C
+Scheimpflug camera
+Sheets
+Short Peripheral Catheter
+SmartShoe
+Spectral - domain optical coherence tomography
+Spontaneous Splenorenal Shunt
+Stryker
+Surface Roughness Tester system
+SyncTraX
+SyncTraX system
+T - ICD
+T - piece
+T - piece resuscitation systems
+T - piece systems
+T - tube
+Taper
+Taxus
+Thin - walled , one - piece , and modular dual - mobility shells
+TiSLA
+TiSLActive
+TiZrSLA
+TiZrSLActive
+Tip
+Tosoh HLC - 723 G8 high - performance liquid chromatography ( HPLC ) analyzer
+TransForm C
+TripleTOF ( ® ) Mass Spectrometers
+TrueBeam
+TrueBeam linear accelerator
+Tubes
+Tubular Construct
+Turbuhaler ( ® )
+TwinPlugs
+U - TOP ™ HL Genotyping Kit
+US
+US - based instrument
+Ultra - Sensitive Light - Responsive Drug Delivery System
+UltraBraid
+Ultrabraid
+Ultrasound
+Ureteral stenting
+VACUETTE ® tubes
+VACUETTE ® tubes with Serum Clot Activator and Gel
+VACUETTE ® tubes with clot activator
+VACUETTE ® tubes with serum clot activator and gel
+VASCULAR PROSTHESES
+Valve
+Vascular Stent
+Vein Display
+Von Frey filaments
+WCX solid phase extraction ( SPE ) cartridges
+Wang 's Forceps
+Wang 's forceps
+Weighing Scale
+X - Ray Tube
+X - ray device
+X - ray films
+X - ray tube
+YL - 1 needle
+Z250
+Zetasizer instrument
+absorbent suture
+abutments
+accelerometer
+accelerometers
+accurate markers
+acetabular components
+actigraphs
+administration set
+administration sets
+air - supply hoses
+alarm
+alarms
+algometer
+aluminum splint
+aluminum splinting
+ambulance services
+anaerobic chamber
+analytical systems
+analyzer
+ankle - foot orthoses
+apparatus
+artificial counterpart
+artificial liquid membrane
+artificial pancreas
+assistive device
+assistive devices
+at - home specimen collection kits
+atlas laminar hook
+autoclaving
+automated chest compression device
+auxiliary electrode
+axis pedicle polyaxial screws
+balance
+balloon
+balloon catheter
+bandage
+bare - metal ( BMS ) stents
+bariatric sheet
+bathroom weighing scale - like system
+bednet
+bednets
+bevel
+bilateral monofocal lenses
+bilateral multifocal intraocular lenses
+biliary stent
+bioartificial liver devices
+biocompatible cell - based DDS
+bioelectric
+bioelectric systems
+biofeedback
+biofeedback system
+biomedical
+biomedical devices
+biomonitors
+bionanoelectronic devices
+bioreactor
+bioreactors
+blind stick
+bone implant
+bone implant applications
+boron - doped diamond ( BDD ) electrode
+boron - doped diamond electrode
+bracket
+brackets
+brain - computer interface
+brain - computer interfaces
+breast implant
+breast implants
+bronchoscopic
+bur
+cable - plate construct
+cage
+caliper
+camera
+canal prosthesis
+cannula
+cannulated compression screws
+capillary reactor
+carbon dioxide laser
+carbon electrode
+cardiac device
+cardiac devices
+cardiac implantable electronic devices
+cardiac patch
+cardiac patches
+cardiac resynchronisation therapy defibrillators
+carrier
+carrier candidates
+carriers
+cartridges
+catheter
+catheter dialysis tip
+catheter tip
+cationic MBs
+cell counting kit - 8
+cemented posts
+central venous catheter
+central venous catheters
+central venous infusion
+ceramic brackets
+cerclage cables
+chamber
+chart
+cine EPID
+cine electronic portal image device
+clarity advanced brackets
+clip
+closed - loop insulin delivery methods
+closed - loop system
+closed loop technology
+cobalt - 60 machines
+cobas ( ® ) 4800
+cochlear implant
+coil
+collagen graft
+collagen sponge
+colonoscope
+combination devices
+combined system
+commercial membrane
+concentric bipolar electrode
+condom
+condoms
+conductance sizing device
+confocal microscope
+construct
+constructs
+contact lens
+contact lens wear
+contact lenses
+contact profilometer
+continuous cervical epidural catheter
+continuous flow ( CF ) LVAD
+coronary stent
+cover screw
+crowns
+cryoballoon
+cuff - inflator
+cup
+current devices
+custom leg holder
+cytometrically
+deliver drugs
+delivery
+delivery of drugs
+delivery system
+delivery systems
+dental implant
+dental implant fixtures
+dental implants
+dental prostheses
+depth electrodes
+detector array
+device
+device monitoring
+devices
+diamond bur
+digital caliper
+digital calipers
+digital pedometer
+digital vernier caliper
+dilator
+diode - pumped alkali laser
+diode laser
+disc synoptoscope
+disks
+dislocated central venous line
+double YL - 1 needle
+double needle aspiration
+dowels
+drainage tubes
+draw - over breathing systems
+dressing
+dressing sheet
+dressings
+drip chamber
+drug - delivery systems
+drug - eluting
+drug delivery
+drug delivery carriers
+drug delivery system
+drug delivery systems
+drug target
+drug target identification
+drug targets
+dual - mobility systems
+dual mobility cup
+dual modular taper
+dual pressure sensor catheter
+dual taper modular
+duoSet ELISA Development kit
+duodecapolar diagnostic pacing catheter
+elastoplastic stents
+electro - mechanical device
+electro - mechanical instrument
+electrode
+electrodes
+electron microscope
+electronic cigarettes
+electrospray deposition device
+endobronchial valve
+endocrown
+endorectal coil
+endoscope
+endoscopic camera
+endotracheal tubes
+endovascular equipment
+energy dispersive X - ray detector
+epidural catheter
+equipment
+ex vivo zebrafish culture system
+excitation electrode
+excitation electrodes
+experimental instruments
+explants
+exposed mesh
+extravascular ICD
+eye cup
+face mask
+facemasks
+feeding catheter
+feeding tube
+femoral stem
+femtosecond laser
+fiducial
+fiducial marker
+fiducial markers
+filter
+filters
+fixed - bearing metal - backed onlay implant
+fixtures
+flow - diverter device
+flow cytometer
+flow diverter
+fluorescent microspheres
+forward - viewing endoscope
+gait analysis system
+gauze
+gaze
+glass microsphere
+glucose monitor ( iPro2 )
+graft
+grafts
+graspers
+guide sheath
+guides
+guidewire
+guiding
+guiding catheter
+gyroscope
+hearing aid
+hearing aids
+hearing devices
+high - quality delivery system
+high fidelity accelerometer s
+high mobility assessment tool
+hydrofiber
+hydrofiber dressings
+imaging agents
+imaging systems .
+imaging tool
+imaging tools
+imitation brain - computer interface
+immunodevice
+implant
+implant fixtures
+implant neck
+implant shoulder
+implant tip
+implantable cardioverter - defibrillator
+implantable cardioverter - defibrillators
+implantable cardioverter defibrillator
+implantable cardioverter defibrillators
+implantable sensor systems
+implanted
+implanted medical devices
+implants
+indwelling catheter
+inertia measurement unit
+insecticidal net
+instrument
+instrumental system
+instrumentation
+instrumentation systems
+instrumented
+instruments
+insulin pen
+insulin pump
+interlocking screw
+interlocking screws
+interlocking systems
+intraocular lenses
+intraradicular cores
+intravenous catheters
+introducer
+introducer system
+invasive ventilator support
+isokinetic dynamometer
+kinesiograph device
+lab - on - paper
+laboratory supplies
+laparoscope
+laparoscopic grasper
+laparoscopic graspers
+laparoscopic instruments
+large - bore
+laryngoscope
+laryngoscopes
+laser platform
+laser system
+lateral mass screw
+left ventricular assist device
+leg holder
+lenses
+light - cured microhybrid resin composites
+light - responsive RBC - based DDS
+light microscope
+linac
+linacs
+linear accelerator - based
+lipid nanoparticles
+locking screws
+long - spanning cable - plate
+long - stem femoral prosthesis
+long lasting insecticidal nets
+marker
+markers
+mask
+mass spectrometer
+mechanical heart
+mechanical simulator
+mechanical valves
+mechanical ventilator
+medical
+medical charts
+medical device
+medical devices
+medical equipment
+medical settings
+membrane
+membranes
+mercury plethysmometer
+mesh
+mesh graft
+mesh plate
+meshes
+metal - on - metal
+metal - on - metal ( MoM ) bearings
+metal - on - metal bearings
+metal - on - metal total hip arthroplasty
+metal - on - polyethylene
+metal brackets
+metal mesh
+metallic stents
+microbeads
+microbubbles
+microcatheter
+microfluidic disc
+microguidewire
+microkeratome
+microneedle
+microneedles
+micropatches
+microscope
+microsphere
+microspheres
+microsponge
+mobile traction table
+mobility aid
+mobility aids
+modified membrane
+modifier
+molecular electronics
+monitor
+monitoring unit
+motion capture system
+movable pulley
+movable pulleys
+multi - digit finger orthoses
+multi - energy linacs
+nail
+nails
+nano - sized drug delivery systems
+nanofluidic device
+nanosponge
+nasal cannula
+nasal prongs
+nascent rotors
+needle
+needle array structure
+needle cover
+needles
+nets
+non - ventilated
+nonmydriatic retinal camera
+ocular prosthesis
+olfactometer
+one - chamber pacemaker
+onlay mesh
+open - circuit ventilated hood system
+optoelectronic system
+organizer
+orthotic device
+orthotic devices
+osseointegrated implants
+osteosynthesis screw
+overlapping stent
+oxygen sensors
+pacemaker
+pacemakers
+pacing system
+pain chart
+patch
+patches
+pedicle screw
+pen
+peptide - terminated BDD electrode
+per - finger protective orthosis
+percutaneous gastrostomy tube
+peri - stent segment
+periodontal dressings
+peripherally inserted central catheter
+petri - dish
+photomicroscope
+picture archiving and communication system
+plate
+plates
+plating systems
+plug
+plugs
+polymeric vesicles
+pontic
+posts
+posts cemented
+powered devices
+practical casework
+prefabricated prosthetic
+pressure dressing
+pressure wires
+probe
+probe - based
+probes
+prongs
+prostheses
+prosthesis
+prosthetic
+prosthetic implant
+prosthetic material
+prosthetics
+prototype
+psychometrically sound instrument
+pulsed dye laser
+pulsed dye lasers
+pump
+radio - opaque markers
+radiological catheter
+radiological catheters
+real - time tumour -tracking radiotherapy system
+real - time ultrasound time - of - flight instrument
+reamer
+reciprocal
+reciprocal instruments
+reciprocating instruments
+refillable atomizers
+repositionable Lotus valve
+rescue
+research kit
+respirators
+respiratory gating
+resuscitation system
+retainers
+retrieval device
+reverse - puncture head
+robotic
+robotic solutions
+rotary
+rotary instruments
+rotating disc system
+rotation - driven microdisc
+rotor
+rotors
+scale
+scalpel
+scanner
+scanners
+scanning bore
+scanning electron microscope
+scoring tool
+screw
+screws
+sealed stumps
+second - generation cryoballoon
+secondary device
+securement device
+securement devices
+self - expandable stent
+self - expanding metallic stent
+self - expanding metallic stents
+sheath
+sheathed
+sheathless catheters
+sheathless guiding catheter
+sheet
+sheeting
+shell
+short peripheral catheters
+shunt
+silicone sleeves
+simulation system
+simulator
+simulators
+single -
+single - use
+single - use devices
+single anterior implants
+single camera
+single optotypes
+single standard cup
+single suture - based closure device
+single tooth dental implants
+skin cover used
+sleeve
+sleeves
+sliders
+sling
+solid lipid nanoparticles
+special tools
+spectral - domain optic coherent tomography
+spectral - domain optical coherence tomography
+spectral - domain optical coherence tomography ( SD - OCT ) devices
+spectral domain OMAG
+spectral domain optical coherence tomography
+spectrally resolved detector array
+spike
+splints
+sponge implants
+sponges
+spontaneous splenorenal shunt
+stainless steel crown
+stainless steel wire
+standalone device
+standard single mobility cup
+steam autoclave
+stem
+stent
+stent segment
+stents
+sticking plaster
+strips
+support
+supported liquid membrane
+surface tensiometry
+surgical cannula
+surgical cannulas
+surgical masks
+surgical robotic system
+surgical simulation
+surgical template
+surgical templates
+suture
+syringe
+syringe filters
+syringes
+system
+systemic delivery
+systems
+tags
+tape
+taper
+targeted drug delivery
+targets
+telescoping self - expandable stent
+tendon stripper
+tension meter
+therapy device
+thermal diffusion probe
+three - dimensional motion analyzer
+tibial component
+tip
+tissue engineered grafts
+tonometry sensor
+tourniquet
+tourniquets
+tracking hardware
+traction table
+traditional gauze
+training model
+transducers
+transmission electron microscope
+transparent dressing
+transparent dressings
+transvenous cardioverter defibrillator
+transvenous implantable cardioverter defibrillator
+treatment device
+tri - accelerometer
+trocars
+trunk - supporting devices
+tubes
+tubular construct
+tubular constructs
+tunnel
+tunneled dialysis catheter
+ultrasonic
+ultrasound
+ultrasound - guided punction
+ultrasound imaging system
+ureteral stents
+urinary drainage
+urinary indwelling catheters
+vacuum blood collection tubes
+vacuum suction
+valve
+valves
+vascular prostheses
+vectors
+vein visualization display system
+veneer
+veneers
+venous catheter
+venous catheters
+ventilated
+ventilator
+ventilator support
+ventricular lead
+ventriculo - peritoneal shunt
+vessel - sealing device
+vessel - sealing devices
+vibrating device
+voice prostheses
+wearable medical monitoring systems
+well plates
+wheelchair
+wheelchair seating
+wheelchair seating system
+wire myograph
+wireless weight scale
+working
+working electrode
+γ - camera
