@@ -1,0 +1,244 @@
+T0.8
+=== 1C - CONGRUENCE
+{
+  "cosine_similarity_embedding_mean": 0.9939,
+  "js_divergence_pairwise_distances": 0.0147,
+  "earth_movers_distance_wasserstein": 0.0158
+}
+
+=== 2C - COVERAGE ===
+{
+  "vocab_recall_pct": 58.1673,
+  "convex_hull_ratio_syn_over_real_pca": 0.5902,
+  "coverage_nn_similarity_ge_0.8_pct": 99.856
+}
+
+=== 3C - CONSTRAINT ===
+{
+  "constraint_violation_rate_pct": 0.8333,
+  "constraint_valid_samples_pct": 99.1667
+}
+
+=== 4C - COMPLETENESS ===
+{
+  "proportion_required_clinical_field_pct": 99.6389,
+  "missing_data_percentage_required_field_pct": 0.3611
+}
+
+=== 5C - COMPLIANCE ===
+{
+  "nearest_real_cosine_similarity_mean": 0.9865,
+  "suspected_memorised_samples_pct": 0.0
+}
+
+=== 7C - CONSISTENCY ===
+{
+  "variance_domain_cosine_sim_to_global": 0.0,
+  "maxmin_domain_cosine_sim_to_global": 0.0,
+  "per_domain": {
+    "chemical": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 3393
+    },
+    "disease": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 3541
+    }
+  }
+}
+
+T0.6
+=== 1C - CONGRUENCE
+{
+  "cosine_similarity_embedding_mean": 0.9941,
+  "js_divergence_pairwise_distances": 0.0286,
+  "earth_movers_distance_wasserstein": 0.0317
+}
+
+=== 2C - COVERAGE ===
+{
+  "vocab_recall_pct": 58.4861,
+  "convex_hull_ratio_syn_over_real_pca": 0.7052,
+  "coverage_nn_similarity_ge_0.8_pct": 99.9383
+}
+
+=== 3C - CONSTRAINT ===
+{
+  "constraint_violation_rate_pct": 0.6944,
+  "constraint_valid_samples_pct": 99.3056
+}
+
+=== 4C - COMPLETENESS ===
+{
+  "proportion_required_clinical_field_pct": 99.6389,
+  "missing_data_percentage_required_field_pct": 0.3611
+}
+
+=== 5C - COMPLIANCE ===
+{
+  "nearest_real_cosine_similarity_mean": 0.9847,
+  "suspected_memorised_samples_pct": 0.0
+}
+
+=== 7C - CONSISTENCY ===
+{
+  "variance_domain_cosine_sim_to_global": 0.0,
+  "maxmin_domain_cosine_sim_to_global": 0.0,
+  "per_domain": {
+    "disease": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 3516
+    },
+    "chemical": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 3429
+    }
+  }
+}
+
+T0.4
+=== 1C - CONGRUENCE
+{
+  "cosine_similarity_embedding_mean": 0.9958,
+  "js_divergence_pairwise_distances": 0.0056,
+  "earth_movers_distance_wasserstein": 0.0071
+}
+
+=== 2C - COVERAGE ===
+{
+  "vocab_recall_pct": 55.4183,
+  "convex_hull_ratio_syn_over_real_pca": 0.5626,
+  "coverage_nn_similarity_ge_0.8_pct": 99.9177
+}
+
+=== 3C - CONSTRAINT ===
+{
+  "constraint_violation_rate_pct": 0.1667,
+  "constraint_valid_samples_pct": 99.8333
+}
+
+=== 4C - COMPLETENESS ===
+{
+  "proportion_required_clinical_field_pct": 99.6389,
+  "missing_data_percentage_required_field_pct": 0.3611
+}
+
+=== 5C - COMPLIANCE ===
+{
+  "nearest_real_cosine_similarity_mean": 0.987,
+  "suspected_memorised_samples_pct": 0.0
+}
+
+=== 7C - CONSISTENCY ===
+{
+  "variance_domain_cosine_sim_to_global": 0.0,
+  "maxmin_domain_cosine_sim_to_global": 0.0,
+  "per_domain": {
+    "chemical": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 3362
+    },
+    "disease": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 3552
+    }
+  }
+}
+
+T0.2
+=== 1C - CONGRUENCE
+{
+  "cosine_similarity_embedding_mean": 0.9951,
+  "js_divergence_pairwise_distances": 0.0085,
+  "earth_movers_distance_wasserstein": 0.012
+}
+
+=== 2C - COVERAGE ===
+{
+  "vocab_recall_pct": 56.5737,
+  "convex_hull_ratio_syn_over_real_pca": 0.6294,
+  "coverage_nn_similarity_ge_0.8_pct": 99.9177
+}
+
+=== 3C - CONSTRAINT ===
+{
+  "constraint_violation_rate_pct": 0.0833,
+  "constraint_valid_samples_pct": 99.9167
+}
+
+=== 4C - COMPLETENESS ===
+{
+  "proportion_required_clinical_field_pct": 99.8333,
+  "missing_data_percentage_required_field_pct": 0.1667
+}
+
+=== 5C - COMPLIANCE ===
+{
+  "nearest_real_cosine_similarity_mean": 0.9861,
+  "suspected_memorised_samples_pct": 0.0
+}
+
+=== 7C - CONSISTENCY ===
+{
+  "variance_domain_cosine_sim_to_global": 0.0,
+  "maxmin_domain_cosine_sim_to_global": 0.0,
+  "per_domain": {
+    "chemical": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 3406
+    },
+    "disease": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 3548
+    }
+  }
+}
+
+T0.01
+=== 1C - CONGRUENCE
+{
+  "cosine_similarity_embedding_mean": 0.9957,
+  "js_divergence_pairwise_distances": 0.0053,
+  "earth_movers_distance_wasserstein": 0.009
+}
+
+=== 2C - COVERAGE ===
+{
+  "vocab_recall_pct": 53.7849,
+  "convex_hull_ratio_syn_over_real_pca": 0.4891,
+  "coverage_nn_similarity_ge_0.8_pct": 99.8971
+}
+
+=== 3C - CONSTRAINT ===
+{
+  "constraint_violation_rate_pct": 0.0556,
+  "constraint_valid_samples_pct": 99.9444
+}
+
+=== 4C - COMPLETENESS ===
+{
+  "proportion_required_clinical_field_pct": 99.5833,
+  "missing_data_percentage_required_field_pct": 0.4167
+}
+
+=== 5C - COMPLIANCE ===
+{
+  "nearest_real_cosine_similarity_mean": 0.9863,
+  "suspected_memorised_samples_pct": 0.0
+}
+
+=== 7C - CONSISTENCY ===
+{
+  "variance_domain_cosine_sim_to_global": 0.0,
+  "maxmin_domain_cosine_sim_to_global": 0.0,
+  "per_domain": {
+    "disease": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 3542
+    },
+    "chemical": {
+      "cosine_sim_to_global_mean": 1.0,
+      "num_sentences": 3429
+    }
+  }
+}

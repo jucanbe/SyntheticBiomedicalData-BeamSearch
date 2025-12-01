@@ -8,6 +8,7 @@ from sklearn.decomposition import PCA
 from sklearn.metrics import pairwise_distances
 from sklearn.feature_extraction.text import CountVectorizer
 from transformers import AutoTokenizer, AutoModelForTokenClassification
+from scipy.spatial import ConvexHull
 
 '''
 This script evaluates the synthetic dataset according to the Scoreboard paper.
@@ -153,7 +154,6 @@ def hull_area_2d(points):
     :param points:
     :return:
     '''
-    from scipy.spatial import ConvexHull
     if len(points) < 3:
         return float("nan")
     try:
