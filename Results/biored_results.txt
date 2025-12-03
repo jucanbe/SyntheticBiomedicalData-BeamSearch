@@ -33,31 +33,31 @@ T0.8
 
 === 7C - CONSISTENCY ===
 {
-  "variance_domain_cosine_sim_to_global": 0.0002,
-  "maxmin_domain_cosine_sim_to_global": 0.0392,
+  "variance_domain_cosine_sim_to_global": 0.00019949620764236897,
+  "maxmin_domain_cosine_sim_to_global": 0.03921633958816528,
   "per_domain": {
     "cellline": {
-      "cosine_sim_to_global_mean": 0.9943,
+      "cosine_sim_to_global_mean": 0.9942721724510193,
       "num_sentences": 2420
     },
     "chemicalentity": {
-      "cosine_sim_to_global_mean": 0.9996,
+      "cosine_sim_to_global_mean": 0.9995625019073486,
       "num_sentences": 5019
     },
     "geneorgeneproduct": {
-      "cosine_sim_to_global_mean": 0.998,
+      "cosine_sim_to_global_mean": 0.9979939460754395,
       "num_sentences": 4157
     },
     "organismtaxon": {
-      "cosine_sim_to_global_mean": 0.9996,
+      "cosine_sim_to_global_mean": 0.9996024370193481,
       "num_sentences": 5024
     },
     "diseaseorphenotypicfeature": {
-      "cosine_sim_to_global_mean": 0.9985,
+      "cosine_sim_to_global_mean": 0.998476505279541,
       "num_sentences": 3849
     },
     "sequencevariant": {
-      "cosine_sim_to_global_mean": 0.9604,
+      "cosine_sim_to_global_mean": 0.9603860974311829,
       "num_sentences": 803
     }
   }
@@ -98,31 +98,31 @@ T0.6
 
 === 7C - CONSISTENCY ===
 {
-  "variance_domain_cosine_sim_to_global": 0.0004,
-  "maxmin_domain_cosine_sim_to_global": 0.0534,
+  "variance_domain_cosine_sim_to_global": 0.0003802404971793294,
+  "maxmin_domain_cosine_sim_to_global": 0.0533711314201355,
   "per_domain": {
     "cellline": {
-      "cosine_sim_to_global_mean": 0.9961,
+      "cosine_sim_to_global_mean": 0.9960559606552124,
       "num_sentences": 3242
     },
     "chemicalentity": {
-      "cosine_sim_to_global_mean": 0.9996,
+      "cosine_sim_to_global_mean": 0.9995827078819275,
       "num_sentences": 5133
     },
     "diseaseorphenotypicfeature": {
-      "cosine_sim_to_global_mean": 0.9981,
+      "cosine_sim_to_global_mean": 0.998134970664978,
       "num_sentences": 3941
     },
     "geneorgeneproduct": {
-      "cosine_sim_to_global_mean": 0.9989,
+      "cosine_sim_to_global_mean": 0.9988521337509155,
       "num_sentences": 4634
     },
     "organismtaxon": {
-      "cosine_sim_to_global_mean": 0.9996,
+      "cosine_sim_to_global_mean": 0.999560534954071,
       "num_sentences": 4944
     },
     "sequencevariant": {
-      "cosine_sim_to_global_mean": 0.9462,
+      "cosine_sim_to_global_mean": 0.946211576461792,
       "num_sentences": 743
     }
   }
@@ -162,36 +162,8 @@ T0.4
 }
 
 === 7C - CONSISTENCY ===
-{
-  "variance_domain_cosine_sim_to_global": 0.0004,
-  "maxmin_domain_cosine_sim_to_global": 0.0518,
-  "per_domain": {
-    "cellline": {
-      "cosine_sim_to_global_mean": 0.9925,
-      "num_sentences": 2750
-    },
-    "chemicalentity": {
-      "cosine_sim_to_global_mean": 0.9994,
-      "num_sentences": 5027
-    },
-    "organismtaxon": {
-      "cosine_sim_to_global_mean": 0.9992,
-      "num_sentences": 4732
-    },
-    "diseaseorphenotypicfeature": {
-      "cosine_sim_to_global_mean": 0.998,
-      "num_sentences": 3894
-    },
-    "geneorgeneproduct": {
-      "cosine_sim_to_global_mean": 0.998,
-      "num_sentences": 4428
-    },
-    "sequencevariant": {
-      "cosine_sim_to_global_mean": 0.9476,
-      "num_sentences": 797
-    }
-  }
-}
+
+
 
 T0.2
 === 1C - CONGRUENCE
@@ -227,36 +199,8 @@ T0.2
 }
 
 === 7C - CONSISTENCY ===
-{
-  "variance_domain_cosine_sim_to_global": 0.0004,
-  "maxmin_domain_cosine_sim_to_global": 0.0536,
-  "per_domain": {
-    "chemicalentity": {
-      "cosine_sim_to_global_mean": 0.9995,
-      "num_sentences": 4862
-    },
-    "diseaseorphenotypicfeature": {
-      "cosine_sim_to_global_mean": 0.9977,
-      "num_sentences": 3969
-    },
-    "geneorgeneproduct": {
-      "cosine_sim_to_global_mean": 0.9979,
-      "num_sentences": 4404
-    },
-    "organismtaxon": {
-      "cosine_sim_to_global_mean": 0.9993,
-      "num_sentences": 4877
-    },
-    "cellline": {
-      "cosine_sim_to_global_mean": 0.992,
-      "num_sentences": 2304
-    },
-    "sequencevariant": {
-      "cosine_sim_to_global_mean": 0.9459,
-      "num_sentences": 797
-    }
-  }
-}
+
+
 
 T0.01
 === 1C - CONGRUENCE
@@ -292,33 +236,6 @@ T0.01
 }
 
 === 7C - CONSISTENCY ===
-{
-  "variance_domain_cosine_sim_to_global": 0.0004,
-  "maxmin_domain_cosine_sim_to_global": 0.054,
-  "per_domain": {
-    "cellline": {
-      "cosine_sim_to_global_mean": 0.9913,
-      "num_sentences": 2598
-    },
-    "chemicalentity": {
-      "cosine_sim_to_global_mean": 0.999,
-      "num_sentences": 4909
-    },
-    "diseaseorphenotypicfeature": {
-      "cosine_sim_to_global_mean": 0.9978,
-      "num_sentences": 3957
-    },
-    "geneorgeneproduct": {
-      "cosine_sim_to_global_mean": 0.9977,
-      "num_sentences": 4195
-    },
-    "organismtaxon": {
-      "cosine_sim_to_global_mean": 0.999,
-      "num_sentences": 4606
-    },
-    "sequencevariant": {
-      "cosine_sim_to_global_mean": 0.945,
-      "num_sentences": 891
-    }
-  }
-}
+
+
+

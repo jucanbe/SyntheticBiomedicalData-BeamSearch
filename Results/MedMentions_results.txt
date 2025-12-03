@@ -33,91 +33,91 @@ T0.8
 
 === 7C - CONSISTENCY ===
 {
-  "variance_domain_cosine_sim_to_global": 0.0,
-  "maxmin_domain_cosine_sim_to_global": 0.0186,
+  "variance_domain_cosine_sim_to_global": 1.7899988961289637e-05,
+  "maxmin_domain_cosine_sim_to_global": 0.01857781410217285,
   "per_domain": {
     "anatomicalstructure": {
-      "cosine_sim_to_global_mean": 0.9995,
+      "cosine_sim_to_global_mean": 0.9995488524436951,
       "num_sentences": 5376
     },
     "biologicfunction": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999987483024597,
       "num_sentences": 7195
     },
     "chemical": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999503493309021,
       "num_sentences": 6448
     },
     "finding": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999709725379944,
       "num_sentences": 6813
     },
     "healthcareactivity": {
-      "cosine_sim_to_global_mean": 0.9999,
+      "cosine_sim_to_global_mean": 0.9998809099197388,
       "num_sentences": 6715
     },
     "medicaldevice": {
-      "cosine_sim_to_global_mean": 0.9969,
+      "cosine_sim_to_global_mean": 0.9969125390052795,
       "num_sentences": 1291
     },
     "organization": {
-      "cosine_sim_to_global_mean": 0.9998,
+      "cosine_sim_to_global_mean": 0.9998323321342468,
       "num_sentences": 5743
     },
     "spatialconcept": {
-      "cosine_sim_to_global_mean": 0.9999,
+      "cosine_sim_to_global_mean": 0.9998817443847656,
       "num_sentences": 5883
     },
     "bodysystem": {
-      "cosine_sim_to_global_mean": 0.9967,
+      "cosine_sim_to_global_mean": 0.9967267513275146,
       "num_sentences": 1366
     },
     "injuryorpoisoning": {
-      "cosine_sim_to_global_mean": 0.9991,
+      "cosine_sim_to_global_mean": 0.9990639090538025,
       "num_sentences": 2524
     },
     "eukaryote": {
-      "cosine_sim_to_global_mean": 0.9994,
+      "cosine_sim_to_global_mean": 0.9993810057640076,
       "num_sentences": 3832
     },
     "intellectualproduct": {
-      "cosine_sim_to_global_mean": 0.9989,
+      "cosine_sim_to_global_mean": 0.9989219307899475,
       "num_sentences": 3993
     },
     "bacterium": {
-      "cosine_sim_to_global_mean": 0.9921,
+      "cosine_sim_to_global_mean": 0.9920991063117981,
       "num_sentences": 657
     },
     "clinicalattribute": {
-      "cosine_sim_to_global_mean": 0.9989,
+      "cosine_sim_to_global_mean": 0.9989458322525024,
       "num_sentences": 2532
     },
     "food": {
-      "cosine_sim_to_global_mean": 0.9941,
+      "cosine_sim_to_global_mean": 0.9940515756607056,
       "num_sentences": 988
     },
     "populationgroup": {
-      "cosine_sim_to_global_mean": 0.9962,
+      "cosine_sim_to_global_mean": 0.9962266087532043,
       "num_sentences": 2003
     },
     "researchactivity": {
-      "cosine_sim_to_global_mean": 0.9979,
+      "cosine_sim_to_global_mean": 0.9979036450386047,
       "num_sentences": 3628
     },
     "bodysubstance": {
-      "cosine_sim_to_global_mean": 0.9959,
+      "cosine_sim_to_global_mean": 0.9958553314208984,
       "num_sentences": 1255
     },
     "professionaloroccupationalgroup": {
-      "cosine_sim_to_global_mean": 0.9932,
+      "cosine_sim_to_global_mean": 0.9931577444076538,
       "num_sentences": 1911
     },
     "biomedicaloccupationordiscipline": {
-      "cosine_sim_to_global_mean": 0.9941,
+      "cosine_sim_to_global_mean": 0.9941140413284302,
       "num_sentences": 1527
     },
     "virus": {
-      "cosine_sim_to_global_mean": 0.9814,
+      "cosine_sim_to_global_mean": 0.9814209342002869,
       "num_sentences": 331
     }
   }
@@ -158,91 +158,91 @@ T0.6
 
 === 7C - CONSISTENCY ===
 {
-  "variance_domain_cosine_sim_to_global": 0.0,
-  "maxmin_domain_cosine_sim_to_global": 0.0187,
+  "variance_domain_cosine_sim_to_global": 1.7577902326593176e-05,
+  "maxmin_domain_cosine_sim_to_global": 0.018736660480499268,
   "per_domain": {
     "anatomicalstructure": {
-      "cosine_sim_to_global_mean": 0.9995,
+      "cosine_sim_to_global_mean": 0.9994823932647705,
       "num_sentences": 5198
     },
     "bacterium": {
-      "cosine_sim_to_global_mean": 0.992,
+      "cosine_sim_to_global_mean": 0.9919913411140442,
       "num_sentences": 683
     },
     "biologicfunction": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999986886978149,
       "num_sentences": 7192
     },
     "finding": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999672174453735,
       "num_sentences": 6737
     },
     "healthcareactivity": {
-      "cosine_sim_to_global_mean": 0.9999,
+      "cosine_sim_to_global_mean": 0.9999173879623413,
       "num_sentences": 6800
     },
     "researchactivity": {
-      "cosine_sim_to_global_mean": 0.9983,
+      "cosine_sim_to_global_mean": 0.9982694387435913,
       "num_sentences": 3801
     },
     "spatialconcept": {
-      "cosine_sim_to_global_mean": 0.9999,
+      "cosine_sim_to_global_mean": 0.9999154210090637,
       "num_sentences": 5982
     },
     "chemical": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999604821205139,
       "num_sentences": 6524
     },
     "intellectualproduct": {
-      "cosine_sim_to_global_mean": 0.9991,
+      "cosine_sim_to_global_mean": 0.9990692138671875,
       "num_sentences": 4185
     },
     "organization": {
-      "cosine_sim_to_global_mean": 0.9999,
+      "cosine_sim_to_global_mean": 0.9998779892921448,
       "num_sentences": 5867
     },
     "biomedicaloccupationordiscipline": {
-      "cosine_sim_to_global_mean": 0.9954,
+      "cosine_sim_to_global_mean": 0.9954108595848083,
       "num_sentences": 1732
     },
     "medicaldevice": {
-      "cosine_sim_to_global_mean": 0.9965,
+      "cosine_sim_to_global_mean": 0.99653559923172,
       "num_sentences": 1258
     },
     "professionaloroccupationalgroup": {
-      "cosine_sim_to_global_mean": 0.9952,
+      "cosine_sim_to_global_mean": 0.9951964616775513,
       "num_sentences": 2190
     },
     "bodysystem": {
-      "cosine_sim_to_global_mean": 0.997,
+      "cosine_sim_to_global_mean": 0.9969999194145203,
       "num_sentences": 1279
     },
     "eukaryote": {
-      "cosine_sim_to_global_mean": 0.9992,
+      "cosine_sim_to_global_mean": 0.9992375373840332,
       "num_sentences": 3673
     },
     "injuryorpoisoning": {
-      "cosine_sim_to_global_mean": 0.9989,
+      "cosine_sim_to_global_mean": 0.998929500579834,
       "num_sentences": 2280
     },
     "populationgroup": {
-      "cosine_sim_to_global_mean": 0.9966,
+      "cosine_sim_to_global_mean": 0.9965823292732239,
       "num_sentences": 1987
     },
     "clinicalattribute": {
-      "cosine_sim_to_global_mean": 0.9985,
+      "cosine_sim_to_global_mean": 0.9984933137893677,
       "num_sentences": 2237
     },
     "bodysubstance": {
-      "cosine_sim_to_global_mean": 0.9947,
+      "cosine_sim_to_global_mean": 0.9946843385696411,
       "num_sentences": 1352
     },
     "food": {
-      "cosine_sim_to_global_mean": 0.9938,
+      "cosine_sim_to_global_mean": 0.9938286542892456,
       "num_sentences": 971
     },
     "virus": {
-      "cosine_sim_to_global_mean": 0.9813,
+      "cosine_sim_to_global_mean": 0.9812620282173157,
       "num_sentences": 370
     }
   }
@@ -283,91 +283,91 @@ T0.4
 
 === 7C - CONSISTENCY ===
 {
-  "variance_domain_cosine_sim_to_global": 0.0,
-  "maxmin_domain_cosine_sim_to_global": 0.0148,
+  "variance_domain_cosine_sim_to_global": 1.1394493412808515e-05,
+  "maxmin_domain_cosine_sim_to_global": 0.014809012413024902,
   "per_domain": {
     "anatomicalstructure": {
-      "cosine_sim_to_global_mean": 0.9996,
+      "cosine_sim_to_global_mean": 0.9996339678764343,
       "num_sentences": 5436
     },
     "biologicfunction": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999994039535522,
       "num_sentences": 7223
     },
     "chemical": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999816417694092,
       "num_sentences": 6798
     },
     "finding": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999855160713196,
       "num_sentences": 6943
     },
     "healthcareactivity": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999706745147705,
       "num_sentences": 6979
     },
     "organization": {
-      "cosine_sim_to_global_mean": 0.9999,
+      "cosine_sim_to_global_mean": 0.9999319911003113,
       "num_sentences": 6293
     },
     "spatialconcept": {
-      "cosine_sim_to_global_mean": 0.9999,
+      "cosine_sim_to_global_mean": 0.9999414682388306,
       "num_sentences": 6253
     },
     "intellectualproduct": {
-      "cosine_sim_to_global_mean": 0.9993,
+      "cosine_sim_to_global_mean": 0.9993049502372742,
       "num_sentences": 4374
     },
     "medicaldevice": {
-      "cosine_sim_to_global_mean": 0.9969,
+      "cosine_sim_to_global_mean": 0.996901273727417,
       "num_sentences": 1426
     },
     "researchactivity": {
-      "cosine_sim_to_global_mean": 0.9984,
+      "cosine_sim_to_global_mean": 0.9984267354011536,
       "num_sentences": 3993
     },
     "injuryorpoisoning": {
-      "cosine_sim_to_global_mean": 0.9991,
+      "cosine_sim_to_global_mean": 0.999126672744751,
       "num_sentences": 2714
     },
     "professionaloroccupationalgroup": {
-      "cosine_sim_to_global_mean": 0.9959,
+      "cosine_sim_to_global_mean": 0.9958596229553223,
       "num_sentences": 2281
     },
     "bodysystem": {
-      "cosine_sim_to_global_mean": 0.9973,
+      "cosine_sim_to_global_mean": 0.9972541332244873,
       "num_sentences": 1376
     },
     "clinicalattribute": {
-      "cosine_sim_to_global_mean": 0.9988,
+      "cosine_sim_to_global_mean": 0.998809278011322,
       "num_sentences": 2645
     },
     "eukaryote": {
-      "cosine_sim_to_global_mean": 0.9995,
+      "cosine_sim_to_global_mean": 0.9994909167289734,
       "num_sentences": 4405
     },
     "bodysubstance": {
-      "cosine_sim_to_global_mean": 0.9957,
+      "cosine_sim_to_global_mean": 0.9956774711608887,
       "num_sentences": 1515
     },
     "biomedicaloccupationordiscipline": {
-      "cosine_sim_to_global_mean": 0.9961,
+      "cosine_sim_to_global_mean": 0.9961336851119995,
       "num_sentences": 1590
     },
     "populationgroup": {
-      "cosine_sim_to_global_mean": 0.9977,
+      "cosine_sim_to_global_mean": 0.9976567625999451,
       "num_sentences": 2146
     },
     "bacterium": {
-      "cosine_sim_to_global_mean": 0.9936,
+      "cosine_sim_to_global_mean": 0.9936195015907288,
       "num_sentences": 758
     },
     "food": {
-      "cosine_sim_to_global_mean": 0.9942,
+      "cosine_sim_to_global_mean": 0.9942095875740051,
       "num_sentences": 1016
     },
     "virus": {
-      "cosine_sim_to_global_mean": 0.9852,
+      "cosine_sim_to_global_mean": 0.9851903915405273,
       "num_sentences": 371
     }
   }
@@ -408,91 +408,91 @@ T0.2
 
 === 7C - CONSISTENCY ===
 {
-  "variance_domain_cosine_sim_to_global": 0.0,
-  "maxmin_domain_cosine_sim_to_global": 0.0164,
+  "variance_domain_cosine_sim_to_global": 1.354448340862291e-05,
+  "maxmin_domain_cosine_sim_to_global": 0.016429364681243896,
   "per_domain": {
     "anatomicalstructure": {
-      "cosine_sim_to_global_mean": 0.9995,
+      "cosine_sim_to_global_mean": 0.9995359182357788,
       "num_sentences": 5324
     },
     "bacterium": {
-      "cosine_sim_to_global_mean": 0.993,
+      "cosine_sim_to_global_mean": 0.9930402636528015,
       "num_sentences": 734
     },
     "biologicfunction": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999979734420776,
       "num_sentences": 7195
     },
     "eukaryote": {
-      "cosine_sim_to_global_mean": 0.9991,
+      "cosine_sim_to_global_mean": 0.9991112947463989,
       "num_sentences": 3866
     },
     "finding": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999658465385437,
       "num_sentences": 6773
     },
     "healthcareactivity": {
-      "cosine_sim_to_global_mean": 0.9999,
+      "cosine_sim_to_global_mean": 0.9999178647994995,
       "num_sentences": 6758
     },
     "spatialconcept": {
-      "cosine_sim_to_global_mean": 0.9999,
+      "cosine_sim_to_global_mean": 0.9999309182167053,
       "num_sentences": 6060
     },
     "chemical": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999666213989258,
       "num_sentences": 6596
     },
     "organization": {
-      "cosine_sim_to_global_mean": 0.9999,
+      "cosine_sim_to_global_mean": 0.9999027252197266,
       "num_sentences": 6067
     },
     "researchactivity": {
-      "cosine_sim_to_global_mean": 0.9979,
+      "cosine_sim_to_global_mean": 0.9979328513145447,
       "num_sentences": 3554
     },
     "intellectualproduct": {
-      "cosine_sim_to_global_mean": 0.9992,
+      "cosine_sim_to_global_mean": 0.9991542100906372,
       "num_sentences": 4094
     },
     "medicaldevice": {
-      "cosine_sim_to_global_mean": 0.9967,
+      "cosine_sim_to_global_mean": 0.996655285358429,
       "num_sentences": 1317
     },
     "clinicalattribute": {
-      "cosine_sim_to_global_mean": 0.9986,
+      "cosine_sim_to_global_mean": 0.9985641241073608,
       "num_sentences": 2432
     },
     "bodysubstance": {
-      "cosine_sim_to_global_mean": 0.9952,
+      "cosine_sim_to_global_mean": 0.9952199459075928,
       "num_sentences": 1331
     },
     "bodysystem": {
-      "cosine_sim_to_global_mean": 0.9974,
+      "cosine_sim_to_global_mean": 0.9974428415298462,
       "num_sentences": 1404
     },
     "injuryorpoisoning": {
-      "cosine_sim_to_global_mean": 0.9988,
+      "cosine_sim_to_global_mean": 0.9987667798995972,
       "num_sentences": 2498
     },
     "professionaloroccupationalgroup": {
-      "cosine_sim_to_global_mean": 0.9946,
+      "cosine_sim_to_global_mean": 0.994620680809021,
       "num_sentences": 2138
     },
     "biomedicaloccupationordiscipline": {
-      "cosine_sim_to_global_mean": 0.9958,
+      "cosine_sim_to_global_mean": 0.9958292841911316,
       "num_sentences": 1507
     },
     "populationgroup": {
-      "cosine_sim_to_global_mean": 0.9962,
+      "cosine_sim_to_global_mean": 0.9962137341499329,
       "num_sentences": 1934
     },
     "food": {
-      "cosine_sim_to_global_mean": 0.9951,
+      "cosine_sim_to_global_mean": 0.995078444480896,
       "num_sentences": 1053
     },
     "virus": {
-      "cosine_sim_to_global_mean": 0.9836,
+      "cosine_sim_to_global_mean": 0.9835686087608337,
       "num_sentences": 356
     }
   }
@@ -533,91 +533,91 @@ T0.01
 
 === 7C - CONSISTENCY ===
 {
-  "variance_domain_cosine_sim_to_global": 0.0,
-  "maxmin_domain_cosine_sim_to_global": 0.0227,
+  "variance_domain_cosine_sim_to_global": 2.433502595522441e-05,
+  "maxmin_domain_cosine_sim_to_global": 0.022749722003936768,
   "per_domain": {
     "anatomicalstructure": {
-      "cosine_sim_to_global_mean": 0.9994,
+      "cosine_sim_to_global_mean": 0.9994420409202576,
       "num_sentences": 5232
     },
     "biologicfunction": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999993443489075,
       "num_sentences": 7220
     },
     "bodysystem": {
-      "cosine_sim_to_global_mean": 0.9952,
+      "cosine_sim_to_global_mean": 0.9951972365379333,
       "num_sentences": 1433
     },
     "finding": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999829530715942,
       "num_sentences": 6873
     },
     "healthcareactivity": {
-      "cosine_sim_to_global_mean": 0.9999,
+      "cosine_sim_to_global_mean": 0.9999416470527649,
       "num_sentences": 6877
     },
     "injuryorpoisoning": {
-      "cosine_sim_to_global_mean": 0.9986,
+      "cosine_sim_to_global_mean": 0.9986079931259155,
       "num_sentences": 2447
     },
     "spatialconcept": {
-      "cosine_sim_to_global_mean": 0.9999,
+      "cosine_sim_to_global_mean": 0.9999237060546875,
       "num_sentences": 6088
     },
     "chemical": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999692440032959,
       "num_sentences": 6692
     },
     "intellectualproduct": {
-      "cosine_sim_to_global_mean": 0.9992,
+      "cosine_sim_to_global_mean": 0.9992340207099915,
       "num_sentences": 4362
     },
     "organization": {
-      "cosine_sim_to_global_mean": 0.9999,
+      "cosine_sim_to_global_mean": 0.9999101758003235,
       "num_sentences": 6058
     },
     "professionaloroccupationalgroup": {
-      "cosine_sim_to_global_mean": 0.9945,
+      "cosine_sim_to_global_mean": 0.9945272207260132,
       "num_sentences": 2261
     },
     "researchactivity": {
-      "cosine_sim_to_global_mean": 0.998,
+      "cosine_sim_to_global_mean": 0.9979562163352966,
       "num_sentences": 3705
     },
     "biomedicaloccupationordiscipline": {
-      "cosine_sim_to_global_mean": 0.9953,
+      "cosine_sim_to_global_mean": 0.9953330159187317,
       "num_sentences": 1600
     },
     "bodysubstance": {
-      "cosine_sim_to_global_mean": 0.9946,
+      "cosine_sim_to_global_mean": 0.9945703148841858,
       "num_sentences": 1213
     },
     "eukaryote": {
-      "cosine_sim_to_global_mean": 0.9991,
+      "cosine_sim_to_global_mean": 0.9991451501846313,
       "num_sentences": 3892
     },
     "clinicalattribute": {
-      "cosine_sim_to_global_mean": 0.9983,
+      "cosine_sim_to_global_mean": 0.998277485370636,
       "num_sentences": 2661
     },
     "medicaldevice": {
-      "cosine_sim_to_global_mean": 0.9966,
+      "cosine_sim_to_global_mean": 0.9966212511062622,
       "num_sentences": 1322
     },
     "populationgroup": {
-      "cosine_sim_to_global_mean": 0.9974,
+      "cosine_sim_to_global_mean": 0.997387170791626,
       "num_sentences": 1848
     },
     "virus": {
-      "cosine_sim_to_global_mean": 0.9772,
+      "cosine_sim_to_global_mean": 0.9772496223449707,
       "num_sentences": 456
     },
     "bacterium": {
-      "cosine_sim_to_global_mean": 0.993,
+      "cosine_sim_to_global_mean": 0.9929723739624023,
       "num_sentences": 791
     },
     "food": {
-      "cosine_sim_to_global_mean": 0.993,
+      "cosine_sim_to_global_mean": 0.9929741024971008,
       "num_sentences": 836
     }
   }

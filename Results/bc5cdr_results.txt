@@ -33,15 +33,15 @@ T0.8
 
 === 7C - CONSISTENCY ===
 {
-  "variance_domain_cosine_sim_to_global": 0.0,
-  "maxmin_domain_cosine_sim_to_global": 0.0,
+  "variance_domain_cosine_sim_to_global": 1.2825296380469808e-12,
+  "maxmin_domain_cosine_sim_to_global": 2.2649765014648438e-06,
   "per_domain": {
     "chemical": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999964833259583,
       "num_sentences": 3393
     },
     "disease": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999987483024597,
       "num_sentences": 3541
     }
   }
@@ -82,15 +82,15 @@ T0.6
 
 === 7C - CONSISTENCY ===
 {
-  "variance_domain_cosine_sim_to_global": 0.0,
-  "maxmin_domain_cosine_sim_to_global": 0.0,
+  "variance_domain_cosine_sim_to_global": 3.2741809263825417e-11,
+  "maxmin_domain_cosine_sim_to_global": 1.1444091796875e-05,
   "per_domain": {
     "disease": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999875426292419,
       "num_sentences": 3516
     },
     "chemical": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999989867210388,
       "num_sentences": 3429
     }
   }
@@ -131,15 +131,15 @@ T0.4
 
 === 7C - CONSISTENCY ===
 {
-  "variance_domain_cosine_sim_to_global": 0.0,
-  "maxmin_domain_cosine_sim_to_global": 0.0,
+  "variance_domain_cosine_sim_to_global": 2.2737367544323206e-13,
+  "maxmin_domain_cosine_sim_to_global": 9.5367431640625e-07,
   "per_domain": {
     "chemical": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999976754188538,
       "num_sentences": 3362
     },
     "disease": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999986290931702,
       "num_sentences": 3552
     }
   }
@@ -180,15 +180,15 @@ T0.2
 
 === 7C - CONSISTENCY ===
 {
-  "variance_domain_cosine_sim_to_global": 0.0,
-  "maxmin_domain_cosine_sim_to_global": 0.0,
+  "variance_domain_cosine_sim_to_global": 3.092637257395836e-12,
+  "maxmin_domain_cosine_sim_to_global": 3.516674041748047e-06,
   "per_domain": {
     "chemical": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999936819076538,
       "num_sentences": 3406
     },
     "disease": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999971985816956,
       "num_sentences": 3548
     }
   }
@@ -229,15 +229,15 @@ T0.01
 
 === 7C - CONSISTENCY ===
 {
-  "variance_domain_cosine_sim_to_global": 0.0,
-  "maxmin_domain_cosine_sim_to_global": 0.0,
+  "variance_domain_cosine_sim_to_global": 8.530065542800003e-12,
+  "maxmin_domain_cosine_sim_to_global": 5.841255187988281e-06,
   "per_domain": {
     "disease": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999950528144836,
       "num_sentences": 3542
     },
     "chemical": {
-      "cosine_sim_to_global_mean": 1.0,
+      "cosine_sim_to_global_mean": 0.9999892115592957,
       "num_sentences": 3429
     }
   }
